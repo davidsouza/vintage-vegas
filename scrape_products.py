@@ -120,19 +120,78 @@ def scrape_product_page(url: str) -> tuple[str, str]:
     return desc, img
 
 
+def _extract_location_from_title(title: str) -> str | None:
+    """Extract location name from various YouTube video title formats."""
+    # Strip hashtags from end
+    title = re.sub(r"\s*#\S+", "", title).strip()
+    
+    patterns = [
+        # "Vintage Las Vegas {Location} Bio"
+        r"(?:Vintage )?Las Vegas:?\s+(.+?)\s+Bio$",
+        # "Vintage Las Vegas: The {Location}" (with colon, may lack "Bio")
+        r"(?:Vintage )?Las Vegas:\s+(?:The\s+)?(.+?)$",
+        # "Vintage Vegas Bio - {Location}"  /  "Vintage Vegas Bio: {Location}"
+        r"Vintage Vegas Bio\s*[-:–]\s*(.+?)$",
+        # "Remembering Las Vegas: {Location}"
+        r"Remembering Las Vegas:?\s+(.+?)$",
+        # "Vintage {Location} – Las Vegas" / "Vintage {Location}, Las Vegas"
+        r"Vintage\s+(.+?)\s*[-–,]\s*(?:Las )?Vegas$",
+        # "Vintage {Location} Bio" (generic, no Las Vegas)
+        r"Vintage\s+(.+?)\s+Bio$",
+    ]
+    for pattern in patterns:
+        m = re.match(pattern, title, re.IGNORECASE)
+        if m:
+            return m.group(1).strip().lstrip("- ")
+    return None
+
+
+def _parse_shorts_items(items: list) -> dict[str, dict]:
+    """Parse video items from YouTube data into our videos dict."""
+    videos: dict[str, dict] = {}
+    for item in items:
+        rm = item.get("richItemRenderer", {}).get("content", {}).get("shortsLockupViewModel", {})
+        if not rm:
+            continue
+        title = rm.get("overlayMetadata", {}).get("primaryText", {}).get("content", "")
+        vid_id = rm.get("onTap", {}).get("innertubeCommand", {}).get("reelWatchEndpoint", {}).get("videoId", "")
+        if not title or not vid_id:
+            continue
+
+        location_name = _extract_location_from_title(title)
+        if not location_name:
+            print(f"  Skipping video (no location match): {title}")
+            continue
+
+        slug = location_name.lower()
+        slug = re.sub(r"[''']s\b", "s", slug)
+        slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
+
+        videos[slug] = {
+            "title": title,
+            "url": f"https://www.youtube.com/shorts/{vid_id}",
+            "video_id": vid_id,
+            "thumbnail": f"https://i.ytimg.com/vi/{vid_id}/hqdefault.jpg",
+            "location_name": location_name,
+        }
+        print(f"  Found video: {location_name} → https://www.youtube.com/shorts/{vid_id}")
+    return videos
+
+
 def scrape_youtube_videos() -> dict[str, dict]:
-    """Scrape YouTube channel page to get all Shorts with titles."""
+    """Scrape YouTube channel page to get all Shorts with titles (with pagination)."""
     print("Fetching YouTube channel videos...")
+    ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
     try:
         r = requests.get(
-            f"https://www.youtube.com/@VintageVegasShirts/shorts",
-            headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"},
+            "https://www.youtube.com/@VintageVegasShirts/shorts",
+            headers={"User-Agent": ua},
             timeout=30,
         )
         r.raise_for_status()
     except requests.RequestException as e:
         print(f"  Failed to fetch YouTube channel: {e}")
-        return {}
+        return _scrape_youtube_rss()
 
     # Extract ytInitialData JSON from page
     m = re.search(r"var ytInitialData = ({.*?});</script>", r.text)
@@ -144,45 +203,68 @@ def scrape_youtube_videos() -> dict[str, dict]:
     data = _json.loads(m.group(1))
     videos: dict[str, dict] = {}
 
+    # Also extract API key for continuation requests
+    api_key_match = re.search(r'"INNERTUBE_API_KEY":"([^"]+)"', r.text)
+    api_key = api_key_match.group(1) if api_key_match else None
+
     try:
         tabs = data["contents"]["twoColumnBrowseResultsRenderer"]["tabs"]
         for tab in tabs:
             renderer = tab.get("tabRenderer", {})
             if not renderer.get("selected"):
                 continue
-            items = renderer["content"]["richGridRenderer"]["contents"]
-            for item in items:
-                rm = item.get("richItemRenderer", {}).get("content", {}).get("shortsLockupViewModel", {})
-                if not rm:
-                    continue
-                title = rm.get("overlayMetadata", {}).get("primaryText", {}).get("content", "")
-                vid_id = rm.get("onTap", {}).get("innertubeCommand", {}).get("reelWatchEndpoint", {}).get("videoId", "")
-                if not title or not vid_id:
-                    continue
+            contents = renderer["content"]["richGridRenderer"]["contents"]
 
-                url = f"https://www.youtube.com/shorts/{vid_id}"
-                thumbnail = f"https://i.ytimg.com/vi/{vid_id}/hqdefault.jpg"
+            # Parse initial batch
+            videos.update(_parse_shorts_items(contents))
 
-                # Extract location name: "Vintage Las Vegas {Location} Bio"
-                # Also handle "Las Vegas {Location} Bio" (without "Vintage")
-                loc_match = re.match(r"(?:Vintage )?Las Vegas\s+(.+?)\s+Bio$", title)
-                if not loc_match:
-                    print(f"  Skipping video (no location match): {title}")
-                    continue
+            # Check for continuation token (last item)
+            last_item = contents[-1] if contents else {}
+            cont_renderer = last_item.get("continuationItemRenderer", {})
+            cont_token = (
+                cont_renderer
+                .get("continuationEndpoint", {})
+                .get("continuationCommand", {})
+                .get("token")
+            )
 
-                location_name = loc_match.group(1).strip().lstrip("- ")
-                slug = location_name.lower()
-                slug = re.sub(r"[''']s\b", "s", slug)
-                slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
+            # Fetch additional pages
+            while cont_token and api_key:
+                print(f"  Fetching more videos (have {len(videos)} so far)...")
+                try:
+                    resp = requests.post(
+                        f"https://www.youtube.com/youtubei/v1/browse?key={api_key}",
+                        json={
+                            "context": {"client": {"clientName": "WEB", "clientVersion": "2.20260221"}},
+                            "continuation": cont_token,
+                        },
+                        headers={"User-Agent": ua},
+                        timeout=15,
+                    )
+                    resp.raise_for_status()
+                    cont_data = resp.json()
 
-                videos[slug] = {
-                    "title": title,
-                    "url": url,
-                    "video_id": vid_id,
-                    "thumbnail": thumbnail,
-                    "location_name": location_name,
-                }
-                print(f"  Found video: {location_name} → {url}")
+                    actions = cont_data.get("onResponseReceivedActions", [])
+                    if not actions:
+                        break
+
+                    cont_items = actions[0].get("appendContinuationItemsAction", {}).get("continuationItems", [])
+                    if not cont_items:
+                        break
+
+                    videos.update(_parse_shorts_items(cont_items))
+
+                    # Check for another continuation
+                    last_cont = cont_items[-1] if cont_items else {}
+                    cont_token = (
+                        last_cont.get("continuationItemRenderer", {})
+                        .get("continuationEndpoint", {})
+                        .get("continuationCommand", {})
+                        .get("token")
+                    )
+                except requests.RequestException:
+                    break
+
     except (KeyError, IndexError) as e:
         print(f"  Error parsing YouTube data: {e}, falling back to RSS")
         return _scrape_youtube_rss()
@@ -208,11 +290,10 @@ def _scrape_youtube_rss() -> dict[str, dict]:
         url = link["href"] if link else f"https://www.youtube.com/shorts/{video_id}"
         thumbnail = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
 
-        loc_match = re.match(r"(?:Vintage )?Las Vegas\s+(.+?)\s+Bio$", title)
-        if not loc_match:
+        location_name = _extract_location_from_title(title)
+        if not location_name:
             continue
 
-        location_name = loc_match.group(1).strip().lstrip("- ")
         slug = location_name.lower()
         slug = re.sub(r"[''']s\b", "s", slug)
         slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
