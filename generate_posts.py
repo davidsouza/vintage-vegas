@@ -41,27 +41,67 @@ def generate_post(loc: dict) -> bool:
     slug = loc["slug"]
     out_path = CONTENT_DIR / f"{slug}.md"
 
+    # Skip if already generated
+    if out_path.exists():
+        print(f"  Skipping (already exists): {out_path}")
+        return True
+
     print(f"Generating post for: {loc['location']}")
+    if out_path.exists():
+        print(f"  Skipping (already exists): {out_path}")
+        return True
+    
     raw = generate_with_ollama(build_prompt(loc["location"], loc["description"]))
 
     # Parse JSON from response
     try:
-        # Try to extract JSON from the response
         json_match = re.search(r"\{.*\}", raw, re.DOTALL)
         if not json_match:
             print(f"  ERROR: No JSON found in response")
             return False
         json_str = json_match.group()
-        # Fix control characters in string values (newlines in body)
-        try:
-            data = json.loads(json_str)
-        except json.JSONDecodeError:
-            # Try with strict=False
-            data = json.loads(json_str, strict=False)
+        
+        # Try parsing as-is first
+        data = None
+        for attempt in range(3):
+            try:
+                if attempt == 0:
+                    data = json.loads(json_str)
+                elif attempt == 1:
+                    data = json.loads(json_str, strict=False)
+                elif attempt == 2:
+                    # Fix common LLM JSON issues:
+                    # - Replace curly/smart quotes with straight quotes
+                    fixed = json_str.replace("\u201c", "'").replace("\u201d", "'")
+                    fixed = fixed.replace("\u2018", "'").replace("\u2019", "'")
+                    # - Escape unescaped newlines in strings
+                    data = json.loads(fixed, strict=False)
+                break
+            except json.JSONDecodeError:
+                if attempt == 2:
+                    raise
+                continue
+        
+        if data is None:
+            raise json.JSONDecodeError("All parse attempts failed", json_str, 0)
     except json.JSONDecodeError as e:
-        print(f"  ERROR: Failed to parse JSON: {e}")
-        print(f"  Raw response: {raw[:500]}")
-        return False
+        # Last resort: extract fields with regex instead of JSON parsing
+        print(f"  WARN: JSON parse failed ({e}), extracting fields with regex...")
+        title_m = re.search(r'"title"\s*:\s*"((?:[^"\\]|\\.)*)"', raw)
+        meta_m = re.search(r'"meta_description"\s*:\s*"((?:[^"\\]|\\.)*)"', raw)
+        body_m = re.search(r'"body"\s*:\s*"(.*)', raw, re.DOTALL)
+        
+        if not body_m:
+            print(f"  ERROR: Could not extract any content")
+            return False
+        
+        data = {
+            "title": title_m.group(1) if title_m else f"{loc['location']} — Vintage Las Vegas History",
+            "meta_description": meta_m.group(1) if meta_m else f"Discover the history of {loc['location']}.",
+            "body": body_m.group(1).rstrip('"\n }') if body_m else "",
+        }
+        # Unescape the body
+        data["body"] = data["body"].replace("\\n", "\n").replace('\\"', '"')
 
     title = data.get("title", f"{loc['location']} — Vintage Las Vegas History")
     meta = data.get("meta_description", f"Discover the history of {loc['location']} in Las Vegas.")
