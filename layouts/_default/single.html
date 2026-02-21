@@ -7,6 +7,14 @@
   <div class="post-content">
     {{ .Content }}
   </div>
+  {{ with .Params.youtube_id }}
+  <div class="video-section">
+    <h2>📹 Watch the Story</h2>
+    <div class="video-embed">
+      <iframe src="https://www.youtube.com/embed/{{ . }}" title="{{ $.Params.youtube_title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
+  </div>
+  {{ end }}
   <div class="post-tags">
     {{ range .Params.tags }}
     <a href="/tags/{{ . | urlize }}/" class="tag">#{{ . }}</a>

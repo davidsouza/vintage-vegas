@@ -88,6 +88,13 @@ def generate_post(loc: dict) -> bool:
 
     # Build front matter
     tags = json.dumps(["las vegas history", "vintage vegas", loc["location"].lower()])
+    yt = loc.get("youtube")
+    youtube_lines = ""
+    if yt:
+        youtube_lines = f"""youtube_url: "{yt['url']}"
+youtube_id: "{yt['video_id']}"
+youtube_title: "{yt['title']}"
+youtube_thumbnail: "{yt['thumbnail']}" """
     frontmatter = f"""---
 title: "{title}"
 date: 2026-02-21
@@ -95,7 +102,7 @@ description: "{meta}"
 image: "{loc.get('image', '')}"
 location: "{loc['location']}"
 tags: {tags}
----"""
+{youtube_lines}---"""
 
     content = f"{frontmatter}\n\n{body}\n\n{shop_html}\n"
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
