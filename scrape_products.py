@@ -84,19 +84,36 @@ def scrape_product_page(url: str) -> tuple[str, str]:
         return "", ""
     soup = BeautifulSoup(html, "lxml")
     
-    # Description
-    desc_div = soup.select_one(".woocommerce-product-details__short-description, .product_meta + div, #tab-description")
-    desc = desc_div.get_text(strip=True) if desc_div else ""
+    # Description — try multiple sources
+    desc = ""
+    # 1. WooCommerce short description
+    desc_div = soup.select_one(".woocommerce-product-details__short-description")
+    if desc_div:
+        desc = desc_div.get_text(strip=True)
+    # 2. Description tab
     if not desc:
-        # Try the full description tab
         desc_tab = soup.select_one("#tab-description, .woocommerce-Tabs-panel--description")
-        desc = desc_tab.get_text(strip=True) if desc_tab else ""
+        if desc_tab:
+            desc = desc_tab.get_text(strip=True)
+    # 3. og:description meta tag (always present, truncated but useful)
+    if not desc:
+        og_desc = soup.select_one('meta[property="og:description"]')
+        if og_desc:
+            desc = og_desc.get("content", "")
+    # Clean up "Description" prefix from tab heading
+    if desc.startswith("Description"):
+        desc = desc[len("Description"):].strip()
     
-    # Image
+    # Image — use og:image meta tag (most reliable, always present)
     img = ""
-    img_tag = soup.select_one(".woocommerce-product-gallery__image img, .wp-post-image")
-    if img_tag:
-        img = img_tag.get("data-large_image") or img_tag.get("data-src") or img_tag.get("src", "")
+    og_img = soup.select_one('meta[property="og:image"]')
+    if og_img:
+        img = og_img.get("content", "")
+    # Fallback: try gallery slider image
+    if not img:
+        img_tag = soup.select_one(".wcgs-slider-image-tag, .woocommerce-product-gallery__image img, .wp-post-image")
+        if img_tag:
+            img = img_tag.get("data-image") or img_tag.get("src", "")
     
     return desc, img
 
