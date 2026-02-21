@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="hero">
+  <h2>The History Behind the Shirts</h2>
+  <p>Explore the legendary hotels, casinos, and landmarks that made Las Vegas the entertainment capital of the world.</p>
+</section>
+<section class="posts-grid">
+  {{ range where .Site.RegularPages "Section" "posts" }}
+  <a href="{{ .Permalink }}" class="post-card">
+    {{ with .Params.image }}
+    <div class="card-image" style="background-image: url('{{ . }}')"></div>
+    {{ end }}
+    <div class="card-body">
+      <h3>{{ .Params.location }}</h3>
+      <p>{{ .Description | truncate 120 }}</p>
+    </div>
+  </a>
+  {{ end }}
+</section>
+{{ end }}

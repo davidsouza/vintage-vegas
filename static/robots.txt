@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vintage-vegas.com/sitemap.xml

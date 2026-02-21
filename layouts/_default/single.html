@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="post">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.image }}
+  <img src="{{ . }}" alt="{{ $.Params.location }}" class="post-hero-image" loading="lazy">
+  {{ end }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  <div class="post-tags">
+    {{ range .Params.tags }}
+    <a href="/tags/{{ . | urlize }}/" class="tag">#{{ . }}</a>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

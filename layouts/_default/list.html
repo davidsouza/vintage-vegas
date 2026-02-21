@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<section class="posts-grid">
+  {{ range .Pages }}
+  <a href="{{ .Permalink }}" class="post-card">
+    {{ with .Params.image }}
+    <div class="card-image" style="background-image: url('{{ . }}')"></div>
+    {{ end }}
+    <div class="card-body">
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Description | truncate 120 }}</p>
+    </div>
+  </a>
+  {{ end }}
+</section>
+{{ end }}

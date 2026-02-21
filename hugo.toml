@@ -1,0 +1,24 @@
+baseURL = "https://vintage-vegas.com/"
+languageCode = "en-us"
+title = "Vintage Vegas"
+paginate = 12
+
+[params]
+  tagline = "Stories from the Strip"
+  shopUrl = "https://vintagevegasshirts.com"
+  description = "Explore the history of classic Las Vegas hotels, casinos, and landmarks. Vintage Vegas brings you stories from the Strip and beyond."
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  tag = "tags"
