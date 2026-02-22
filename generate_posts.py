@@ -134,7 +134,8 @@ def generate_post(loc: dict) -> bool:
         youtube_lines = f"""youtube_url: "{yt['url']}"
 youtube_id: "{yt['video_id']}"
 youtube_title: "{yt['title']}"
-youtube_thumbnail: "{yt['thumbnail']}" """
+youtube_thumbnail: "{yt['thumbnail']}"
+"""
     frontmatter = f"""---
 title: "{title}"
 date: 2026-02-21
