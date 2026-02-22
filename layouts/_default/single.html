@@ -1,10 +1,10 @@
 {{ define "main" }}
-<article class="post">
-  <h1>{{ .Title }}</h1>
+<article class="post" itemscope itemtype="https://schema.org/Article">
+  <h1 itemprop="headline">{{ .Title }}</h1>
   {{ with .Params.image }}
-  <img src="{{ . }}" alt="{{ $.Params.location }}" class="post-hero-image" loading="lazy">
+  <img src="{{ . }}" alt="{{ $.Params.location }}" class="post-hero-image" loading="lazy" itemprop="image">
   {{ end }}
-  <div class="post-content">
+  <div class="post-content" itemprop="articleBody">
     {{ .Content }}
   </div>
   {{ with .Params.youtube_id }}
@@ -21,4 +21,45 @@
     {{ end }}
   </div>
 </article>
+
+{{ $related := .Site.RegularPages.Related . | first 6 }}
+{{ with $related }}
+<section class="related-posts">
+  <h2>🎰 More Vintage Vegas Stories</h2>
+  <div class="post-grid">
+    {{ range . }}
+    <a href="{{ .Permalink }}" class="post-card">
+      {{ with .Params.image }}
+      <img src="{{ . }}" alt="{{ $.Params.location }}" loading="lazy">
+      {{ end }}
+      <div class="post-card-content">
+        <h3>{{ .Title }}</h3>
+        {{ with .Params.location }}<p class="post-location">📍 {{ . }}</p>{{ end }}
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title }},
+  "description": {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }},
+  "url": {{ .Permalink }},
+  {{ with .Params.image }}"image": {{ . }},{{ end }}
+  "datePublished": {{ .Date.Format "2006-01-02" }},
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vintage Vegas",
+    "url": "https://vintage-vegas.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink }}
+  }
+}
+</script>
 {{ end }}
