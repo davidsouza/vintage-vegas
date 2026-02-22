@@ -25,11 +25,7 @@ Despite its popularity, the Jolly Trolley’s reign was short-lived, ending abru
 
 ## A Cheeky Footnote in Vegas Lore
 
-The Jolly Trolley Casino may be gone, but it hasn't been forgotten. It represents a specific and fascinating era of Las Vegas – a time of outrageous themes, adult entertainment pushing boundaries, and a simmering undercurrent of organized crime. While the Bonanza Gift Shop carries on, the memory of the Jolly Trolley Casino remains a vibrant and cheeky footnote in the ever-evolving story of the Las Vegas Strip."
-}
-```
-
-
+The Jolly Trolley Casino may be gone, but it hasn't been forgotten. It represents a specific and fascinating era of Las Vegas – a time of outrageous themes, adult entertainment pushing boundaries, and a simmering undercurrent of organized crime. While the Bonanza Gift Shop carries on, the memory of the Jolly Trolley Casino remains a vibrant and cheeky footnote in the ever-evolving story of the Las Vegas Strip.
 <div class="shop-collection">
 <h2>🎰 Shop the Jolly Trolley Casino Las Vegas Collection</h2>
 <div class="shop-links">

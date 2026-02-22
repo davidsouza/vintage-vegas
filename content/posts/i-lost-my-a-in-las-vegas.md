@@ -25,11 +25,7 @@ The phrase itself is the ultimate head-scratcher. Theories abound, and no defini
 
 Adding to the intrigue is the existence of another matchbook cover which states, "I made it big in Las Vegas." Whether or not this was part of the same promotion remains unknown, creating an interesting visual contrast and sparking further speculation about the campaign's overall theme. Was it a duality of Vegas experiences—the potential for loss and the promise of success? 
 
-The mystery surrounding both matchbooks highlights the fragmented nature of Vegas history. Many details about promotional campaigns from the 70s are simply lost to time. If anyone possesses information regarding this promotion’s origin, sponsors or intended message, we would love to hear from you! It’s a fascinating puzzle piece in the larger picture of vintage Las Vegas."
-}
-```
-
-
+The mystery surrounding both matchbooks highlights the fragmented nature of Vegas history. Many details about promotional campaigns from the 70s are simply lost to time. If anyone possesses information regarding this promotion’s origin, sponsors or intended message, we would love to hear from you! It’s a fascinating puzzle piece in the larger picture of vintage Las Vegas.
 <div class="shop-collection">
 <h2>🎰 Shop the I Lost My A in Las Vegas Collection</h2>
 <div class="shop-links">

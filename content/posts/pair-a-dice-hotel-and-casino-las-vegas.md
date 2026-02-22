@@ -21,11 +21,7 @@ Details about the Pair-A-Dice’s operations during the ensuing decades are frus
 
 ## A Final Chapter: Eviction and Vacancy (2022)
 
-For decades, the Pair-A-Dice trailer park housed residents, largely unnoticed by the wider world. That changed in 2022 when Agora Realty and Management acquired the property and evicted the remaining residents. This marked the definitive end of an era. The land now sits vacant, a blank slate on the North Strip. While physical remnants of the Pair-A-Dice are gone, its unusual history serves as a fascinating reminder of a less polished, more pragmatic, and decidedly more quirky chapter in Las Vegas's rich and complex story – a reminder that even the seemingly insignificant contribute to the legend."
-}
-```
-
-
+For decades, the Pair-A-Dice trailer park housed residents, largely unnoticed by the wider world. That changed in 2022 when Agora Realty and Management acquired the property and evicted the remaining residents. This marked the definitive end of an era. The land now sits vacant, a blank slate on the North Strip. While physical remnants of the Pair-A-Dice are gone, its unusual history serves as a fascinating reminder of a less polished, more pragmatic, and decidedly more quirky chapter in Las Vegas's rich and complex story – a reminder that even the seemingly insignificant contribute to the legend.
 <div class="shop-collection">
 <h2>🎰 Shop the Pair A Dice Hotel and Casino Las Vegas Collection</h2>
 <div class="shop-links">

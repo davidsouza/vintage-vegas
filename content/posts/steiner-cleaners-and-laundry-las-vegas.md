@@ -21,11 +21,7 @@ The secret to Steiner’s success lay in its meticulous attention to detail and 
 
 Beyond its celebrity clientele, Steiner’s gained iconic status thanks to its vibrant “Happy Shirt” neon sign. Originally designed by Herman Steiner’s daughter and lovingly constructed by YESCO in 1962, the sign featured animated waving arms and became a beloved landmark on Tropicana Avenue. Thankfully, the sign's legacy lives on; it now shines brightly as a treasured exhibit at the Neon Museum, a testament to a bygone era of Las Vegas.
 
-Steiner Cleaners officially closed its doors, but its story isn't over. Vic Plassman remains semi-retired, occasionally lending his expertise to garment care, a living reminder of the dedication and craftsmanship that defined Steiner’s. It wasn't simply a laundry; it was a crucial piece of the Las Vegas entertainment ecosystem, a backstage secret that helped keep the show – and the stars – sparkling."
-}
-```
-
-
+Steiner Cleaners officially closed its doors, but its story isn't over. Vic Plassman remains semi-retired, occasionally lending his expertise to garment care, a living reminder of the dedication and craftsmanship that defined Steiner’s. It wasn't simply a laundry; it was a crucial piece of the Las Vegas entertainment ecosystem, a backstage secret that helped keep the show – and the stars – sparkling.
 <div class="shop-collection">
 <h2>🎰 Shop the Steiner Cleaners and Laundry Las Vegas Collection</h2>
 <div class="shop-links">

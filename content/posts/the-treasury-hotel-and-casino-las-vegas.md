@@ -25,11 +25,7 @@ The Treasury's tenure was relatively short. In 1982, it was purchased by former 
 
 The property’s evolution didn’t stop there.  It later became the Pacifica Resort, reflecting a shift towards a tropical theme. This transitioned into the Polynesian, then the Hôtel San Rémo, before finally morphing into the infamous Hooters Casino Hotel in 2006.  The current OYO Hotel & Casino represents yet another chapter in a long and varied legacy. 
 
-The Treasury Hotel & Casino serves as a fascinating reminder of the experimental nature of Las Vegas. It embodies a time when casinos were willing to take risks, even if those risks didn’t always pan out. While gone, The Treasury's unique "country and western" flair remains a quirky and memorable footnote in the history of the Las Vegas Strip."
-}
-```
-
-
+The Treasury Hotel & Casino serves as a fascinating reminder of the experimental nature of Las Vegas. It embodies a time when casinos were willing to take risks, even if those risks didn’t always pan out. While gone, The Treasury's unique "country and western" flair remains a quirky and memorable footnote in the history of the Las Vegas Strip.
 <div class="shop-collection">
 <h2>🎰 Shop the The Treasury Hotel and Casino Las Vegas Collection</h2>
 <div class="shop-links">

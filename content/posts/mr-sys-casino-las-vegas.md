@@ -23,11 +23,7 @@ Mr. Sy’s Snacks, the casino’s food service arm, catered to this round-the-cl
 
 While Mr. Sy’s never aimed for the high-roller scene, it built a loyal following by offering a relaxed alternative to the glitz and glamour of the larger resorts. Its small slot machine bank and genuinely friendly service earned it a special place in the hearts of those who remember the “mom-and-pop” era of Las Vegas gaming. Ultimately, it couldn't compete with the city’s relentless push toward megaresorts and high-end entertainment.
 
-Today, the location that once housed Mr. Sy’s Casino is home to the Las Vegas Plaza Shopping Center. Though the casino itself is gone, the memory of Mr. Sy’s – the cartoon mascot, the free bacon & eggs, and the friendly atmosphere – remains a nostalgic reminder of a bygone era in Las Vegas history – a time when Vegas was a little more playful, a little more personal, and always, delightfully, open 24 hours."
-}
-```
-
-
+Today, the location that once housed Mr. Sy’s Casino is home to the Las Vegas Plaza Shopping Center. Though the casino itself is gone, the memory of Mr. Sy’s – the cartoon mascot, the free bacon & eggs, and the friendly atmosphere – remains a nostalgic reminder of a bygone era in Las Vegas history – a time when Vegas was a little more playful, a little more personal, and always, delightfully, open 24 hours.
 <div class="shop-collection">
 <h2>🎰 Shop the Mr Sys Casino Las Vegas Collection</h2>
 <div class="shop-links">

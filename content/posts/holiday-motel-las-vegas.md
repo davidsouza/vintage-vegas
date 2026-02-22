@@ -25,11 +25,7 @@ By the 2000s, like many vintage motels, the Holiday Motel showed its age. A deva
 
 ## Legacy in Lights
 
-Today, the Holiday Motel itself stands as The BLVD Boutique Apartments. While its days as a motel are over, the vibrant neon sign lives on, proudly displayed within the Neon Boneyard. It serves as a powerful reminder that Las Vegas’s story is more than just glittering casinos; it’s a story of the hardworking roadside businesses, the friendly motor courts, and the countless travelers who helped shape the city we know today.  The starbursts and arrow of the Holiday Motel sign remain symbols of an era, preserved for future generations to admire."
-}
-```
-
-
+Today, the Holiday Motel itself stands as The BLVD Boutique Apartments. While its days as a motel are over, the vibrant neon sign lives on, proudly displayed within the Neon Boneyard. It serves as a powerful reminder that Las Vegas’s story is more than just glittering casinos; it’s a story of the hardworking roadside businesses, the friendly motor courts, and the countless travelers who helped shape the city we know today.  The starbursts and arrow of the Holiday Motel sign remain symbols of an era, preserved for future generations to admire.
 <div class="shop-collection">
 <h2>🎰 Shop the Holiday Motel Las Vegas Collection</h2>
 <div class="shop-links">

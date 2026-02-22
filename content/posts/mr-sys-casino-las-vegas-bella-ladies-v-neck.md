@@ -23,11 +23,7 @@ Now, about that "Bella Ladies V Neck."  While details remain scarce in the docum
 
 Mr. Sy’s didn’t compete with the high-stakes glamour of the Strip's giants. Its strength lay in its approachable atmosphere, kitschy charm, and the promise of a free breakfast. It offered a relaxed alternative, a “mom-and-pop” feel that is increasingly rare in modern Las Vegas. Ultimately, like so many smaller casinos, Mr. Sy’s couldn’t withstand the relentless push towards mega-resorts and high-end entertainment. The property is now the Las Vegas Plaza Shopping Center. 
 
-Though gone, Mr. Sy’s remains a nostalgic symbol of a different era – a time when Las Vegas was a little more playful, a little more personal, and always, reliably, open for business."
-}
-```
-
-
+Though gone, Mr. Sy’s remains a nostalgic symbol of a different era – a time when Las Vegas was a little more playful, a little more personal, and always, reliably, open for business.
 <div class="shop-collection">
 <h2>🎰 Shop the Mr Sys Casino Las Vegas Bella Ladies V Neck Collection</h2>
 <div class="shop-links">

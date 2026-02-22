@@ -21,11 +21,7 @@ Interestingly, the location's history is a bit convoluted. It originally operate
 
 ## A Demise and a Legacy
 
-Sadly, Miss Lucy’s story ended abruptly in 1995. The property was demolished and absorbed into the expansion of the Fremont Hotel & Casino. While its physical presence disappeared, its legacy lives on in casino memorabilia. Those matchbook covers and other promotional materials are highly sought-after collectibles, serving as tangible reminders of a brief, but memorable, chapter in Las Vegas history. Miss Lucy’s, more than just a casino, represents the city’s ongoing cycle of reinvention and the enduring appeal of vintage Vegas charm. It’s a reminder that sometimes, the most memorable places are the ones that don't stick around for long."
-}
-```
-
-
+Sadly, Miss Lucy’s story ended abruptly in 1995. The property was demolished and absorbed into the expansion of the Fremont Hotel & Casino. While its physical presence disappeared, its legacy lives on in casino memorabilia. Those matchbook covers and other promotional materials are highly sought-after collectibles, serving as tangible reminders of a brief, but memorable, chapter in Las Vegas history. Miss Lucy’s, more than just a casino, represents the city’s ongoing cycle of reinvention and the enduring appeal of vintage Vegas charm. It’s a reminder that sometimes, the most memorable places are the ones that don't stick around for long.
 <div class="shop-collection">
 <h2>🎰 Shop the Miss Lucys Casino Las Vegas Collection</h2>
 <div class="shop-links">

@@ -102,10 +102,15 @@ def generate_post(loc: dict) -> bool:
         }
         # Unescape the body
         data["body"] = data["body"].replace("\\n", "\n").replace('\\"', '"')
+        # Strip markdown code fences and stray JSON artifacts
+        data["body"] = re.sub(r'\s*```\s*$', '', data["body"])
+        data["body"] = data["body"].rstrip('"\n }')
 
     title = data.get("title", f"{loc['location']} — Vintage Las Vegas History")
     meta = data.get("meta_description", f"Discover the history of {loc['location']} in Las Vegas.")
     body = data.get("body", "")
+    # Clean any trailing markdown fences or JSON artifacts from LLM output
+    body = re.sub(r'\s*```\s*$', '', body).rstrip('"\n }')
 
     # Build shop section
     shop_lines = [

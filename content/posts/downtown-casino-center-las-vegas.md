@@ -28,11 +28,7 @@ In 1965, the city took a significant step, renaming Second Street to Casino Cent
 
 ## A Fading Brand, an Enduring Legacy
 
-While the “Downtown Casino Center” moniker faded from common use in the 1970s, eclipsed by the megaresorts and shifting marketing trends, its legacy lives on. The name, and the feeling it represented, resonates strongly with those seeking the authentic Vegas experience. Even now, the concept perfectly echoes in the Fremont Street Experience – a canopy of lights and classic casino vibes, a direct descendant of the original Downtown Casino Center vision. The name "Casino Center Boulevard" remains, a whisper from a bygone era, reminding us of a time when Fremont Street *was* Las Vegas."
-}
-```
-
-
+While the “Downtown Casino Center” moniker faded from common use in the 1970s, eclipsed by the megaresorts and shifting marketing trends, its legacy lives on. The name, and the feeling it represented, resonates strongly with those seeking the authentic Vegas experience. Even now, the concept perfectly echoes in the Fremont Street Experience – a canopy of lights and classic casino vibes, a direct descendant of the original Downtown Casino Center vision. The name "Casino Center Boulevard" remains, a whisper from a bygone era, reminding us of a time when Fremont Street *was* Las Vegas.
 <div class="shop-collection">
 <h2>🎰 Shop the Downtown Casino Center Las Vegas Collection</h2>
 <div class="shop-links">

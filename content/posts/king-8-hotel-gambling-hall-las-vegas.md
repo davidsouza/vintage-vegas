@@ -30,11 +30,7 @@ The late 1980s and 90s brought shifts in ownership and operation. Hotel Investor
 
 ## Legacy of a Roadside Icon
 
-While the Wild Wild West name lasted for several years, the memory of the King 8 lingers for those who remember its original charm. Its story encapsulates a crucial piece of Las Vegas’ layered history: the mid-tier properties that served the everyday traveler. The property’s ultimate demolition in 2022, to make way for future development, marks the end of an era, a poignant reminder of how quickly even beloved institutions can disappear in the relentless cycle of Las Vegas reinvention. The King 8 wasn't a glamorous flagship, but it represented a valuable segment of the casino business, proving that even modest establishments can leave a lasting mark on the city's vibrant history."
-}
-```
-
-
+While the Wild Wild West name lasted for several years, the memory of the King 8 lingers for those who remember its original charm. Its story encapsulates a crucial piece of Las Vegas’ layered history: the mid-tier properties that served the everyday traveler. The property’s ultimate demolition in 2022, to make way for future development, marks the end of an era, a poignant reminder of how quickly even beloved institutions can disappear in the relentless cycle of Las Vegas reinvention. The King 8 wasn't a glamorous flagship, but it represented a valuable segment of the casino business, proving that even modest establishments can leave a lasting mark on the city's vibrant history.
 <div class="shop-collection">
 <h2>🎰 Shop the King 8 Hotel Gambling Hall Las Vegas Collection</h2>
 <div class="shop-links">
