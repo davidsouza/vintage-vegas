@@ -11,14 +11,13 @@ youtube_title: "Vintage Las Vegas Golden Gate Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/mvedOLnmCrI/hqdefault.jpg"
 ---
 
-
-## From Hotel Nevada to the Golden Gate: The Birth of Vegas Hospitality
+## From [Hotel Nevada](/posts/hotel-nevada-las-vegas/) to the Golden Gate: The Birth of Vegas Hospitality
 
 Las Vegas. The name conjures images of dazzling lights, high-stakes gambling, and world-class entertainment. But before the Strip, before the mega-resorts, there was the Golden Gate Hotel and Casino, standing proudly at the corner of Main Street and Fremont. Originally opening in 1906 as the humble Hotel Nevada, it wasn’t just a place to sleep; it was a beacon of modernity in a fledgling desert town fueled by the railroad. With just ten rooms, it offered unheard-of luxuries like electric lights and indoor plumbing – a stark contrast to the surrounding landscape.
 
 ## Embracing the Gambling Era
 
-The 1930s brought a seismic shift to Nevada and to the Golden Gate. With the legalization of gambling, the Hotel Nevada recognized the opportunity and quickly adapted. Slot machines and table games were introduced, marking a pivotal moment in the nascent Las Vegas casino scene. This move helped solidify its position as a central hub for entertainment and a crucial part of what would become the “Glitter Gulch” of Fremont Street.
+The 1930s brought a seismic shift to Nevada and to the Golden Gate. With the legalization of gambling, the Hotel Nevada recognized the opportunity and quickly adapted. Slot machines and table games were introduced, marking a pivotal moment in the nascent Las Vegas casino scene. This move helped solidify its position as a central hub for entertainment and a crucial part of what would become the “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/)” of Fremont Street.
 
 ## A Golden Transformation & Iconic Shrimp Cocktails
 

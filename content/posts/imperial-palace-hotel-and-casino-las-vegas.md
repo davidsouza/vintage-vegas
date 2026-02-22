@@ -7,7 +7,7 @@ location: "Imperial Palace Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "imperial palace hotel and casino las vegas"]
 ---
 
-## From Flamingo Capri to Imperial Grandeur
+## From [Flamingo Capri](/posts/flamingo-capri-hotel-and-casino-las-vegas/) to Imperial Grandeur
 
 The Las Vegas Strip has seen countless transformations, but few were as distinct as the rise and fall of the Imperial Palace Hotel and Casino. Originally the Flamingo Capri, a humble motel, the property at 3535 Las Vegas Boulevard underwent a dramatic rebirth in the early 1970s thanks to entrepreneur Ralph Engelstad. While he initially added a small casino in 1972, the real magic happened on November 1, 1979, when the Imperial Palace officially debuted.
 
@@ -15,7 +15,7 @@ Engelstad envisioned a lavish homage to ancient Chinese palaces, and the design,
 
 ## Cars, Shows, and Treasures
 
-The Imperial Palace wasn’t just about its aesthetics. Engelstad was a car enthusiast, and in 1981, he unveiled the Auto Collections, a stunning showroom housing 250 classic, antique, and muscle cars valued at over $100 million. This unique attraction became a major draw for visitors. Entertainment was also key, with the legendary “Legends in Concert” show launched in 1983, becoming the longest-running show in Las Vegas history – a testament to its enduring popularity. The property consistently offered seasonal celebrations, including vibrant Polynesian-themed pool parties.
+The Imperial Palace wasn’t just about its aesthetics. Engelstad was a car enthusiast, and in 1981, he unveiled the Auto Collections, a stunning showroom housing 250 classic, antique, and muscle cars valued at over $100 million. This unique attraction became a major draw for visitors. Entertainment was also key, with the legendary “Legends in Concert” show launched in 1983, becoming the longest-running show in Las Vegas history – a testament to its enduring popularity. The property consistently offered seasonal celebrations, including vibrant [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/)-themed pool parties.
 
 Throughout the 1980s, the Imperial Palace expanded rapidly, adding four hotel towers, a sprawling shopping arcade dubbed the “Court of a Thousand Treasures,” an Olympic-size pool with a waterfall, and a variety of other amenities. It carved out a niche as a family-friendly resort offering good value, drawing in a wide range of visitors.
 

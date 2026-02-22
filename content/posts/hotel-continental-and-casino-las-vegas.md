@@ -7,7 +7,7 @@ location: "Hotel Continental and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "hotel continental and casino las vegas"]
 ---
 
-## A Bold Vision on Paradise Road
+## A Bold Vision on [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Road
 
 For a brief but memorable period in the 1980s and 90s, the Hotel Continental and Casino stood as a distinct landmark on Paradise Road, just south of the burgeoning Las Vegas Strip. Built on a sprawling 10-acre parcel, construction began in 1979 and the property finally opened its doors in 1980. While the Strip was quickly becoming synonymous with mega-resorts, the Continental aimed to offer a slightly different experience, targeting a local clientele alongside tourists seeking something a little less overwhelming.
 

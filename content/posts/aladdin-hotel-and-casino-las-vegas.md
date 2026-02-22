@@ -19,7 +19,7 @@ The real magic began in 1966 when Milton Prell, a legend in Las Vegas developmen
 
 The Aladdin quickly cemented its place in Vegas history. The hotel became a magnet for celebrity clientele, most notably hosting the iconic wedding of Elvis Presley and Priscilla Beaulieu in 1967, forever linking the resort to the King of Rock and Roll. The addition of the 19-story Tower of Majesty in 1976, along with the impressive Aladdin Theatre for the Performing Arts, further solidified its position as a premier entertainment destination. The golf course, a rare amenity on the Strip at the time, added another layer of luxury.
 
-## Decline and Demise: A Shifting Sands Story
+## Decline and Demise: A Shifting [Sands](/posts/sands-hotel-and-casino-las-vegas/) Story
 
 Despite its initial success, the Aladdin’s story wasn’t all magic lamps. Financial woes plagued the property, leading to a revolving door of ownership throughout the 1970s and 80s. From Parvin Dohrmann to real estate investors, and even a brief stake by Wayne Newton, the search for stability proved elusive. Ultimately acquired by Japanese developer Ginji Yasuda, the resort succumbed to bankruptcy in the late 1980s. After a final, poignant closure on November 25, 1997, the original Aladdin was demolished in 1998, paving the way for a new iteration. Though the name lived on in 2000, the modern Aladdin's own struggles led to its rebranding as Planet Hollywood, a testament to the ever-changing nature of the Las Vegas Strip and the ephemeral nature of even the most dazzling dreams. The original Aladdin's legacy remains – a vibrant reminder of a unique and ambitious chapter in vintage Las Vegas history.
 

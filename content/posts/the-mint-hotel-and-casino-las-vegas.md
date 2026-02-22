@@ -25,7 +25,7 @@ In 1965, a 26-story hotel tower dramatically expanded the property, briefly maki
 
 ## A Final Curtain Call & A Lasting Memory
 
-Sadly, the dazzling reign of The Mint ended abruptly. In 1988, the Binion family acquired the property and merged it into Binion’s Horseshoe. After nearly 37 years of vibrant operation, The Mint closed its doors on July 1, 1988. Most of its structures were subsequently demolished to expand Binion’s Horseshoe, leaving behind only memories and photographs of a truly remarkable Las Vegas landmark. While the physical presence of The Mint may be gone, its legacy continues to shine brightly in the annals of vintage Las Vegas history.
+Sadly, the dazzling reign of The Mint ended abruptly. In 1988, the Binion family acquired the property and merged it into Binion’s [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/). After nearly 37 years of vibrant operation, The Mint closed its doors on July 1, 1988. Most of its structures were subsequently demolished to expand Binion’s Horseshoe, leaving behind only memories and photographs of a truly remarkable Las Vegas landmark. While the physical presence of The Mint may be gone, its legacy continues to shine brightly in the annals of vintage Las Vegas history.
 
 
 <div class="shop-collection">

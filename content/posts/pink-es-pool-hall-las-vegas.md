@@ -7,7 +7,7 @@ location: "Pink Es Pool Hall Las Vegas"
 tags: ["las vegas history", "vintage vegas", "pink es pool hall las vegas"]
 ---
 
-## A Pink Paradise on Flamingo Road
+## A Pink [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) on Flamingo Road
 
 Las Vegas history isn’t just about the glittering Strip. It's woven into the fabric of neighborhoods and businesses that thrived just beyond the neon lights. One such spot, a vibrant and unforgettable landmark, was Pink E’s Pool Hall (also known as Pink E’s Fun Food & Spirits). Located at 3695 W. Flamingo Road, across from the Rio, Pink E’s was a unique entertainment destination from 1995 until its closure in 2005.
 

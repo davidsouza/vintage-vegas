@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "mr sys casino las vegas bella ladi
 
 ## Remembering Mr. Sy’s: More Than Just Slots & Snacks
 
-Las Vegas has always been about spectacle, but sometimes the most memorable moments come from the unexpected. Mr. Sy’s Casino, a beloved and now-vanished institution, embodies exactly that. Tucked just off the Las Vegas Strip, across from the legendary Stardust, Mr. Sy's wasn't about high-roller tables or lavish suites. It was a quirky, character-driven casino that perfectly captured the spirit of old-school Las Vegas – a far cry from today’s mega-resorts.
+Las Vegas has always been about spectacle, but sometimes the most memorable moments come from the unexpected. Mr. Sy’s Casino, a beloved and now-vanished institution, embodies exactly that. Tucked just off the Las Vegas Strip, across from the legendary [Stardust](/posts/stardust-hotel-and-casino-las-vegas/), Mr. Sy's wasn't about high-roller tables or lavish suites. It was a quirky, character-driven casino that perfectly captured the spirit of old-school Las Vegas – a far cry from today’s mega-resorts.
 
 ## A Mascot & A Meal: The Mr. Sy’s Formula
 

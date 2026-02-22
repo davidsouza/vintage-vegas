@@ -7,13 +7,13 @@ location: "Polynesian Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "polynesian hotel and casino las vegas"]
 ---
 
-## A Tropical Dream on Tropicana: The Polynesian's Brief Reign
+## A Tropical Dream on [Tropicana](/posts/tropicana-country-club-las-vegas/): The Polynesian's Brief Reign
 
-The 1980s and early 90s in Las Vegas were a period of intense experimentation. The Strip was exploding with mega-resorts, but smaller properties on the periphery, like those along Tropicana Avenue, fought to find their niche. Enter the Polynesian Hotel and Casino, a bold attempt to transport visitors to a South Pacific paradise, albeit on a modest scale. Opened in 1985, it occupied the spot at 115 East Tropicana, a location previously home to a Howard Johnson’s Motor Lodge.
+The 1980s and early 90s in Las Vegas were a period of intense experimentation. The Strip was exploding with mega-resorts, but smaller properties on the periphery, like those along Tropicana Avenue, fought to find their niche. Enter the Polynesian Hotel and Casino, a bold attempt to transport visitors to a South Pacific [paradise](/posts/paradise-hotel-and-casino-las-vegas/), albeit on a modest scale. Opened in 1985, it occupied the spot at 115 East Tropicana, a location previously home to a Howard Johnson’s Motor Lodge.
 
 ## A History of Rebranding & Reinvention
 
-The Polynesian’s story is, in itself, a testament to the volatile nature of Las Vegas hospitality. The property didn't spring into existence as the Polynesian. Before that, it cycled through several identities: Paradise, 20th Century, Treasury, and Pacifica. Each one tried a different approach, hoping to capture a segment of the tourist market, but ultimately failing to achieve lasting success. The Polynesian represented another iteration in this revolving door of branding.
+The Polynesian’s story is, in itself, a testament to the volatile nature of Las Vegas hospitality. The property didn't spring into existence as the Polynesian. Before that, it cycled through several identities: Paradise, [20th Century](/posts/20th-century-hotel-and-casino-las-vegas/), Treasury, and Pacifica. Each one tried a different approach, hoping to capture a segment of the tourist market, but ultimately failing to achieve lasting success. The Polynesian represented another iteration in this revolving door of branding.
 
 ## Polynesian Vibes: More Than Just a Theme
 
@@ -21,7 +21,7 @@ What set the Polynesian apart, even briefly, was its commitment to the theme. Th
 
 ## The Rise and Fall – and the Constant Change
 
-Despite its imaginative concept, the Polynesian struggled financially. The core issue stemmed from the property’s long-standing instability. The location just couldn’t seem to find its footing. In 1989, the Polynesian faded into memory, morphing into the Hotel San Remo. The transition reflects a common pattern in Vegas: adapting to survive. The Hotel San Remo’s strategy shifted again, seeking new audiences. Later iterations included the infamous Hooters Casino Hotel, and finally, the current OYO Hotel & Casino. 
+Despite its imaginative concept, the Polynesian struggled financially. The core issue stemmed from the property’s long-standing instability. The location just couldn’t seem to find its footing. In 1989, the Polynesian faded into memory, morphing into the [Hotel San Remo](/posts/hotel-san-remo-las-vegas/). The transition reflects a common pattern in Vegas: adapting to survive. The Hotel San Remo’s strategy shifted again, seeking new audiences. Later iterations included the infamous Hooters Casino Hotel, and finally, the current OYO Hotel & Casino. 
 
 ## A Legacy of Transformation
 

@@ -13,7 +13,7 @@ The Las Vegas Strip wouldn't be what it is today without the Stardust Hotel and 
 
 ## The '50s and '60s: Glamour, Country Clubs, and a Speedway
 
-The Stardust quickly became synonymous with the glamorous Rat Pack era. It hosted iconic performers and attracted a sophisticated clientele. But the Stardust was more than just a casino and hotel. During the 1960s, it was an experience. The resort operated a private country club, catering to high rollers, and even had its own raceway, a testament to the ambitious scope of the ownership. Adding the Royal Nevada hotel-casino in 1959 further expanded its footprint. A nine-story addition in 1964 just proved its continued popularity and growth.
+The Stardust quickly became synonymous with the glamorous Rat Pack era. It hosted iconic performers and attracted a sophisticated clientele. But the Stardust was more than just a casino and hotel. During the 1960s, it was an experience. The resort operated a private country club, catering to high rollers, and even had its own raceway, a testament to the ambitious scope of the ownership. Adding the [Royal Nevada](/posts/royal-nevada-hotel-and-casino-las-vegas/) hotel-casino in 1959 further expanded its footprint. A nine-story addition in 1964 just proved its continued popularity and growth.
 
 ## Shadows and Scandals: The Dark Side of the Glitter
 

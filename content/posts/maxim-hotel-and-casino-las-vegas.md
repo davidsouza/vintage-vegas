@@ -15,9 +15,9 @@ The Las Vegas Strip of the 1970s and 80s was a different beast than the mega-res
 
 What set the Maxim apart? It wasn’t flashy spectacle or sprawling themed environments. Instead, the Maxim prioritized attention to detail and a more intimate feel. Guests often remarked on the genuine warmth and personalized service offered by the staff. It was a place where you might actually *know* the casino host or the cocktail server. The decor, while elegant, wasn't over-the-top; it aimed for a sophisticated, upscale feel. The casino itself was smaller, but carefully designed to create a comfortable and engaging experience. This focus resonated well during its peak years in the 1980s, attracting a clientele looking for a more refined, less frenetic Vegas experience.
 
-## The Shifting Sands of the Strip
+## The Shifting [Sands](/posts/sands-hotel-and-casino-las-vegas/) of the Strip
 
-The late 1980s and 1990s saw a monumental shift on the Las Vegas Strip. The rise of mega-resorts like the Mirage, Luxor, and Excalibur dramatically altered the landscape, prioritizing scale and spectacle above all else.  The Maxim, unable to compete with the sheer size and marketing power of these new titans, began to struggle.
+The late 1980s and 1990s saw a monumental shift on the Las Vegas Strip. The rise of mega-resorts like the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/), Luxor, and Excalibur dramatically altered the landscape, prioritizing scale and spectacle above all else.  The Maxim, unable to compete with the sheer size and marketing power of these new titans, began to struggle.
 
 ## Decline, Ownership Changes, and a Final Curtain
 

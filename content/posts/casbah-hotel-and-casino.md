@@ -7,7 +7,7 @@ location: "Casbah Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "casbah hotel and casino"]
 ---
 
-## A Taste of Morocco on the Strip: The Casbah’s Early Years
+## A Taste of Morocco on the Strip: The [Casbah](/posts/casbah-hotel-and-casino-las-vegas/)’s Early Years
 
 The Las Vegas Strip has seen countless hotels rise and fall, each leaving its mark on the city’s unique character. One such hotel, the Casbah, stands out for its distinct Moroccan theme and, perhaps more notably, its complicated history. Built in 1963 by the ambitious Danny Jackson, the Casbah aimed to offer a different kind of Vegas experience – a touch of exoticism amidst the burgeoning glitz and neon. Jackson, already a prominent figure in Las Vegas gambling circles, envisioned a casino that transported guests to a North African oasis. The décor was meticulously planned, featuring vibrant colors, intricate tilework, and lush landscaping, all meant to evoke the atmosphere of Morocco.
 

@@ -21,7 +21,7 @@ A significant power struggle between two top investors over management led to a 
 
 ## A Short Life, A Lasting Legacy
 
-Sadly, the Bonanza’s time was short-lived. Kerkorian, ever the shrewd businessman, filed a foreclosure action in 1970, reclaiming control. The property ultimately closed its doors for good in early 1973. While the Bonanza Hotel and Casino itself is gone, its location now houses the Horseshoe Las Vegas, a far cry from its original Wild West aesthetic. Yet, for those who remember, the Bonanza stands as a poignant reminder of a different era on the Las Vegas Strip – a time when smaller, themed resorts dreamed of capturing a piece of the Vegas magic, even if only for a little while.
+Sadly, the Bonanza’s time was short-lived. Kerkorian, ever the shrewd businessman, filed a foreclosure action in 1970, reclaiming control. The property ultimately closed its doors for good in early 1973. While the Bonanza Hotel and Casino itself is gone, its location now houses the [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Las Vegas, a far cry from its original Wild West aesthetic. Yet, for those who remember, the Bonanza stands as a poignant reminder of a different era on the Las Vegas Strip – a time when smaller, themed resorts dreamed of capturing a piece of the Vegas magic, even if only for a little while.
 
 
 <div class="shop-collection">

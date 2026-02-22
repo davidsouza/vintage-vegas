@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "tropicana hotel and casino las veg
 
 ## A Lush Oasis Arrives on the Strip
 
-When the Tropicana Hotel and Casino burst onto the Las Vegas Strip on April 4, 1957, it was a splash of exotic color and sophistication. Costing a then-astronomical $25 million, it instantly became the most expensive resort in Las Vegas. Spanning 35 acres and boasting 1,467 rooms and a 44,570 square foot casino, the Tropicana was designed to evoke a South Seas paradise, a stark contrast to the desert landscape. The sprawling gardens, vibrant floral displays (the iconic flamingo motif!), and the distinctive, romantic architecture made it instantly recognizable and a hit with visitors.
+When the [Tropicana](/posts/tropicana-country-club-las-vegas/) Hotel and Casino burst onto the Las Vegas Strip on April 4, 1957, it was a [splash](/posts/splash-las-vegas/) of exotic color and sophistication. Costing a then-astronomical $25 million, it instantly became the most expensive resort in Las Vegas. Spanning 35 acres and boasting 1,467 rooms and a 44,570 square foot casino, the Tropicana was designed to evoke a South Seas [paradise](/posts/paradise-hotel-and-casino-las-vegas/), a stark contrast to the desert landscape. The sprawling gardens, vibrant floral displays (the iconic flamingo motif!), and the distinctive, romantic architecture made it instantly recognizable and a hit with visitors.
 
 ## More Than Just a Pretty Face: Intrigue & Entertainment
 

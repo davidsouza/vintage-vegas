@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "the sands hotel and casino las veg
 
 ## The Sands: Where Glamour and the Rat Pack Ruled
 
-The Sands Hotel and Casino, a name synonymous with vintage Las Vegas, stood as a beacon on the Strip for over four decades. Opening its doors on December 5, 1952, as the seventh resort to grace the burgeoning Las Vegas Strip, it wasn’t just a hotel and casino; it was a cultural phenomenon. Initially the brainchild of Jake Freedman, the Sands quickly established itself as a playground for the elite and a mecca for entertainment.
+The [Sands Hotel and Casino](/posts/sands-hotel-and-casino-las-vegas/), a name synonymous with vintage Las Vegas, stood as a beacon on the Strip for over four decades. Opening its doors on December 5, 1952, as the seventh resort to grace the burgeoning Las Vegas Strip, it wasn’t just a hotel and casino; it was a cultural phenomenon. Initially the brainchild of Jake Freedman, the Sands quickly established itself as a playground for the elite and a mecca for entertainment.
 
 ## From Early Days to High Roller Hangout
 

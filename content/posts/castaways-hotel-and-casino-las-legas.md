@@ -9,15 +9,15 @@ tags: ["las vegas history", "vintage vegas", "castaways hotel and casino las leg
 
 # A Fleeting Escape: Remembering the Castaways Hotel & Casino
 
-The Las Vegas Strip has seen countless resorts rise and fall, each leaving its mark on the city's evolving identity. Among those, the Castaways Hotel and Casino holds a unique place – a short-lived Polynesian fantasy that paved the way for one of the Strip’s most iconic mega-resorts, The Mirage.  Its story is a microcosm of the rapid growth and constant reinvention that defines Las Vegas.
+The Las Vegas Strip has seen countless resorts rise and fall, each leaving its mark on the city's evolving identity. Among those, the [Castaways Hotel and Casino](/posts/castaways-hotel-and-casino-las-vegas/) holds a unique place – a short-lived [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) fantasy that paved the way for one of the Strip’s most iconic mega-resorts, The [Mirage](/posts/mirage-hotel-and-casino-las-vegas/).  Its story is a microcosm of the rapid growth and constant reinvention that defines Las Vegas.
 
-## From Sans Souci to South Seas
+## From [Sans Souci](/posts/sans-souci-hotel-and-casino-las-vegas/) to South Seas
 
-The Castaways’ tale begins with the Sans Souci Hotel, a property struggling financially in the early 1960s. Enter Ben Jaffe, a savvy investor and then-owner of the Tropicana.  Recognizing potential, Jaffe acquired the Sans Souci in bankruptcy and, in a bold move, rebranded it as the Castaways, aiming for a lush Polynesian theme. This wasn’t just a cosmetic change; new rooms were added, and existing ones were remodeled to evoke a tropical paradise. The September 1, 1963, grand opening promised an escape unlike anything else on the Strip at the time – complete with a casino managed by the experienced duo of Ike P. LaRue and Everett Eugene McCarlie.
+The Castaways’ tale begins with the Sans Souci Hotel, a property struggling financially in the early 1960s. Enter Ben Jaffe, a savvy investor and then-owner of the [Tropicana](/posts/tropicana-country-club-las-vegas/).  Recognizing potential, Jaffe acquired the Sans Souci in bankruptcy and, in a bold move, rebranded it as the Castaways, aiming for a lush Polynesian theme. This wasn’t just a cosmetic change; new rooms were added, and existing ones were remodeled to evoke a tropical [paradise](/posts/paradise-hotel-and-casino-las-vegas/). The September 1, 1963, grand opening promised an escape unlike anything else on the Strip at the time – complete with a casino managed by the experienced duo of Ike P. LaRue and Everett Eugene McCarlie.
 
 ## A Turbulent Reign & a Hughes Intervention
 
-Unfortunately, the initial venture didn’t weather the storm. Financial difficulties forced the casino’s closure a mere 15 months after opening, in December 1964. However, the hotel itself continued to operate, a testament to its underlying viability. This precarious situation ultimately brought the Castaways into the orbit of Howard Hughes. Hughes, known for his acquisition and revitalization of Las Vegas properties, purchased the Castaways in 1967 for $3.3 million. 
+Unfortunately, the initial venture didn’t weather the storm. Financial difficulties forced the casino’s closure a mere 15 months after opening, in December 1964. However, the hotel itself continued to operate, a testament to its underlying viability. This precarious situation ultimately brought the Castaways into the [orbit](/posts/orbit-inn-las-vegas/) of Howard Hughes. Hughes, known for his acquisition and revitalization of Las Vegas properties, purchased the Castaways in 1967 for $3.3 million. 
 
 Under Hughes’ ownership, the Castaways enjoyed a period of stability and upgrades.  A significant addition was a larger showroom stage, hinting at the resort's ambition to host bigger acts. Further renovations occurred in 1971 and 1981, modernizing the property.
 

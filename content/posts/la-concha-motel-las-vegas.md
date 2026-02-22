@@ -13,7 +13,7 @@ Few Las Vegas landmarks sparked as much awe and envy as the La Concha Motel. Ope
 
 ## Googie Glory & Star-Studded Stays
 
-La Concha became synonymous with Vegas glamour. Its Googie architecture – characterized by its boomerang shapes, exaggerated angles, and neon accents – captured the spirit of the burgeoning Strip. Located between the Riviera and Silver City (both with Williams’s touch!), La Concha was a prime destination. The motel’s guest list read like a who’s who of Hollywood: Ronald Reagan, Ann-Margret, Flip Wilson, Muhammad Ali, and the Carpenters all graced its rooms.
+La Concha became synonymous with Vegas glamour. Its Googie architecture – characterized by its boomerang shapes, exaggerated angles, and neon accents – captured the spirit of the burgeoning Strip. Located between the [Riviera](/posts/riviera-hotel-and-casino-las-vegas/) and [Silver City](/posts/silver-city-hotel-and-casino-las-vegas/) (both with Williams’s touch!), La Concha was a prime destination. The motel’s guest list read like a who’s who of Hollywood: Ronald Reagan, Ann-Margret, Flip Wilson, Muhammad Ali, and the Carpenters all graced its rooms.
 
 The lobby’s hyperbolic paraboloid form wasn't just aesthetically pleasing; it was an engineering feat. It became *the* place to be seen, and a photographer's dream. The whole design embodied the futuristic hopes and dreams of the early 60s.
 

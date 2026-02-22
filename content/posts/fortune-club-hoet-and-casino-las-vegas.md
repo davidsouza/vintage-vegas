@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "fortune club hoet and casino las v
 
 ## A Fleeting Fortune on Fremont Street
 
-Before the mega-resorts and themed hotels dominated the Las Vegas landscape, Downtown reigned supreme. Among the bustling establishments of Fremont Street in the 1950s was the Fortune Club, a short-lived but notable casino offering a glimpse into a different era of Las Vegas. Located at 109 Fremont Street, it operated from 1953 to 1958, becoming just another piece of the puzzle that would become the entertainment capital of the world.
+Before the mega-resorts and themed hotels dominated the Las Vegas landscape, Downtown reigned supreme. Among the bustling establishments of Fremont Street in the 1950s was the [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/), a short-lived but notable casino offering a glimpse into a different era of Las Vegas. Located at 109 Fremont Street, it operated from 1953 to 1958, becoming just another piece of the puzzle that would become the entertainment capital of the world.
 
 ## The Early Days: Slots, Blackjack, and Bingo
 
@@ -17,7 +17,7 @@ The original Fortune Club was the brainchild of Cecil Lynch, Harry Gordon, and R
 
 ## A Name Game and a Split
 
-The club's history took a surprising turn in December 1957. Lynch and Gordon hatched a plan to open a *new* club – also using the “Fortune” name – to debut on New Year’s Eve. This didn't sit well with Van Santen. He felt strongly that the “Fortune” name should remain solely associated with *his* establishment and opposed the duplication. The ensuing disagreement led to a fascinating and distinctly Las Vegas-esque split. Van Santen, unwilling to share the name, rebranded his venue as the Nevada Club, a solid name befitting the Nevada location. Meanwhile, Lynch and Gordon were free to proceed with their new venture, which subsequently became Cecil Lynch’s Fortune Club – completely unrelated to the original.
+The club's history took a surprising turn in December 1957. Lynch and Gordon hatched a plan to open a *new* club – also using the “Fortune” name – to debut on New Year’s Eve. This didn't sit well with Van Santen. He felt strongly that the “Fortune” name should remain solely associated with *his* establishment and opposed the duplication. The ensuing disagreement led to a fascinating and distinctly Las Vegas-esque split. Van Santen, unwilling to share the name, rebranded his venue as the [Nevada Club](/posts/nevada-club-casino-las-vegas/), a solid name befitting the Nevada location. Meanwhile, Lynch and Gordon were free to proceed with their new venture, which subsequently became Cecil Lynch’s Fortune Club – completely unrelated to the original.
 
 ## A Golden Nugget Ending
 

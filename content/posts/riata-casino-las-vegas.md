@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "riata casino las vegas"]
 
 # A Brief Blaze: The Story of the Riata Casino
 
-Vintage Las Vegas is filled with tales of ambitious dreams and spectacular failures, and few stories are as concise and poignant as that of the Riata Casino. Opened in July 1973, this little-remembered casino occupied a prime location at 3001 Las Vegas Boulevard South – directly across from the iconic Stardust Hotel and Casino. Today, the site is the Silver City Plaza, but for a mere year, it was the Riata, a blink-and-you’ll-miss-it chapter in Strip history.
+Vintage Las Vegas is filled with tales of ambitious dreams and spectacular failures, and few stories are as concise and poignant as that of the Riata Casino. Opened in July 1973, this little-remembered casino occupied a prime location at 3001 Las Vegas Boulevard South – directly across from the iconic [Stardust Hotel and Casino](/posts/stardust-hotel-and-casino-las-vegas/). Today, the site is the [Silver City](/posts/silver-city-hotel-and-casino-las-vegas/) Plaza, but for a mere year, it was the Riata, a blink-and-you’ll-miss-it chapter in Strip history.
 
 ## The Plaza Connection & Early Struggles
 

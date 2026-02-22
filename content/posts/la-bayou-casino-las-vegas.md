@@ -11,10 +11,9 @@ youtube_title: "Vintage Vegas Bio: La Bayou Casino #casinolasvegas #vintage #cas
 youtube_thumbnail: "https://i.ytimg.com/vi/SkT4tb-oyd0/hqdefault.jpg"
 ---
 
+## From Coffee House to [Coin Castle](/posts/coin-castle-casino-las-vegas/): A Storied Fremont Street Location
 
-## From Coffee House to Coin Castle: A Storied Fremont Street Location
-
-La Bayou Casino, sadly lost to demolition in 2016, occupied a prime spot at 15 East Fremont Street, right on the bustling Fremont Street Experience. But its story goes far deeper than its 17-year run as a casino. The land itself holds a remarkable legacy, starting all the way back in 1913 as the Las Vegas Coffee House. It’s a location intertwined with the very fabric of Las Vegas’s gambling history, becoming the Northern Club in 1920 and famously earning Mayme Stocker the first-ever gaming license in Las Vegas. Through the decades, it’s been known as the Turf Club, Monte Carlo Club, and most memorably, the Coin Castle.
+La Bayou Casino, sadly lost to demolition in 2016, occupied a prime spot at 15 East Fremont Street, right on the bustling Fremont Street Experience. But its story goes far deeper than its 17-year run as a casino. The land itself holds a remarkable legacy, starting all the way back in 1913 as the Las Vegas Coffee House. It’s a location intertwined with the very fabric of Las Vegas’s gambling history, becoming the [Northern Club](/posts/northern-club-las-vegas/) in 1920 and famously earning Mayme Stocker the first-ever gaming license in Las Vegas. Through the decades, it’s been known as the Turf Club, [Monte Carlo Club](/posts/monte-carlo-club-las-vegas/), and most memorably, the Coin Castle.
 
 ## The Coin Castle Era and Herb Pastor's Vision
 
@@ -26,7 +25,7 @@ La Bayou distinguished itself from the rapidly evolving Las Vegas landscape with
 
 ## A Legacy of Charm, Lost But Not Forgotten
 
-After Herb Pastor, his son Steve Burnstine took over, carefully preserving the essence of La Bayou. The casino’s quirky, nostalgic atmosphere and its commitment to classic gaming resonated with locals and tourists alike. While the Stevens brothers, owners of Golden Gate, The D, and Las Vegas Club, ultimately acquired the property in 2016, integrating the space into an expanded Golden Gate, the loss of La Bayou was felt deeply within the Fremont Street community. It’s a poignant reminder of a simpler, more playful era in Las Vegas, a period that continues to inspire nostalgia and appreciation for the city’s unique history. The coins may be gone, but the memories of La Bayou live on.
+After Herb Pastor, his son Steve Burnstine took over, carefully preserving the essence of La Bayou. The casino’s quirky, nostalgic atmosphere and its commitment to classic gaming resonated with locals and tourists alike. While the Stevens brothers, owners of [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/), The D, and [Las Vegas Club](/posts/las-vegas-club-hotel-and-casino-las-vegas/), ultimately acquired the property in 2016, integrating the space into an expanded Golden Gate, the loss of La Bayou was felt deeply within the Fremont Street community. It’s a poignant reminder of a simpler, more playful era in Las Vegas, a period that continues to inspire nostalgia and appreciation for the city’s unique history. The coins may be gone, but the memories of La Bayou live on.
 
 
 <div class="shop-collection">

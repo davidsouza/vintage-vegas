@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "el rancho hotel and casino las leg
 
 # The Birth of the Strip: El Rancho Vegas
 
-The Las Vegas Strip as we know it wouldn’t exist without El Rancho Hotel and Casino. Opened on April 3, 1941, it wasn’t just another hotel; it was the *first* resort on what was then Highway 91, now the iconic Las Vegas Strip. Visionary businessman Tommy Hull saw the potential of attracting Los Angeles travelers to this desert oasis, and El Rancho was his gamble. Designed by the talented Wayne McAllister, the resort aimed for an Old West charm, a theme that would become a signature of early Las Vegas establishments.
+The Las Vegas Strip as we know it wouldn’t exist without [El Rancho Hotel and Casino](/posts/el-rancho-hotel-and-casino-las-vegas/). Opened on April 3, 1941, it wasn’t just another hotel; it was the *first* resort on what was then Highway 91, now the iconic Las Vegas Strip. Visionary businessman Tommy Hull saw the potential of attracting Los Angeles travelers to this desert oasis, and El Rancho was his gamble. Designed by the talented Wayne McAllister, the resort aimed for an Old West charm, a theme that would become a signature of early Las Vegas establishments.
 
 ## A Unique Design & Atmosphere
 
@@ -17,13 +17,13 @@ Unlike the towering high-rises of today, El Rancho was initially comprised of 65
 
 ## A Catalyst for Growth
 
-El Rancho's success wasn't just a win for Hull; it was a win for Las Vegas. Its popularity spurred others to invest in the area, directly leading to the development of the other resorts that would define the Strip – the Sahara, the Flamingo, and many more. El Rancho proved that a resort catering to a leisure-focused clientele could thrive in the desert. 
+El Rancho's success wasn't just a win for Hull; it was a win for Las Vegas. Its popularity spurred others to invest in the area, directly leading to the development of the other resorts that would define the Strip – the [Sahara](/posts/sahara-hotel-and-casino-las-vegas/), the Flamingo, and many more. El Rancho proved that a resort catering to a leisure-focused clientele could thrive in the desert. 
 
 ## A Tragic End and a Lost Legacy
 
 Sadly, El Rancho’s story took a tragic turn. On June 17, 1960, a devastating fire ripped through the main building, causing significant damage. While the individual cottages remarkably survived, the heart of El Rancho was lost. The property never truly recovered, and eventually, it closed its doors permanently.
 
-Following its closure, the land sat vacant for decades, enduring numerous redevelopment proposals that ultimately fell through. Ownership passed to Howard Hughes, then MGM Resorts International, and finally, to Phil Ruffin. Today, the site is known as Las Vegas Festival Grounds, an open-air venue, a far cry from the charming Old West resort that once stood there. Though the name El Rancho is gone, its legacy lives on – as the foundational stone upon which the Las Vegas Strip was built.
+Following its closure, the land sat vacant for decades, enduring numerous redevelopment proposals that ultimately fell through. Ownership passed to Howard Hughes, then MGM Resorts [International](/posts/international-hotel-las-vegas/), and finally, to Phil Ruffin. Today, the site is known as Las Vegas Festival Grounds, an open-air venue, a far cry from the charming Old West resort that once stood there. Though the name El Rancho is gone, its legacy lives on – as the foundational stone upon which the Las Vegas Strip was built.
 
 
 <div class="shop-collection">

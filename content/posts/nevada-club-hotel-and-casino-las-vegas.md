@@ -11,10 +11,9 @@ youtube_title: "Vintage Las Vegas Nevada Club Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/wrPVKU7ywQc/hqdefault.jpg"
 ---
 
-
 ## From Turf Club to a Strip Staple: The Early Years
 
-Before the mega-resorts and dazzling fountains, the Las Vegas Strip was a collection of smaller, scrappier casinos vying for attention. Among them stood the Nevada Club Hotel & Casino, a vital piece of that early landscape. Its story began in 1952, not as the Nevada Club, but as the Santa Anita Turf Club. A relatively simple operation initially, it was quickly scooped up and rebranded, laying the groundwork for what would become a significant (and noisy!) landmark.
+Before the mega-resorts and dazzling fountains, the Las Vegas Strip was a collection of smaller, scrappier casinos vying for attention. Among them stood the [Nevada Club](/posts/nevada-club-casino-las-vegas/) Hotel & Casino, a vital piece of that early landscape. Its story began in 1952, not as the Nevada Club, but as the Santa Anita Turf Club. A relatively simple operation initially, it was quickly scooped up and rebranded, laying the groundwork for what would become a significant (and noisy!) landmark.
 
 ## The Van Santen Era & The Slot Machine War
 
@@ -24,7 +23,7 @@ But Van Santen didn’t stop at bigger payouts. He understood the psychology of 
 
 ## Mergers & Transformations
 
-Van Santen’s ambitious expansion continued. In 1957, the Nevada Club absorbed not only the Fortune Club but also the adjacent Western Union office, consolidating a larger presence on the Strip. The casino was becoming a force to be reckoned with. A further transformation came in 1962 when it was rebranded as Diamond Jim’s Nevada Club, accompanied by a massive, 75-foot marquee that instantly made it a more prominent fixture on the skyline.
+Van Santen’s ambitious expansion continued. In 1957, the Nevada Club absorbed not only the [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/) but also the adjacent Western Union office, consolidating a larger presence on the Strip. The casino was becoming a force to be reckoned with. A further transformation came in 1962 when it was rebranded as Diamond Jim’s Nevada Club, accompanied by a massive, 75-foot marquee that instantly made it a more prominent fixture on the skyline.
 
 ## A Legacy of Innovation & Demise
 

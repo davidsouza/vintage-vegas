@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "the brewery restaurant las vegas"]
 
 # A Slice of Vegas Life: The Brewery Restaurant
 
-Before the mega-resorts and celebrity chef empires, Las Vegas had a different kind of charm. Tucked away from the dazzling lights of the Strip, a restaurant called The Brewery Restaurant carved out a special place in the hearts of locals and casino employees alike. Located at 3824 S. Paradise Road, near Paradise and Twain, this beloved establishment represents a distinct era of Las Vegas history – the late 1970s and 1980s.
+Before the mega-resorts and celebrity chef empires, Las Vegas had a different kind of charm. Tucked away from the dazzling lights of the Strip, a restaurant called The Brewery Restaurant carved out a special place in the hearts of locals and casino employees alike. Located at 3824 S. [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Road, near Paradise and Twain, this beloved establishment represents a distinct era of Las Vegas history – the late 1970s and 1980s.
 
 ## More Than Just a Name
 

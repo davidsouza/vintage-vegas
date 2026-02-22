@@ -7,7 +7,7 @@ location: "Lady Luck Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "lady luck hotel and casino las vegas"]
 ---
 
-## A Lucky Start: From Honest John's to Lady Luck
+## A [Lucky](/posts/lucky-casino-las-vegas/) Start: From Honest John's to Lady Luck
 
 The corner of Fremont and Las Vegas Boulevard is a prime piece of real estate, and its history reflects the evolving fortunes of Las Vegas itself. Before the dazzling lights of the Downtown Grand shone brightly, this location was home to Honest John’s, a simple newsstand and barbershop. Can you imagine a bustling Strip starting with such unassuming roots? It’s a testament to how far Las Vegas has come.
 

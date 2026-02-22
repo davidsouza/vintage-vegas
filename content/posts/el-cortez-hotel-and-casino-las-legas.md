@@ -11,10 +11,9 @@ youtube_title: "Vintage Las Vegas El Cortez Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/3BWFOedT3Hg/hqdefault.jpg"
 ---
 
-
 ## A Downtown Dynasty: The El Cortez Story
 
-Las Vegas history is filled with iconic names and legendary spots, and nestled just a block from the dazzling Fremont Street Experience stands one of the most enduring: the El Cortez Hotel and Casino. Opened on November 7, 1941, by Guy McAfee, it wasn't just another casino; it was a crucial piece of the developing Las Vegas landscape. Back then, Las Vegas wasn’t the sprawling metropolis we know today. It was a dusty desert town slowly transforming into an entertainment destination, and the El Cortez, initially offering 48 rooms and a small casino, was right in the thick of it. Its location, close to Fremont Street (then the main drag!), made it a natural hub for early visitors.
+Las Vegas history is filled with iconic names and legendary spots, and nestled just a block from the dazzling Fremont Street Experience stands one of the most enduring: the [El Cortez Hotel and Casino](/posts/el-cortez-hotel-and-casino-las-vegas/). Opened on November 7, 1941, by Guy McAfee, it wasn't just another casino; it was a crucial piece of the developing Las Vegas landscape. Back then, Las Vegas wasn’t the sprawling metropolis we know today. It was a dusty desert town slowly transforming into an entertainment destination, and the El Cortez, initially offering 48 rooms and a small casino, was right in the thick of it. Its location, close to Fremont Street (then the main drag!), made it a natural hub for early visitors.
 
 ## The Jackie Gaughan Era: A Gambler’s Haven
 

@@ -11,7 +11,7 @@ tags: ["las vegas history", "vintage vegas", "sassy sallys casino las vegas"]
 
 For those of us who remember the vibrant, character-driven days of Downtown Las Vegas, the name “Sassy Sallys” evokes a specific feeling – a playful wink in the neon glow. Located at 32 Fremont Street, in the heart of what's now the Fremont Street Experience, Sassy Sallys Casino wasn’t about extravagant shows or high-roller tables. It was about fun, accessibility, and a healthy dose of Las Vegas personality.
 
-Opening in 1981, Sassy Sallys took over the existing Sundance West space, instantly becoming a memorable fixture on the block. The casino's branding was everything: bold, colorful neon signage featuring a sassy female character perfectly encapsulated the playful spirit. It was a deliberate move, recognizing that Fremont Street, unlike the rapidly developing Strip, thrived on individuality.  While megaresorts began defining the Strip's image, Downtown retained its charm through smaller, themed casinos, and Sassy Sallys was a perfect example.
+Opening in 1981, Sassy Sallys took over the existing [Sundance West](/posts/sundance-west-casino-las-vegas/) space, instantly becoming a memorable fixture on the block. The casino's branding was everything: bold, colorful neon signage featuring a sassy female character perfectly encapsulated the playful spirit. It was a deliberate move, recognizing that Fremont Street, unlike the rapidly developing Strip, thrived on individuality.  While megaresorts began defining the Strip's image, Downtown retained its charm through smaller, themed casinos, and Sassy Sallys was a perfect example.
 
 ## More Than Just a Casino
 
@@ -19,7 +19,7 @@ Inside, Sassy Sallys offered a classic casino experience – low-limit table gam
 
 ## A Brief But Bright Chapter
 
-While Sassy Sallys didn't operate for decades, its impact on Fremont Street's identity is undeniable. It represented a pivotal period in Downtown’s evolution – a time when quirky, themed casinos like Sassy Sallys, Golden Nugget, and Fitzgerald's (also now gone) contributed to the district’s unique character.  In 2000, Herb Pastor reimagined the space as Mermaids Casino, maintaining the site’s tradition of welcoming locals and a playful atmosphere, although the sassy neon persona was retired.
+While Sassy Sallys didn't operate for decades, its impact on Fremont Street's identity is undeniable. It represented a pivotal period in Downtown’s evolution – a time when quirky, themed casinos like Sassy Sallys, Golden Nugget, and Fitzgerald's (also now gone) contributed to the district’s unique character.  In 2000, Herb Pastor reimagined the space as [Mermaids Casino](/posts/mermaids-casino-las-vegas/), maintaining the site’s tradition of welcoming locals and a playful atmosphere, although the sassy neon persona was retired.
 
 Today, the location once graced by Sassy Sallys is home to the impressive Circa Resort and Casino. While the name and neon sign are gone, the spirit of Sassy Sallys lives on in the memories of those who experienced it - a nostalgic reminder of a time when Fremont Street was a little wilder, a little less polished, and a whole lot more sassy.
 

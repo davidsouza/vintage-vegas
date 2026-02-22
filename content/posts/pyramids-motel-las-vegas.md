@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "pyramids motel las vegas"]
 
 ## A Glimpse of Early Strip Dreams: The Pyramids Motel
 
-The Las Vegas Strip we know today – a dazzling expanse of mega-resorts and themed attractions – didn't spring up overnight. It evolved, brick by brick, motel by motel. Tucked amidst the giants like the Flamingo and the Sands, a small but charming property called the Pyramids Motel played a vital role in that early evolution. Opened in December 1952, the same day as the Sands, it’s a reminder of a different era on the Strip, one of ambitious small-scale developers and the burgeoning entertainment scene.
+The Las Vegas Strip we know today – a dazzling expanse of mega-resorts and themed attractions – didn't spring up overnight. It evolved, brick by brick, motel by motel. Tucked amidst the giants like the Flamingo and [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/), a small but charming property called the Pyramids Motel played a vital role in that early evolution. Opened in December 1952, the same day as the [Sands](/posts/sands-hotel-and-casino-las-vegas/), it’s a reminder of a different era on the Strip, one of ambitious small-scale developers and the burgeoning entertainment scene.
 
 ## A Young Developer's First Venture
 

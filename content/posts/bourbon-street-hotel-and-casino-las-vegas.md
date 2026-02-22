@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "bourbon street hotel and casino la
 
 ## From Shenandoah to the Big Easy: A Brief History
 
-Before it became the vibrant, if somewhat compact, Bourbon Street Hotel & Casino, the property at 120 E. Flamingo Road in Las Vegas bore a different name: the Shenandoah Hotel. Opened in 1980, the Shenandoah was struggling, and it seemed destined for obscurity. However, a shift in Nevada law in 1985 – allowing foreign ownership of gaming operations – created a pivotal opportunity. Canadian real estate firm Carma Developers (then Allarco Holdings) recognized the potential and swooped in, transforming the struggling Shenandoah into the New Orleans-themed Bourbon Street Hotel & Casino. 
+Before it became the vibrant, if somewhat compact, Bourbon Street Hotel & Casino, the property at 120 E. Flamingo Road in Las Vegas bore a different name: the [Shenandoah Hotel](/posts/shenandoah-hotel-las-vegas/). Opened in 1980, the Shenandoah was struggling, and it seemed destined for obscurity. However, a shift in Nevada law in 1985 – allowing foreign ownership of gaming operations – created a pivotal opportunity. Canadian real estate firm Carma Developers (then Allarco Holdings) recognized the potential and swooped in, transforming the struggling Shenandoah into the New Orleans-themed Bourbon Street Hotel & Casino. 
 
 ## A Taste of New Orleans on the Strip
 

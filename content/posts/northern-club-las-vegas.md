@@ -17,7 +17,7 @@ Everything changed on March 20, 1931. Nevada legalized gambling, a pivotal momen
 
 ## Evolution and Transformations
 
-The Northern Club didn't stay “The Northern” forever.  Like many Las Vegas establishments, it underwent several transformations reflecting changing times and ownership.  In 1943, it morphed into the Turf Club, a name that signaled a shift towards more sophisticated offerings. Later, it became the Monte Carlo Club, evoking the glamour of Monaco, and finally, the Coin Castle, before eventually being absorbed into larger downtown operations. Each name change marked a chapter in the club’s continuous adaptation. 
+The Northern Club didn't stay “The Northern” forever.  Like many Las Vegas establishments, it underwent several transformations reflecting changing times and ownership.  In 1943, it morphed into the Turf Club, a name that signaled a shift towards more sophisticated offerings. Later, it became the [Monte Carlo Club](/posts/monte-carlo-club-las-vegas/), evoking the glamour of [Monaco](/posts/monaco-hotel-and-casino-las-vegas/), and finally, the [Coin Castle](/posts/coin-castle-casino-las-vegas/), before eventually being absorbed into larger downtown operations. Each name change marked a chapter in the club’s continuous adaptation. 
 
 ## A Downtown Gem
 

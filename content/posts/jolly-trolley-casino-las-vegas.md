@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "jolly trolley casino las vegas"]
 
 ## A Trolley Full of Trouble: Introducing Jolly Trolley Casino
 
-The Las Vegas Strip has seen its share of themed casinos, but few were as memorable – or as delightfully scandalous – as the Jolly Trolley Casino. Located at 2440 Las Vegas Boulevard South, right across from the Sahara, the Trolley debuted in 1977, transforming a former shopping center into a vibrant, adult-themed playground. Its eye-catching, trolley-shaped marquee wasn’t just decoration; it perfectly embodied the playful, and at times provocative, atmosphere within. Before the Trolley, the location housed Honest John’s and the Centerfold Casino, each hinting at the adult entertainment that would define Jolly Trolley’s brief but impactful run.
+The Las Vegas Strip has seen its share of themed casinos, but few were as memorable – or as delightfully scandalous – as the Jolly Trolley Casino. Located at 2440 Las Vegas Boulevard South, right across from the [Sahara](/posts/sahara-hotel-and-casino-las-vegas/), the Trolley debuted in 1977, transforming a former shopping center into a vibrant, adult-themed playground. Its eye-catching, trolley-shaped marquee wasn’t just decoration; it perfectly embodied the playful, and at times provocative, atmosphere within. Before the Trolley, the location housed Honest John’s and the [Centerfold Casino](/posts/centerfold-casino-las-vegas/), each hinting at the adult entertainment that would define Jolly Trolley’s brief but impactful run.
 
 ## More Than Meets the Eye (and the Marquee)
 
@@ -21,7 +21,7 @@ Inside, the gaming was enticing. Single-deck blackjack was a draw, with a playfu
 
 The Jolly Trolley’s story is also intertwined with the darker side of Vegas history. Rumors of mob influence were rampant, with speculation about connections to owners like Don Pettit and Paul Bendetti. The notorious Tony Spilotro, a significant figure in Chicago’s organized crime, was even reportedly a regular patron. The FBI’s attention, fueled by these whispers and investigations, contributed to the casino's edgy reputation.
 
-Despite its popularity, the Jolly Trolley’s reign was short-lived, ending abruptly in 1981. Its departure made way for something equally… unique. The space was quickly converted into Bonanza Gift Shop, proclaiming itself "The World’s Largest Gift Shop," a title it still proudly holds.
+Despite its popularity, the Jolly Trolley’s reign was short-lived, ending abruptly in 1981. Its departure made way for something equally… unique. The space was quickly converted into [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Gift Shop, proclaiming itself "The World’s Largest Gift Shop," a title it still proudly holds.
 
 ## A Cheeky Footnote in Vegas Lore
 

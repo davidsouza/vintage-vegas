@@ -13,7 +13,7 @@ The Las Vegas Strip of the 1950s was a very different beast than the mega-resort
 
 ## The Rat Pack’s Late-Night Haven
 
-Louigi’s wasn’t just a restaurant; it was a hotspot. The establishment quickly gained notoriety as *the* late-night destination for the Rat Pack and their entourage. Imagine this: after dazzling performances at The Sands, Frank Sinatra, Dean Martin, Sammy Davis Jr., Peter Lawford, and Joey Bishop would regularly descend upon Louigi’s, often well past midnight. The smoky main dining room became a haven for laughter, camaraderie, and, yes, plenty of cigarettes and cocktails. These weren't carefully orchestrated PR events; these were genuine gatherings of friends, captured by countless onlookers and cemented in Vegas lore.
+Louigi’s wasn’t just a restaurant; it was a hotspot. The establishment quickly gained notoriety as *the* late-night destination for the Rat Pack and their entourage. Imagine this: after dazzling performances at [The Sands](/posts/the-sands-hotel-and-casino-las-vegas/), Frank Sinatra, Dean Martin, Sammy Davis Jr., Peter Lawford, and Joey Bishop would regularly descend upon Louigi’s, often well past midnight. The smoky main dining room became a haven for laughter, camaraderie, and, yes, plenty of cigarettes and cocktails. These weren't carefully orchestrated PR events; these were genuine gatherings of friends, captured by countless onlookers and cemented in Vegas lore.
 
 ## Simple Fare, Big Character
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "jackpot casino and restaurant las 
 
 ## A Simple Proposition on a Changing Strip
 
-The Las Vegas Strip in the early 1970s was a different beast than the mega-resort playground we know today. While the glitter was certainly present, it was often interwoven with a more accessible, down-to-earth vibe. Tucked into the northeast corner of Sahara Avenue and Las Vegas Boulevard, at 2410 South Las Vegas Boulevard, sat a small but memorable player: the Jackpot Casino & Restaurant. Operating from 1971 until roughly 1977-1978, this establishment epitomized a specific moment in Vegas history – a time before the relentless expansion and the escalating price tags that would define the later decades.
+The Las Vegas Strip in the early 1970s was a different beast than the mega-resort playground we know today. While the glitter was certainly present, it was often interwoven with a more accessible, down-to-earth vibe. Tucked into the northeast corner of [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue and Las Vegas Boulevard, at 2410 South Las Vegas Boulevard, sat a small but memorable player: the Jackpot Casino & Restaurant. Operating from 1971 until roughly 1977-1978, this establishment epitomized a specific moment in Vegas history – a time before the relentless expansion and the escalating price tags that would define the later decades.
 
 ## The Appeal of Affordability
 
@@ -21,7 +21,7 @@ The Jackpot’s concept was simple: combine basic gaming with casual dining. It 
 
 ## Lost to Progress, Remembered in Nostalgia
 
-Sadly, like many independent ventures on the Strip, the Jackpot Casino & Restaurant couldn’t withstand the relentless tide of development. It closed its doors sometime in the late 1970s. The building itself was eventually cleared and is now occupied by the Bonanza Gift Shop, a sprawling retail attraction. While the physical location is gone, the memories linger. It represents a quieter, more accessible era of Las Vegas, a time before the themed hotels and exorbitant prices. Its legacy isn’t about grandeur; it’s about a moment in time, a memory of a simple, honest Vegas experience, and a testament to the ingenuity of businesses that sought to serve every level of visitor. And, of course, it lives on in the hearts of vintage Vegas collectors and those who remember enjoying a cheap hot dog and a chance at a jackpot on the Strip.
+Sadly, like many independent ventures on the Strip, the Jackpot Casino & Restaurant couldn’t withstand the relentless tide of development. It closed its doors sometime in the late 1970s. The building itself was eventually cleared and is now occupied by the [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Gift Shop, a sprawling retail attraction. While the physical location is gone, the memories linger. It represents a quieter, more accessible era of Las Vegas, a time before the themed hotels and exorbitant prices. Its legacy isn’t about grandeur; it’s about a moment in time, a memory of a simple, honest Vegas experience, and a testament to the ingenuity of businesses that sought to serve every level of visitor. And, of course, it lives on in the hearts of vintage Vegas collectors and those who remember enjoying a cheap hot dog and a chance at a jackpot on the Strip.
 
 
 <div class="shop-collection">

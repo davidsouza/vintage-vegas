@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "buccaneer bar las vegas"]
 
 ## A Pirate's Life for a Las Vegas Bar (Briefly!) 
 
-Downtown Las Vegas, particularly the legendary El Cortez Hotel & Casino, has a rich and vibrant history. Among its many transformations, one particularly quirky chapter involved the Buccaneer Bar. While it’s a relatively short but fascinating story, it exemplifies a time when Vegas embraced themed entertainment to draw in crowds and create immersive experiences.
+Downtown Las Vegas, particularly the legendary [El Cortez](/posts/el-cortez-hotel-and-casino-las-vegas/) Hotel & Casino, has a rich and vibrant history. Among its many transformations, one particularly quirky chapter involved the Buccaneer Bar. While it’s a relatively short but fascinating story, it exemplifies a time when Vegas embraced themed entertainment to draw in crowds and create immersive experiences.
 
 Originally opening in 1941, the El Cortez underwent significant renovations in the mid-1940s under the direction of founder J. Kell Houssels. These improvements, including a new nightclub and pool, paved the way for something truly unique: a pirate-themed bar.
 

@@ -21,7 +21,7 @@ The late 1980s brought financial challenges. Mounting debt, including significan
 
 ## Absorption into the MGM Empire
 
-In a pivotal moment, Wiesner and his partners sold the Marina to Kirk Kerkorian’s MGM Grand, Inc. in 1989, alongside the Tropicana Country Club. Kerkorian’s vision was ambitious: to create the sprawling MGM Grand Hotel and Theme Park we know today. The $80 million acquisition, finalized in January 1990, marked the end of an era for the Marina. It was rebranded as the MGM Marina and closed its doors for a final time on November 30, 1990, becoming the West Wing of the burgeoning MGM Grand.
+In a pivotal moment, Wiesner and his partners sold the Marina to Kirk Kerkorian’s MGM Grand, Inc. in 1989, alongside the [Tropicana Country Club](/posts/tropicana-country-club-las-vegas/). Kerkorian’s vision was ambitious: to create the sprawling MGM Grand Hotel and Theme Park we know today. The $80 million acquisition, finalized in January 1990, marked the end of an era for the Marina. It was rebranded as the MGM Marina and closed its doors for a final time on November 30, 1990, becoming the West Wing of the burgeoning MGM Grand.
 
 ## A Legacy of Retro Cool
 

@@ -17,7 +17,7 @@ The Hotel Apache was a trailblazer. It wasn't just about a place to sleep; it wa
 
 ## A Short but Significant Run & a New Owner
 
-The Apache thrived for nearly two decades, becoming a beloved landmark. However, in May 1951, after a successful 19-year run, the hotel closed its doors. A new era began when it was purchased by the legendary Benny Binion. Binion, a pivotal figure in Las Vegas gambling history, saw the potential of the downtown area. The Hotel Apache was eventually absorbed into what would become the sprawling Binion’s Horseshoe complex. With Binion’s focus squarely on the casino, the hotel portion largely fell into disuse, fading into relative obscurity for many years.
+The Apache thrived for nearly two decades, becoming a beloved landmark. However, in May 1951, after a successful 19-year run, the hotel closed its doors. A new era began when it was purchased by the legendary Benny Binion. Binion, a pivotal figure in Las Vegas gambling history, saw the potential of the downtown area. The Hotel Apache was eventually absorbed into what would become the sprawling Binion’s [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) complex. With Binion’s focus squarely on the casino, the hotel portion largely fell into disuse, fading into relative obscurity for many years.
 
 ## Rebirth and Ghostly Tales: The Apache Today
 

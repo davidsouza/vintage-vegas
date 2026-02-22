@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "foxys deli restaurant bakery las v
 
 # Foxy’s: Where Stars and Sandwiches Met on the Las Vegas Strip
 
-For those of us who remember the early days of Las Vegas, the name “Foxy’s Delicatessen, Restaurant, and Bakery” instantly conjures a feeling of warmth, familiarity, and a truly unique slice of Vegas history. Located at the corner of Las Vegas Boulevard and Sahara Avenue (then San Francisco Avenue), Foxy's wasn't just a place to eat; it was a cultural hub, a symbol of the city’s burgeoning spirit, and a testament to the power of a good Reuben sandwich.
+For those of us who remember the early days of Las Vegas, the name “Foxy’s Delicatessen, Restaurant, and Bakery” instantly conjures a feeling of warmth, familiarity, and a truly unique slice of Vegas history. Located at the corner of Las Vegas Boulevard and [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue (then San Francisco Avenue), Foxy's wasn't just a place to eat; it was a cultural hub, a symbol of the city’s burgeoning spirit, and a testament to the power of a good Reuben sandwich.
 
 ## A New York Taste in the Desert
 

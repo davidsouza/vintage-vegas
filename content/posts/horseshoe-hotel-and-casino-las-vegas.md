@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "horseshoe hotel and casino las veg
 
 ## A Downtown Revolution: The Birth of the Horseshoe
 
-Before the sprawling mega-resorts of the Las Vegas Strip dominated the skyline, downtown Fremont Street was the heart of Las Vegas gaming. And in 1951, Benny Binion arrived and fundamentally altered its pulse. He opened the Horseshoe Hotel and Casino at 128 Fremont Street, not with flash and fanfare, but with a commitment to fair odds and a gambler's paradise. This wasn’t about stuffy formality; it was about welcoming players of all levels and treating everyone with respect – a radical shift from the existing casino culture.
+Before the sprawling mega-resorts of the Las Vegas Strip dominated the skyline, downtown Fremont Street was the heart of Las Vegas gaming. And in 1951, Benny Binion arrived and fundamentally altered its pulse. He opened the Horseshoe Hotel and Casino at 128 Fremont Street, not with flash and fanfare, but with a commitment to fair odds and a gambler's [paradise](/posts/paradise-hotel-and-casino-las-vegas/). This wasn’t about stuffy formality; it was about welcoming players of all levels and treating everyone with respect – a radical shift from the existing casino culture.
 
 Binion’s philosophy was simple and incredibly effective: high-stakes, no-limit betting, and personalized service. He believed in treating small bettors like big ones, and big bettors like royalty. This created an atmosphere of genuine excitement and trust that drew players from across the country and around the world. The Horseshoe quickly became *the* place to be for serious gamblers looking for a fair shake.
 

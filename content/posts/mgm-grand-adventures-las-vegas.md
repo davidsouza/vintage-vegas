@@ -9,13 +9,13 @@ tags: ["las vegas history", "vintage vegas", "mgm grand adventures las vegas"]
 
 ## Beyond the Blackjack: The MGM Grand Adventures Dream
 
-The Las Vegas Strip. We think of glittering casinos, world-class shows, and high-rolling excitement. But did you know, for a brief but vibrant period, the Strip hosted something a little different: a theme park? MGM Grand Adventures, launched on December 18, 1993, was a bold attempt to expand Las Vegas’s appeal beyond the gambling crowd, targeting families and injecting a dose of Disney-esque fun into the desert landscape.  Built atop the former Tropicana golf course and originally spanning 33 acres, it was an audacious undertaking for MGM.
+The Las Vegas Strip. We think of glittering casinos, world-class shows, and high-rolling excitement. But did you know, for a brief but vibrant period, the Strip hosted something a little different: a theme park? MGM Grand Adventures, launched on December 18, 1993, was a bold attempt to expand Las Vegas’s appeal beyond the gambling crowd, targeting families and injecting a dose of Disney-esque fun into the desert landscape.  Built atop the former [Tropicana](/posts/tropicana-country-club-las-vegas/) golf course and originally spanning 33 acres, it was an audacious undertaking for MGM.
 
 ## A Movie Backlot Come to Life
 
-The park’s design was heavily influenced by a movie studio backlot, aiming for immersive themed zones. Guests entered through Casablanca Plaza, stepping into a meticulously crafted world that included New York Street, an Asian Village, Olde England, and a classic Old West. Rides ranged from thrilling experiences like the indoor Lightning Bolt coaster (which bravely expanded outdoors in 1997) and the SkyScreamer skycoaster to splashy water rides like Over the Edge and Grand Canyon Rapids. Live entertainment was a key component, with theatrical stages hosting everything from the swashbuckling Dueling Pirates stunt show to character meet-and-greets with the park’s mascot, King Looey.
+[The park](/posts/the-park-hotel-and-casino-las-vegas/)’s design was heavily influenced by a movie studio backlot, aiming for immersive themed zones. Guests entered through Casablanca Plaza, stepping into a meticulously crafted world that included New York Street, an Asian Village, Olde England, and a classic Old West. Rides ranged from thrilling experiences like the indoor Lightning Bolt coaster (which bravely expanded outdoors in 1997) and the SkyScreamer skycoaster to splashy water rides like Over the Edge and Grand Canyon Rapids. Live entertainment was a key component, with theatrical stages hosting everything from the swashbuckling Dueling Pirates stunt show to character meet-and-greets with the park’s mascot, King Looey.
 
-## Short-Lived Splendor & Shifting Sands
+## Short-Lived Splendor & Shifting [Sands](/posts/sands-hotel-and-casino-las-vegas/)
 
 Despite its ambition and unique charm, MGM Grand Adventures struggled. The intense Nevada heat proved a significant obstacle, even with shaded areas. Competition from indoor rivals like the Adventuredome was fierce. Operational costs mounted, leading to a $8 million reconfiguration in 1996, significantly shrinking the park’s footprint to just 18.8 acres in 1997 to make way for desperately needed pool space, a spa, and conference facilities.  By 1998, the park transitioned to seasonal operation. 
 

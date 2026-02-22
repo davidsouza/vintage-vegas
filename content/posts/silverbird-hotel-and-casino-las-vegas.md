@@ -11,8 +11,7 @@ youtube_title: "Vintage Las Vegas Silverbird Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/hFjhreejhNs/hqdefault.jpg"
 ---
 
-
-## From Thunderbird to Silverbird: A New Vision for Value
+## From [Thunderbird](/posts/thunderbird-hotel-and-casino-las-vegas/) to Silverbird: A New Vision for Value
 
 The Las Vegas Strip has seen its share of transformations, but few stories are as poignant as that of the Silverbird Hotel and Casino. Originally the Thunderbird Hotel, a long-standing fixture on the Strip, it embarked on a brief but ambitious reinvention in the mid-1970s. In December 1976, Major Riddle, a local businessman, acquired the property with a bold plan: to rename it the Silverbird and revitalize its image.
 

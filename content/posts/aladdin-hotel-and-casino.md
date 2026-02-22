@@ -7,7 +7,7 @@ location: "Aladdin Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "aladdin hotel and casino"]
 ---
 
-# Remembering the Magic of the Aladdin Hotel and Casino
+# Remembering the Magic of the [Aladdin Hotel and Casino](/posts/aladdin-hotel-and-casino-las-vegas/)
 
 The Las Vegas Strip has seen countless transformations over the decades, but few disappearances were as dramatic as the original Aladdin Hotel and Casino. Opening its doors at midnight on April 1, 1966, at 3667 South Las Vegas Blvd, the Aladdin wasn’t just another casino; it was a full-fledged theatrical experience transported to the desert.
 

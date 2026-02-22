@@ -7,11 +7,11 @@ location: "Fitgeralds Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "fitgeralds hotel and casino las vegas"]
 ---
 
-## From Sundance to Shamrock: The Fitzgeralds Story
+## From [Sundance](/posts/sundance-hotel-and-casino-las-vegas/) to Shamrock: The [Fitzgeralds](/posts/fitzgeralds-hotel-and-casino/) Story
 
-Downtown Las Vegas in the 1980s was a landscape of established casinos and burgeoning growth. Perched at the eastern end of Fremont Street, at 301 Fremont Street, stood what began as the Sundance Hotel. This wasn't just any hotel; it was connected to the legendary Moe Dalitz, a name synonymous with Las Vegas history and the Stardust. Initially managed by Al Sachs and Herb Tobman, the Sundance laid the groundwork for what would become a beloved and uniquely themed casino resort.
+Downtown Las Vegas in the 1980s was a landscape of established casinos and burgeoning growth. Perched at the eastern end of Fremont Street, at 301 Fremont Street, stood what began as the Sundance Hotel. This wasn't just any hotel; it was connected to the legendary Moe Dalitz, a name synonymous with Las Vegas history and the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/). Initially managed by Al Sachs and Herb Tobman, the Sundance laid the groundwork for what would become a beloved and uniquely themed casino resort.
 
-Then came 1987, and a pivotal change. Lincoln Management Group / Fitzgeralds Gaming purchased the property and gave it a vibrant new identity: Fitzgeralds Las Vegas. Suddenly, the tower was draped in green, adorned with shamrocks, and a mischievous cartoon leprechaun became the casino’s cheerful mascot. This branding wasn't just about aesthetics; it positioned Fitzgeralds as a fun, accessible alternative within a growing downtown market.
+Then came 1987, and a pivotal change. Lincoln Management Group / Fitzgeralds Gaming purchased the property and gave it a vibrant new identity: [Fitzgeralds Las Vegas](/posts/fitzgeralds-las-vegas/). Suddenly, the tower was draped in green, adorned with shamrocks, and a mischievous cartoon leprechaun became the casino’s cheerful mascot. This branding wasn't just about aesthetics; it positioned Fitzgeralds as a fun, accessible alternative within a growing downtown market.
 
 ## A Downtown Favorite
 
@@ -21,7 +21,7 @@ For years, Fitzgeralds was a staple for locals and tourists alike. The 42,000-sq
 
 The early 2000s brought turbulence. Fitzgeralds Gaming faced bankruptcy, leading to a sale in 2001. This marked a significant moment – Don Barden, a Detroit-based entrepreneur, acquired the property, becoming the first African American to own a casino in Las Vegas. Barden’s investment revitalized Fitzgeralds, with fresh paint, renovations to the buffet and steakhouse, and upgrades to the showroom. His commitment helped stabilize the property during a critical period.
 
-After Barden’s passing, the Stevens brothers, already owners of the Golden Gate, took over in 2011. They embarked on a $22 million renovation, modernizing the casino and rooms. In 2012, the Fitzgeralds name officially retired, giving way to The D Las Vegas. 
+After Barden’s passing, the Stevens brothers, already owners of the [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/), took over in 2011. They embarked on a $22 million renovation, modernizing the casino and rooms. In 2012, the Fitzgeralds name officially retired, giving way to The D Las Vegas. 
 
 ## A Legacy Lives On
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "louigis downtown las vegas"]
 
 ## A Comfortable Haven on Fremont Street: Introducing Louigi’s
 
-When we think of vintage Las Vegas, visions of dazzling showrooms and high-roller extravagance often come to mind. But beneath the glitz and glamour of the Strip, Downtown Las Vegas held its own unique charm – and integral to that charm were establishments like Louigi’s. Nestled within the Silver Palace Casino on Fremont Street, Louigi’s was far more than just a restaurant; it was a refuge, a community hub, and a testament to a more approachable, comfortable era of Vegas hospitality.
+When we think of vintage Las Vegas, visions of dazzling showrooms and high-roller extravagance often come to mind. But beneath the glitz and glamour of the Strip, Downtown Las Vegas held its own unique charm – and integral to that charm were establishments like Louigi’s. Nestled within the [Silver Palace Casino](/posts/silver-palace-casino-las-vegas/) on Fremont Street, Louigi’s was far more than just a restaurant; it was a refuge, a community hub, and a testament to a more approachable, comfortable era of Vegas hospitality.
 
 The Silver Palace, opening in 1956, was a pioneer. It famously held the distinction of being Las Vegas’s first fully coin-operated casino, a modern marvel of chrome and glass. While the casino itself grabbed headlines, Louigi’s carved out its own identity. Situated away from the relentless clatter of those pioneering slot machines, Louigi’s offered patrons a much-needed respite. 
 
@@ -21,7 +21,7 @@ The aesthetic was perfectly pitched for the era: cozy booths, polished wood, sof
 
 ## A Legacy Faded with the Times
 
-Louigi's played a pivotal role in shaping the Silver Palace's identity – it wasn't *just* a casino; it was a complete entertainment experience. However, as Downtown Las Vegas underwent constant evolution and redevelopment, the Silver Palace, and by extension Louigi's, eventually succumbed to the relentless churn. The property changed hands multiple times, ultimately transforming into the Carousel Casino and later becoming part of the Fremont Street Experience.  
+Louigi's played a pivotal role in shaping the Silver Palace's identity – it wasn't *just* a casino; it was a complete entertainment experience. However, as Downtown Las Vegas underwent constant evolution and redevelopment, the Silver Palace, and by extension Louigi's, eventually succumbed to the relentless churn. The property changed hands multiple times, ultimately transforming into the [Carousel](/posts/carousel-hotel-and-casino-las-vegas/) Casino and later becoming part of the Fremont Street Experience.  
 
 Today, no physical trace of Louigi’s remains. Yet, the memories endure. Old menus, faded matchbooks, and the recollections of longtime locals keep the spirit of Louigi’s alive – a nostalgic reminder of a time when Fremont Street offered a sense of familiarity and comfort alongside the dazzling neon glow. Louigi's serves as a powerful symbol of a quieter, more grounded era of Las Vegas history.
 

@@ -7,7 +7,7 @@ location: "Girls of Glitter Gultch Gentlemens Club Las Vegas"
 tags: ["las vegas history", "vintage vegas", "girls of glitter gultch gentlemens club las vegas"]
 ---
 
-## From Golden Goose to Girls of Glitter Gulch: A Fremont Street Evolution
+## From [Golden Goose](/posts/golden-goose-hotel-and-casino-las-vegas/) to Girls of [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/): A Fremont Street Evolution
 
 The Fremont Street Experience is synonymous with old-school Vegas, but beneath the dazzling Viva Vision light show lies a rich and often-forgotten history. Today, Circa Resort & Casino stands proudly on Fremont Street, but before it rose from the desert dust, the land was home to a landmark in Vegas nightlife: Girls of Glitter Gulch, a gentlemen’s club with a story all its own.
 

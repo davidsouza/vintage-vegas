@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "las vegas hilton hotel and casino 
 
 ## The Rise of a Vegas Giant
 
-The Las Vegas Hilton. Just the name conjures up images of glitz, Elvis, and a bygone era of Las Vegas excess. But its story is far more complex than just shimmering lights and showstopping performances. Initially known as the International Hotel and Casino, it was the brainchild of Kirk Kerkorian, aiming to compete with the iconic Sahara and Flamingo. In 1970, Kerkorian began selling shares to Hilton Hotels, a pivotal moment that cemented the property's destiny. The official renaming to Las Vegas Hilton in July 1971 signaled a new chapter and, ultimately, a dramatic shift in its fortunes.
+The Las Vegas Hilton. Just the name conjures up images of glitz, Elvis, and a bygone era of Las Vegas excess. But its story is far more complex than just shimmering lights and showstopping performances. Initially known as the [International Hotel](/posts/international-hotel-las-vegas/) and Casino, it was the brainchild of Kirk Kerkorian, aiming to compete with the iconic [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) and Flamingo. In 1970, Kerkorian began selling shares to Hilton Hotels, a pivotal moment that cemented the property's destiny. The official renaming to Las Vegas Hilton in July 1971 signaled a new chapter and, ultimately, a dramatic shift in its fortunes.
 
 ## A Hilton Transformation and Record-Breaking Growth
 

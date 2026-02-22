@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "kit carson motel las vegas"]
 
 ## A Roadside Oasis: The Kit Carson Motel Emerges
 
-Before the mega-resorts, before the choreographed water shows and indoor canals, Las Vegas Boulevard was a different beast – a stretch of U.S. 91 catering to travelers making their way across the American West. Amongst those stops, nestled between the Last Frontier and the Flamingo, stood the Kit Carson Motel, a vibrant symbol of post-war leisure and the burgeoning Las Vegas Strip. Its story, like so many early Strip landmarks, is one of transition, ambition, and ultimately, loss.
+Before the mega-resorts, before the choreographed water shows and indoor canals, Las Vegas Boulevard was a different beast – a stretch of U.S. 91 catering to travelers making their way across the American West. Amongst those stops, nestled between the Last [Frontier](/posts/frontier-hotel-and-casino-las-vegas/) and the Flamingo, stood the Kit Carson Motel, a vibrant symbol of post-war leisure and the burgeoning Las Vegas Strip. Its story, like so many early Strip landmarks, is one of transition, ambition, and ultimately, loss.
 
 Initially, the property debuted in the mid-1940s as the Kit Carson Club. It was a more humble establishment then, but its evolution into a full-fledged motel in the early 1950s marked a significant shift. This wasn’t just about providing a place to sleep; it was about offering a complete travel experience – something appealing to the increasingly sophisticated tourist who was beginning to flock to Nevada.
 

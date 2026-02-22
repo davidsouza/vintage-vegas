@@ -13,13 +13,13 @@ Before the mega-resorts and choreographed fountain shows, Downtown Las Vegas was
 
 ## Who Ran the Fortune?
 
-The Fortune Club was the brainchild of Cecil Lynch, Harry Gordon, and Robert Van Santen. The trio capitalized on the burgeoning gambling scene, offering classic casino games like slots, blackjack, and bingo. These were the bread and butter of the era, providing entertainment and a chance for a lucky win. It catered to a diverse crowd, reflecting the changing demographics of early Las Vegas.
+The Fortune Club was the brainchild of Cecil Lynch, Harry Gordon, and Robert Van Santen. The trio capitalized on the burgeoning gambling scene, offering classic casino games like slots, blackjack, and bingo. These were the bread and butter of the era, providing entertainment and a chance for a [lucky](/posts/lucky-casino-las-vegas/) win. It catered to a diverse crowd, reflecting the changing demographics of early Las Vegas.
 
 ## A Name Dispute & A Split
 
 The story of the Fortune Club takes a twist in 1957. Lynch and Gordon hatched a plan to launch a *new* club, also bearing the “Fortune” name, slated to open on New Year’s Eve. This didn’t sit well with Van Santen. He felt strongly that the name should remain exclusively associated with his establishment. A disagreement ensued, leading to a surprising and significant split.
 
-Van Santen, wanting to distance himself from the impending duplicate, rebranded his original venue as the Nevada Club. Meanwhile, Lynch and Gordon proceeded with their plans, establishing Cecil Lynch’s Fortune Club (distinct from Van Santen’s Nevada Club). It's a fascinating example of how even seemingly small business disagreements could lead to tangible shifts in the Las Vegas landscape.
+Van Santen, wanting to distance himself from the impending duplicate, rebranded his original venue as the [Nevada Club](/posts/nevada-club-casino-las-vegas/). Meanwhile, Lynch and Gordon proceeded with their plans, establishing Cecil Lynch’s Fortune Club (distinct from Van Santen’s Nevada Club). It's a fascinating example of how even seemingly small business disagreements could lead to tangible shifts in the Las Vegas landscape.
 
 ## From Fortune to Golden Nugget
 

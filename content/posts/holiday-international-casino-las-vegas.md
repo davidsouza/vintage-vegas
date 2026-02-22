@@ -7,7 +7,7 @@ location: "Holiday International Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "holiday international casino las vegas"]
 ---
 
-## A Bold Bet: The Holiday International's Arrival in 1978
+## A Bold Bet: The [Holiday](/posts/holiday-casino-las-vegas/) [International](/posts/international-hotel-las-vegas/)'s Arrival in 1978
 
 Downtown Las Vegas in the late 1970s was a different beast than the mega-resort landscape we know today. The area was still the heart of the city's gaming scene, but competition was fierce. Enter the Holiday International Casino, opening its doors on June 30, 1978, as a joint venture between Holiday Inn and local investors. It was an ambitious project aiming to combine midscale hotel accommodations with a full-fledged casino, appealing to both tourists and the local gambling crowd. The bold concept, the Holiday Inn brand recognition, and the lease agreement with the experienced (and sometimes controversial) Major Riddle, seemed like a winning combination.
 
@@ -23,7 +23,7 @@ The Holiday International’s brief lifespan left a distinctive mark. Its striki
 
 ## Rebirth and Legacy
 
-Despite its short existence as the Holiday International, the building didn't vanish. It was reborn in 1987 as the Park Hotel and Casino, followed by another transformation in 1991 into the Main Street Station Hotel and Casino, where it remains today. While the name has changed, the building’s history – a story of ambition, challenges, and resilience – is woven into the fabric of downtown Las Vegas. The Holiday International Casino's tale serves as a compelling snapshot of a specific era in Las Vegas history, a time when fortunes could be made or lost quickly, and reinvention was the key to survival.
+Despite its short existence as the Holiday International, the building didn't vanish. It was reborn in 1987 as [the Park Hotel and Casino](/posts/the-park-hotel-and-casino-las-vegas/), followed by another transformation in 1991 into the Main Street Station Hotel and Casino, where it remains today. While the name has changed, the building’s history – a story of ambition, challenges, and resilience – is woven into the fabric of downtown Las Vegas. The Holiday International Casino's tale serves as a compelling snapshot of a specific era in Las Vegas history, a time when fortunes could be made or lost quickly, and reinvention was the key to survival.
 
 
 <div class="shop-collection">

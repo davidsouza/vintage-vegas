@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "red barn bar and nightclub las veg
 
 ## From Antiques to Acceptance: The Early Years
 
-Few places in Las Vegas history had as multifaceted a beginning as The Red Barn. Located at 1317 Bond Road, a bit off the then-emerging Strip near Tropicana and Maryland Parkway, it started in 1958 not as a raucous nightclub, but as an antique store. Imagine travelers, venturing beyond the main casino drag, stopping by to peruse vintage treasures – a unique offering in a town still defining its identity. The early 1960s saw a significant shift. New ownership reimagined the space, transforming it into a cocktail lounge and bar. While initially a general entertainment spot, it slowly began to cultivate a specific, and vital, identity.
+Few places in Las Vegas history had as multifaceted a beginning as The Red Barn. Located at 1317 Bond Road, a bit off the then-emerging Strip near [Tropicana](/posts/tropicana-country-club-las-vegas/) and Maryland Parkway, it started in 1958 not as a raucous nightclub, but as an antique store. Imagine travelers, venturing beyond the main casino drag, stopping by to peruse vintage treasures – a unique offering in a town still defining its identity. The early 1960s saw a significant shift. New ownership reimagined the space, transforming it into a cocktail lounge and bar. While initially a general entertainment spot, it slowly began to cultivate a specific, and vital, identity.
 
 ## Bert Hood and the Rise of the RB Follies
 

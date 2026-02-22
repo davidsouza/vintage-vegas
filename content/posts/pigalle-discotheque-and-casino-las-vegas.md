@@ -13,7 +13,7 @@ The Las Vegas Strip has always been about reinvention. But some eras represent p
 
 ## The Rise of Pigalle: A Daring Concept
 
-Around 1974, Pigalle boldly took over a prime corner location on the Strip, specifically at Sands Avenue (now Las Vegas Boulevard South). Situated right beside the Rose Bowl Race Book, and soon followed by the famously flamboyant Dirty Sally’s, Pigalle’s arrival was visually striking. The name itself was a statement, a deliberate nod to the Parisian Pigalle district, renowned for its cabarets and a certain *je ne sais quoi* – a touch of bohemian flair and, let’s be honest, a reputation for risqué entertainment.
+Around 1974, Pigalle boldly took over a prime corner location on the Strip, specifically at [Sands](/posts/sands-hotel-and-casino-las-vegas/) Avenue (now Las Vegas Boulevard South). Situated right beside the Rose Bowl Race Book, and soon followed by the famously flamboyant Dirty Sally’s, Pigalle’s arrival was visually striking. The name itself was a statement, a deliberate nod to the Parisian Pigalle district, renowned for its cabarets and a certain *je ne sais quoi* – a touch of bohemian flair and, let’s be honest, a reputation for risqué entertainment.
 
 This wasn't your typical Las Vegas casino; Pigalle aimed to be a disco/nightclub. The era was dominated by the infectious energy of disco music, and Pigalle wanted to capitalize on that, offering dancing, vibrant lights, and a distinct vibe different from the established casino scene. Its neon signage, in a style that echoed Parisian aesthetics, was a stark contrast to the more traditional glitz of its neighbors.
 

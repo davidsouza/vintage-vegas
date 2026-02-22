@@ -9,15 +9,15 @@ tags: ["las vegas history", "vintage vegas", "the westerner hotel and casino las
 
 ## A Brief Blaze on Fremont Street: The Westerner's Story
 
-Before the mega-resorts and dazzling lights of the Strip, Fremont Street was *the* place to be in Las Vegas. And tucked amongst the bustling saloons and casinos of that era was a short-lived but memorable establishment: The Westerner Hotel and Casino. Opened on May 6, 1950, by the legendary Texas gambler Benny Binion, The Westerner occupied the location that's now home to an ABC store at 23 Fremont Street - the site where the Las Vegas Club once stood.
+Before the mega-resorts and dazzling lights of the Strip, Fremont Street was *the* place to be in Las Vegas. And tucked amongst the bustling saloons and casinos of that era was a short-lived but memorable establishment: The Westerner Hotel and Casino. Opened on May 6, 1950, by the legendary Texas gambler Benny Binion, The Westerner occupied the location that's now home to an ABC store at 23 Fremont Street - the site where the [Las Vegas Club](/posts/las-vegas-club-hotel-and-casino-las-vegas/) once stood.
 
 ## Benny Binion's Early Ventures
 
-Binion, a shrewd businessman with a nose for opportunity, envisioned a true Western experience in his saloon. The Westerner wasn’t just about gambling; it aimed to capture the spirit of the Wild West with décor and atmosphere. Think rustic charm, perhaps a little rough around the edges, and definitely a place where a friendly game of poker could break out at any moment. It was located right next to the iconic Pioneer Club and its beloved Vegas Vic neon sign, a landmark still gracing the Fremont Street Experience today.
+Binion, a shrewd businessman with a nose for opportunity, envisioned a true Western experience in his saloon. The Westerner wasn’t just about gambling; it aimed to capture the spirit of the Wild West with décor and atmosphere. Think rustic charm, perhaps a little rough around the edges, and definitely a place where a friendly game of poker could break out at any moment. It was located right next to the iconic [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) and its beloved Vegas Vic neon sign, a landmark still gracing the Fremont Street Experience today.
 
 ## A One-Year Run and a Bigger Dream
 
-While The Westerner made a splash, Binion’s ambitions were even larger. After only a year in operation, he made a pivotal decision that would cement his place in Las Vegas history. He sold The Westerner to focus on acquiring the Eldorado Club and the Apache Hotel. These acquisitions allowed him to establish the Horseshoe Club, which would become renowned for its high-stakes poker games and Binion's personal touch – becoming a focal point of Las Vegas gambling for decades.
+While The Westerner made a [splash](/posts/splash-las-vegas/), Binion’s ambitions were even larger. After only a year in operation, he made a pivotal decision that would cement his place in Las Vegas history. He sold The Westerner to focus on acquiring the [Eldorado Club](/posts/eldorado-club-las-vegas/) and the [Apache Hotel](/posts/apache-hotel-las-vegas/). These acquisitions allowed him to establish the [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Club, which would become renowned for its high-stakes poker games and Binion's personal touch – becoming a focal point of Las Vegas gambling for decades.
 
 ## The End of an Era & A Lasting Legacy
 

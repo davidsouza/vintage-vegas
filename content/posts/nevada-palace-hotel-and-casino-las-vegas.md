@@ -11,7 +11,7 @@ tags: ["las vegas history", "vintage vegas", "nevada palace hotel and casino las
 
 In the late 1970s, Las Vegas was expanding, and the East Side (now Boulder Highway) was a prime target for growth. Enter the Nevada Palace Hotel and Casino, which opened its doors on July 3, 1979. This wasn't a behemoth resort; it started small with just 100 hotel rooms and a 15,000-square-foot casino. The dream team behind it – casino veterans Gene Lucas, Robert Mariscal, Bill Gallagher, Dan Straub, and Rene Diaz – envisioned a successful, community-focused property. The design was classic 70s Vegas – bold colors, neon, and a generally optimistic vibe.
 
-## Trouble in Paradise (and Chapter 11)
+## Trouble in [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) (and Chapter 11)
 
 The initial optimism proved fleeting. Just a year after opening, Gene Lucas departed, and the Nevada Palace plunged into financial turmoil. A Chapter 11 bankruptcy filing followed swiftly. The situation became so precarious that creditors briefly forced a one-day closure on July 31, 1980, and then a ten-month shutdown of the casino itself. This period highlighted the volatile nature of the Las Vegas gambling landscape, where fortunes could change quickly.
 
@@ -21,7 +21,7 @@ Despite the setbacks, the Nevada Palace wasn't destined to disappear. In late 19
 
 ## A Quiet Demise and a Neon Legacy
 
-The Nevada Palace enjoyed a relatively stable, albeit unremarkable, run for several more decades. In 2005, Wortman bought out Schiff and then sold the Nevada Palace to Cannery Casino Resorts. However, the property’s fate was sealed. In February 2008, the hotel closed its doors for the final time. Demolition followed shortly, paving the way for the Eastside Cannery Hotel and Casino, which opened later that year.  Thankfully, a piece of the Nevada Palace lives on – its iconic logo sign now proudly displayed at the Las Vegas Neon Museum, a testament to its brief but vibrant chapter in Las Vegas history.  While the physical structure is gone, replaced by a parking lot for the Eastside Cannery, the story of the Nevada Palace serves as a potent reminder of the risks and rewards inherent in the ever-evolving world of Las Vegas gaming.
+The Nevada Palace enjoyed a relatively stable, albeit unremarkable, run for several more decades. In 2005, Wortman bought out Schiff and then sold the Nevada Palace to Cannery Casino Resorts. However, the property’s fate was sealed. In February 2008, the hotel closed its doors for the final time. Demolition followed shortly, paving the way for the [Eastside Cannery](/posts/eastside-cannery-casino-las-vegas/) Hotel and Casino, which opened later that year.  Thankfully, a piece of the Nevada Palace lives on – its iconic logo sign now proudly displayed at the Las Vegas Neon Museum, a testament to its brief but vibrant chapter in Las Vegas history.  While the physical structure is gone, replaced by a parking lot for the Eastside Cannery, the story of the Nevada Palace serves as a potent reminder of the risks and rewards inherent in the ever-evolving world of Las Vegas gaming.
 
 
 <div class="shop-collection">

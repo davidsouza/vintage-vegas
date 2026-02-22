@@ -13,7 +13,7 @@ The Las Vegas Strip has always been about spectacle and reinvention, but just a 
 
 ## From Ambassador to Key Largo: A Changing Identity
 
-The property originally debuted in 1974 as the Ambassador Inn, a standard motel catering to budget-conscious travelers. In 1978, mirroring the era’s casino boom, a casino was added, transforming it into the Ambassador Casino. Ownership and branding shifted several times over the decades. It briefly became the Quality Inn Key Largo Casino, reflecting a common branding strategy for the chain. The name 'Key Largo' stuck, however, and eventually became the permanent moniker in 1997, likely aiming to evoke a tropical, relaxed feel—a welcome respite from the hectic Strip.
+The property originally debuted in 1974 as the Ambassador Inn, a standard motel catering to budget-conscious travelers. In 1978, mirroring the era’s casino boom, a casino was added, transforming it into the [Ambassador Casino](/posts/ambassador-casino-las-vegas/). Ownership and branding shifted several times over the decades. It briefly became the Quality Inn Key Largo Casino, reflecting a common branding strategy for the chain. The name 'Key Largo' stuck, however, and eventually became the permanent moniker in 1997, likely aiming to evoke a tropical, relaxed feel—a welcome respite from the hectic Strip.
 
 ## What Made Key Largo Special?
 

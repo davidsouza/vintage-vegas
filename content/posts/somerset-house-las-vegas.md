@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "somerset house las vegas"]
 
 ## A Quiet Contributor to Vegas's Growth
 
-Las Vegas history isn’t just about the dazzling Strip casinos. It’s about the countless motels, hotels, and businesses that quietly fueled the city's expansion, catering to a diverse clientele. Among these, the Somerset House Motel, located at 294 Convention Center Drive, stands as a poignant reminder of a bygone era. Opened in 1963, this three-story, 104-room motor inn occupied a strategic position just east of the Strip, nestled between the iconic Stardust and the burgeoning Las Vegas Convention Center.
+Las Vegas history isn’t just about the dazzling Strip casinos. It’s about the countless motels, hotels, and businesses that quietly fueled the city's expansion, catering to a diverse clientele. Among these, the Somerset House Motel, located at 294 Convention Center Drive, stands as a poignant reminder of a bygone era. Opened in 1963, this three-story, 104-room motor inn occupied a strategic position just east of the Strip, nestled between the iconic [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and the burgeoning Las Vegas Convention Center.
 
 ## Bridging the Gap: Comfort and Convenience
 

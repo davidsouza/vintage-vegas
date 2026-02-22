@@ -11,12 +11,11 @@ youtube_title: "Remembering Las Vegas: Tropicana Hotel & Casino #casino #lasvega
 youtube_thumbnail: "https://i.ytimg.com/vi/3usEvU3xqSo/hqdefault.jpg"
 ---
 
-
 ## A Lush Oasis Arrives on the Strip
 
-When the Tropicana Hotel and Casino burst onto the Las Vegas scene on April 4, 1957, it was an instant spectacle. Built on 35 acres – a vast expanse for the time – it represented the most expensive resort in Las Vegas, boasting over 1,400 rooms and a sprawling 44,570 square foot casino. Its lush, tropical landscaping, evoking a South Seas paradise, was a deliberate departure from the more staid, traditional hotels that preceded it. The “Mermaid Lounge” fountain became an iconic symbol.
+When the [Tropicana Hotel and Casino](/posts/tropicana-hotel-and-casino-las-vegas/) burst onto the Las Vegas scene on April 4, 1957, it was an instant spectacle. Built on 35 acres – a vast expanse for the time – it represented the most expensive resort in Las Vegas, boasting over 1,400 rooms and a sprawling 44,570 square foot casino. Its lush, tropical landscaping, evoking a South Seas [paradise](/posts/paradise-hotel-and-casino-las-vegas/), was a deliberate departure from the more staid, traditional hotels that preceded it. The “Mermaid Lounge” fountain became an iconic symbol.
 
-More than just a hotel, the Tropicana quickly became a Las Vegas institution. It wasn’t just about the rooms and games; it was about the *experience*. That included the legendary Folies Bergère, a lavish show that captivated audiences for decades, and remains the longest-running show in Las Vegas history. The constant stream of big-name entertainers added to the allure, solidifying its place as a premier entertainment destination.
+More than just a hotel, the [Tropicana](/posts/tropicana-country-club-las-vegas/) quickly became a Las Vegas institution. It wasn’t just about the rooms and games; it was about the *experience*. That included the legendary Folies Bergère, a lavish show that captivated audiences for decades, and remains the longest-running show in Las Vegas history. The constant stream of big-name entertainers added to the allure, solidifying its place as a premier entertainment destination.
 
 ## Shadowy Connections & Changing Hands
 

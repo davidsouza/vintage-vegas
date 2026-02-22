@@ -9,9 +9,9 @@ tags: ["las vegas history", "vintage vegas", "hotel san remo las vegas"]
 
 ## A Different Kind of Strip Experience
 
-The late 1980s and early 1990s in Las Vegas were a time of explosive growth. Megaresorts like the Mirage and Luxor were changing the face of the Strip, promising spectacle and excess. But nestled just east of this rising tide of behemoths, a different kind of oasis opened its doors: the Hotel San Remo. On July 1, 1989, Japanese businessman Sukeaki Izumi unveiled his vision – a mid-sized resort that prioritized intimacy, affordability, and a distinctly European flair. Replacing a Polynesian-themed resort on Tropicana Avenue, the San Remo offered something unique.
+The late 1980s and early 1990s in Las Vegas were a time of explosive growth. Megaresorts like the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) and Luxor were changing the face of the Strip, promising spectacle and excess. But nestled just east of this rising tide of behemoths, a different kind of oasis opened its doors: the Hotel San Remo. On July 1, 1989, Japanese businessman Sukeaki Izumi unveiled his vision – a mid-sized resort that prioritized intimacy, affordability, and a distinctly European flair. Replacing a [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/)-themed resort on [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue, the San Remo offered something unique.
 
-## Italian Riviera Charm on the Strip
+## Italian [Riviera](/posts/riviera-hotel-and-casino-las-vegas/) Charm on the Strip
 
 What truly set the San Remo apart was its commitment to a theme. Forget the desert landscapes or futuristic concepts; the San Remo transported guests to the Italian Riviera. Warm Mediterranean colors, elegant chandeliers, and subtle nods to coastal Italy permeated the décor. Restaurants served up Italian-inspired dishes alongside more familiar American fare. The vibe wasn't about glitz and glamour; it was about relaxed elegance and personalized hospitality – a refreshing contrast to the sprawling anonymity of the larger casinos.
 

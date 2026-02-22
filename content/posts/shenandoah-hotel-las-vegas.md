@@ -11,7 +11,6 @@ youtube_title: "Vintage Las Vegas Shenandoah Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/Eu_5Qn4J2eE/hqdefault.jpg"
 ---
 
-
 ## A Grand Ambition, a Swift Fall: The Story of the Shenandoah Hotel
 
 The early 1980s were a time of booming growth and dizzying ambition in Las Vegas. New hotels and casinos popped up constantly, each vying to be the biggest and the best. Among these fleeting stars was the Shenandoah Hotel, a project initially conceived as a luxurious casino resort that burned bright for only a few years before fading into the desert dust. Located at 120 E. Flamingo Road, just east of the burgeoning Las Vegas Strip, the Shenandoah’s story is a poignant reminder that even the most dazzling visions can be undone by regulatory hurdles and financial realities.
@@ -30,7 +29,7 @@ While the hotel portion opened in February 1980 as scheduled, the absence of a c
 
 ## From Shenandoah to Bourbon Street – and Beyond
 
-In 1985, the Shenandoah’s final act came: it was rebranded as the Bourbon Street Hotel and Casino, adopting a New Orleans theme. The Shenandoah name vanished, its brief existence relegated to the annals of Las Vegas history. Today, the site is a street-level parking lot serving Harrah’s Las Vegas.
+In 1985, the Shenandoah’s final act came: it was rebranded as the [Bourbon Street Hotel and Casino](/posts/bourbon-street-hotel-and-casino-las-vegas/), adopting a New Orleans theme. The Shenandoah name vanished, its brief existence relegated to the annals of Las Vegas history. Today, the site is a street-level parking lot serving Harrah’s Las Vegas.
 
 The Shenandoah Hotel’s legacy isn't defined by what it *was*, but by what it *could* have been—a cautionary tale about the complexities of the gaming industry and a poignant reminder that even a project blessed with star power and ambitious dreams can succumb to the harsh realities of business and regulation. It's a fascinating footnote in the vintage Las Vegas story, a glimpse into an era of high hopes and unexpected downfalls.
 

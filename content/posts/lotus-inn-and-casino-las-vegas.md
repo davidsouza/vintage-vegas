@@ -11,12 +11,11 @@ youtube_title: "Vintage Las Vegas Lotus Inn and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/XG5DJpho7eM/hqdefault.jpg"
 ---
 
-
 ## A Lotus Blooms on the Strip: The 1960s and Early 70s
 
 The Las Vegas Strip wasn't always a landscape of sprawling mega-resorts. In the 1960s and early 1970s, a vibrant boom in motel-and-casino development created a distinct character – a patchwork of independent properties catering to a wider range of budgets. Nestled at 1213 South Las Vegas Boulevard, the Lotus Inn and Casino was a quintessential example of this era. Emerging around 1964, it offered a unique combination of low-rise motel accommodations, casino gaming, and classic roadside appeal.
 
-What set the Lotus Inn apart was its distinctive branding. The name itself, “Lotus,” evoked a sense of tranquility and exoticism, further emphasized by stylized Asian characters featured on its marquee. This visual identity helped it stand out amongst the growing number of Strip properties, many of which were striving to capture visitor attention. It wasn’t trying to compete with the glitz of the Stardust or the Sahara; it was aiming for a different, more accessible market.
+What set the Lotus Inn apart was its distinctive branding. The name itself, “Lotus,” evoked a sense of tranquility and exoticism, further emphasized by stylized Asian characters featured on its marquee. This visual identity helped it stand out amongst the growing number of Strip properties, many of which were striving to capture visitor attention. It wasn’t trying to compete with the glitz of the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) or the [Sahara](/posts/sahara-hotel-and-casino-las-vegas/); it was aiming for a different, more accessible market.
 
 ## Sambo’s and Slots: Daily Life at the Lotus Inn
 

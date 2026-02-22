@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "algiers hotel and casino las vegas
 
 ## A Night in the Arabian Desert, Just Off the Strip
 
-For those of us who cherish the memory of vintage Las Vegas, the Algiers Hotel and Casino holds a special place. Opened on November 25, 1953, it wasn't just another casino; it was an immersive experience. Located at 2845 South Las Vegas Boulevard, its distinct Arabian/Persian theme – complete with elaborate architecture, costumed staff, and exotic décor – immediately set it apart from its contemporaries. It stood as a sister property to the iconic Thunderbird Hotel and Casino, reflecting the early ambition to create themed resorts along the burgeoning Las Vegas Strip.
+For those of us who cherish the memory of vintage Las Vegas, the Algiers Hotel and Casino holds a special place. Opened on November 25, 1953, it wasn't just another casino; it was an immersive experience. Located at 2845 South Las Vegas Boulevard, its distinct Arabian/Persian theme – complete with elaborate architecture, costumed staff, and exotic décor – immediately set it apart from its contemporaries. It stood as a sister property to the iconic [Thunderbird Hotel and Casino](/posts/thunderbird-hotel-and-casino-las-vegas/), reflecting the early ambition to create themed resorts along the burgeoning Las Vegas Strip.
 
 ## The Magic of a Theme
 
@@ -21,7 +21,7 @@ The Algiers weathered the changing tides of Las Vegas, remaining largely unchang
 
 ## A Final Farewell and a New Beginning
 
-Sadly, the Algiers Hotel and Casino closed its doors on August 31, 2004, marking the end of an era. Its demolition in March 2005 was a bittersweet moment for Las Vegas history enthusiasts. The property, once a vibrant symbol of a unique and themed approach to hospitality, was cleared to make way for a new chapter. Today, the site is occupied by the Fontainebleau Las Vegas, a modern mega-resort. While the Fontainebleau promises a lavish experience, it can’t replace the charm and character of the Algiers, a lost paradise that continues to live on in the memories of those who experienced its Arabian nights.
+Sadly, the Algiers Hotel and Casino closed its doors on August 31, 2004, marking the end of an era. Its demolition in March 2005 was a bittersweet moment for Las Vegas history enthusiasts. The property, once a vibrant symbol of a unique and themed approach to hospitality, was cleared to make way for a new chapter. Today, the site is occupied by the Fontainebleau Las Vegas, a modern mega-resort. While the Fontainebleau promises a lavish experience, it can’t replace the charm and character of the Algiers, a lost [paradise](/posts/paradise-hotel-and-casino-las-vegas/) that continues to live on in the memories of those who experienced its Arabian nights.
 
 
 <div class="shop-collection">

@@ -23,7 +23,7 @@ Affordability was also key.  Dining was remarkably inexpensive. You could enjoy 
 
 Despite its popularity, the Carousel couldn't withstand the evolving landscape of downtown Las Vegas. As the architectural styles shifted and competition increased, the casino was eventually absorbed into larger development plans. It closed its doors in 1974, marking the end of an era. 
 
-Though gone, the Carousel's legacy lives on in the memories of those who experienced its unique charm. The site has since been home to several other casinos, including the Gambler’s Hall of Fame, Sundance West, Sassy Sally’s, and Mermaids Casino. Today, it’s part of the impressive Circa Resort & Casino, a testament to the continuous evolution of Las Vegas.  However, for those who remember, the Carousel remains a symbol of a simpler, more playful time on Fremont Street, a true gem of vintage Las Vegas.
+Though gone, the Carousel's legacy lives on in the memories of those who experienced its unique charm. The site has since been home to several other casinos, including the Gambler’s Hall of Fame, [Sundance West](/posts/sundance-west-casino-las-vegas/), Sassy Sally’s, and [Mermaids Casino](/posts/mermaids-casino-las-vegas/). Today, it’s part of the impressive Circa Resort & Casino, a testament to the continuous evolution of Las Vegas.  However, for those who remember, the Carousel remains a symbol of a simpler, more playful time on Fremont Street, a true gem of vintage Las Vegas.
 
 
 <div class="shop-collection">

@@ -11,9 +11,9 @@ tags: ["las vegas history", "vintage vegas", "mermaids casino las vegas"]
 
 For years, a little slice of tropical escape existed right on Fremont Street: Mermaids Casino. Though now gone, replaced by the impressive Circa Resort & Casino, Mermaids left a lasting impression on those who frequented downtown Las Vegas. Its story is a microcosm of the area's evolution – a tale of small-scale charm swallowed by big-time development.
 
-## From Silver Palace to Sassy Sally's: A Building with a Past
+## From [Silver Palace](/posts/silver-palace-casino-las-vegas/) to Sassy Sally's: A Building with a Past
 
-But Mermaids wasn't always Mermaids. The building at 32 East Fremont Street had a long and varied history, dating back to 1956 when it debuted as the Silver Palace. This was a significant moment for Vegas, as the Silver Palace was one of the first casinos to feature two levels, a design novelty accentuated by Southern Nevada's first escalator! Over the decades, it wore many faces, including Carousel, Gambler's Hall of Fame, Sundance West, and Sassy Sally's – each attempting to capture the era's vibe. The constant rebranding reflects the ever-changing tastes of Vegas visitors and the desire for casino owners to find that elusive winning formula.
+But Mermaids wasn't always Mermaids. The building at 32 East Fremont Street had a long and varied history, dating back to 1956 when it debuted as the Silver Palace. This was a significant moment for Vegas, as the Silver Palace was one of the first casinos to feature two levels, a design novelty accentuated by Southern Nevada's first escalator! Over the decades, it wore many faces, including [Carousel](/posts/carousel-hotel-and-casino-las-vegas/), Gambler's Hall of Fame, [Sundance West](/posts/sundance-west-casino-las-vegas/), and Sassy Sally's – each attempting to capture the era's vibe. The constant rebranding reflects the ever-changing tastes of Vegas visitors and the desire for casino owners to find that elusive winning formula.
 
 ## The Mermaids Era: Affordable Fun and Tropical Vibes
 
@@ -23,7 +23,7 @@ What truly set Mermaids apart was its down-to-earth charm. Forget high-roller ex
 
 ## A Farewell and a Legacy
 
-The inevitable arrived in April 2016 when brothers Derek and Greg Stevens purchased Mermaids, La Bayou, and Girls of Glitter Gulch, signaling the end of an era. The June 27, 2016, closing date marked the beginning of a new chapter for Fremont Street. Mermaids was sadly demolished in 2017, clearing the way for the massive Circa Resort & Casino. While it's bittersweet to see a beloved landmark disappear, Mermaids' story continues to resonate. It serves as a reminder of a time when downtown Las Vegas felt a little more accessible, a little more quirky, and a whole lot more fun.
+The inevitable arrived in April 2016 when brothers Derek and Greg Stevens purchased Mermaids, [La Bayou](/posts/la-bayou-casino-las-vegas/), and Girls of [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/), signaling the end of an era. The June 27, 2016, closing date marked the beginning of a new chapter for Fremont Street. Mermaids was sadly demolished in 2017, clearing the way for the massive Circa Resort & Casino. While it's bittersweet to see a beloved landmark disappear, Mermaids' story continues to resonate. It serves as a reminder of a time when downtown Las Vegas felt a little more accessible, a little more quirky, and a whole lot more fun.
 
 
 <div class="shop-collection">

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "frontier hotel and casino las vega
 
 ## A Rollercoaster of Names and Ownership: The Frontier's Tumultuous Past
 
-Before the glittering megaresorts, before the themed hotels, the northern end of the Las Vegas Strip was home to a place that epitomized the raw, frontier spirit of the burgeoning desert city: The Frontier Hotel and Casino. But its story is far more complex than just a single name. The location itself has worn many hats, starting as Pair O’ Dice in 1931 and cycling through Hotel Last Frontier and New Frontier before finally settling on its most recognizable moniker in 1967.
+Before the glittering megaresorts, before the themed hotels, the northern end of the Las Vegas Strip was home to a place that epitomized the raw, frontier spirit of the burgeoning desert city: [The Frontier Hotel and Casino](/posts/the-frontier-hotel-and-casino-las-vegas/). But its story is far more complex than just a single name. The location itself has worn many hats, starting as Pair O’ Dice in 1931 and cycling through Hotel Last Frontier and New Frontier before finally settling on its most recognizable moniker in 1967.
 
 The original New Frontier experienced financial difficulties that led to its closure in 1964, paving the way for a substantial overhaul. Enter Frontier Properties, backed by significant, and at times controversial, investors including individuals with ties to organized crime. The ambition was grand: a much larger resort, overseen by Jay Friedman and with partial financing from those shadowy sources. The reborn Frontier opened in 1967, boasting 650 rooms and a distinctive 'F' logo, a design crafted by the legendary Bill Clark – a hallmark of vintage Vegas signage.
 

@@ -7,7 +7,7 @@ location: "Royal Inn Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "royal inn hotel and casino las vegas"]
 ---
 
-## A Humble Beginning: The Royal Inn Joins the Strip Landscape
+## A Humble Beginning: The [Royal](/posts/royal-casino-las-vegas/) Inn Joins the Strip Landscape
 
 Before the mega-resorts and sprawling complexes dominated the Las Vegas Strip, smaller, more intimate hotels dotted the landscape. One such property was the Royal Inn Hotel and Casino, a 12-story, 200-room establishment that opened its doors on April 19, 1970, just east of the main action. Costing $3 million to build, it was part of the Royal Inns of America chain, a popular motel brand at the time. Though relatively small by Vegas standards even then, the Royal Inn offered a comfortable and affordable option for visitors, signaling a period of expansion beyond the iconic downtown casinos.
 
@@ -21,7 +21,7 @@ Unfortunately, the Royal Americana experiment proved unsuccessful. Facing mounti
 
 ## The Paddlewheel Era and Beyond
 
-Following a remodel, the property was resurrected in 1983 under a new identity: the Paddlewheel Hotel and Casino. The name evoked a classic riverboat casino theme, attempting to draw in a new clientele. However, the Paddlewheel’s time was short-lived as well.
+Following a remodel, the property was resurrected in 1983 under a new identity: the [Paddlewheel Hotel and Casino](/posts/paddlewheel-hotel-and-casino-las-vegas/). The name evoked a classic riverboat casino theme, attempting to draw in a new clientele. However, the Paddlewheel’s time was short-lived as well.
 
 The site has remained vacant since the Paddlewheel’s eventual closure. Now owned by developer Lorenzo Doumani, it sits as a blank canvas awaiting its next chapter. Doumani's ambitious plan for a non-gaming high-rise, Majestic Las Vegas, has faced numerous setbacks and delays, leaving the land a constant reminder of the past transformations. The Royal Inn/Royal Americana/Paddlewheel story encapsulates a pivotal era in Las Vegas, highlighting the evolution of the Strip and the challenges of adapting to a fiercely competitive market. While the buildings are gone, the memory of this once-familiar landmark lives on in vintage Las Vegas lore.
 

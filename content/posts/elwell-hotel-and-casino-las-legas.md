@@ -21,13 +21,13 @@ William Elwell himself was a prominent figure in Las Vegas, demonstrating his co
 
 ## From Elwell to Pioneer
 
-Sadly, William Elwell’s time with the hotel was cut short. He passed away in August 1963. Just two years later, in 1965, the Elwell Hotel was sold to the Pioneer Club for a respectable $1.5 million. The Pioneer Club, a popular gambling destination in its own right, rebranded the hotel as the Pioneer Hotel, continuing its legacy as a Downtown landmark, albeit under a new name. 
+Sadly, William Elwell’s time with the hotel was cut short. He passed away in August 1963. Just two years later, in 1965, the Elwell Hotel was sold to the [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) for a respectable $1.5 million. The Pioneer Club, a popular gambling destination in its own right, rebranded the hotel as the Pioneer Hotel, continuing its legacy as a Downtown landmark, albeit under a new name. 
 
 ## A Loss for Vintage Vegas
 
 The Pioneer Hotel continued to operate for several years, maintaining some of the Elwell’s original charm. However, progress marches on. In 1984, the Golden Nugget purchased the property with plans to modernize and expand. This meant the inevitable: the demolition of the original Elwell building. It was lost to the relentless push for expansion, replaced by a parking garage – a stark reminder of what once stood there.
 
-While the Elwell Hotel and Casino is now just a memory, it represents an important chapter in Las Vegas history. It stands as a symbol of the early days, the family-owned businesses, and the pioneering spirit that built the city we know today. Remembering places like the Elwell Hotel helps us appreciate the evolution of Las Vegas from a humble desert town to the entertainment capital of the world.
+While the [Elwell Hotel and Casino](/posts/elwell-hotel-and-casino-las-vegas/) is now just a memory, it represents an important chapter in Las Vegas history. It stands as a symbol of the early days, the family-owned businesses, and the pioneering spirit that built the city we know today. Remembering places like the Elwell Hotel helps us appreciate the evolution of Las Vegas from a humble desert town to the entertainment capital of the world.
 
 
 <div class="shop-collection">

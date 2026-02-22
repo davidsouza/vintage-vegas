@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "pair a dice trailer park las vegas
 
 ## A Dicey Start: The Pair-A-Dice Casino and its Origins
 
-Long before the mega-resorts and the dazzling spectacle of the Las Vegas Strip, North Las Vegas was a different kind of frontier. In 1956, the Pair-A-Dice Club casino opened its doors at 2067 North Las Vegas Boulevard. While it never reached the heights of the downtown casinos or the later Strip behemoths, it was part of the burgeoning entertainment scene that helped define early Las Vegas. Like many establishments of the era, the Pair-A-Dice likely played a role in the city’s rapid expansion and the development of surrounding areas.
+Long before the mega-resorts and the dazzling spectacle of the Las Vegas Strip, North Las Vegas was a different kind of [frontier](/posts/frontier-hotel-and-casino-las-vegas/). In 1956, the Pair-A-Dice Club casino opened its doors at 2067 North Las Vegas Boulevard. While it never reached the heights of the downtown casinos or the later Strip behemoths, it was part of the burgeoning entertainment scene that helped define early Las Vegas. Like many establishments of the era, the Pair-A-Dice likely played a role in the city’s rapid expansion and the development of surrounding areas.
 
 ## From Gaming to Gathering: The Birth of the Trailer Park
 
@@ -17,7 +17,7 @@ Around 1963, a pivotal shift occurred. The Pair-A-Dice casino ceased operations,
 
 ## A Community Rooted in Resilience
 
-For decades, Pair-A-Dice thrived as a vital, if understated, component of the Las Vegas landscape. It offered a refuge – and crucially, affordable housing – particularly for senior citizens and lower-income families. The community fostered a sense of belonging, providing a stable base for residents many of whom had dedicated their lives to the service industry that fueled Las Vegas’s growth. The park evolved, becoming a designated senior mobile home park, solidifying its commitment to providing retirement housing options in an increasingly expensive city. The modest homes stood in stark contrast to the glitz and glamour of the Strip, but they were the homes of the people who *made* that glitz and glamour possible.
+For decades, Pair-A-Dice thrived as a vital, if understated, component of the Las Vegas landscape. It offered a refuge – and crucially, affordable housing – particularly for senior citizens and lower-income families. The community fostered a sense of belonging, providing a stable base for residents many of whom had dedicated their lives to the service industry that fueled Las Vegas’s growth. [The park](/posts/the-park-hotel-and-casino-las-vegas/) evolved, becoming a designated senior mobile home park, solidifying its commitment to providing retirement housing options in an increasingly expensive city. The modest homes stood in stark contrast to the glitz and glamour of the Strip, but they were the homes of the people who *made* that glitz and glamour possible.
 
 ## The End of an Era and a Legacy of Displacement
 

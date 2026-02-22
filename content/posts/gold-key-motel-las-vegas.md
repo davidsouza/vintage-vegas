@@ -9,13 +9,13 @@ tags: ["las vegas history", "vintage vegas", "gold key motel las vegas"]
 
 ## A Humble Gem on a Growing Strip
 
-Las Vegas in the 1950s and 60s wasn't all shimmering towers and extravagant shows. It was a city still in rapid transformation, and vital to that growth were the motels that lined the budding Las Vegas Strip. Among these, the Gold Key Motel held a modest but memorable place. Opening in 1960, it wasn’t aiming for the luxury clientele of the Desert Inn or the Stardust, but it provided a crucial service – affordable, comfortable lodging for the flood of tourists arriving by car and eager to explore what Vegas had to offer.
+Las Vegas in the 1950s and 60s wasn't all shimmering towers and extravagant shows. It was a city still in rapid transformation, and vital to that growth were the motels that lined the budding Las Vegas Strip. Among these, the Gold Key Motel held a modest but memorable place. Opening in 1960, it wasn’t aiming for the luxury clientele of the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) or the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/), but it provided a crucial service – affordable, comfortable lodging for the flood of tourists arriving by car and eager to explore what Vegas had to offer.
 
 ## Mid-Century Americana and the Promise of Security
 
 The Gold Key Motel was a perfect example of mid-century motel architecture. Low-slung, single-story buildings, a hallmark of the era, dotted the property. But it was the neon sign that truly captured the eye. That shining gold key symbol – instantly recognizable and now a cherished image in vintage Las Vegas memorabilia – represented a promise: security, privacy, and a personal touch. It was a simple visual cue, but it resonated with travelers looking for a dependable place to rest after a long drive.
 
-Located between the grand resorts, the Gold Key’s placement was strategic. It capitalized on the growing influx of visitors who, before the era of mega-resorts, often preferred the ease of access and slightly lower price point that motels offered. While a comfortable drive or a short cab ride away from downtown's Fremont Street and casinos like the El Cortez, it provided a practical base for exploration.
+Located between the grand resorts, the Gold Key’s placement was strategic. It capitalized on the growing influx of visitors who, before the era of mega-resorts, often preferred the ease of access and slightly lower price point that motels offered. While a comfortable drive or a short cab ride away from downtown's Fremont Street and casinos like the [El Cortez](/posts/el-cortez-hotel-and-casino-las-vegas/), it provided a practical base for exploration.
 
 ## A Crucial Link in Vegas's Tourism Chain
 

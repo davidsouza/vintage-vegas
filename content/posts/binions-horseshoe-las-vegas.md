@@ -7,11 +7,11 @@ location: "Binions Horseshoe Las Vegas"
 tags: ["las vegas history", "vintage vegas", "binions horseshoe las vegas"]
 ---
 
-# Binion’s Horseshoe Las Vegas: Where Legends Were Made
+# Binion’s [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Las Vegas: Where Legends Were Made
 
-Downtown Las Vegas wasn’t always the glitzy playground we know today. In the early 1950s, it was a rough-and-tumble frontier town, and Benny Binion was determined to change it. In 1951, he opened the Horseshoe at 128 Fremont Street, instantly establishing himself as a pivotal figure in Las Vegas history. This wasn’t just another casino; it was a statement.
+Downtown Las Vegas wasn’t always the glitzy playground we know today. In the early 1950s, it was a rough-and-tumble [frontier](/posts/frontier-hotel-and-casino-las-vegas/) town, and Benny Binion was determined to change it. In 1951, he opened the Horseshoe at 128 Fremont Street, instantly establishing himself as a pivotal figure in Las Vegas history. This wasn’t just another casino; it was a statement.
 
-## A Gambler’s Paradise Defined
+## A Gambler’s [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Defined
 
 Binion, a shrewd and charismatic Texan, brought a new philosophy to Vegas. He believed in fair odds, generous limits – often no-limit – and treating every gambler with respect. Forget the stuffy, formal atmosphere of the nascent Las Vegas Strip; the Horseshoe offered a welcoming vibe where a nickel bet was treated with the same courtesy as a thousand-dollar one. This “treat everyone like a king” approach was a game-changer, attracting a clientele seeking a more authentic and approachable gambling experience. That personalized service and friendly atmosphere became the Horseshoe's hallmarks.
 

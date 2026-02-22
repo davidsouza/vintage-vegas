@@ -11,10 +11,9 @@ youtube_title: "Vintage Bird Cage Casino, Las Vegas #vintage #lasvegas #casino"
 youtube_thumbnail: "https://i.ytimg.com/vi/sftNYDagX4g/hqdefault.jpg"
 ---
 
-
 ## A Cage Full of Big Dreams: Introducing the Bird Cage Casino
 
-Fremont Street in the 1950s was a whirlwind of ambition and neon, a place where dreams were gambled on and fortunes (sometimes) won. Amidst the legendary casinos of the era – the Mint, California Club, and Nevada Club – stood a brief but visually striking landmark: the Bird Cage Casino. Located at the coveted “Lucky Corner” of First and Fremont (now part of Circa Resort and Casino), the Bird Cage, operational from January 1, 1958, to late 1959, left a lasting impression despite its short run.
+Fremont Street in the 1950s was a whirlwind of ambition and neon, a place where dreams were gambled on and fortunes (sometimes) won. Amidst the legendary casinos of the era – [the Mint](/posts/the-mint-hotel-and-casino-las-vegas/), [California Club](/posts/california-club-casino-las-vegas/), and [Nevada Club](/posts/nevada-club-casino-las-vegas/) – stood a brief but visually striking landmark: the Bird Cage Casino. Located at the coveted “[Lucky](/posts/lucky-casino-las-vegas/) Corner” of First and Fremont (now part of Circa Resort and Casino), the Bird Cage, operational from January 1, 1958, to late 1959, left a lasting impression despite its short run.
 
 ## The Modern Look and That Iconic Sign
 

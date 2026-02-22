@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "dirty sallys discotheque las vegas
 
 ## A Brief History of Boogie and Backgammon
 
-The Las Vegas Strip has always been a canvas for bold innovation, and in the mid-1970s, Dirty Sally’s Discotheque added a vibrant splash of color to that ever-changing landscape. Situated at the corner of what was then Twain Avenue (now Sands Avenue), directly on the Strip, the club occupied a space previously known for its own notoriety as Pussycat a’ Go-Go. Prior to its Dirty Sally’s incarnation, it briefly cycled through names like Sully’s and Pigalle, each reflecting the evolving tastes and trends of the era. But it was the “Dirty Sally’s” moniker, around 1974, that truly captured the essence of the place.
+The Las Vegas Strip has always been a canvas for bold innovation, and in the mid-1970s, Dirty Sally’s Discotheque added a vibrant [splash](/posts/splash-las-vegas/) of color to that ever-changing landscape. Situated at the corner of what was then Twain Avenue (now [Sands](/posts/sands-hotel-and-casino-las-vegas/) Avenue), directly on the Strip, the club occupied a space previously known for its own notoriety as Pussycat a’ Go-Go. Prior to its Dirty Sally’s incarnation, it briefly cycled through names like Sully’s and Pigalle, each reflecting the evolving tastes and trends of the era. But it was the “Dirty Sally’s” moniker, around 1974, that truly captured the essence of the place.
 
 ## The Dirty Sally’s Experience: Disco Meets Backgammon
 

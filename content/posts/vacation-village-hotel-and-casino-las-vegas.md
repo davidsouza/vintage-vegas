@@ -13,7 +13,7 @@ Just south of the glittering main Las Vegas Strip, nestled on a plot of land ini
 
 ## Southwest Charm and Unique Attractions
 
-Vacation Village offered 315 rooms and a 15,000-square-foot casino, leaning heavily into a Southwest-inspired design. It wasn't attempting to compete with the grandeur of the Mirage or Luxor; instead, it targeted locals and budget-conscious tourists. What *did* set it apart? A quirky collection of amenities! The “graveyard buffet,” complete with tombstone décor, was a memorably unusual dining experience. Value-driven promotions and coupon books were hugely popular, solidifying its appeal. Later additions like a 24-hour buffet and a large banquet room further expanded its offerings. By the mid-90s, Denny’s, Great China Buffet, a bingo hall, race book, wedding chapel, and even a liquor store joined the mix - a surprisingly eclectic combination even for Vegas.
+Vacation Village offered 315 rooms and a 15,000-square-foot casino, leaning heavily into a Southwest-inspired design. It wasn't attempting to compete with the grandeur of the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) or Luxor; instead, it targeted locals and budget-conscious tourists. What *did* set it apart? A quirky collection of amenities! The “graveyard buffet,” complete with tombstone décor, was a memorably unusual dining experience. Value-driven promotions and coupon books were hugely popular, solidifying its appeal. Later additions like a 24-hour buffet and a large banquet room further expanded its offerings. By the mid-90s, Denny’s, Great China Buffet, a bingo hall, race book, wedding chapel, and even a liquor store joined the mix - a surprisingly eclectic combination even for Vegas.
 
 ## Trials and Tribulations
 

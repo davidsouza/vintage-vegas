@@ -7,11 +7,11 @@ location: "Castaways Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "castaways hotel and casino"]
 ---
 
-## A Brief but Bright Polynesian Dream on the Strip
+## A Brief but Bright [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) Dream on the Strip
 
-For those of us who cherish vintage Las Vegas, the Castaways Hotel & Casino holds a bittersweet place in memory. Standing on the Strip today, it's hard to imagine a resort once occupied that space, but from 1963 to 1987, the Castaways offered a distinct Polynesian flair amidst a rapidly evolving landscape.
+For those of us who cherish vintage Las Vegas, the [Castaways](/posts/castaways-hotel-and-casino-las-vegas/) Hotel & Casino holds a bittersweet place in memory. Standing on the Strip today, it's hard to imagine a resort once occupied that space, but from 1963 to 1987, the Castaways offered a distinct Polynesian flair amidst a rapidly evolving landscape.
 
-The story begins with the Sans Souci, a struggling property bought by Ben Jaffe, already a prominent figure due to his ownership of the Tropicana. Recognizing potential, Jaffe ambitiously rebranded it as the Castaways, promising a vibrant Polynesian-themed escape. The September 1, 1963, reopening was a genuine attempt to offer something different – tiki torches, lush landscaping, and a casino run by the experienced duo of Ike P. LaRue and Everett Eugene McCarlie. 
+The story begins with the [Sans Souci](/posts/sans-souci-hotel-and-casino-las-vegas/), a struggling property bought by Ben Jaffe, already a prominent figure due to his ownership of the [Tropicana](/posts/tropicana-country-club-las-vegas/). Recognizing potential, Jaffe ambitiously rebranded it as the Castaways, promising a vibrant Polynesian-themed escape. The September 1, 1963, reopening was a genuine attempt to offer something different – tiki torches, lush landscaping, and a casino run by the experienced duo of Ike P. LaRue and Everett Eugene McCarlie. 
 
 ## Financial Tides and a Surprise Savior
 
@@ -25,7 +25,7 @@ Ultimately, however, the Castaways’ fate was sealed. In 1986, Steve Wynn purch
 
 ## A Legacy of Transition
 
-The demolition of the Castaways paved the way for what would become a landmark moment in Las Vegas history: The Mirage. Wynn’s mega-resort, opening in November 1989, completely redefined the Strip, introducing a new scale of entertainment and luxury. While the Castaways may be gone, its story is a poignant reminder of the constant evolution – and occasional disappearance – of vintage Las Vegas, and how even a short chapter can contribute to the overall narrative of this iconic city.
+The demolition of the Castaways paved the way for what would become a landmark moment in Las Vegas history: The [Mirage](/posts/mirage-hotel-and-casino-las-vegas/). Wynn’s mega-resort, opening in November 1989, completely redefined the Strip, introducing a new scale of entertainment and luxury. While the Castaways may be gone, its story is a poignant reminder of the constant evolution – and occasional disappearance – of vintage Las Vegas, and how even a short chapter can contribute to the overall narrative of this iconic city.
 
 
 <div class="shop-collection">

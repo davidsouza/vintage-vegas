@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "tam oshanter motel las vegas"]
 
 ## A Friendly Face on the Strip: Introducing the Tam O’Shanter Motel
 
-Before the mega-resorts and sprawling complexes dominated the Las Vegas Strip, there were the classic motor courts – charming, family-run establishments that offered a welcoming respite for travelers. Among the most memorable of these was the Tam O’Shanter Motel, a beloved landmark located at 3317 South Las Vegas Boulevard, nestled between the iconic Sands and Desert Inn. Opened in 1959 by Bernie Zeldin, this 100-room inn was more than just a place to sleep; it was a symbol of a different era of Vegas hospitality.
+Before the mega-resorts and sprawling complexes dominated the Las Vegas Strip, there were the classic motor courts – charming, family-run establishments that offered a welcoming respite for travelers. Among the most memorable of these was the Tam O’Shanter Motel, a beloved landmark located at 3317 South Las Vegas Boulevard, nestled between the iconic [Sands](/posts/sands-hotel-and-casino-las-vegas/) and [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/). Opened in 1959 by Bernie Zeldin, this 100-room inn was more than just a place to sleep; it was a symbol of a different era of Vegas hospitality.
 
 ## Mid-Century Modern Comfort and Quirky Charm
 

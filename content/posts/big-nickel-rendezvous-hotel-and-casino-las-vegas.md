@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "big nickel rendezvous hotel and ca
 
 ## A Nickel's Worth of Vegas History
 
-Downtown Las Vegas has always been a whirlwind of reinvention, and few properties exemplify that spirit more than the address at 400 East Ogden Avenue. Today part of the Gold Spike, this spot has worn many faces over the years, but its time as the Rendezvous Hotel & Casino, and later the iconic Big Nickel, represents a specific and intriguing chapter in vintage Las Vegas history. It’s a story of ambition, quick pivots, and the constant struggle for survival in a crowded market.
+Downtown Las Vegas has always been a whirlwind of reinvention, and few properties exemplify that spirit more than the address at 400 East Ogden Avenue. Today part of the Gold Spike, this spot has worn many faces over the years, but its time as the [Rendezvous](/posts/rendezvous-hotel-and-casino-las-vegas/) Hotel & Casino, and later the iconic Big Nickel, represents a specific and intriguing chapter in vintage Las Vegas history. It’s a story of ambition, quick pivots, and the constant struggle for survival in a crowded market.
 
 ## From Grace Hayes to the Rendezvous
 
@@ -21,7 +21,7 @@ Late 1978 marked the dawn of a new era, and a wonderfully kitschy one at that. T
 
 ## Navigating the Fremont Street Landscape
 
-The Big Nickel faced an uphill battle. Fremont Street was, and remains, a fiercely competitive environment. Established casinos like the Golden Nugget and Binion’s Horseshoe commanded a loyal clientele. The Big Nickel’s attempt to carve out a niche as a value-driven destination proved challenging. Ownership changes reflected the constant financial pressures. Despite the difficulties, the Big Nickel left its mark, a quirky and memorable presence in the heart of Downtown.
+The Big Nickel faced an uphill battle. Fremont Street was, and remains, a fiercely competitive environment. Established casinos like the Golden Nugget and Binion’s [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) commanded a loyal clientele. The Big Nickel’s attempt to carve out a niche as a value-driven destination proved challenging. Ownership changes reflected the constant financial pressures. Despite the difficulties, the Big Nickel left its mark, a quirky and memorable presence in the heart of Downtown.
 
 ## Legacy and Transformation
 

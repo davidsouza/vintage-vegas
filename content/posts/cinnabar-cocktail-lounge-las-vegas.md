@@ -17,7 +17,7 @@ The Cinnabar first opened its doors on South 1st Street. But its move to 122 Nor
 
 ## Rustic Charm & Neon Glow
 
-Imagine a space filled with wood-paneled walls, frontier motifs, and a relaxed atmosphere where locals and tourists alike could unwind. That was the Cinnabar. It stood out from the emerging glitz. The distinctive neon signage, a beacon in the desert night, was crafted by the legendary Young Electric Sign Company (YESCO), and a rooftop beacon light served as an extra enticement for late-night revelers. It was a no-nonsense establishment, embracing a down-to-earth appeal.
+Imagine a space filled with wood-paneled walls, [frontier](/posts/frontier-hotel-and-casino-las-vegas/) motifs, and a relaxed atmosphere where locals and tourists alike could unwind. That was the Cinnabar. It stood out from the emerging glitz. The distinctive neon signage, a beacon in the desert night, was crafted by the legendary Young Electric Sign Company (YESCO), and a rooftop beacon light served as an extra enticement for late-night revelers. It was a no-nonsense establishment, embracing a down-to-earth appeal.
 
 ## Food, Drinks, and a Rooftop Beacon
 

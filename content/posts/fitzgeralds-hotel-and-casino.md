@@ -7,13 +7,13 @@ location: "Fitzgeralds Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "fitzgeralds hotel and casino"]
 ---
 
-# A Lucky Charm on Fremont Street
+# A [Lucky](/posts/lucky-casino-las-vegas/) Charm on Fremont Street
 
 For decades, a towering green and shamrock-laden presence graced the eastern end of Fremont Street: Fitzgeralds Hotel & Casino. More than just a casino, Fitzgeralds represented a distinct era of downtown Las Vegas – one of approachable gaming, quirky theming, and a vibrant, energetic atmosphere. Today, it lives on as The D Las Vegas, but the memories of its former identity remain strong with many long-time Vegas visitors.
 
-## From Sundance to Shamrock
+## From [Sundance](/posts/sundance-hotel-and-casino-las-vegas/) to Shamrock
 
-The story doesn’t begin with Fitzgeralds. Initially opened in 1980 as the Sundance Hotel, the property was a joint venture of Moe Dalitz, a prominent figure in Las Vegas development, and operators Al Sachs and Herb Tobman, who also held interests in the Stardust and Fremont casinos. However, its transformation into Fitzgeralds in 1987 marked a pivotal shift. Acquired by Lincoln Management Group / Fitzgeralds Gaming, the Sundance received a full rebranding, embracing a decidedly Irish theme. Think cartoon leprechauns, shamrock accents, and a welcoming, value-oriented atmosphere – a direct contrast to the increasingly opulent Strip resorts.
+The story doesn’t begin with Fitzgeralds. Initially opened in 1980 as the Sundance Hotel, the property was a joint venture of Moe Dalitz, a prominent figure in Las Vegas development, and operators Al Sachs and Herb Tobman, who also held interests in the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and Fremont casinos. However, its transformation into Fitzgeralds in 1987 marked a pivotal shift. Acquired by Lincoln Management Group / Fitzgeralds Gaming, the Sundance received a full rebranding, embracing a decidedly Irish theme. Think cartoon leprechauns, shamrock accents, and a welcoming, value-oriented atmosphere – a direct contrast to the increasingly opulent Strip resorts.
 
 ## The Fitzgeralds Experience
 
@@ -25,7 +25,7 @@ The early 2000s brought upheaval when Fitzgeralds Gaming faced bankruptcy and th
 
 ## A Final Farewell & A New Beginning
 
-Following Barden’s passing, the Stevens brothers, who already owned the Golden Gate, acquired Fitzgeralds in 2011. A $22 million renovation followed, modernizing the casino, hotel rooms, and street frontage. In 2012, the Fitzgeralds name was retired, and the property was reborn as The D Las Vegas. While the iconic Irish theme disappeared, the core structure and footprint remain.  Fitzgeralds lives on in memory and the architectural bones of The D, a testament to a classic era of downtown Las Vegas and a reminder of a lucky charm that once watched over Fremont Street.
+Following Barden’s passing, the Stevens brothers, who already owned the [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/), acquired Fitzgeralds in 2011. A $22 million renovation followed, modernizing the casino, hotel rooms, and street frontage. In 2012, the Fitzgeralds name was retired, and the property was reborn as The D Las Vegas. While the iconic Irish theme disappeared, the core structure and footprint remain.  Fitzgeralds lives on in memory and the architectural bones of The D, a testament to a classic era of downtown Las Vegas and a reminder of a lucky charm that once watched over Fremont Street.
 
 
 <div class="shop-collection">

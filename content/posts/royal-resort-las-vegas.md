@@ -11,11 +11,11 @@ tags: ["las vegas history", "vintage vegas", "royal resort las vegas"]
 
 East of the dazzling lights of the Las Vegas Strip, a different kind of hospitality began in 1970. The Royal Las Vegas, originally part of the Royal Executive Inns chain, emerged at 99 Convention Center Drive. This wasn’t intended to be a Strip spectacle. The focus was squarely on servicing the burgeoning convention and business travel market that was increasingly important to Las Vegas’s economy. Located right next to the Las Vegas Convention Center, it offered a convenient and, importantly, more affordable alternative to the glitzier resorts further west.
 
-## Adding a Little Sparkle: The Royal Casino Era (1973-1990s)
+## Adding a Little Sparkle: The [Royal Casino](/posts/royal-casino-las-vegas/) Era (1973-1990s)
 
 Around 1973, recognizing an opportunity, the Royal added a casino. This wasn't a sprawling, opulent gaming floor; it was a modest operation, often cited as housing only around 100 slot machines and a couple of blackjack tables. Rebranded as the Royal Casino, the property attempted to balance its convention-focused roots with a touch of gambling entertainment. This era saw it solidify its position as a budget-friendly option, appealing to attendees looking for a quick game after a long day at a trade show.
 
-## Royal Hotel and Casino: A Name Change, A Continued Niche (1990s - 2003)
+## [Royal Hotel and Casino](/posts/royal-hotel-and-casino-las-vegas/): A Name Change, A Continued Niche (1990s - 2003)
 
 In the early 1990s, the hotel received another name change, becoming the Royal Hotel and Casino. Despite the change, the core business model remained consistent: reasonable rates and convenient access to the Convention Center. The casino remained a relatively small affair, a testament to the property’s original design and purpose. It carved out a quiet, reliable niche amongst the giants of the Strip.
 

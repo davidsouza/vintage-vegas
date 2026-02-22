@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "showboat lanes las vegas"]
 
 ## A Bowling Beacon on Boulder Highway
 
-Before mega-resorts dominated the landscape, Las Vegas was a city of distinct neighborhoods and unique entertainment offerings. Tucked away on Boulder Highway, the Showboat Hotel and Casino, opening in 1954, aimed to be a locals-friendly alternative to the burgeoning Strip. To achieve that, the Showboat made a bold bet: bowling. Showboat Lanes wasn’t just a bowling alley; it was a destination.
+Before mega-resorts dominated the landscape, Las Vegas was a city of distinct neighborhoods and unique entertainment offerings. Tucked away on Boulder Highway, the [Showboat Hotel and Casino](/posts/showboat-hotel-and-casino-las-vegas/), opening in 1954, aimed to be a locals-friendly alternative to the burgeoning Strip. To achieve that, the Showboat made a bold bet: bowling. Showboat Lanes wasn’t just a bowling alley; it was a destination.
 
 ## The Rise of a Bowling Empire
 
@@ -23,7 +23,7 @@ Beyond the lanes, visitors could enjoy bars, snack counters, a fully stocked pro
 
 ## The Fade and the Legacy
 
-As bowling's popularity waned in the late 20th century, and Las Vegas shifted its focus toward extravagant themed resorts, Showboat Lanes and the Showboat Hotel itself began to decline. The Showboat was sold and rebranded in the late 1990s, and sadly, the legendary lanes were removed. Despite its disappearance, Showboat Lanes remains a cherished memory for Las Vegas locals, dedicated bowlers, and anyone who remembers a time when bowling was a cornerstone of Vegas entertainment. It stands as a testament to a distinctive era—a time when Las Vegas offered more than just cards and dice; it offered the joy of a perfect strike and the camaraderie of a great bowling night.
+As bowling's popularity waned in the late [20th century](/posts/20th-century-hotel-and-casino-las-vegas/), and Las Vegas shifted its focus toward extravagant themed resorts, Showboat Lanes and the Showboat Hotel itself began to decline. The Showboat was sold and rebranded in the late 1990s, and sadly, the legendary lanes were removed. Despite its disappearance, Showboat Lanes remains a cherished memory for Las Vegas locals, dedicated bowlers, and anyone who remembers a time when bowling was a cornerstone of Vegas entertainment. It stands as a testament to a distinctive era—a time when Las Vegas offered more than just cards and dice; it offered the joy of a perfect strike and the camaraderie of a great bowling night.
 
 
 <div class="shop-collection">

@@ -7,9 +7,9 @@ location: "The Bagdad Inn Las Vegas"
 tags: ["las vegas history", "vintage vegas", "the bagdad inn las vegas"]
 ---
 
-## A Desert Oasis for Road Trippers: The Bagdad Inn's Beginnings
+## A Desert Oasis for Road Trippers: The [Bagdad Inn](/posts/bagdad-inn-las-vegas/)'s Beginnings
 
-For decades, the Bagdad Inn stood as a familiar and comforting landmark on Las Vegas Boulevard South. Located near Sahara Avenue, this roadside motel perfectly embodied the spirit of 1950s Las Vegas – a city rapidly expanding to cater to the burgeoning automobile tourism boom. Built during a pivotal era of American travel, the Bagdad Inn was designed specifically for the road tripper, a vital demographic fueling Vegas's growth. It offered a haven of simple comfort and affordability, a far cry from the opulent casinos that were beginning to define the Strip.
+For decades, the Bagdad Inn stood as a familiar and comforting landmark on Las Vegas Boulevard South. Located near [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue, this roadside motel perfectly embodied the spirit of 1950s Las Vegas – a city rapidly expanding to cater to the burgeoning automobile tourism boom. Built during a pivotal era of American travel, the Bagdad Inn was designed specifically for the road tripper, a vital demographic fueling Vegas's growth. It offered a haven of simple comfort and affordability, a far cry from the opulent casinos that were beginning to define the Strip.
 
 ## Classic Motel Style & Neon Glow
 

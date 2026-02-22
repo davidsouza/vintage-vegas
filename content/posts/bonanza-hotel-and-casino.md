@@ -7,9 +7,9 @@ location: "Bonanza Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "bonanza hotel and casino"]
 ---
 
-# A Brief Blaze on the Strip: The Bonanza Hotel & Casino
+# A Brief Blaze on the Strip: The [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Hotel & Casino
 
-The Las Vegas Strip has seen its share of comings and goings, of glitz and glamour, and of ambitious ventures that ultimately faded away. Among these fleeting lights was the Bonanza Hotel & Casino, a western-themed property that existed for a mere six years (1967-1973) before succumbing to financial woes and ownership squabbles. Today, its footprint is occupied by the Horseshoe Las Vegas, but the memory of the Bonanza remains a fascinating glimpse into a specific era of Vegas development.
+The Las Vegas Strip has seen its share of comings and goings, of glitz and glamour, and of ambitious ventures that ultimately faded away. Among these fleeting lights was the Bonanza Hotel & Casino, a western-themed property that existed for a mere six years (1967-1973) before succumbing to financial woes and ownership squabbles. Today, its footprint is occupied by the [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Las Vegas, but the memory of the Bonanza remains a fascinating glimpse into a specific era of Vegas development.
 
 ## A Quick Start and a Faster Shutdown
 

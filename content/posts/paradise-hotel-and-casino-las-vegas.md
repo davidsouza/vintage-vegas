@@ -7,7 +7,7 @@ location: "Paradise Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "paradise hotel and casino las vegas"]
 ---
 
-# A Fleeting Taste of Paradise on Tropicana Avenue
+# A Fleeting Taste of Paradise on [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue
 
 For those of us who love digging into the layers of Las Vegas history, there are stories of titans like Bugsy Siegel and Howard Hughes. But then there are the smaller, often forgotten ventures – the ambitious dreams that flickered brightly, then faded too soon. The Paradise Hotel and Casino is one such story, a curious blip on the timeline of the Las Vegas Strip.
 
@@ -19,7 +19,7 @@ The Paradise Hotel and Casino’s branding leaned hard into the exotic, a common
 
 ## Why Did Paradise Fail?
 
-Despite the appealing name and strategic location, the Paradise struggled. The late 1970s were a period of fierce competition in Las Vegas. Giants like Caesars Palace and the Stardust held significant market share, and the MGM Grand was rapidly expanding.  The Paradise, lacking the resources and scale of these behemoths, simply couldn't compete.  Behind the tropical theming and initial optimism, operational and financial problems plagued the venture. Rumors of mismanagement and a lack of clear direction began to circulate.
+Despite the appealing name and strategic location, the Paradise struggled. The late 1970s were a period of fierce competition in Las Vegas. Giants like Caesars Palace and the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) held significant market share, and the MGM Grand was rapidly expanding.  The Paradise, lacking the resources and scale of these behemoths, simply couldn't compete.  Behind the tropical theming and initial optimism, operational and financial problems plagued the venture. Rumors of mismanagement and a lack of clear direction began to circulate.
 
 ## From Paradise to OYO
 

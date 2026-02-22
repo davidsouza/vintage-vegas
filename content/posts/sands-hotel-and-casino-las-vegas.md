@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "sands hotel and casino las vegas"]
 
 ## A Strip Landmark: The Sands' Early Years
 
-The Sands Hotel and Casino. Just the name conjures up images of smoky casinos, dazzling lights, and the legendary Rat Pack. Opened on December 5, 1952, as the seventh resort on the Las Vegas Strip, the Sands quickly became more than just a hotel and casino; it was *the* place to be. Initially built by Jake Freedman and designed by architect Wayne McAllister, the Sands boasted a striking 56-foot sign that cut through the desert night, a beacon of entertainment and luxury. Starting with just 200 rooms, it aimed to attract a sophisticated clientele, a stark contrast to the more rough-and-tumble casinos that preceded it.
+[The Sands Hotel and Casino](/posts/the-sands-hotel-and-casino-las-vegas/). Just the name conjures up images of smoky casinos, dazzling lights, and the legendary Rat Pack. Opened on December 5, 1952, as the seventh resort on the Las Vegas Strip, the Sands quickly became more than just a hotel and casino; it was *the* place to be. Initially built by Jake Freedman and designed by architect Wayne McAllister, the Sands boasted a striking 56-foot sign that cut through the desert night, a beacon of entertainment and luxury. Starting with just 200 rooms, it aimed to attract a sophisticated clientele, a stark contrast to the more rough-and-tumble casinos that preceded it.
 
 ## Mob Connections and the Rise of the Rat Pack
 

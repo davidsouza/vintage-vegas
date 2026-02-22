@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "moulin rouge hotel and casino las 
 
 ## A Casino That Broke the Color Barrier
 
-Las Vegas in the 1950s was a city defined by stark racial divides. While the Strip glittered with promise, it largely remained off-limits to Black patrons, relegating them to the role of employees or occasional entertainers. Downtown, too, was largely segregated. Then came the Moulin Rouge, a bold experiment that briefly illuminated a path toward integration. Opened on May 24, 1955, at 900 West Bonanza Road, it stood between the glittering Strip and the historically Black West Las Vegas neighborhood – a strategic location designed to serve a wider clientele.
+Las Vegas in the 1950s was a city defined by stark racial divides. While the Strip glittered with promise, it largely remained off-limits to Black patrons, relegating them to the role of employees or occasional entertainers. Downtown, too, was largely segregated. Then came the Moulin Rouge, a bold experiment that briefly illuminated a path toward integration. Opened on May 24, 1955, at 900 West [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Road, it stood between the glittering Strip and the historically Black West Las Vegas neighborhood – a strategic location designed to serve a wider clientele.
 
 The vision belonged to Vester Heath, a businessman recognizing the glaring need for a hotel and casino that welcomed people of all races. Crucially, Heath wasn't alone. A group of White investors, spearheaded by the influential Will Max Schwartz, provided the backing that made the Moulin Rouge a reality. This partnership, while complex and often debated, was instrumental in overcoming the pervasive segregation of the time.
 

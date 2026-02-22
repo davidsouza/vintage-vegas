@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "holy cow casino cafe brewery las v
 
 ## From Foxy’s Deli to Holy Cow!: A Tale of Transformation
 
-Before it became the quirky, beer-loving haven we remember, the northeast corner of Sahara and the Strip had a different identity. Originally debuting in 1955 as Foxy’s Deli, it held the distinction of being the Strip’s first integrated restaurant – a groundbreaking concept for the era. Imagine Liberace, Wayne Newton, and Shecky Greene enjoying a casual meal! Foxy’s morphed into Foxy’s Firehouse Casino, continuing operation until 1988. Then, in 1992, Tom “Big Dog” Wiesner purchased the property, revitalizing it with the wonderfully whimsical concept of Holy Cow! Casino Cafe Brewery.
+Before it became the quirky, beer-loving haven we remember, the northeast corner of [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) and the Strip had a different identity. Originally debuting in 1955 as Foxy’s Deli, it held the distinction of being the Strip’s first integrated restaurant – a groundbreaking concept for the era. Imagine Liberace, Wayne Newton, and Shecky Greene enjoying a casual meal! Foxy’s morphed into Foxy’s Firehouse Casino, continuing operation until 1988. Then, in 1992, Tom “Big Dog” Wiesner purchased the property, revitalizing it with the wonderfully whimsical concept of Holy Cow! Casino Cafe Brewery.
 
 ## Brewing History in Sin City
 

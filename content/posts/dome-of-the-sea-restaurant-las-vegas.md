@@ -7,7 +7,7 @@ location: "Dome of the Sea Restaurant Las Vegas"
 tags: ["las vegas history", "vintage vegas", "dome of the sea restaurant las vegas"]
 ---
 
-# A Submerged Spectacle: The Dome of the Sea at the Dunes Hotel
+# A Submerged Spectacle: The Dome of the Sea at the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) Hotel
 
 Las Vegas in the 1960s wasn't just about gambling; it was a race to deliver unparalleled entertainment and experiences. Among the most ambitious – and unforgettable – of these was the Dome of the Sea, a seafood restaurant at the Dunes Hotel that truly transported diners to another world. Opened on June 12, 1965, as part of the hotel’s significant expansion and modernization led by architect Milton M. Schwartz, it remains a beloved memory for those who witnessed its magic.
 
@@ -17,7 +17,7 @@ The Dome’s architecture was immediately striking. Protruding dramatically from
 
 ## Beneath the Waves (Almost)
 
-While no actual seawater filled the space, the Dome of the Sea ingeniously created the illusion of an underwater paradise. Curved walls were adorned with projections of fish and swaying seaweed, while ambient lighting shifted between blues, greens, and shimmering silvers to mimic the play of light on water. Reflective materials completed the effect, making guests feel truly submerged. 
+While no actual seawater filled the space, the Dome of the Sea ingeniously created the illusion of an underwater [paradise](/posts/paradise-hotel-and-casino-las-vegas/). Curved walls were adorned with projections of fish and swaying seaweed, while ambient lighting shifted between blues, greens, and shimmering silvers to mimic the play of light on water. Reflective materials completed the effect, making guests feel truly submerged. 
 
 ## Harp Music & Mermaid Magic
 

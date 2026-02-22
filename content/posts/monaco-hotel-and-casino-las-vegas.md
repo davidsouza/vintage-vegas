@@ -7,7 +7,7 @@ location: "Monaco Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "monaco hotel and casino las vegas"]
 ---
 
-## A Brief Reign: The Monaco Motel (and its Royal Suite)
+## A Brief Reign: The Monaco Motel (and its [Royal](/posts/royal-casino-las-vegas/) Suite)
 
 Few Las Vegas properties are as fleetingly remembered as the Monaco Motel, located at 3073 South Las Vegas Boulevard. While it wasn't one of the glamorous, headline-grabbing casinos on the main Strip, its story, however brief, offers a glimpse into the burgeoning motel landscape of the late 1950s and early 1990s. It opened its doors in 1958, a time when South Las Vegas Boulevard was still developing and the city's tourism industry was rapidly expanding.
 
@@ -19,7 +19,7 @@ What truly distinguishes the Monaco Motel from other forgotten properties is the
 
 ## A Demise and a Legacy
 
-Despite a respectable run of over three decades, the Monaco Motel's story ended abruptly. It permanently closed its doors in 1993, a victim of changing times and the relentless march of progress on the Las Vegas Strip. Just a year later, in 1994, the property was demolished to make way for the Desert Inn Road Super Arterial project, a major road expansion aimed at easing traffic congestion.
+Despite a respectable run of over three decades, the Monaco Motel's story ended abruptly. It permanently closed its doors in 1993, a victim of changing times and the relentless march of progress on the Las Vegas Strip. Just a year later, in 1994, the property was demolished to make way for the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) Road Super Arterial project, a major road expansion aimed at easing traffic congestion.
 
 Today, the land where the Monaco Motel once stood is occupied by the sprawling Encore Hotel and Casino – a testament to how drastically the Las Vegas landscape has transformed. While the Monaco Motel is gone, its brief but memorable chapter serves as a reminder of the countless smaller businesses that contributed to the unique character of vintage Las Vegas, and the clever strategies used to stand out in a fiercely competitive market. It’s a quiet story, buried beneath the glitz and glamour of modern mega-resorts, but a worthwhile one to remember when reflecting on the rich and layered history of Las Vegas.
 

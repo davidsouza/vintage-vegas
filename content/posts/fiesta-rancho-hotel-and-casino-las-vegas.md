@@ -11,12 +11,11 @@ youtube_title: "Vintage Las Vegas Fiesta Rancho Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/vhkOq6Mph2g/hqdefault.jpg"
 ---
 
-
 # A North Las Vegas Institution: The Fiesta Rancho’s Story
 
 The Las Vegas Strip gets all the glory, but for decades, a different kind of Las Vegas magic happened just a few miles northeast – at the Fiesta Rancho Hotel and Casino. Opened on December 14, 1994, this wasn’t your glitzy, high-roller destination. It was *the* place for North Las Vegas residents, a true community hub, and a significant milestone for the city's expansion. Developed by the Maloof family, Fiesta (as it was initially known) marked the first hotel-casino to call North Las Vegas home. It started humbly: just 100 rooms and a modest 25,000-square-foot casino.
 
-## Rapid Growth and a Royal Flush Reputation
+## Rapid Growth and a [Royal](/posts/royal-casino-las-vegas/) Flush Reputation
 
 The initial enthusiasm was undeniable. Residents immediately embraced the Fiesta, and expansion plans weren’t far behind. In 1995, the casino doubled in size with a 50,000-square-foot addition. This expansion brought unique features like a drive-through sportsbook – a Las Vegas novelty even then – a revamped buffet, and more gaming space. The late 90s saw even more investment, a $26 million overhaul in 1999, adding a food court, much-needed parking, and expanding the casino floor to around 70,000 square feet. This era also cemented the Fiesta Rancho’s playful reputation as the “Royal Flush Capital of the World.”  The casino famously paid out tens of thousands in royal flushes through its video poker machines, attracting players seeking that elusive jackpot.
 

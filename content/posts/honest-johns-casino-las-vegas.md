@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "honest johns casino las vegas"]
 
 ## A Strip Unlike Today's: The North Strip's Wild Past
 
-Today’s Las Vegas Strip is dominated by sprawling resorts and mega-casinos. But rewind to the 1960s and early 70s, and you'd find a different beast – a strip characterized by smaller, independently-owned properties, each vying for attention with unique concepts and, often, a healthy dose of personality. Among the most memorable of these was Honest John’s Casino, a vibrant and irreverent landmark that stood at 2440 Las Vegas Boulevard South, just north of Sahara.
+Today’s Las Vegas Strip is dominated by sprawling resorts and mega-casinos. But rewind to the 1960s and early 70s, and you'd find a different beast – a strip characterized by smaller, independently-owned properties, each vying for attention with unique concepts and, often, a healthy dose of personality. Among the most memorable of these was Honest John’s Casino, a vibrant and irreverent landmark that stood at 2440 Las Vegas Boulevard South, just north of [Sahara](/posts/sahara-hotel-and-casino-las-vegas/).
 
 ## John Esposito's Straight-Shooting Vision
 
@@ -21,9 +21,9 @@ Unlike the glitz and grandeur of the larger resorts further south, Honest John's
 
 ## A Fleeting, Yet Impactful, Legacy
 
-The location's proximity to the burgeoning adult-entertainment corridor of the north Strip heavily influenced Honest John's marketing, and the casino flourished alongside it. However, the changing landscape of Las Vegas ultimately proved too much. By 1975, Honest John’s transitioned into the Big Wheel Casino, which itself was soon followed by the Centerfold Casino and the Jolly Trolley – each attempt representing a struggle to remain relevant as integrated resorts began to overshadow the independent operators.
+The location's proximity to the burgeoning adult-entertainment corridor of the north Strip heavily influenced Honest John's marketing, and the casino flourished alongside it. However, the changing landscape of Las Vegas ultimately proved too much. By 1975, Honest John’s transitioned into the Big Wheel Casino, which itself was soon followed by the [Centerfold Casino](/posts/centerfold-casino-las-vegas/) and the [Jolly Trolley](/posts/jolly-trolley-casino-las-vegas/) – each attempt representing a struggle to remain relevant as integrated resorts began to overshadow the independent operators.
 
-Though its run was relatively short, Honest John's Casino remains a treasured memory for vintage Las Vegas enthusiasts and historians. It embodies a unique era on the north Strip – an era defined by independent spirit, playful branding, and a genuine desire to provide a fun, accessible gaming experience. Today, the site is occupied by the Bonanza Gift Shop, but the legacy of Honest John's lives on as a reminder of a more colorful and unconventional Las Vegas.
+Though its run was relatively short, Honest John's Casino remains a treasured memory for vintage Las Vegas enthusiasts and historians. It embodies a unique era on the north Strip – an era defined by independent spirit, playful branding, and a genuine desire to provide a fun, accessible gaming experience. Today, the site is occupied by the [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Gift Shop, but the legacy of Honest John's lives on as a reminder of a more colorful and unconventional Las Vegas.
 
 
 <div class="shop-collection">

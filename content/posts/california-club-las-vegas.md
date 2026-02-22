@@ -7,7 +7,7 @@ location: "California Club Las Vegas"
 tags: ["las vegas history", "vintage vegas", "california club las vegas"]
 ---
 
-## A Downtown Staple: The California Club's Early Days
+## A Downtown Staple: The [California Club](/posts/california-club-casino-las-vegas/)'s Early Days
 
 For those of us who truly appreciate vintage Las Vegas, the name “California Club” evokes images of a simpler time on Fremont Street. Located at 101 East Fremont Street, this wasn’t one of the glitzy Strip mega-resorts; it was a cornerstone of the downtown “locals-first” casino scene, a place where friendly service and a welcoming atmosphere reigned supreme. The club first opened its doors in the early 1950s, initially under the ownership of Phil Copley and later Phil Long. Its logo, featuring a friendly bear mascot, became instantly recognizable to locals and visitors alike.
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "flamingo capri hotel and casino la
 
 ## A Unique Spot on the Strip: The Flamingo Capri Emerges
 
-When you think of classic Las Vegas, towering resorts and dazzling spectacle immediately come to mind. But the evolution of the Strip wasn't always about mega-hotels. Tucked between the pioneering Flamingo Hotel and what’s now The LINQ, the Flamingo Capri Hotel and Casino quietly played a crucial role in that transition. Opened on October 30, 1959, by George E. Goldberg and Bill Capri (whose last name gave the motel its distinctive suffix), the Capri was a luxury motel aiming to offer something different. For roughly $2 million, they built a 180-room haven that skillfully bridged the gap between the older motor court era and the burgeoning resort era.
+When you think of classic Las Vegas, towering resorts and dazzling spectacle immediately come to mind. But the evolution of the Strip wasn't always about mega-hotels. Tucked between the pioneering Flamingo Hotel and what’s now The LINQ, the [Flamingo Capri Hotel and Casino](/posts/flamingo-capri-hotel-and-casino-las-vegas/) quietly played a crucial role in that transition. Opened on October 30, 1959, by George E. Goldberg and Bill Capri (whose last name gave the motel its distinctive suffix), the Capri was a luxury motel aiming to offer something different. For roughly $2 million, they built a 180-room haven that skillfully bridged the gap between the older motor court era and the burgeoning resort era.
 
 ## More Than Just Flamingo Overflow
 
@@ -21,7 +21,7 @@ The motel's design, courtesy of architects Douglas Honnold and John Rex, mirrore
 
 In 1964, the Flamingo Capri Restaurant solidified its identity, establishing the property as a destination in its own right. Then there was the infamous “Flamingo Wash.” Clever marketing spun the natural drainage channel beneath the property into a romantic “Venetian canal,” a bit of Vegas flair that became significantly less charming when periodic flooding became a reality. While it provided a memorable story, the wash undoubtedly added a quirky chapter to the Capri’s history.
 
-## Engelstad’s Vision and the Rise of the Imperial Palace
+## Engelstad’s Vision and the Rise of the [Imperial Palace](/posts/imperial-palace-hotel-and-casino-las-vegas/)
 
 The 1970s brought significant changes. Ralph Engelstad, a contractor and entrepreneur, acquired the Flamingo Capri in 1971. He quickly recognized the property’s potential and transformed it. A casino was added in 1972, followed by expansions, including the popular Shangri-La pool, in 1974. By 1976, it even operated under the Best Western banner, retaining the beloved Flamingo Capri name.
 

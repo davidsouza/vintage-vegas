@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "keyhole bar las vegas"]
 
 ## A Tiny Bar, a Big Impression: The Keyhole Bar’s Short Reign
 
-Downtown Las Vegas’ Fremont Street Experience is a spectacle today, but rewind to the 1950s, and it was a different world – a more intimate, gritty, and delightfully eccentric place. Nestled between the burgeoning casinos, tiny bars like the Keyhole Bar thrived. Operating briefly from roughly 1953 to 1955, the Keyhole Bar, located at 13 Fremont Street within the Sal Sagev Hotel (later part of the Golden Gate), represents a crucial, often overlooked, chapter in Las Vegas history.
+Downtown Las Vegas’ Fremont Street Experience is a spectacle today, but rewind to the 1950s, and it was a different world – a more intimate, gritty, and delightfully eccentric place. Nestled between the burgeoning casinos, tiny bars like the Keyhole Bar thrived. Operating briefly from roughly 1953 to 1955, the Keyhole Bar, located at 13 Fremont Street within the [Sal Sagev Hotel](/posts/sal-sagev-hotel-las-vegas/) (later part of the [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/)), represents a crucial, often overlooked, chapter in Las Vegas history.
 
 ## The Keyhole's Signature Detail
 
@@ -21,7 +21,7 @@ Inside, the Keyhole Bar was a classic mid-century Vegas establishment. Contempor
 
 ## A Quick Change, a Lasting Legacy
 
-The Keyhole Bar's story, sadly, is short. By 1955, it was rebranded as the Lucky 13 Club, maintaining the same location. The Lucky 13 Club continued as a slot machine and 21 game haven until around 1957. The ever-shifting landscape of Fremont Street meant the Keyhole, and even the Lucky 13, didn’t last long in their original form. The building itself, and the alleyway beside it, eventually succumbed to expansion – the Golden Gate’s 2017 expansion ultimately erased the last structural vestiges of the Keyhole Bar.
+The Keyhole Bar's story, sadly, is short. By 1955, it was rebranded as the [Lucky](/posts/lucky-casino-las-vegas/) 13 Club, maintaining the same location. The Lucky 13 Club continued as a slot machine and 21 game haven until around 1957. The ever-shifting landscape of Fremont Street meant the Keyhole, and even the Lucky 13, didn’t last long in their original form. The building itself, and the alleyway beside it, eventually succumbed to expansion – the Golden Gate’s 2017 expansion ultimately erased the last structural vestiges of the Keyhole Bar.
 
 Despite its brief existence, the Keyhole Bar remains a vital piece of the puzzle when piecing together the history of vintage Las Vegas. It symbolizes a time when personality and quirky branding could allow a small establishment to thrive. Today, its memory lives on through vintage photographs, those iconic matchbooks, and the continued fascination with the formative years of Fremont Street and the unique atmosphere of early Las Vegas.
 

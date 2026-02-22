@@ -21,7 +21,7 @@ The initial offering was modest, but in 1954, the Elwell underwent a substantial
 
 ## From Elwell to Pioneer – A Turning Point
 
-The Elwell’s time as an independent entity was relatively short-lived. In 1965, it was acquired by the Pioneer Club for $1.5 million – a considerable sum at the time. The Elwell was rebranded as the Pioneer Hotel and Casino, absorbing some of its identity into the Pioneer's established brand. While the Pioneer continued to thrive, the original Elwell name faded into memory.
+The Elwell’s time as an independent entity was relatively short-lived. In 1965, it was acquired by the [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) for $1.5 million – a considerable sum at the time. The Elwell was rebranded as the Pioneer Hotel and Casino, absorbing some of its identity into the Pioneer's established brand. While the Pioneer continued to thrive, the original Elwell name faded into memory.
 
 ## A Demise and a Legacy
 

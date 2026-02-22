@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "mr sys casino las vegas"]
 
 ## A Cartoon Mascot and a Mountain of Bacon: Introducing Mr. Sy’s
 
-When we think of vintage Las Vegas, images of towering hotels and dazzling shows often come to mind. But there was a time when Vegas was defined by smaller, more character-driven establishments, and few were as memorable as Mr. Sy’s Casino. Located just off the Las Vegas Strip, across from the now-iconic Stardust, Mr. Sy’s wasn't about opulence; it was about charm and a distinctly down-to-earth Vegas experience. Opened in 1962, it operated until 1981, a short but impactful run in the city’s evolving landscape.
+When we think of vintage Las Vegas, images of towering hotels and dazzling shows often come to mind. But there was a time when Vegas was defined by smaller, more character-driven establishments, and few were as memorable as Mr. Sy’s Casino. Located just off the Las Vegas Strip, across from the now-iconic [Stardust](/posts/stardust-hotel-and-casino-las-vegas/), Mr. Sy’s wasn't about opulence; it was about charm and a distinctly down-to-earth Vegas experience. Opened in 1962, it operated until 1981, a short but impactful run in the city’s evolving landscape.
 
 The casino’s identity was instantly recognizable thanks to its whimsical mascot: Mr. Sy himself! This animated character, perpetually sporting a tuxedo, top hat, and bowtie (and often clutching a hot dog!), beamed from signage and promotional materials. He perfectly encapsulated the playful spirit of the casino and helped it stand out from the Strip's increasingly lavish competition.
 

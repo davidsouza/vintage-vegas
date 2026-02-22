@@ -11,12 +11,11 @@ youtube_title: "Vintage Las Vegas Lucky Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/YKmQhHn4ncM/hqdefault.jpg"
 ---
 
-
-## A New Kind of Vegas Dream: The Lucky Dragon's Debut
+## A New Kind of Vegas Dream: The [Lucky](/posts/lucky-casino-las-vegas/) Dragon's Debut
 
 For decades, Las Vegas has thrived on innovation and reinvention. While mega-resorts and themed experiences are practically synonymous with the Strip, the Lucky Dragon Hotel & Casino, which opened in late 2016, attempted something refreshingly different – an immersive, authentic Asian lifestyle experience. It wasn't just about gambling; it was about a holistic cultural journey. As the first ground-up hotel-casino built since the Cosmopolitan a decade prior, it promised to be a landmark.
 
-Located at 300 West Sahara Avenue, just off the northern Strip, the Lucky Dragon aimed for a sophisticated demographic. From its dragon-scale sidewalks to its Mandarin-first signage, every detail was carefully considered, incorporating feng shui principles and avoiding the notoriously unlucky number four. The dazzling 1.25-ton dragon chandelier was a particularly striking feature, reflecting the ambition of the project. Restaurants like Dragon’s Alley, Pearl Ocean, and Phoenix promised a culinary journey alongside the traditional casino games.
+Located at 300 West [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue, just off the northern Strip, the Lucky Dragon aimed for a sophisticated demographic. From its dragon-scale sidewalks to its Mandarin-first signage, every detail was carefully considered, incorporating feng shui principles and avoiding the notoriously unlucky number four. The dazzling 1.25-ton dragon chandelier was a particularly striking feature, reflecting the ambition of the project. Restaurants like Dragon’s Alley, Pearl Ocean, and Phoenix promised a culinary journey alongside the traditional casino games.
 
 ## The Challenges of Authenticity and Location
 

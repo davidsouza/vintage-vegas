@@ -7,9 +7,9 @@ location: "Westward Ho Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "westward ho hotel and casino las vegas"]
 ---
 
-## A Frontier Salute on the Strip
+## A [Frontier](/posts/frontier-hotel-and-casino-las-vegas/) Salute on the Strip
 
-For those who remember the Las Vegas Strip of the 1960s and 70s, the Westward Ho Hotel and Casino – affectionately nicknamed “The Ho” – held a special place. Opened in 1963, nestled between the iconic Stardust and where Slots-A-Fun would later rise, it wasn’t just another casino; it was a respectful nod to the westward expansion that defined Nevada’s history. Brothers and sisters Dean Petersen and his siblings were behind the venture, choosing a name that evoked images of covered wagons and the pioneering spirit. 
+For those who remember the Las Vegas Strip of the 1960s and 70s, the Westward Ho Hotel and Casino – affectionately nicknamed “The Ho” – held a special place. Opened in 1963, nestled between the iconic [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and where Slots-A-Fun would later rise, it wasn’t just another casino; it was a respectful nod to the westward expansion that defined Nevada’s history. Brothers and sisters Dean Petersen and his siblings were behind the venture, choosing a name that evoked images of covered wagons and the pioneering spirit. 
 
 ## More Than Just a Casino: A Resort Experience
 
@@ -21,7 +21,7 @@ The Petersen family’s dedication to the Westward Ho lasted for decades. Dean P
 
 ## A Valuable Piece of Land, A Lost Landmark
 
-The land itself proved to be far more valuable than the operating casino. The strategic location, just south of the Strip, caught the eye of Harrah’s Entertainment, who traded it to Boyd Gaming for the Barbary Coast. In 2006, the $101.6 million deal finalized the Westward Ho’s fate.  Boyd’s initial plans for “Echelon Place” never fully materialized due to the Great Recession. The symbolic moment of a McDonald's opening on a corner of the old property felt like the final nail in the coffin for the beloved landmark.
+The land itself proved to be far more valuable than the operating casino. The strategic location, just south of the Strip, caught the eye of Harrah’s Entertainment, who traded it to Boyd Gaming for the [Barbary Coast](/posts/barbary-coast-hotel-and-casino-las-vegas/). In 2006, the $101.6 million deal finalized the Westward Ho’s fate.  Boyd’s initial plans for “Echelon Place” never fully materialized due to the Great Recession. The symbolic moment of a McDonald's opening on a corner of the old property felt like the final nail in the coffin for the beloved landmark.
 
 ## From 'Ho' to Resorts World
 

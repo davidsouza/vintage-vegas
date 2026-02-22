@@ -7,15 +7,15 @@ location: "Downtown Castaways Las Vegas"
 tags: ["las vegas history", "vintage vegas", "downtown castaways las vegas"]
 ---
 
-## From Showboat to Castaways: A Name Change and a Rocky Start
+## From Showboat to [Castaways](/posts/castaways-hotel-and-casino-las-vegas/): A Name Change and a Rocky Start
 
-Downtown Las Vegas has seen its share of transitions, but few were as fleeting and ultimately tragic as the story of the Castaways. It all began in 1998 when Harrah’s Entertainment acquired the Showboat Hotel and Casino. However, Harrah’s, needing to maintain the Showboat name for their Atlantic City property, quickly sold the downtown location just two years later. This sale, for $23.5 million, brought in VSS Enterprises, led by Dan Shaw, Mike Villamor, and Greg Schatzman, who were tasked with rebranding the property.
+Downtown Las Vegas has seen its share of transitions, but few were as fleeting and ultimately tragic as the story of the Castaways. It all began in 1998 when Harrah’s Entertainment acquired the [Showboat Hotel and Casino](/posts/showboat-hotel-and-casino-las-vegas/). However, Harrah’s, needing to maintain the Showboat name for their Atlantic City property, quickly sold the downtown location just two years later. This sale, for $23.5 million, brought in VSS Enterprises, led by Dan Shaw, Mike Villamor, and Greg Schatzman, who were tasked with rebranding the property.
 
 Thus, the Showboat became the Castaways. The new name was meant to evoke a sense of adventure and escape, but the reality proved far less glamorous.
 
 ## A Cascade of Challenges
 
-The Castaways’ run was plagued from the start. The late 1990s and early 2000s were a tough period for Las Vegas, and the property was particularly vulnerable. The post-9/11 tourism slump delivered a devastating blow. A planned $57 million expansion into a Holiday Inn fell through, a sign of the underlying financial strain. Things spiraled further when VSS defaulted on a $20 million mortgage.
+The Castaways’ run was plagued from the start. The late 1990s and early 2000s were a tough period for Las Vegas, and the property was particularly vulnerable. The post-9/11 tourism slump delivered a devastating blow. A planned $57 million expansion into a [Holiday](/posts/holiday-casino-las-vegas/) Inn fell through, a sign of the underlying financial strain. Things spiraled further when VSS defaulted on a $20 million mortgage.
 
 In 2003, Castaways filed for Chapter 11 bankruptcy, carrying a staggering debt of up to $100 million. A judge’s ruling highlighting financial mismanagement ultimately sealed its fate, and on January 29, 2004, the doors officially closed.
 

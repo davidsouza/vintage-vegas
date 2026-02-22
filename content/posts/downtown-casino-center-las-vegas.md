@@ -11,16 +11,15 @@ youtube_title: "Vintage Las Vegas Downtown Casino Center Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/7EfDmLqm8sk/hqdefault.jpg"
 ---
 
-
 ## A Name, a Sign, and a Destination: Introducing Downtown Casino Center
 
 Everyone recognizes the “Welcome to Fabulous Las Vegas” sign, but have you heard of Downtown Casino Center? In 1959, Las Vegas launched this ambitious branding campaign to solidify Fremont Street's identity – and it wasn’t a single casino, but an entire district’s persona. The era was one of burgeoning competition, with the nascent Las Vegas Strip starting to pull attention away from the heart of Downtown. This campaign aimed to recapture that glory.
 
-“Downtown Casino Center” emerged from a local contest, winning out over the slightly less appealing “Glitter Gulch.” While Mayor Oran Gragson had reservations, he acknowledged the new name was an improvement, and it certainly stuck! To visually advertise this new identity, the city commissioned a massive, electrified sign on the Strip reading “Downtown Casino Center → 10 Minutes.” Crafted by Western Neon with the legendary Betty Willis (who also designed the iconic Welcome sign), it served as a neon beacon, guiding visitors directly to Fremont Street’s concentrated casino scene.
+“Downtown Casino Center” emerged from a local contest, winning out over the slightly less appealing “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/).” While Mayor Oran Gragson had reservations, he acknowledged the new name was an improvement, and it certainly stuck! To visually advertise this new identity, the city commissioned a massive, electrified sign on the Strip reading “Downtown Casino Center → 10 Minutes.” Crafted by Western Neon with the legendary Betty Willis (who also designed the iconic Welcome sign), it served as a neon beacon, guiding visitors directly to Fremont Street’s concentrated casino scene.
 
 ## The Heart of Old Las Vegas
 
-Geographically, Downtown Casino Center revolved around the intersection of Fremont Street and Casino Center Boulevard. This became the very picture of Downtown’s vibrant landscape: a dense cluster of casinos including the Golden Nugget, the Horseshoe (now Binion’s), the Fremont, and later, the Four Queens. Today, this spot is affectionately known as the "four corners," a testament to the tightly packed excitement of the area’s prime years. The whole area felt different – walkable, bright, and brimming with classic Vegas charm.
+Geographically, Downtown Casino Center revolved around the intersection of Fremont Street and Casino Center Boulevard. This became the very picture of Downtown’s vibrant landscape: a dense cluster of casinos including the Golden Nugget, the [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) (now Binion’s), the Fremont, and later, the Four Queens. Today, this spot is affectionately known as the "four corners," a testament to the tightly packed excitement of the area’s prime years. The whole area felt different – walkable, bright, and brimming with classic Vegas charm.
 
 ## More Than a Name – It Was a Promise
 

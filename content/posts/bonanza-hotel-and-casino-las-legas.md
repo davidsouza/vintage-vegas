@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "bonanza hotel and casino las legas
 
 ## A Wild West Welcome on the Strip
 
-Before the mega-resorts dominated the Las Vegas Strip, there were smaller, quirky properties that helped shape the city's identity. One such gem was the Bonanza Hotel and Casino, a western-themed venture that briefly occupied a now-iconic spot at 3645 South Las Vegas Boulevard, between the Three Coins and the Galaxy Motel. Opened on July 1, 1967, the Bonanza aimed to offer a distinct experience, capitalizing on the enduring appeal of the Wild West.
+Before the mega-resorts dominated the Las Vegas Strip, there were smaller, quirky properties that helped shape the city's identity. One such gem was the [Bonanza Hotel and Casino](/posts/bonanza-hotel-and-casino-las-vegas/), a western-themed venture that briefly occupied a now-iconic spot at 3645 South Las Vegas Boulevard, between the Three Coins and the Galaxy Motel. Opened on July 1, 1967, the Bonanza aimed to offer a distinct experience, capitalizing on the enduring appeal of the Wild West.
 
 ## Short-Lived Casino Dreams
 
@@ -29,7 +29,7 @@ However, the Bonanza's story wasn’t without drama. A dispute between the top t
 
 ## A Final Curtain Call & Legacy
 
-The Bonanza’s time was ultimately short. It closed its doors in early 1973, leaving behind a memory of a unique and briefly shining star on the Strip. Today, the site is home to the Horseshoe Las Vegas, a testament to the constant evolution of the Las Vegas landscape. Though gone, the Bonanza Hotel & Casino remains a fascinating footnote in the history of vintage Las Vegas, a reminder of the Strip’s early, more experimental days.
+The Bonanza’s time was ultimately short. It closed its doors in early 1973, leaving behind a memory of a unique and briefly shining star on the Strip. Today, the site is home to the [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Las Vegas, a testament to the constant evolution of the Las Vegas landscape. Though gone, the Bonanza Hotel & Casino remains a fascinating footnote in the history of vintage Las Vegas, a reminder of the Strip’s early, more experimental days.
 
 
 <div class="shop-collection">

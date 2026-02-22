@@ -9,11 +9,11 @@ tags: ["las vegas history", "vintage vegas", "the park hotel and casino las vega
 
 # The Park Hotel and Casino: A Brief, Turbulent Life Downtown
 
-Downtown Las Vegas boasts a vibrant, albeit sometimes tumultuous, history. Amongst the neon glow and echoes of the past lies the former site of The Park Hotel and Casino, a building that, despite its short lifespan, tells a compelling story of labor disputes, ownership changes, and the evolving landscape of the Vegas Strip. Located at 200 North Main Street, very close to the heart of Fremont Street, The Park (previously the Holiday International) is now occupied by the popular Main Street Station casino, but its legacy remains for those who remember.
+Downtown Las Vegas boasts a vibrant, albeit sometimes tumultuous, history. Amongst the neon glow and echoes of the past lies the former site of The Park Hotel and Casino, a building that, despite its short lifespan, tells a compelling story of labor disputes, ownership changes, and the evolving landscape of the Vegas Strip. Located at 200 North Main Street, very close to the heart of Fremont Street, The Park (previously the [Holiday International](/posts/holiday-international-casino-las-vegas/)) is now occupied by the popular Main Street Station casino, but its legacy remains for those who remember.
 
-## From Holiday Inn to The Park
+## From [Holiday](/posts/holiday-casino-las-vegas/) Inn to The Park
 
-The story begins in 1978 with the opening of the Holiday International, a 406-room hotel and casino intended to serve as a modern option for visitors near Fremont Street. It was a solid addition to the downtown core, catering to both tourists and locals. However, the hotel's identity underwent a significant shift in 1987 when it was rebranded as The Park, owned by Katsuki Manabe. This name change signaled a slight repositioning, aiming to present a more stylish and appealing image.
+The story begins in 1978 with the opening of the Holiday [International](/posts/international-hotel-las-vegas/), a 406-room hotel and casino intended to serve as a modern option for visitors near Fremont Street. It was a solid addition to the downtown core, catering to both tourists and locals. However, the hotel's identity underwent a significant shift in 1987 when it was rebranded as The Park, owned by Katsuki Manabe. This name change signaled a slight repositioning, aiming to present a more stylish and appealing image.
 
 ## The Strike and the Shutdown
 

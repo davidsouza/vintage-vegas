@@ -11,11 +11,11 @@ tags: ["las vegas history", "vintage vegas", "bank club casino gaming guide las 
 
 Las Vegas. The name conjures images of glittering high-rises, sprawling resorts, and non-stop entertainment. But the Vegas of the 1930s and 40s looked vastly different. Before the Strip became *the* Strip, Fremont Street was the beating heart of legal casino gaming in Nevada. And nestled within that bustling downtown core, at 17 Fremont Street, stood the Bank Club Casino – a small, but significant, player in the city’s formative years.
 
-## Humble Beginnings in a Legal Frontier
+## Humble Beginnings in a Legal [Frontier](/posts/frontier-hotel-and-casino-las-vegas/)
 
-Nevada legalized gambling in 1931, and Las Vegas quickly began its transformation from a sleepy railroad town into a gambling mecca. The Bank Club, licensed roughly between 1938 and 1945, represents this nascent period perfectly. It wasn't a grand palace like the El Cortez or a sprawling complex. Instead, it was one of many smaller, neighborhood-style casinos that dotted Fremont Street, each competing for the attention – and dollars – of locals and the increasingly steady stream of early tourists. 
+Nevada legalized gambling in 1931, and Las Vegas quickly began its transformation from a sleepy railroad town into a gambling mecca. The Bank Club, licensed roughly between 1938 and 1945, represents this nascent period perfectly. It wasn't a grand palace like the [El Cortez](/posts/el-cortez-hotel-and-casino-las-vegas/) or a sprawling complex. Instead, it was one of many smaller, neighborhood-style casinos that dotted Fremont Street, each competing for the attention – and dollars – of locals and the increasingly steady stream of early tourists. 
 
-Imagine stepping off the sidewalk and into a compact casino floor, bathed in the glow of neon (though likely more modest than the later, iconic signs). The Bank Club offered what was standard fare for the time: slot machines and 21 (blackjack). It existed alongside gaming legends like the Las Vegas Club, Northern Club, and Pioneer Club, forming a concentrated hub of early casino action.
+Imagine stepping off the sidewalk and into a compact casino floor, bathed in the glow of neon (though likely more modest than the later, iconic signs). The Bank Club offered what was standard fare for the time: slot machines and 21 (blackjack). It existed alongside gaming legends like the [Las Vegas Club](/posts/las-vegas-club-hotel-and-casino-las-vegas/), [Northern Club](/posts/northern-club-las-vegas/), and [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/), forming a concentrated hub of early casino action.
 
 ## What Made the Bank Club Special?
 

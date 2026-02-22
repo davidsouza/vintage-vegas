@@ -11,8 +11,7 @@ youtube_title: "Vintage Las Vegas Boardwalk Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/2i969HDgLW0/hqdefault.jpg"
 ---
 
-
-## From Holiday Inn to Coney Island Escape
+## From [Holiday](/posts/holiday-casino-las-vegas/) Inn to Coney Island Escape
 
 Before the soaring heights of CityCenter and the elegance of the Waldorf Astoria graced the Las Vegas Strip, a different kind of spectacle stood proudly: the Boardwalk Hotel & Casino. Its story is a microcosm of the Strip’s evolution, from modest beginnings to a playful, themed identity, and ultimately, to its demolition to make way for modern behemoths. The property’s roots stretch back to 1966, initially a fairly unremarkable Holiday Inn. This six-story structure, designed by Homer Rissman, catered to a growing, but still relatively small, Vegas landscape.
 
@@ -30,7 +29,7 @@ No discussion of the Boardwalk is complete without mentioning its Surf Buffet. O
 
 ## A Demise & a Legacy
 
-Acquired by Mirage Resorts (later MGM Mirage) in 1997, the Boardwalk continued operating until its closure on January 9, 2006. The inevitable implosion occurred on May 9, 2006, at 2:34 a.m., marking the end of an era. Today, the site is unrecognizable, home to the upscale developments of CityCenter. While the Boardwalk is gone, its memory lives on as a quirky, beloved footnote in Las Vegas history – a playful reminder of a time when the Strip embraced a more whimsical and approachable persona.
+Acquired by [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) Resorts (later MGM Mirage) in 1997, the Boardwalk continued operating until its closure on January 9, 2006. The inevitable implosion occurred on May 9, 2006, at 2:34 a.m., marking the end of an era. Today, the site is unrecognizable, home to the upscale developments of CityCenter. While the Boardwalk is gone, its memory lives on as a quirky, beloved footnote in Las Vegas history – a playful reminder of a time when the Strip embraced a more whimsical and approachable persona.
 
 
 <div class="shop-collection">

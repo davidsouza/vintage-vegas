@@ -15,7 +15,7 @@ Downtown Las Vegas, Fremont Street East – it’s a vibrant hub today, but its 
 
 Herb Pastor was a familiar face in Vegas gambling circles, having previously worked for other casinos. Owning the Golden Goose was his chance to be his own boss, to build something from the ground up. This wasn't just about bricks and mortar; it was about establishing his own legacy in a town fiercely competitive and constantly evolving. The Golden Goose, in its early days, was a relatively modest operation, offering a classic casino experience alongside a small hotel—the kind of place a working-class gambler felt comfortable. It represented a certain authenticity in a world that increasingly prioritized spectacle.
 
-## Glitter Gulch Connection and Expansion
+## [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/) Connection and Expansion
 
 The Golden Goose’s significance grew considerably in 1982 when Pastor acquired the neighboring Glitter Gulch Casino. Combining the two properties under his ownership allowed for a more expansive gaming and entertainment experience for visitors. He expertly managed both casinos until 1991, establishing himself as a significant player in the Downtown scene. The combined Glitter Gulch/Golden Goose offered a unique vibe—a little rough around the edges, definitely real, and undeniably part of Fremont Street's character.  It wasn't striving to be the Bellagio; it was striving to be the best *it* could be.
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "top o the dunes restaurant las veg
 
 ## A Bird's-Eye View of Old Vegas
 
-The Las Vegas Strip has always been about spectacle, but few experiences rivaled the magic of dining at Top O’ The Dunes Restaurant. Perched atop the Dunes Hotel & Casino’s 21-story “Diamond of the Dunes” tower, opening initially as “Top O’ The Strip” in June 1965, this wasn’t just a restaurant; it was an event. Imagine: a sophisticated, dimly lit room, plush seating, and, most importantly, panoramic views stretching across the Strip, downtown, and the vast Nevada desert – a truly unparalleled vista.
+The Las Vegas Strip has always been about spectacle, but few experiences rivaled the magic of dining at Top O’ The [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) Restaurant. Perched atop the Dunes Hotel & Casino’s 21-story “Diamond of the Dunes” tower, opening initially as “Top O’ The Strip” in June 1965, this wasn’t just a restaurant; it was an event. Imagine: a sophisticated, dimly lit room, plush seating, and, most importantly, panoramic views stretching across the Strip, downtown, and the vast Nevada desert – a truly unparalleled vista.
 
 ## Fine Dining & Fabulous Entertainment
 

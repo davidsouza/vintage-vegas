@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "foxys firehouse casino las vegas"]
 
 ## A Deli's Legacy & a Firehouse Fantasy
 
-Before the megaresorts and sprawling complexes defined the Las Vegas Strip, there were smaller, more intimate gaming venues. Among them, Foxy’s Firehouse Casino stands out as a particularly charming and memorable piece of vintage Vegas history. Located on the northeast corner of Las Vegas Boulevard and Sahara Avenue (now the site of a Walgreens), this little casino operated from 1976 to 1988 and offered a refreshing contrast to the increasingly corporate landscape of the Strip.
+Before the megaresorts and sprawling complexes defined the Las Vegas Strip, there were smaller, more intimate gaming venues. Among them, Foxy’s Firehouse Casino stands out as a particularly charming and memorable piece of vintage Vegas history. Located on the northeast corner of Las Vegas Boulevard and [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue (now the site of a Walgreens), this little casino operated from 1976 to 1988 and offered a refreshing contrast to the increasingly corporate landscape of the Strip.
 
 The story begins long before the casino’s opening, however. In 1955, Abe “Foxy” Fox opened Foxy’s Deli, a beloved Jewish delicatessen that quickly became a local institution. For years, it served up delicious sandwiches and a warm, welcoming atmosphere. When Fox sold the deli in 1975, the new owners saw an opportunity to transform the space into something new: a casino. Smartly, they retained the familiar “Foxy” name, instantly associating the new venture with a sense of local familiarity.
 

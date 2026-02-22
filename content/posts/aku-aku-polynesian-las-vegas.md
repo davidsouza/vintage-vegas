@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "aku aku polynesian las vegas"]
 
 ## A Tropical Oasis on the Strip: Introducing Aku Aku
 
-The Las Vegas Strip has always been about spectacle and escaping reality, but few experiences embodied that ethos as perfectly as Aku Aku Polynesian Restaurant. Opening its doors on January 29, 1960, inside the Stardust Resort & Casino, Aku Aku wasn't just a restaurant; it was an immersive Polynesian fantasy. In an era where diners expected formality and predictability, Aku Aku offered a bold and exciting alternative – a complete transportation to a South Pacific paradise.
+The Las Vegas Strip has always been about spectacle and escaping reality, but few experiences embodied that ethos as perfectly as Aku Aku [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) Restaurant. Opening its doors on January 29, 1960, inside the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) Resort & Casino, Aku Aku wasn't just a restaurant; it was an immersive Polynesian fantasy. In an era where diners expected formality and predictability, Aku Aku offered a bold and exciting alternative – a complete transportation to a South Pacific [paradise](/posts/paradise-hotel-and-casino-las-vegas/).
 
 ## The Design: A Dramatic Escape
 

@@ -11,8 +11,7 @@ youtube_title: "Vintage Las Vegas Coin Castle Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/GH_ZhcxK9YQ/hqdefault.jpg"
 ---
 
-
-## A Royal Welcome on Fremont Street
+## A [Royal](/posts/royal-casino-las-vegas/) Welcome on Fremont Street
 
 Downtown Las Vegas' Fremont Street has always been a landscape of constant change, but some casinos leave a more enduring mark than others. Coin Castle Casino, a small but spirited property operating from 1970 to 1999, is one such place. For nearly three decades, it offered a unique slice of vintage Las Vegas, a far cry from the mega-resorts that would later dominate the Strip.
 
@@ -28,7 +27,7 @@ Coin Castle truly lived up to its name. The playful castle theme wasn't just for
 
 ## The Curtain Falls, But the Memory Remains
 
-In 1999, Pastor decided to renovate and rebrand the property as La Bayou. The transformation signaled an evolution in Las Vegas tastes and increased competition on Fremont Street. The iconic “king” statue and the distinctive “Coin Castle” lettering disappeared, but fortunately, much of the signage found a new home at the Neon Museum, preserving a piece of Las Vegas history for future generations. While the building now houses Circa Resort and Casino, the memory of Coin Castle lives on. It serves as a poignant reminder of an era where smaller, themed casinos could thrive, relying on charm, promotion, and that unmistakable sound of cascading coins to draw players in.
+In 1999, Pastor decided to renovate and rebrand the property as [La Bayou](/posts/la-bayou-casino-las-vegas/). The transformation signaled an evolution in Las Vegas tastes and increased competition on Fremont Street. The iconic “king” statue and the distinctive “Coin Castle” lettering disappeared, but fortunately, much of the signage found a new home at the Neon Museum, preserving a piece of Las Vegas history for future generations. While the building now houses Circa Resort and Casino, the memory of Coin Castle lives on. It serves as a poignant reminder of an era where smaller, themed casinos could thrive, relying on charm, promotion, and that unmistakable sound of cascading coins to draw players in.
 
 
 <div class="shop-collection">

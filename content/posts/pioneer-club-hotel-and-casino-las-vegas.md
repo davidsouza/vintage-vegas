@@ -11,13 +11,13 @@ tags: ["las vegas history", "vintage vegas", "pioneer club hotel and casino las 
 
 The corner of First and Fremont Street in Las Vegas holds a lot of history, and the building currently housing a souvenir shop is no exception. Long before the mega-resorts and dazzling lights, a simple restaurant stood there, dating back to 1918. But it was in 1942 that it truly began its journey toward becoming a legendary Las Vegas institution – the Pioneer Club. Initially a club and cocktail lounge, it quickly became a popular spot for locals and visitors seeking a taste of the burgeoning Vegas nightlife.
 
-## The Elwell Acquisition & A Hotel is Born
+## The [Elwell](/posts/elwell-hotel-and-casino-las-vegas/) Acquisition & A Hotel is Born
 
 What truly set the Pioneer apart was its unique approach. It wasn't just a gambling den; it was a social hub. The club's owners understood the changing landscape and sought expansion. In 1965, a significant move was made: the purchase of The Elwell Hotel. This acquisition allowed the Pioneer Club to become the Pioneer Club Hotel, significantly expanding its footprint and appealing to a wider clientele. For a short time, it operated under the name the New Pioneer Club (1956-1967), further solidifying its place in the city’s development.
 
 ## A Short-Lived Hotel, A Lasting Image
 
-Unfortunately, the hotel portion of the Pioneer Club proved unsustainable. In 1969, it was sold, and the Elwell was transformed into what became the Golden Hotel, marking a shift in the Pioneer’s identity. Despite this change, the original club remained a vital part of the Fremont Street Experience, and in 1983, a further expansion saw the acquisition of Club Bingo, significantly increasing its casino floor. The club's owners included notable figures like Margaret Elardi and Gold Strike Resorts, each leaving their mark on the Pioneer's story.
+Unfortunately, the hotel portion of the Pioneer Club proved unsustainable. In 1969, it was sold, and the Elwell was transformed into what became the Golden Hotel, marking a shift in the Pioneer’s identity. Despite this change, the original club remained a vital part of the Fremont Street Experience, and in 1983, a further expansion saw the acquisition of [Club Bingo](/posts/club-bingo-las-vegas/), significantly increasing its casino floor. The club's owners included notable figures like Margaret Elardi and Gold Strike Resorts, each leaving their mark on the Pioneer's story.
 
 ## Demise and Legacy: Vegas Vic and the Pioneer Spirit
 

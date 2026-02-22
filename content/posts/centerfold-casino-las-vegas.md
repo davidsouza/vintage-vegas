@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "centerfold casino las vegas"]
 
 ## A Risqué Reign on the Boulevard (1975-1977)
 
-Along the south Strip, near Sahara Avenue, a particular stretch has seen more transformations than most. Among them stands a location at 2440 Las Vegas Boulevard South that in 1975 became the Centerfold Casino. This wasn't a fresh plot of land; it had previously cycled through names like Honest John’s Casino and housed the iconic Big Wheel, a testament to the ever-evolving nature of Vegas entertainment. Centerfold, however, took a distinct turn.
+Along the south Strip, near [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue, a particular stretch has seen more transformations than most. Among them stands a location at 2440 Las Vegas Boulevard South that in 1975 became the Centerfold Casino. This wasn't a fresh plot of land; it had previously cycled through names like Honest John’s Casino and housed the iconic Big Wheel, a testament to the ever-evolving nature of Vegas entertainment. Centerfold, however, took a distinct turn.
 
 What made Centerfold memorable? Its unapologetically bold marketing. Think neon marquees screaming “Girls! Girls! Girls!” alongside promises of Casino, Poker, and 21. This approach, while edgy and attention-grabbing for the mid-70s, perfectly encapsulated the era's willingness to push boundaries. While the signage strongly suggested topless entertainment, it’s likely adult performances were strategically separated from the casino floor to comply with the Nevada Gaming Commission's regulations - a delicate dance even then.
 
@@ -19,11 +19,11 @@ The mid-1970s in Las Vegas were a fascinating time. The city was shedding its ol
 
 ## A Short Life, a Lasting Impression
 
-The Centerfold Casino’s run was surprisingly short, lasting only about a year. By 1977, it morphed into the Jolly Trolley, another adult-themed casino that continued the location's entertainment lineage until around 1981. While its tenure as Centerfold was fleeting, its impact wasn’t.  It became a symbol of a particular era – a slice of Vegas history representing a willingness to experiment, to challenge norms, and to blur the lines between what was considered mainstream and what was considered risque.
+The Centerfold Casino’s run was surprisingly short, lasting only about a year. By 1977, it morphed into the [Jolly Trolley](/posts/jolly-trolley-casino-las-vegas/), another adult-themed casino that continued the location's entertainment lineage until around 1981. While its tenure as Centerfold was fleeting, its impact wasn’t.  It became a symbol of a particular era – a slice of Vegas history representing a willingness to experiment, to challenge norms, and to blur the lines between what was considered mainstream and what was considered risque.
 
 ## From Casino to Gift Shop (and Beyond)
 
-The location continued its evolution, eventually transforming into the massive Bonanza Gift Shop, a testament to the constantly changing landscape of the Strip. Today, it houses the world’s largest gift store, a far cry from the neon glow of “Girls! Girls! Girls!” But the legacy of Centerfold remains, preserved in vintage photographs, faded signage, and the stories we share about a time when Las Vegas truly lived up to its reputation as a city of endless possibilities – and unapologetic showmanship. It’s a reminder that even the briefest flashes of neon can leave a permanent mark on the history of Las Vegas.
+The location continued its evolution, eventually transforming into the massive [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Gift Shop, a testament to the constantly changing landscape of the Strip. Today, it houses the world’s largest gift store, a far cry from the neon glow of “Girls! Girls! Girls!” But the legacy of Centerfold remains, preserved in vintage photographs, faded signage, and the stories we share about a time when Las Vegas truly lived up to its reputation as a city of endless possibilities – and unapologetic showmanship. It’s a reminder that even the briefest flashes of neon can leave a permanent mark on the history of Las Vegas.
 
 
 <div class="shop-collection">

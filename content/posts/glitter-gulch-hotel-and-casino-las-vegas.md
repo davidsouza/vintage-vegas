@@ -15,7 +15,7 @@ Stupak, a notorious showman and entrepreneur already known for his innovative co
 
 ## A New Owner, A Combined Identity
 
-By 1981, Stupak had largely distanced himself from Glitter Gulch, understandably consumed by the Stratosphere. Herb Pastor, a seasoned casino owner, stepped in and acquired the property. Cleverly, Pastor consolidated Glitter Gulch with his adjacent Golden Goose Casino, creating a combined entity. This synergy prolonged the life of the combined property, offering a wider range of amenities and experiences for visitors.
+By 1981, Stupak had largely distanced himself from Glitter Gulch, understandably consumed by the Stratosphere. Herb Pastor, a seasoned casino owner, stepped in and acquired the property. Cleverly, Pastor consolidated Glitter Gulch with his adjacent [Golden Goose](/posts/golden-goose-hotel-and-casino-las-vegas/) Casino, creating a combined entity. This synergy prolonged the life of the combined property, offering a wider range of amenities and experiences for visitors.
 
 ## The Girls of Glitter Gulch & A Final Curtain
 

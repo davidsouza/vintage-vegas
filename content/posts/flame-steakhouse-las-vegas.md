@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "flame steakhouse las vegas"]
 
 ## A Beacon of Sophistication on the Strip
 
-The Las Vegas Strip has always been about spectacle, but in the early 1960s, it also held a certain understated elegance. Amidst the rising neon and showstopping casinos, The Flame Steakhouse emerged as a treasured oasis of refined dining. Opening in 1961 across from the Silver Slipper Hotel and Casino, The Flame wasn’t about flashing lights or elaborate shows; it was about exceptional food, impeccable service, and a sophisticated atmosphere – a rare find in a city rapidly transforming.
+The Las Vegas Strip has always been about spectacle, but in the early 1960s, it also held a certain understated elegance. Amidst the rising neon and showstopping casinos, The Flame Steakhouse emerged as a treasured oasis of refined dining. Opening in 1961 across from the [Silver Slipper Hotel and Casino](/posts/silver-slipper-hotel-and-casino-las-vegas/), The Flame wasn’t about flashing lights or elaborate shows; it was about exceptional food, impeccable service, and a sophisticated atmosphere – a rare find in a city rapidly transforming.
 
 ## The Mid-Century Vibe
 
@@ -25,7 +25,7 @@ What truly set The Flame apart was the service. Waiters, clad in crisp jackets, 
 
 ## A Fading Flame, An Enduring Legacy
 
-Sadly, The Flame’s reign ended in 1993. The restaurant, after 32 years of providing a classic Vegas dining experience, was unfortunately lost to the Desert Inn arterial project. While the physical location is gone, its memory lives on in the hearts of those who experienced its magic. The Flame serves as a poignant reminder of an era when Las Vegas valued elegance and genuine hospitality just as much as the spectacle, and it remains a cherished piece of the city’s golden age steakhouse history.
+Sadly, The Flame’s reign ended in 1993. The restaurant, after 32 years of providing a classic Vegas dining experience, was unfortunately lost to the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) arterial project. While the physical location is gone, its memory lives on in the hearts of those who experienced its magic. The Flame serves as a poignant reminder of an era when Las Vegas valued elegance and genuine hospitality just as much as the spectacle, and it remains a cherished piece of the city’s golden age steakhouse history.
 
 
 <div class="shop-collection">

@@ -11,7 +11,7 @@ tags: ["las vegas history", "vintage vegas", "miss lucys casino las vegas"]
 
 Downtown Las Vegas in the mid-1990s was a fascinating tapestry of reinvention. While the Strip was pursuing mega-resorts and themed experiences, the Fremont Street Experience was just finding its footing, and a wave of smaller, character-driven casinos and bars were carving out their own niches. Among these fleeting establishments was Miss Lucy’s Gambling Hall & Saloon, a place that, despite its short lifespan, has become a beloved memory for vintage Las Vegas enthusiasts.
 
-Located at 129 North 3rd Street (previously at 131 N 3rd Street as Lucky Lucy's), Miss Lucy's wasn't about grandeur. It was about nostalgia. Opening in 1994, the “Gambling Hall & Saloon” designation itself was a nod to the city's wild west roots, a conscious move to distance itself from the increasingly modern casino scene. Imagine a place with simpler games, a friendly atmosphere, and a vibe that conjured images of old-school saloons – that was Miss Lucy's.
+Located at 129 North 3rd Street (previously at 131 N 3rd Street as [Lucky](/posts/lucky-casino-las-vegas/) Lucy's), Miss Lucy's wasn't about grandeur. It was about nostalgia. Opening in 1994, the “Gambling Hall & Saloon” designation itself was a nod to the city's wild west roots, a conscious move to distance itself from the increasingly modern casino scene. Imagine a place with simpler games, a friendly atmosphere, and a vibe that conjured images of old-school saloons – that was Miss Lucy's.
 
 ## A Brief, Bright Existence
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "casbah hotel and casino las vegas"
 
 ## A Moroccan Dream on the Strip
 
-The Las Vegas Strip has seen its share of transformations, but few stories are as complex and ultimately tragic as that of the Casbah Hotel and Casino. Built in 1963 by the ambitious Danny Jackson, the Casbah aimed to transport visitors to a Moroccan paradise. Its architecture, rich with vibrant colors, intricate tilework, and lush landscaping, stood out even amidst the burgeoning glitz of the early 1960s Strip. It offered a unique aesthetic departure from the standard modern designs, promising an exotic escape.
+The Las Vegas Strip has seen its share of transformations, but few stories are as complex and ultimately tragic as that of the Casbah Hotel and Casino. Built in 1963 by the ambitious Danny Jackson, the Casbah aimed to transport visitors to a Moroccan [paradise](/posts/paradise-hotel-and-casino-las-vegas/). Its architecture, rich with vibrant colors, intricate tilework, and lush landscaping, stood out even amidst the burgeoning glitz of the early 1960s Strip. It offered a unique aesthetic departure from the standard modern designs, promising an exotic escape.
 
 Jackson’s family continued to operate the hotel after his passing, but the Casbah began to develop a less-than-desirable reputation. Stories of illicit activity and a general atmosphere of disrepute clung to it, creating an undercurrent of unease despite its visually striking design.
 

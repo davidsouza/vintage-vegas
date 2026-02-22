@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "jamaica motel las vegas"]
 
 ## A Roadside Oasis: The Jamaica Motel's Early Days
 
-The Las Vegas Strip in the 1960s wasn't the sprawling, mega-resort landscape we know today. Instead, it was a vibrant tapestry of smaller, independent motels, each vying for the attention of travelers hitting the road. Among these was the Jamaica Motel, a modest but dependable roadside motor court located at 3745 South Las Vegas Boulevard, just south of Tropicana Avenue. Opened in the early '60s, it was a product of its time - a place offering clean, affordable lodging for those seeking a convenient Strip base.
+The Las Vegas Strip in the 1960s wasn't the sprawling, mega-resort landscape we know today. Instead, it was a vibrant tapestry of smaller, independent motels, each vying for the attention of travelers hitting the road. Among these was the Jamaica Motel, a modest but dependable roadside motor court located at 3745 South Las Vegas Boulevard, just south of [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue. Opened in the early '60s, it was a product of its time - a place offering clean, affordable lodging for those seeking a convenient Strip base.
 
 During this era, dozens of similarly styled motels dotted the landscape. They provided essential services to visitors who weren’t yet ready (or willing!) to pay for the glitz and glamour of the emerging casino palaces. The Jamaica Motel distinguished itself through simple promises: comfortable rooms, a restaurant on-site, and a welcome heated swimming pool – a vital amenity in the desert climate.
 

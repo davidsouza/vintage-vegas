@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "dunes hotel and casino las vegas"]
 
 ## A Desert Oasis Emerges: The Dunes Opens Its Doors
 
-Few Las Vegas institutions evoke quite the same sense of faded glamour and intrigue as the Dunes Hotel and Casino. Opening its doors on May 23, 1955, it was the tenth resort to grace the Las Vegas Strip, a pivotal point in the burgeoning city’s development. Initially a gamble by a group of investors, the Dunes quickly found itself struggling. Early management was… problematic, and the fledgling resort floundered under declining tourism, prompting a brief, unsuccessful stint under the Sands' management.
+Few Las Vegas institutions evoke quite the same sense of faded glamour and intrigue as the Dunes Hotel and Casino. Opening its doors on May 23, 1955, it was the tenth resort to grace the Las Vegas Strip, a pivotal point in the burgeoning city’s development. Initially a gamble by a group of investors, the Dunes quickly found itself struggling. Early management was… problematic, and the fledgling resort floundered under declining tourism, prompting a brief, unsuccessful stint under [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/)' management.
 
 ## Major Riddle: Resurrecting a Dream
 
@@ -25,7 +25,7 @@ Throughout the 1960s, The Dunes experienced significant expansion. The opening o
 
 ## The Final Curtain: Demolition and Legacy
 
-Financial difficulties resurfaced in the 1980s, leading to a series of potential buyers vying for control. Steve Wynn, the visionary behind the Mirage, expressed interest. Ultimately, Japanese investor Masao Nangaku acquired The Dunes in 1987. Later, Wynn's Mirage Resorts purchased the property in 1992 with a bold plan: to demolish it and build the Bellagio. 
+Financial difficulties resurfaced in the 1980s, leading to a series of potential buyers vying for control. Steve Wynn, the visionary behind the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/), expressed interest. Ultimately, Japanese investor Masao Nangaku acquired The Dunes in 1987. Later, Wynn's Mirage Resorts purchased the property in 1992 with a bold plan: to demolish it and build the Bellagio. 
 
 After a final, bittersweet farewell on January 26, 1993, the iconic North Tower was dramatically imploded on October 27, 1993, a moment etched in Las Vegas memory. The South Tower followed in 1994. The Bellagio, Wynn’s opulent vision featuring the famous dancing fountains, rose from the ashes, forever changing the landscape. Yet, for those who remember, The Dunes remains a poignant symbol of a bygone era – a reminder of vintage Las Vegas’s unique charm and allure.
 

@@ -11,10 +11,9 @@ youtube_title: "Vintage Las Vegas King 8 Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/k0v4yyV-nv0/hqdefault.jpg"
 ---
 
-
 # A Mid-Strip Memory: The King 8 Hotel Gambling Hall
 
-The Las Vegas Strip is a constantly evolving landscape. Landmarks rise and fall, themes change, and entire properties vanish to make way for the next big thing. While the mega-resorts dominate headlines, it’s important to remember the “in-between” properties – the ones that quietly served a vital purpose and offered a slightly different Las Vegas experience. The King 8 Hotel & Gambling Hall, located at 3330 West Tropicana Avenue, was one such place.
+The Las Vegas Strip is a constantly evolving landscape. Landmarks rise and fall, themes change, and entire properties vanish to make way for the next big thing. While the mega-resorts dominate headlines, it’s important to remember the “in-between” properties – the ones that quietly served a vital purpose and offered a slightly different Las Vegas experience. The King 8 Hotel & Gambling Hall, located at 3330 West [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue, was one such place.
 
 ## A Budget-Friendly Oasis
 

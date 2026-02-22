@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "benny binions horseshoe las vegas"
 
 ## The Binion Revolution on Fremont Street
 
-Before the mega-resorts of the Las Vegas Strip dominated the skyline, downtown Fremont Street was *the* place to be. And at the heart of its vibrant, sometimes rough-and-tumble, casino scene stood the Horseshoe, founded in 1951 by the legendary Benny Binion. Binion wasn’t just opening a casino; he was creating a gambler’s paradise, a direct challenge to the more formal and restrictive environments prevalent at the time.
+Before the mega-resorts of the Las Vegas Strip dominated the skyline, downtown Fremont Street was *the* place to be. And at the heart of its vibrant, sometimes rough-and-tumble, casino scene stood the [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/), founded in 1951 by the legendary Benny Binion. Binion wasn’t just opening a casino; he was creating a gambler’s [paradise](/posts/paradise-hotel-and-casino-las-vegas/), a direct challenge to the more formal and restrictive environments prevalent at the time.
 
 Binion’s vision was simple: fair odds, no-limit bets (a radical concept then!), and a welcoming atmosphere where everyone, from the nickel-and-dime player to the high-roller, felt valued. This philosophy – treat small bettors like big ones, and big bettors like kings – was a direct departure from the established order and resonated deeply with players.
 

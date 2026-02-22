@@ -15,7 +15,7 @@ The Road Runner Saloon wasn’t about flashy shows or celebrity sightings. It wa
 
 ## The Essence of a Locals' Tavern
 
-By the 1980s and 90s, the Road Runner name became practically synonymous with the classic Nevada tavern. Its matchbooks – vibrant cartoons of the speedy roadrunner – promised exactly what customers received: a cold drink, a decent meal, and the chance to hit a lucky jackpot on the slot machines.  It was unpretentious and inviting, a place where regulars knew each other’s names and where a casual atmosphere reigned supreme. Unlike the extravagant resorts dominating the Strip, Road Runner thrived on routine. After work drinks, weekend gatherings – these were the rhythms of life played out within its walls.
+By the 1980s and 90s, the Road Runner name became practically synonymous with the classic Nevada tavern. Its matchbooks – vibrant cartoons of the speedy roadrunner – promised exactly what customers received: a cold drink, a decent meal, and the chance to hit a [lucky](/posts/lucky-casino-las-vegas/) jackpot on the slot machines.  It was unpretentious and inviting, a place where regulars knew each other’s names and where a casual atmosphere reigned supreme. Unlike the extravagant resorts dominating the Strip, Road Runner thrived on routine. After work drinks, weekend gatherings – these were the rhythms of life played out within its walls.
 
 The saloon operated under a restricted gaming license, allowing it to feature slot machines while primarily functioning as a bar and restaurant. This model, now widespread across the valley, was relatively novel at the time and proved incredibly successful. It offered a lower barrier to entry for casual gamers and fostered a strong sense of community. 
 

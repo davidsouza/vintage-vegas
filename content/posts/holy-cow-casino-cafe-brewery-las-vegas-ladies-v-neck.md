@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "holy cow casino cafe brewery las v
 
 ## A Vegas Institution: From Deli to Brewpub
 
-Las Vegas history isn’t just about the glittering Strip we know today. It’s a tapestry woven with quirky, unique businesses that dared to be different. One such gem was the Holy Cow! Casino Cafe Brewery, a distinctive landmark that blended gaming, dining, and brewing innovation at Sahara and the Boulevard. Its story is one of reinvention and pioneering spirit, a far cry from the mega-resorts dominating the landscape now.
+Las Vegas history isn’t just about the glittering Strip we know today. It’s a tapestry woven with quirky, unique businesses that dared to be different. One such gem was the Holy Cow! Casino Cafe Brewery, a distinctive landmark that blended gaming, dining, and brewing innovation at [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) and the Boulevard. Its story is one of reinvention and pioneering spirit, a far cry from the mega-resorts dominating the landscape now.
 
 The site's roots stretch back to 1955 when it opened as Foxy’s Deli, a groundbreaking establishment considered the Strip’s first integrated restaurant. This wasn't just a diner; it was *the* place to see and be seen. Legends like Liberace, Wayne Newton, and Shecky Greene were regular patrons, adding to the restaurant’s allure. Foxy’s evolved over time, becoming Foxy’s Firehouse Casino in 1976 and operating until 1988.
 
@@ -25,7 +25,7 @@ Holy Cow! brewed over 800 batches and became a regular fixture at beer festivals
 
 Sadly, the post-9/11 tourism downturn proved devastating. Holy Cow! closed its doors on March 22, 2002, and the brewery operations gradually relocated. The building itself was eventually demolished in 2012, replaced by a Walgreens—a stark contrast to its former vibrancy. 
 
-But the spirit of Holy Cow! lives on. Alphie, the iconic Holstein cow, now stands proudly outside the Longstreet Inn & Casino in Amargosa Valley, a tangible reminder of a unique chapter in Las Vegas history. While the Holy Cow Casino Cafe Brewery is gone, its pioneering brewpub concept, inclusive origins, and playful character remain etched in the memories of those who experienced it, a true slice of vintage Vegas that’s worth remembering.
+But the spirit of Holy Cow! lives on. Alphie, the iconic Holstein cow, now stands proudly outside the Longstreet Inn & Casino in Amargosa Valley, a tangible reminder of a unique chapter in Las Vegas history. While the [Holy Cow Casino Cafe Brewery](/posts/holy-cow-casino-cafe-brewery-las-vegas/) is gone, its pioneering brewpub concept, inclusive origins, and playful character remain etched in the memories of those who experienced it, a true slice of vintage Vegas that’s worth remembering.
 
 
 <div class="shop-collection">

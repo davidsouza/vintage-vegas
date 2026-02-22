@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "nob hill casino las vegas"]
 
 ## A Different Kind of Strip Experience: Introducing Nob Hill Casino
 
-The Las Vegas Strip has always been about spectacle and excess, but tucked between the giants like the Sands and the Holiday Casino, a different kind of experience thrived: Nob Hill Casino. Opening its doors in the summer of 1978, Nob Hill wasn’t aiming for high rollers or themed extravagance. Instead, it catered to budget-minded players and those seeking a more relaxed, accessible nightlife scene.
+The Las Vegas Strip has always been about spectacle and excess, but tucked between the giants like [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/) and the [Holiday Casino](/posts/holiday-casino-las-vegas/), a different kind of experience thrived: Nob Hill Casino. Opening its doors in the summer of 1978, Nob Hill wasn’t aiming for high rollers or themed extravagance. Instead, it catered to budget-minded players and those seeking a more relaxed, accessible nightlife scene.
 
 What truly set Nob Hill apart? The limits. We’re talking incredibly low limits - legendary, even. Reports circulated of 25¢ craps, 10¢ roulette, and a shockingly affordable $1 blackjack. This wasn't the place to break the bank; it was a place to enjoy a few games without needing a small fortune. In an era where many casinos were raising limits to attract a more affluent crowd, Nob Hill offered a refreshing alternative, earning it a loyal following.
 

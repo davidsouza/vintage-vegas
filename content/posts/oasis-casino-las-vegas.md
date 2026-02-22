@@ -7,7 +7,7 @@ location: "Oasis Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "oasis casino las vegas"]
 ---
 
-## A Modern Refresh for a Vegas Legend: The Dunes & the Oasis Casino
+## A Modern Refresh for a Vegas Legend: The [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) & the Oasis Casino
 
 The early 1980s were a time of rapid change and intense competition on the Las Vegas Strip. The Dunes Hotel & Casino, a beloved and iconic Arabian-themed resort, was showing its age. Seeking a revitalization and a much-needed boost in capacity, the property embarked on a bold project: the Oasis Casino.
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "greek isles hotel and casino las v
 
 ## A Land of Reincarnation: The Site's Colorful Past
 
-The 305 Convention Center Drive address in Las Vegas has seen more transformations than a chameleon. Before the Greek Isles Hotel and Casino graced its footprint, it was home to the Debbie Reynolds Hollywood Hotel, a tribute to the iconic actress's career. Before *that*? A Howard Johnson’s Motor Lodge! This constant state of flux reflects the ever-evolving nature of Las Vegas itself, a city built on reinvention. The location’s proximity to the Convention Center ensured it remained a crucial, albeit sometimes overlooked, piece of the puzzle.
+The 305 Convention Center Drive address in Las Vegas has seen more transformations than a chameleon. Before the Greek Isles Hotel and Casino graced its footprint, it was home to the [Debbie Reynolds](/posts/debbie-reynolds-hotel-and-casino-las-vegas/) Hollywood Hotel, a tribute to the iconic actress's career. Before *that*? A Howard Johnson’s Motor Lodge! This constant state of flux reflects the ever-evolving nature of Las Vegas itself, a city built on reinvention. The location’s proximity to the Convention Center ensured it remained a crucial, albeit sometimes overlooked, piece of the puzzle.
 
 ## Ouzo & Olympus: The Greek Isles Era (2001-2009)
 

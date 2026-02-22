@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "casuarina hotel and casino las veg
 
 ## A New Kid on the Strip: The Maxim Era
 
-Before it became the Westin, and before that, the Casuarina, the property we know today was the Maxim Hotel and Casino. Opened in 1990, the Maxim was a bold attempt to capture a younger, more hip clientele – a move away from the traditional glitz and glamor of many Strip hotels. It was designed with a contemporary aesthetic and marketed aggressively, targeting a more casual visitor. While it never quite achieved the iconic status of its neighbors, it carved out a niche, especially during the early 90s. 
+Before it became the Westin, and before that, the Casuarina, the property we know today was the [Maxim Hotel and Casino](/posts/maxim-hotel-and-casino-las-vegas/). Opened in 1990, the Maxim was a bold attempt to capture a younger, more hip clientele – a move away from the traditional glitz and glamor of many Strip hotels. It was designed with a contemporary aesthetic and marketed aggressively, targeting a more casual visitor. While it never quite achieved the iconic status of its neighbors, it carved out a niche, especially during the early 90s. 
 
 ## The Westin Casuarina: A Caribbean Dream on the Las Vegas Strip
 

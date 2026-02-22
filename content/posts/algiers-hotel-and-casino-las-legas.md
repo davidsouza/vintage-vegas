@@ -7,11 +7,11 @@ location: "Algiers Hotel and Casino Las Legas"
 tags: ["las vegas history", "vintage vegas", "algiers hotel and casino las legas"]
 ---
 
-## A Desert Mirage: The Algiers Arrives
+## A Desert [Mirage](/posts/mirage-hotel-and-casino-las-vegas/): The Algiers Arrives
 
-The Las Vegas Strip wasn't always about mega-resorts and choreographed fountain shows. In the 1950s, it was a landscape of emerging casinos, each vying for attention with its own distinct character. Among these pioneers was the Algiers Hotel and Casino, a whimsical Arabian-themed escape that opened its doors on November 25, 1953. Located at 2845 South Las Vegas Boulevard – a prime spot now occupied by the Fontainebleau – the Algiers was more than just a hotel; it was a themed experience, a departure from the prevailing Western and modern aesthetics.
+The Las Vegas Strip wasn't always about mega-resorts and choreographed fountain shows. In the 1950s, it was a landscape of emerging casinos, each vying for attention with its own distinct character. Among these pioneers was the [Algiers Hotel and Casino](/posts/algiers-hotel-and-casino-las-vegas/), a whimsical Arabian-themed escape that opened its doors on November 25, 1953. Located at 2845 South Las Vegas Boulevard – a prime spot now occupied by the Fontainebleau – the Algiers was more than just a hotel; it was a themed experience, a departure from the prevailing Western and modern aesthetics.
 
-Built as a sister property to the successful Thunderbird Hotel and Casino, the Algiers offered 110 rooms and a distinctive design aiming to transport guests to a romanticized vision of the Middle East. Think flowing fabrics, ornate details, and an overall atmosphere of exotic mystery. The original design was largely preserved throughout its lifespan, a testament to its unique appeal and a rarity in a city constantly chasing the “new.” It truly embodied the spirit of vintage Las Vegas - playful, innovative, and committed to creating an immersive guest experience.
+Built as a sister property to the successful [Thunderbird Hotel and Casino](/posts/thunderbird-hotel-and-casino-las-vegas/), the Algiers offered 110 rooms and a distinctive design aiming to transport guests to a romanticized vision of the Middle East. Think flowing fabrics, ornate details, and an overall atmosphere of exotic mystery. The original design was largely preserved throughout its lifespan, a testament to its unique appeal and a rarity in a city constantly chasing the “new.” It truly embodied the spirit of vintage Las Vegas - playful, innovative, and committed to creating an immersive guest experience.
 
 ## A Loyal Identity Through the Years
 

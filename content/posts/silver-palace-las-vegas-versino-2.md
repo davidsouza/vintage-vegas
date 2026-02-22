@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "silver palace las vegas versino 2"
 
 ## A Modern Marvel on Fremont Street: The Silver Palace's Debut
 
-The mid-1950s in Las Vegas were a time of rapid change. While the classic, single-story casinos of Fremont Street held their own, a new wave of ambition sought to modernize the city’s entertainment scene. Enter the Silver Palace Casino, which dramatically debuted in June 1956 at 32 East Fremont Street – a location now occupied by Circa Resort and Casino. Owned by the Spinning Wheel Corporation, the Silver Palace wasn’t just another casino; it was a statement.
+The mid-1950s in Las Vegas were a time of rapid change. While the classic, single-story casinos of Fremont Street held their own, a new wave of ambition sought to modernize the city’s entertainment scene. Enter the [Silver Palace Casino](/posts/silver-palace-casino-las-vegas/), which dramatically debuted in June 1956 at 32 East Fremont Street – a location now occupied by Circa Resort and Casino. Owned by the Spinning Wheel Corporation, the Silver Palace wasn’t just another casino; it was a statement.
 
 What set the Silver Palace apart? Firstly, its two-story design was a bold move. Space was at a premium on Fremont Street, but the owners weren't afraid to build up. Then there were the escalators – a completely novel feature for a Las Vegas casino in 1956! The interior boasted a modern aesthetic, including a distinctive V-shaped bar, and a rooftop sign that announced its presence to the bustling street. Roughly 16,700 square feet housed around 200 slot machines, three dice tables, five blackjack tables, a roulette wheel, and a keno board – a robust offering designed to compete with the established players on Fremont.
 
@@ -19,7 +19,7 @@ The Silver Palace wasn't solely about gambling. The upstairs areas housed a styl
 
 ## A Short Run, a Lasting Impression
 
-The Silver Palace's run as a distinct entity was relatively brief. In July 1964, it closed for a major renovation and was reborn as the Carousel Casino. From there, the location continued its evolution, undergoing numerous transformations including stints as Sassy Sally’s and Mermaids Casino, eventually becoming part of the broader Fremont Street Experience redevelopment. 
+The Silver Palace's run as a distinct entity was relatively brief. In July 1964, it closed for a major renovation and was reborn as the [Carousel](/posts/carousel-hotel-and-casino-las-vegas/) Casino. From there, the location continued its evolution, undergoing numerous transformations including stints as Sassy Sally’s and [Mermaids Casino](/posts/mermaids-casino-las-vegas/), eventually becoming part of the broader Fremont Street Experience redevelopment. 
 
 Despite its comparatively short lifespan under the “Silver Palace” banner, its legacy endures. It serves as a vital reminder of Las Vegas’s innovative spirit during the mid-century era, and how downtown casinos bravely experimented with design and amenities before the megaresorts of the Strip dramatically reshaped the city's landscape. For those fascinated by vintage Las Vegas design and the evolution of gaming culture, the Silver Palace stands as a significant, though often overlooked, chapter in the city's remarkable history.
 

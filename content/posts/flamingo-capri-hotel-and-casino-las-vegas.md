@@ -15,7 +15,7 @@ The Las Vegas Strip in 1959 was a landscape still finding its footing. While the
 
 Bill Capri’s time with the venture proved short-lived, with George Goldberg eventually becoming the sole owner and operator. The motel thrived, albeit in a relatively quiet corner of the burgeoning Strip. Then, in 1971, Ralph Engelstad, a renowned (and controversial) businessman known for his aggressive casino acquisitions, purchased the Flamingo Capri. Engelstad’s vision was far grander than a simple motel. 
 
-## Casino Dreams and a New Identity: The Imperial Palace
+## Casino Dreams and a New Identity: The [Imperial Palace](/posts/imperial-palace-hotel-and-casino-las-vegas/)
 
 Engelstad dramatically altered the property’s trajectory. In 1972, a casino was added, transforming the Flamingo Capri into a full-fledged resort. This marked a significant expansion, broadening its appeal and bringing it more firmly into the competitive Las Vegas landscape. Recognizing the need for a rebranding to reflect this transformation, the motel shed its Flamingo Capri identity in 1979 and became the Imperial Palace. The name evoked a sense of grandeur and imperial power—a fitting shift for a casino that was quickly expanding. 
 

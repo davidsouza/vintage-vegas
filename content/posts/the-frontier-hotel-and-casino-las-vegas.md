@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "the frontier hotel and casino las 
 
 ## From Frontier to New Frontier: A Wild West Start
 
-Before the mega-resorts and dazzling lights, the Las Vegas Strip was a rough-and-tumble place. In 1942, Harry Brandeis and Guy McAfee envisioned a Western-themed hotel and casino at the far end of the Strip, then a dusty stretch far from the city’s center. Thus, the Frontier Hotel and Casino was born, embracing a Wild West aesthetic with cowboys, horses, and a distinctly untamed atmosphere. The Frontier quickly became a popular spot, particularly appealing to those seeking a more authentic, less polished Vegas experience. It offered affordable rooms and gambling, catering to a middle-class clientele—a crucial segment that helped fuel the city’s growth.
+Before the mega-resorts and dazzling lights, the Las Vegas Strip was a rough-and-tumble place. In 1942, Harry Brandeis and Guy McAfee envisioned a Western-themed hotel and casino at the far end of the Strip, then a dusty stretch far from the city’s center. Thus, the [Frontier Hotel and Casino](/posts/frontier-hotel-and-casino-las-vegas/) was born, embracing a Wild West aesthetic with cowboys, horses, and a distinctly untamed atmosphere. The Frontier quickly became a popular spot, particularly appealing to those seeking a more authentic, less polished Vegas experience. It offered affordable rooms and gambling, catering to a middle-class clientele—a crucial segment that helped fuel the city’s growth.
 
 ## A Name Change and a Resurgence
 
@@ -17,7 +17,7 @@ Over the decades, the Frontier evolved. It underwent several ownership changes a
 
 ## A Bold Plan, Delayed Dreams
 
-Ruffin had grand ambitions. His initial plan included demolishing the New Frontier to make way for “City by the Bay,” a San Francisco-themed casino resort. He even partnered with Donald Trump to build Trump International Hotel Las Vegas on a portion of the land. However, financial roadblocks repeatedly delayed the ambitious project. Ultimately, the New Frontier’s fate took another turn.
+Ruffin had grand ambitions. His initial plan included demolishing the New Frontier to make way for “City by the Bay,” a San Francisco-themed casino resort. He even partnered with Donald Trump to build Trump [International Hotel Las Vegas](/posts/international-hotel-las-vegas/) on a portion of the land. However, financial roadblocks repeatedly delayed the ambitious project. Ultimately, the New Frontier’s fate took another turn.
 
 ## A Record-Breaking Sale and a Farewell
 

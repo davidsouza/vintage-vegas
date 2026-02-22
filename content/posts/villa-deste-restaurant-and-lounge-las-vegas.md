@@ -13,7 +13,7 @@ The Las Vegas Strip has always been about spectacle, but sometimes, what truly d
 
 ## The Vision of Joe Pignatello and a Generous Patron
 
-Created by the talented maître d’ and restaurateur Joe Pignatello, Villa Deste was a labor of love. Pignatello, having honed his skills at the Sands Hotel, envisioned a space that combined the glitz of Las Vegas with the romantic atmosphere of a classic Italian villa. What made the story particularly compelling was the origin of its funding. The restaurant was built for Pignatello by notorious Chicago mob boss Sam Giancana. Giancana famously declared, “This will be our place! A multimillion-dollar restaurant.” This connection underscored the complex and sometimes murky underbelly of Las Vegas’s early boom.
+Created by the talented maître d’ and restaurateur Joe Pignatello, Villa Deste was a labor of love. Pignatello, having honed his skills at [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/) Hotel, envisioned a space that combined the glitz of Las Vegas with the romantic atmosphere of a classic Italian villa. What made the story particularly compelling was the origin of its funding. The restaurant was built for Pignatello by notorious Chicago mob boss Sam Giancana. Giancana famously declared, “This will be our place! A multimillion-dollar restaurant.” This connection underscored the complex and sometimes murky underbelly of Las Vegas’s early boom.
 
 ## Ambiance & Authentic Italian Delights
 

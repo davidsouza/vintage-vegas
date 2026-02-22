@@ -7,7 +7,7 @@ location: "Par A Dice Motel Las Vegas"
 tags: ["las vegas history", "vintage vegas", "par a dice motel las vegas"]
 ---
 
-# A Lucky Name on Fremont Street
+# A [Lucky](/posts/lucky-casino-las-vegas/) Name on Fremont Street
 
 Before the mega-resorts and high-roller suites, Las Vegas thrived on a charming, accessible roadside vibe. A key part of that early identity was the Par‑A‑Dice Motel, a beloved fixture on Fremont Street from 1953 until its closure in the early 2010s. Located at 2217 Fremont Street, the motel’s name itself was a clever play on words, capitalizing on the city’s burgeoning gambling culture. The dice imagery – prominently featured on its signage – was a simple, yet effective way to attract the countless travelers passing through.
 

@@ -13,7 +13,7 @@ Before the Venetian’s canals, before the Bellagio’s fountains, there was The
 
 What set The Mirage apart wasn’t just the scale, but the immersive experience. It was a deliberate departure from the classic Vegas aesthetic. Instead of the generic glitz, Wynn brought a South Seas theme to life: cascading waterfalls, lush palm gardens, sprawling lagoons – a genuine tropical oasis rising from the Nevada desert. And, of course, there was *the* volcano. The erupting volcano became an instant icon, offering a free, spectacular show with simulated lava, fiery pyrotechnics, a dramatic soundtrack, and even the faintest whiff of piña colada. This innovation of free, outdoor entertainment was unprecedented and instantly copied. 
 
-## Inside the Paradise
+## Inside the [Paradise](/posts/paradise-hotel-and-casino-las-vegas/)
 
 The experience extended beyond the exterior. Walking inside was like entering another world. A massive, breathtaking reef aquarium dominated the registration area, teeming with colorful fish and marine life. A beautiful, bridge-covered lagoon led guests into the casino, creating a visually stunning transition. The Mirage also introduced high-end attractions like the Secret Garden and Dolphin Habitat, showcasing dolphins, white tigers, and other exotic creatures, and the legendary Siegfried & Roy show, which became synonymous with Vegas magic. Later, the arrival of Cirque du Soleil in 1993 with *Nouvelle Expérience*, and the subsequent, beloved *LOVE* show in 2006, solidified The Mirage’s status as an entertainment powerhouse.
 

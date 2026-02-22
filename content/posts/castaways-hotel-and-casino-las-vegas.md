@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "castaways hotel and casino las veg
 
 ## A Brief Tropical Escape on the Strip
 
-Before the mega-resorts and the dazzling spectacle that defines modern Las Vegas, there were properties like the Castaways Hotel & Casino, each with its own unique story. Tucked away on the Strip, the Castaways, born from the ashes of the financially troubled Sans Souci in 1963, offered a fleeting taste of Polynesian paradise to weary travelers. Ben Jaffe, a prominent Las Vegas investor and then-owner of the Tropicana, acquired the Sans Souci and immediately envisioned a transformation.
+Before the mega-resorts and the dazzling spectacle that defines modern Las Vegas, there were properties like the Castaways Hotel & Casino, each with its own unique story. Tucked away on the Strip, the Castaways, born from the ashes of the financially troubled [Sans Souci](/posts/sans-souci-hotel-and-casino-las-vegas/) in 1963, offered a fleeting taste of [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) [paradise](/posts/paradise-hotel-and-casino-las-vegas/) to weary travelers. Ben Jaffe, a prominent Las Vegas investor and then-owner of the [Tropicana](/posts/tropicana-country-club-las-vegas/), acquired the Sans Souci and immediately envisioned a transformation.
 
 ## Polynesian Promise & Early Struggles
 
@@ -21,7 +21,7 @@ The Castaways’ fortunes took a dramatic turn when Howard Hughes stepped in. Hi
 
 ## A Final Curtain & A Mega-Resort’s Dawn
 
-The Castaways’ relatively short lifespan concluded in 1987 when Steve Wynn acquired it for a substantial $50 million. Wynn’s vision extended far beyond the existing property. The Castaways was destined to be demolished, making way for his ambitious new resort: The Mirage. This marked a pivotal moment in Las Vegas history, ushering in the era of mega-resorts and fundamentally altering the Strip’s landscape. The Mirage, opening in November 1989, was a game-changer, establishing a new standard for spectacle and scale. 
+The Castaways’ relatively short lifespan concluded in 1987 when Steve Wynn acquired it for a substantial $50 million. Wynn’s vision extended far beyond the existing property. The Castaways was destined to be demolished, making way for his ambitious new resort: The [Mirage](/posts/mirage-hotel-and-casino-las-vegas/). This marked a pivotal moment in Las Vegas history, ushering in the era of mega-resorts and fundamentally altering the Strip’s landscape. The Mirage, opening in November 1989, was a game-changer, establishing a new standard for spectacle and scale. 
 
 While the Castaways is long gone, its brief but vibrant existence serves as a poignant reminder of a different era in Las Vegas history - an era of smaller, more intimate resorts striving to carve out their niche on the legendary Strip.
 

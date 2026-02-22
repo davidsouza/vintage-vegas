@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "friendly club casino las vegas"]
 
 ## A Friendly Face on Fremont Street
 
-Downtown Las Vegas in the late 1970s and early 80s was a vibrant, almost chaotic landscape. Fremont Street, then known as “Glitter Gulch,” was a neon-drenched hub of gaming and entertainment, a far cry from the immersive Fremont Street Experience we know today. Amidst the flashing lights and growing grandeur, smaller, neighborhood casinos thrived. One of these, the Friendly Club Casino, stands out in memory, not for its size or extravagance, but for its genuine charm and approachable vibe.
+Downtown Las Vegas in the late 1970s and early 80s was a vibrant, almost chaotic landscape. Fremont Street, then known as “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/),” was a neon-drenched hub of gaming and entertainment, a far cry from the immersive Fremont Street Experience we know today. Amidst the flashing lights and growing grandeur, smaller, neighborhood casinos thrived. One of these, the Friendly Club Casino, stands out in memory, not for its size or extravagance, but for its genuine charm and approachable vibe.
 
 Operating from approximately 1978 to 1983 at 101 Fremont Street, the Friendly Club was a relatively modest gaming venue. While larger resorts were vying for high rollers, the Friendly catered to a more local clientele. It wasn’t about glitz and glamour; it was about easygoing play and generous service – a true testament to its name. It primarily offered slot gaming, with a small selection of table games. This focus allowed for a more personalized and relaxed atmosphere.
 

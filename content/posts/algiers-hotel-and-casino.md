@@ -7,9 +7,9 @@ location: "Algiers Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "algiers hotel and casino"]
 ---
 
-## A Desert Mirage: The Algiers Hotel's Grand Opening
+## A Desert [Mirage](/posts/mirage-hotel-and-casino-las-vegas/): The Algiers Hotel's Grand Opening
 
-The Las Vegas Strip in the 1950s was a landscape of burgeoning dreams and bold architectural statements. Amidst the burgeoning neon, the Algiers Hotel and Casino, opening on November 25, 1953, stood out as a particularly enchanting creation. Designed with a striking Arabian and Persian theme, the hotel offered a unique escape for visitors, a far cry from the Western saloons and dusty landscapes often associated with Nevada. Located at 2845 South Las Vegas Boulevard, it was strategically positioned as a sister property to the popular Thunderbird Hotel and Casino, capitalizing on the growing popularity of the Strip.
+The Las Vegas Strip in the 1950s was a landscape of burgeoning dreams and bold architectural statements. Amidst the burgeoning neon, the [Algiers Hotel and Casino](/posts/algiers-hotel-and-casino-las-vegas/), opening on November 25, 1953, stood out as a particularly enchanting creation. Designed with a striking Arabian and Persian theme, the hotel offered a unique escape for visitors, a far cry from the Western saloons and dusty landscapes often associated with Nevada. Located at 2845 South Las Vegas Boulevard, it was strategically positioned as a sister property to the popular [Thunderbird Hotel and Casino](/posts/thunderbird-hotel-and-casino-las-vegas/), capitalizing on the growing popularity of the Strip.
 
 ## More Than Just Rooms: The Algiers Experience
 
@@ -23,7 +23,7 @@ What truly distinguished the Algiers was its remarkable preservation of its orig
 
 Despite its enduring appeal, the Algiers faced challenges. In the early 1990s, the threat of condemnation loomed due to planned street realignment, highlighting the ever-present pressures of development on the Strip. Attempts at securing a land swap in 2001, orchestrated by owner Larry Kifer, ultimately failed.  The inevitable came on August 31, 2004, when the Algiers Hotel and Casino officially closed its doors. Just months later, in March 2005, the iconic structure was demolished, leaving behind only memories and photographs.
 
-## Legacy in the Sands
+## Legacy in [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/)
 
 Today, the site of the Algiers Hotel and Casino is occupied by the Fontainebleau Las Vegas resort. While a new era of luxury has risen on that ground, the Algiers’ legacy remains. It serves as a poignant reminder of the unique, themed hotel era of vintage Las Vegas – a time when imagination and architectural boldness defined the Strip, creating a truly unforgettable experience for visitors. The Algiers might be gone, but its story continues to be a cherished part of Las Vegas history.
 

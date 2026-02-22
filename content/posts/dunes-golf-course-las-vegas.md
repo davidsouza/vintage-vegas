@@ -7,13 +7,13 @@ location: "Dunes Golf Course Las Vegas"
 tags: ["las vegas history", "vintage vegas", "dunes golf course las vegas"]
 ---
 
-## A Strip Oasis: Introducing the Dunes Golf Course
+## A Strip Oasis: Introducing the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) Golf Course
 
-Before mega-resorts boasted sprawling shopping complexes and themed attractions, Las Vegas’s luxury was defined differently. In the mid-1960s, the Dunes Hotel & Casino made a bold statement: it wasn't *just* about gambling. It was about offering a complete resort experience, and a key ingredient in that vision was the Emerald Green golf course. Officially known as the Emerald Green course, it stood as one of only two Strip resorts to feature its own layout – alongside the Desert Inn – and represented a significant departure from the traditional casino-focused model.
+Before mega-resorts boasted sprawling shopping complexes and themed attractions, Las Vegas’s luxury was defined differently. In the mid-1960s, the Dunes Hotel & Casino made a bold statement: it wasn't *just* about gambling. It was about offering a complete resort experience, and a key ingredient in that vision was the Emerald Green golf course. Officially known as the Emerald Green course, it stood as one of only two Strip resorts to feature its own layout – alongside the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) – and represented a significant departure from the traditional casino-focused model.
 
 ## Building a Country Club Vibe
 
-The Dunes' owners aspired to elevate the property from a mere gambling destination to a full-fledged “hotel and country club.” Opening in 1964, the Emerald Green course, designed by the esteemed William P. Bell, covered roughly 80 acres between Flamingo Road and Tropicana Avenue, east of the burgeoning Interstate 15. At a staggering 7,240 yards, it held the title of Nevada's longest golf course for a time. The design skillfully blended challenging play with the desert aesthetic – think strategically placed bunkers, shimmering water hazards, and a profusion of palms attempting to create a luxurious oasis amidst the Strip’s hustle.
+The Dunes' owners aspired to elevate the property from a mere gambling destination to a full-fledged “hotel and country club.” Opening in 1964, the Emerald Green course, designed by the esteemed William P. Bell, covered roughly 80 acres between Flamingo Road and [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue, east of the burgeoning Interstate 15. At a staggering 7,240 yards, it held the title of Nevada's longest golf course for a time. The design skillfully blended challenging play with the desert aesthetic – think strategically placed bunkers, shimmering water hazards, and a profusion of palms attempting to create a luxurious oasis amidst the Strip’s hustle.
 
 ## A Popular Destination
 
@@ -21,7 +21,7 @@ The course proved incredibly popular. It reportedly hosted tens of thousands of 
 
 ## The End of an Era
 
-Sadly, the Dunes' financial difficulties eventually led to its sale to Mirage Resorts in 1992. The casino closed its doors on January 26, 1993, marking the beginning of the end for a Las Vegas landmark. The land that once housed the Dunes and its beloved golf course became part of the grand plans for future development. The Emerald Green course was gradually dismantled and integrated into the footprints of iconic destinations like Bellagio, CityCenter, Park MGM, and the T-Mobile Arena. 
+Sadly, the Dunes' financial difficulties eventually led to its sale to [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) Resorts in 1992. The casino closed its doors on January 26, 1993, marking the beginning of the end for a Las Vegas landmark. The land that once housed the Dunes and its beloved golf course became part of the grand plans for future development. The Emerald Green course was gradually dismantled and integrated into the footprints of iconic destinations like Bellagio, CityCenter, Park MGM, and the T-Mobile Arena. 
 
 ## Legacy in Las Vegas Lore
 

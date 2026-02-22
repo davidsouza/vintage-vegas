@@ -11,12 +11,11 @@ youtube_title: "Vintage Las Vegas Sal Sagev Hotel Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/wmGXQqwN6GE/hqdefault.jpg"
 ---
 
-
 ## A Clever Name, a Storied Past: The Sal Sagev Hotel
 
-Downtown Las Vegas is brimming with history, but few properties hold as much significance as the building now known as the Golden Gate Hotel & Casino. Before it was the Golden Gate, however, it was the Sal Sagev Hotel – a name born from a clever trick and reflecting the unique character of early Fremont Street. Its story is a window into the Las Vegas of yesteryear, a far cry from the glittering Strip we know today.
+Downtown Las Vegas is brimming with history, but few properties hold as much significance as the building now known as the [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/) Hotel & Casino. Before it was the Golden Gate, however, it was the Sal Sagev Hotel – a name born from a clever trick and reflecting the unique character of early Fremont Street. Its story is a window into the Las Vegas of yesteryear, a far cry from the glittering Strip we know today.
 
-## From Hotel Nevada to a Mirrored Identity
+## From [Hotel Nevada](/posts/hotel-nevada-las-vegas/) to a Mirrored Identity
 
 The origins of this landmark stretch back to 1906, when it opened as the Hotel Nevada. Imagine a Las Vegas drastically different from the Vegas of today: no neon, no paved roads, and with the railroad depot serving as the city’s primary connection to the outside world. The Hotel Nevada quickly became a vital hub – a place for railroad workers to rest, weary travelers to find shelter, and early settlers to connect. Its location at the west end of Fremont Street, right where the railroad tracks lay, was prime real estate.
 
@@ -24,7 +23,7 @@ Then came 1931: Nevada legalized gaming, and the Hotel Nevada began embracing a 
 
 ## A Modest, Beloved Downtown Landmark
 
-Throughout the mid-20th century, the Sal Sagev wasn’t about ostentatious luxury. It was a modest, but well-respected, downtown hotel. It offered a familiar and welcoming atmosphere, a contrast to the burgeoning glitz of the then-nascent Las Vegas Strip. The ground floor, consistently featuring bars and small gaming rooms, eventually transformed into the Golden Gate Casino in 1955.  The Golden Gate brand quickly became known for its legendary $1 shrimp cocktails – a draw for locals and tourists alike – and low-limit gaming, fostering a relaxed and approachable environment.  
+Throughout the mid-[20th century](/posts/20th-century-hotel-and-casino-las-vegas/), the Sal Sagev wasn’t about ostentatious luxury. It was a modest, but well-respected, downtown hotel. It offered a familiar and welcoming atmosphere, a contrast to the burgeoning glitz of the then-nascent Las Vegas Strip. The ground floor, consistently featuring bars and small gaming rooms, eventually transformed into the Golden Gate Casino in 1955.  The Golden Gate brand quickly became known for its legendary $1 shrimp cocktails – a draw for locals and tourists alike – and low-limit gaming, fostering a relaxed and approachable environment.  
 
 While the Golden Gate Casino expanded and thrived, the upper floors continued to operate under the Sal Sagev name for years, maintaining its distinct identity and offering guests vintage charm and views of the evolving Fremont Street Experience. 
 

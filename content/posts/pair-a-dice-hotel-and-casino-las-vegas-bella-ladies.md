@@ -11,7 +11,7 @@ tags: ["las vegas history", "vintage vegas", "pair a dice hotel and casino las v
 
 The Las Vegas Strip we know today is a tapestry woven from the threads of countless dreams, some brilliant, some faded. Among those fleeting dreams was the Pair-A-Dice Hotel and Casino, a short-lived but intriguing player in the city’s burgeoning gambling scene. Launched in 1956 at 2067 North Las Vegas Boulevard (a location now vacant), the Pair-A-Dice represented the expansion of Vegas beyond the central Strip, catering to a broader clientele, many of whom were drawn to the promise of affordable lodging and entertainment.
 
-Details about the Pair-A-Dice remain scarce, shrouded in the mists of Vegas’s rapid and sometimes shadowy development. It wasn't a behemoth like the Sands or the Flamingo, but a smaller, more intimate establishment striving for its slice of the Nevada pie. Photographic evidence is rare, further adding to its enigmatic aura. What *is* known, and what makes this property particularly captivating, is the rumored association with a group of entertainers known colloquially as the 'Bella Ladies.'
+Details about the Pair-A-Dice remain scarce, shrouded in the mists of Vegas’s rapid and sometimes shadowy development. It wasn't a behemoth like [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/) or the Flamingo, but a smaller, more intimate establishment striving for its slice of the Nevada pie. Photographic evidence is rare, further adding to its enigmatic aura. What *is* known, and what makes this property particularly captivating, is the rumored association with a group of entertainers known colloquially as the 'Bella Ladies.'
 
 ## The Enigmatic 'Bella Ladies'
 
@@ -23,7 +23,7 @@ Perhaps the most surprising chapter in the Pair-A-Dice’s history began around 
 
 ## A Final Chapter and Lingering Legacy
 
-The trailer park residents finally received eviction notices in 2022 when Agora Realty and Management acquired the land. The park was dismantled, leaving behind an empty expanse on North Las Vegas Boulevard. While the Pair-A-Dice itself is gone, its story serves as a poignant reminder of Las Vegas’s ever-evolving landscape—a place where casinos could transform into trailer parks, and where the echoes of the 'Bella Ladies' linger in the whispers of local history. The land now sits vacant, waiting for its next chapter, but the Pair-A-Dice's unique and unusual history will not be forgotten.
+The trailer park residents finally received eviction notices in 2022 when Agora Realty and Management acquired the land. [The park](/posts/the-park-hotel-and-casino-las-vegas/) was dismantled, leaving behind an empty expanse on North Las Vegas Boulevard. While the Pair-A-Dice itself is gone, its story serves as a poignant reminder of Las Vegas’s ever-evolving landscape—a place where casinos could transform into trailer parks, and where the echoes of the 'Bella Ladies' linger in the whispers of local history. The land now sits vacant, waiting for its next chapter, but the Pair-A-Dice's unique and unusual history will not be forgotten.
 
 
 <div class="shop-collection">

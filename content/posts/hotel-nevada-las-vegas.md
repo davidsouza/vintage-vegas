@@ -7,7 +7,7 @@ location: "Hotel Nevada Las Vegas"
 tags: ["las vegas history", "vintage vegas", "hotel nevada las vegas"]
 ---
 
-# A Humble Gateway to the Neon City
+# A Humble [Gateway](/posts/gateway-motel-las-vegas/) to the Neon City
 
 Las Vegas is synonymous with glitz, glamour, and sprawling mega-resorts. But before the Strip’s transformation and the rise of the themed hotels, a different kind of Las Vegas existed—a working-class hub of modest motels, cafes, and gaming halls. Tucked just south of Fremont Street, at 235 South Main Street, stood the Hotel Nevada, a building that embodies that bygone era. While largely forgotten today, its story is a crucial piece of early Las Vegas history.
 
@@ -17,7 +17,7 @@ Built in the post-war boom, the Hotel Nevada wasn’t vying for the attention of
 
 ## More Than Just a Place to Sleep
 
-Unlike the sprawling casinos of the Strip, the Hotel Nevada’s gambling area and bar were compact and intimate. Think neighborhood watering hole, not a lavish casino floor. Advertisements from the 1950s and 60s promised “Air-cooled comfort, friendly service, and a one-minute walk to casinos,” a clear signal that value and accessibility were paramount. It existed within a vibrant neighborhood of similarly modest establishments like the Apache, California Club, and Northern – each a small cog in the bustling Downtown machine.
+Unlike the sprawling casinos of the Strip, the Hotel Nevada’s gambling area and bar were compact and intimate. Think neighborhood watering hole, not a lavish casino floor. Advertisements from the 1950s and 60s promised “Air-cooled comfort, friendly service, and a one-minute walk to casinos,” a clear signal that value and accessibility were paramount. It existed within a vibrant neighborhood of similarly modest establishments like the [Apache](/posts/apache-hotel-las-vegas/), [California Club](/posts/california-club-casino-las-vegas/), and Northern – each a small cog in the bustling Downtown machine.
 
 ## A Quiet Demise & Lasting Legacy
 

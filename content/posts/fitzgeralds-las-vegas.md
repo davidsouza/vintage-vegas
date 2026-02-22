@@ -11,10 +11,9 @@ youtube_title: "Vintage Las Vegas Fitzgeralds Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/77zOn76R9zA/hqdefault.jpg"
 ---
 
+## A New Player on Fremont Street: The Birth of [Fitzgeralds](/posts/fitzgeralds-hotel-and-casino/)
 
-## A New Player on Fremont Street: The Birth of Fitzgeralds
-
-Downtown Las Vegas in the 1980s was a vibrant, slightly rough-around-the-edges spectacle. The Strip was evolving, but Fremont Street remained the heart of Vegas excitement. In 1987, a new casino, Fitzgeralds, joined the fray, rising on the site of the previously existing Sundance Hotel and Casino. It was instantly recognizable, boasting a classic, approachable feel, a stark contrast to the increasingly themed and opulent mega-resorts taking shape elsewhere. Fitzgeralds aimed for a comfortable, welcoming atmosphere, appealing to a broad range of players and instantly becoming a downtown staple.
+Downtown Las Vegas in the 1980s was a vibrant, slightly rough-around-the-edges spectacle. The Strip was evolving, but Fremont Street remained the heart of Vegas excitement. In 1987, a new casino, Fitzgeralds, joined the fray, rising on the site of the previously existing [Sundance Hotel and Casino](/posts/sundance-hotel-and-casino-las-vegas/). It was instantly recognizable, boasting a classic, approachable feel, a stark contrast to the increasingly themed and opulent mega-resorts taking shape elsewhere. Fitzgeralds aimed for a comfortable, welcoming atmosphere, appealing to a broad range of players and instantly becoming a downtown staple.
 
 ## A Historic Ownership Moment
 
@@ -26,7 +25,7 @@ Just two years later, Barden smartly separated Fitzgeralds Las Vegas from the Ma
 
 ## The Legacy Continues – Briefly
 
-Don Barden’s passing in October 2011 marked the end of an era for Fitzgeralds. His estate, seeking a buyer, found a new steward in the Stevens brothers – Derek and Greg, owners of the legendary Golden Gate Casino. They recognized the continued potential of the location and, in Fall 2012, rebranded Fitzgeralds as The D Las Vegas. While the Fitzgeralds name is gone, the history and the legacy of its comfortable, accessible vibe lives on in the spirit of Downtown Las Vegas. The location itself remains a vibrant hub, carrying echoes of the classic Vegas charm that Fitzgeralds once embodied.
+Don Barden’s passing in October 2011 marked the end of an era for Fitzgeralds. His estate, seeking a buyer, found a new steward in the Stevens brothers – Derek and Greg, owners of the legendary [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/) Casino. They recognized the continued potential of the location and, in Fall 2012, rebranded Fitzgeralds as The D Las Vegas. While the Fitzgeralds name is gone, the history and the legacy of its comfortable, accessible vibe lives on in the spirit of Downtown Las Vegas. The location itself remains a vibrant hub, carrying echoes of the classic Vegas charm that Fitzgeralds once embodied.
 
 
 <div class="shop-collection">

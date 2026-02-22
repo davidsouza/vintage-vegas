@@ -13,11 +13,11 @@ Before the mega-resorts and dazzling spectacles we associate with the Las Vegas 
 
 ## The African Sahara Theme: An Exotic Touch
 
-What truly set the Sahara apart was its audacious theme: the African Sahara. This wasn’t just a superficial paint job; the design permeated every aspect of the property. Think lush landscaping, faux desert dunes, and elaborate décor evoking the romance and mystery of North Africa. The 85-foot-long bar, affectionately known as “The Long Bar,” became an instant landmark, drawing crowds eager for a cocktail and a glimpse of the lavish interior. Two restaurants catered to the growing clientele, adding to the resort’s allure. The presence of live entertainment, often including exotic dancers, further cemented its reputation as a sophisticated and exciting destination.
+What truly set the Sahara apart was its audacious theme: the African Sahara. This wasn’t just a superficial paint job; the design permeated every aspect of the property. Think lush landscaping, faux desert [dunes](/posts/dunes-hotel-and-casino-las-vegas/), and elaborate décor evoking the romance and mystery of North Africa. The 85-foot-long bar, affectionately known as “The Long Bar,” became an instant landmark, drawing crowds eager for a cocktail and a glimpse of the lavish interior. Two restaurants catered to the growing clientele, adding to the resort’s allure. The presence of live entertainment, often including exotic dancers, further cemented its reputation as a sophisticated and exciting destination.
 
 ## Changing Hands, Enduring Spirit
 
-The Sahara experienced several changes in ownership throughout its nearly six decades of operation. Notable figures like Milton Prell and Sheldon Adelson (who rebranded it as the Desert Inn briefly) were associated with the property, each leaving their mark on its evolution. While the theme was occasionally tweaked, the core essence of the Sahara—its commitment to spectacle and entertainment—remained constant. It became a beloved institution for locals and tourists alike.
+The Sahara experienced several changes in ownership throughout its nearly six decades of operation. Notable figures like Milton Prell and Sheldon Adelson (who rebranded it as the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) briefly) were associated with the property, each leaving their mark on its evolution. While the theme was occasionally tweaked, the core essence of the Sahara—its commitment to spectacle and entertainment—remained constant. It became a beloved institution for locals and tourists alike.
 
 ## A Final Farewell & A Lasting Legacy
 

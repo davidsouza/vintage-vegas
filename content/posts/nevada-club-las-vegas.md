@@ -11,14 +11,13 @@ youtube_title: "Vintage Las Vegas Nevada Club Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/wrPVKU7ywQc/hqdefault.jpg"
 ---
 
-
-## From Turf Club to a Casino Powerhouse: The Early Days of the Nevada Club
+## From Turf Club to a Casino Powerhouse: The Early Days of the [Nevada Club](/posts/nevada-club-casino-las-vegas/)
 
 The Nevada Club, a name that resonates with vintage Las Vegas charm, didn't begin as we remember it. Its story starts in 1952, when it acquired the Santa Anita Turf Club, a modest operation already nestled on the burgeoning Las Vegas Strip. This marked the beginning of a rapid ascent that would see the club become a central player in the city’s booming casino scene. The early 50s were a period of significant growth for Las Vegas, and the Nevada Club was positioned right in the thick of it, catering to a clientele seeking a more sophisticated gambling experience than some of the older downtown casinos offered.
 
 ## Robert Van Santen and the “Great Slot Machine War”
 
-Everything changed in 1955 when Robert Van Santen purchased the Nevada Club. Van Santen, a shrewd businessman, recognized the potential of slot machines and wasn't afraid to shake things up. He merged the Nevada Club with the adjacent Fortune Club, solidifying its position.  But Van Santen's real legacy lies in what followed: the “Great Las Vegas Slot Machine War.”
+Everything changed in 1955 when Robert Van Santen purchased the Nevada Club. Van Santen, a shrewd businessman, recognized the potential of slot machines and wasn't afraid to shake things up. He merged the Nevada Club with the adjacent [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/), solidifying its position.  But Van Santen's real legacy lies in what followed: the “Great Las Vegas Slot Machine War.”
 
 Van Santen understood that attracting gamblers was about more than just payouts; it was about creating an *experience*. He dramatically increased jackpots, a move that directly challenged competitors. But he didn’t stop there. He introduced innovations that seem commonplace today, but were revolutionary at the time. Bells, now a standard feature on many slot machines, were incorporated to add auditory excitement. Even more remarkably, Van Santen added revolving-light beacons atop his machines! These visual cues, coupled with the satisfying *clatter* of coins cascading into the hollow payoff trays below, generated a compelling spectacle that drew crowds. The echoing sound of those falling coins was a potent form of advertising in its own right.
 

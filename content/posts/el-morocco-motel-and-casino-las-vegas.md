@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "el morocco motel and casino las ve
 
 ## A Slice of Mid-Century Strip Charm: The El Morocco's Debut
 
-Between the iconic La Concha Motel and the ever-glamorous Peppermill Restaurant, a lesser-remembered gem once sparkled on the Las Vegas Strip: the El Morocco Motel and Casino. Opening its doors in 1964, it represented a new kind of convenience and style, a hallmark of the burgeoning Las Vegas experience. Owned by Lorenzo Doumani, the same visionary behind the La Concha, the El Morocco’s design owed a distinct debt to the brilliant architect Paul Revere Williams. Like its sister property, it epitomized the Googie architectural aesthetic – all sharp angles, swooping curves, and a futuristic, optimistic vibe.
+Between the iconic [La Concha Motel](/posts/la-concha-motel-las-vegas/) and the ever-glamorous Peppermill Restaurant, a lesser-remembered gem once sparkled on the Las Vegas Strip: the El Morocco Motel and Casino. Opening its doors in 1964, it represented a new kind of convenience and style, a hallmark of the burgeoning Las Vegas experience. Owned by Lorenzo Doumani, the same visionary behind the La Concha, the El Morocco’s design owed a distinct debt to the brilliant architect Paul Revere Williams. Like its sister property, it epitomized the Googie architectural aesthetic – all sharp angles, swooping curves, and a futuristic, optimistic vibe.
 
 ## Banking on Fun: A Unique Feature
 

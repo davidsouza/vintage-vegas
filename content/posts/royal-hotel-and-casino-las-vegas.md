@@ -13,11 +13,11 @@ Just east of the dazzling Las Vegas Strip, nestled near the bustling Las Vegas C
 
 ## Adding a Touch of Gaming (1973 - 1990s)
 
-Around 1973, the Royal shifted direction slightly, adding a modest casino. Rebranded as the Royal Casino, this wasn't a grand, sprawling gaming floor. Think roughly 100 slot machines and a couple of blackjack tables – a quiet gaming experience catering to the hotel's existing clientele. It was never meant to be a destination casino itself, but rather an added amenity for guests. The property successfully balanced its hotel function with this small but functional casino operation for decades.
+Around 1973, the Royal shifted direction slightly, adding a modest casino. Rebranded as the [Royal Casino](/posts/royal-casino-las-vegas/), this wasn't a grand, sprawling gaming floor. Think roughly 100 slot machines and a couple of blackjack tables – a quiet gaming experience catering to the hotel's existing clientele. It was never meant to be a destination casino itself, but rather an added amenity for guests. The property successfully balanced its hotel function with this small but functional casino operation for decades.
 
 ## Name Changes & The Focus on Lodging (1990s - 2003)
 
-The early 1990s brought another name change: The Royal Hotel and Casino. However, the casino’s footprint remained small, reflecting the ongoing strategy of serving the convention traffic first and foremost. In 2003, a significant shift occurred; the casino portion closed its doors entirely. The Royal transitioned completely to a hotel, becoming the Royal Resort. This marked a return to its original roots, emphasizing convenience and affordability for convention attendees.
+The early 1990s brought another name change: The Royal Hotel and Casino. However, the casino’s footprint remained small, reflecting the ongoing strategy of serving the convention traffic first and foremost. In 2003, a significant shift occurred; the casino portion closed its doors entirely. The Royal transitioned completely to a hotel, becoming the [Royal Resort](/posts/royal-resort-las-vegas/). This marked a return to its original roots, emphasizing convenience and affordability for convention attendees.
 
 ## A Quiet Endurance and a Tragic End (2003 - 2025)
 

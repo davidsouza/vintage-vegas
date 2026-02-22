@@ -11,8 +11,7 @@ youtube_title: "Vintage Las Vegas Bingo Palace Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/uS7K7wbgd8M/hqdefault.jpg"
 ---
 
-
-## From The Casino to the Bingo Palace: Humble Beginnings on Sahara
+## From The Casino to the Bingo Palace: Humble Beginnings on [Sahara](/posts/sahara-hotel-and-casino-las-vegas/)
 
 Before the mega-resorts and dazzling spectacle of modern Las Vegas, there were smaller, more intimate gambling halls catering to a different clientele. One such establishment, quietly but significantly, shaped the future of Las Vegas gaming: The Bingo Palace Casino. Its story began modestly in July 1976 as simply “The Casino,” a 5,000-square-foot operation nestled beside the Mini-Price Motor Inn on Sahara Avenue, just off the famed Las Vegas Strip. This wasn’t a place for high rollers; it was a casual, relaxed spot frequented by casino employees looking to unwind after a long shift. Think 100 slot machines, a few table games, a snack bar, and a welcoming atmosphere.
 

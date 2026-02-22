@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "splash las vegas"]
 
 # A Cascade of Memories: Remembering Splash Las Vegas
 
-The Las Vegas Strip has always been a place of spectacle, but few productions managed to capture the era quite like *Splash* at the Riviera Hotel and Casino. Running for an astonishing 22 years (1985-2006), *Splash* wasn't just a show; it was a vibrant, evolving reflection of Las Vegas' entertainment history.
+The Las Vegas Strip has always been a place of spectacle, but few productions managed to capture the era quite like *Splash* at the [Riviera Hotel and Casino](/posts/riviera-hotel-and-casino-las-vegas/). Running for an astonishing 22 years (1985-2006), *Splash* wasn't just a show; it was a vibrant, evolving reflection of Las Vegas' entertainment history.
 
 ## The Riviera and the Birth of an Aquacade
 

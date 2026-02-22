@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "davys locker bar and casino las ve
 
 ## A Slice of Vegas Dive Life: Davys Locker Bar and Casino
 
-For those who knew it, Davys Locker was more than just a bar; it was a refuge. Tucked away at the corner of Desert Inn Road and Maryland Parkway, just a stone's throw from the dazzling lights of the Las Vegas Strip, Davys Locker opened its doors in 1968. It wasn't one of the glittering casinos vying for high-roller attention, but a humble dive bar, a place where regulars and tourists could mingle over cheap drinks and a friendly game.
+For those who knew it, Davys Locker was more than just a bar; it was a refuge. Tucked away at the corner of [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) Road and Maryland Parkway, just a stone's throw from the dazzling lights of the Las Vegas Strip, Davys Locker opened its doors in 1968. It wasn't one of the glittering casinos vying for high-roller attention, but a humble dive bar, a place where regulars and tourists could mingle over cheap drinks and a friendly game.
 
 ## The Legend of Davy: A Neon Icon
 

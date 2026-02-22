@@ -11,7 +11,6 @@ youtube_title: "Vintage Las Vegas Orbit Inn Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/qs9Deo16kw8/hqdefault.jpg"
 ---
 
-
 ## A Blast From the Past: The Orbit Inn's Rise
 
 The Fremont Street Experience is buzzing with life today, a vibrant hub of shops, restaurants, and entertainment. But if you squint, and really remember, you might picture something very different – a slice of vintage Las Vegas, shimmering with space-age optimism. That was the Orbit Inn, a roadside motel that, for a brief but brilliant time, defined a particular aesthetic of the “Late American Rich,” as captured by Tom Wolfe’s writings.
@@ -24,7 +23,7 @@ The Orbit Inn's history isn't solely about glamour and neon. On January 7, 1967,
 
 ## From Motel to Casino: A Kitsch-Filled Era
 
-The 1970s brought further evolution. By 1974, the Orbit Inn had transformed into a full-fledged Hotel & Casino. Though compact, the gaming floor was bursting with kitschy sci-fi décor, reflecting the ongoing space race fascination of the era. Those vintage gaming chips, with their distinctive Orbit Inn branding, are now highly sought-after collectibles – tangible reminders of a unique period in Las Vegas history. The property changed hands several times throughout the late 70s and 80s, a reflection of the shifting sands of the casino business.
+The 1970s brought further evolution. By 1974, the Orbit Inn had transformed into a full-fledged Hotel & Casino. Though compact, the gaming floor was bursting with kitschy sci-fi décor, reflecting the ongoing space race fascination of the era. Those vintage gaming chips, with their distinctive Orbit Inn branding, are now highly sought-after collectibles – tangible reminders of a unique period in Las Vegas history. The property changed hands several times throughout the late 70s and 80s, a reflection of the shifting [sands](/posts/sands-hotel-and-casino-las-vegas/) of the casino business.
 
 ## A Demise and a Legacy
 

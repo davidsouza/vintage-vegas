@@ -11,7 +11,6 @@ youtube_title: "Vintage Las Vegas Silver Palace Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/qSbRlLRX4XA/hqdefault.jpg"
 ---
 
-
 ## A Modern Marvel on Fremont Street: The Silver Palace Arrives
 
 Downtown Las Vegas in the 1950s was a vibrant, competitive landscape. While the established casinos along Fremont Street were drawing crowds, a new wave of innovation was brewing. Enter the Silver Palace Casino, opening its doors on June 8, 1956, at 32 East Fremont Street. Owned by the Spinning Wheel Corporation, the Silver Palace wasn’t just another casino; it was a statement. Construction began in 1955, and the finished product was undeniably modern – a two-story structure unlike anything seen previously on Fremont.
@@ -24,7 +23,7 @@ Spanning approximately 16,700 square feet of gaming space, the Silver Palace off
 
 ## A Transformation and a Legacy
 
-Despite its short tenure – lasting from 1956 to 1964 – the Silver Palace left a significant mark on Las Vegas history. The casino closed in July 1964 for major renovations and a rebranding, emerging as the Carousel Casino. That name wouldn't last either; subsequent decades saw the site transform into Sassy Sally’s and Mermaids Casino before ultimately becoming part of the larger Fremont Street Experience redevelopment. 
+Despite its short tenure – lasting from 1956 to 1964 – the Silver Palace left a significant mark on Las Vegas history. The casino closed in July 1964 for major renovations and a rebranding, emerging as the [Carousel](/posts/carousel-hotel-and-casino-las-vegas/) Casino. That name wouldn't last either; subsequent decades saw the site transform into Sassy Sally’s and [Mermaids Casino](/posts/mermaids-casino-las-vegas/) before ultimately becoming part of the larger Fremont Street Experience redevelopment. 
 
 Though the “Silver Palace” name faded, its legacy as a pioneering property remains. It exemplified the ambition of downtown Las Vegas to modernize and electrify its entertainment venues, pushing the boundaries of design and innovation. Today, the very ground where the Silver Palace once stood is now part of the Circa Resort and Casino, a testament to the evolving, but never forgotten, spirit of old Las Vegas. For vintage Las Vegas enthusiasts, the Silver Palace stands as a crucial piece of the puzzle, a symbol of a bygone era of sleek design and forward-thinking entertainment.
 

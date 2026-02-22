@@ -7,7 +7,7 @@ location: "Elwell Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "elwell hotel and casino"]
 ---
 
-# Remembering a Piece of Old Vegas: The Elwell Hotel and Casino
+# Remembering a Piece of Old Vegas: The [Elwell Hotel and Casino](/posts/elwell-hotel-and-casino-las-vegas/)
 
 The Las Vegas Strip we know today is a landscape of constant evolution. Grand resorts rise, and even older establishments fall to make way for new ventures. Among the vanished landmarks, the Elwell Hotel and Casino holds a special place, representing an early chapter in Las Vegas’s remarkable story. Located at First and Carson Streets (now beneath a Golden Nugget parking garage), the Elwell wasn't a sprawling resort, but a vital part of the city’s burgeoning hospitality scene.
 
@@ -21,7 +21,7 @@ Initially, the Elwell offered a modest number of rooms, but its location made it
 
 ## From Elwell to Pioneer: A Change of Ownership
 
-Sadly, William Elwell passed away in 1963. Just two years later, in 1965, the hotel was sold to the Pioneer Club for $1.5 million. Under the Pioneer’s ownership, the hotel underwent a name change, becoming simply the Pioneer Hotel. While the Elwell name disappeared, the building continued to serve as a downtown landmark for many years.
+Sadly, William Elwell passed away in 1963. Just two years later, in 1965, the hotel was sold to the [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) for $1.5 million. Under the Pioneer’s ownership, the hotel underwent a name change, becoming simply the Pioneer Hotel. While the Elwell name disappeared, the building continued to serve as a downtown landmark for many years.
 
 ## A Lost Memory Beneath the Asphalt
 

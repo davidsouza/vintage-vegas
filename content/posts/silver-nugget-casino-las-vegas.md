@@ -11,10 +11,9 @@ youtube_title: "Vintage Las Vegas Silver Nugget Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/UcmgoEoG6BM/hqdefault.jpg"
 ---
 
-
 ## A North Las Vegas Institution: The Silver Nugget's Story
 
-The bright neon glow of the Silver Nugget Casino is now sadly extinguished, but its legacy remains a vibrant thread in the tapestry of Las Vegas history. Located at 2140 Las Vegas Boulevard North, this wasn't your glitzy Strip behemoth. It was a classic locals’ casino, a community hub, and a testament to a different era of Las Vegas entertainment. Opened in 1964, the Silver Nugget was the brainchild of entrepreneur Major Riddle, a name already familiar to Vegas insiders for his contributions to the Dunes Hotel and his willingness to push boundaries.
+The bright neon glow of the Silver Nugget Casino is now sadly extinguished, but its legacy remains a vibrant thread in the tapestry of Las Vegas history. Located at 2140 Las Vegas Boulevard North, this wasn't your glitzy Strip behemoth. It was a classic locals’ casino, a community hub, and a testament to a different era of Las Vegas entertainment. Opened in 1964, the Silver Nugget was the brainchild of entrepreneur Major Riddle, a name already familiar to Vegas insiders for his contributions to the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) Hotel and his willingness to push boundaries.
 
 ## More Than Just Games: A Community Hub
 

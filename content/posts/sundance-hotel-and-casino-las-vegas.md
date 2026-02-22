@@ -15,13 +15,13 @@ With 650 rooms, the Sundance instantly stood out. The design was sleek and conte
 
 ## Shadows of the Past & Regulatory Challenges
 
-The Sundance’s story, however, wasn't entirely straightforward. Dalitz's past meant the Nevada Gaming Commission prevented him from direct control of casino operations. This led to Al Sachs and Herb Tobman, already managing the Stardust and Fremont casinos, taking the reins. This arrangement, while seemingly compliant, wouldn’t last. 
+The Sundance’s story, however, wasn't entirely straightforward. Dalitz's past meant the Nevada Gaming Commission prevented him from direct control of casino operations. This led to Al Sachs and Herb Tobman, already managing the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and Fremont casinos, taking the reins. This arrangement, while seemingly compliant, wouldn’t last. 
 
 Sadly, the early 1980s brought unwelcome scrutiny. Sachs and Tobman faced suspensions due to allegations of skimming at the Stardust, casting a long shadow over the Sundance’s management. Dalitz attempted to regain control, but ultimately, in 1984, he handed over gaming operations to the seasoned Jackie Gaughan, a move intended to stabilize the property and prepare it for sale. 
 
 ## A Final Transformation & Lasting Legacy
 
-The Sundance’s brief, bright existence concluded in 1987 when it was sold to Lincoln Management Inc. (later Fitzgeralds Gaming). A significant renovation followed, and in March 1988, the Sundance was reborn as Fitzgeralds Hotel & Casino. While the name changed, the building’s location and design continued to contribute to the Fremont Street experience. 
+The Sundance’s brief, bright existence concluded in 1987 when it was sold to Lincoln Management Inc. (later [Fitzgeralds](/posts/fitzgeralds-hotel-and-casino/) Gaming). A significant renovation followed, and in March 1988, the Sundance was reborn as Fitzgeralds Hotel & Casino. While the name changed, the building’s location and design continued to contribute to the Fremont Street experience. 
 
 Today, the site is occupied by The D Las Vegas, a vibrant and popular destination. Though the Sundance Hotel & Casino is gone, its legacy as a symbol of Downtown’s ambition, its complicated ties to Las Vegas’s history, and its short but impactful presence remain a fascinating chapter in the city’s vibrant story. It serves as a reminder of a pivotal moment: a time when Las Vegas dared to dream of a more luxurious future while acknowledging its complicated past.
 

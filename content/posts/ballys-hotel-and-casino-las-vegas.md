@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "ballys hotel and casino las vegas"
 
 ## A Fiery Beginning: The MGM Grand Era (1973-1980)
 
-Bally’s Las Vegas, now Horseshoe, didn't start as Bally’s at all. It began as the MGM Grand in 1973, a sprawling 2,100-room megaresort designed to impress. Its sheer size was a statement – a bold declaration that Las Vegas was serious about big. Think glittering chandeliers, a massive casino floor, and the iconic MGM lion statues proudly displayed everywhere. For a time, it was *the* place to be. However, this era is tragically overshadowed by a devastating fire on November 21, 1980. The blaze, sparked by faulty electrical work, ripped through the casino and lower levels, claiming 85 lives and injuring hundreds. The event remains the deadliest single incident in Nevada's history and fundamentally altered the safety standards for all Las Vegas casinos.
+Bally’s Las Vegas, now [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/), didn't start as Bally’s at all. It began as the MGM Grand in 1973, a sprawling 2,100-room megaresort designed to impress. Its sheer size was a statement – a bold declaration that Las Vegas was serious about big. Think glittering chandeliers, a massive casino floor, and the iconic MGM lion statues proudly displayed everywhere. For a time, it was *the* place to be. However, this era is tragically overshadowed by a devastating fire on November 21, 1980. The blaze, sparked by faulty electrical work, ripped through the casino and lower levels, claiming 85 lives and injuring hundreds. The event remains the deadliest single incident in Nevada's history and fundamentally altered the safety standards for all Las Vegas casinos.
 
 ## Rebirth and a New Identity: Bally's Takes Over (1981-1999)
 

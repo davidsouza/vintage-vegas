@@ -21,7 +21,7 @@ For decades, the Royal Casino occupied a quiet but persistent role in the Las Ve
 
 ## Evolution and Decline: Royal Hotel, Resort, and Ultimately Closure
 
-Through the early 1990s, the property evolved again, becoming the Royal Hotel and Casino. Later, it transitioned to Royal Resort, shedding its casino operations around 2003 and focusing solely on hotel services. The decision reflected a broader shift in the Las Vegas market and demonstrated the property's ability to adapt, albeit to a reduced scale. A devastating fire in 2022, triggering the building's sprinkler system and causing widespread water damage, ultimately sealed its fate.
+Through the early 1990s, the property evolved again, becoming the [Royal Hotel and Casino](/posts/royal-hotel-and-casino-las-vegas/). Later, it transitioned to [Royal Resort](/posts/royal-resort-las-vegas/), shedding its casino operations around 2003 and focusing solely on hotel services. The decision reflected a broader shift in the Las Vegas market and demonstrated the property's ability to adapt, albeit to a reduced scale. A devastating fire in 2022, triggering the building's sprinkler system and causing widespread water damage, ultimately sealed its fate.
 
 ## A Legacy of Quiet Endurance
 

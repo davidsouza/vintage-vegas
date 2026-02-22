@@ -11,10 +11,9 @@ youtube_title: "Vintage Las Vegas Eastside Cannery Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/x7u7m8HcN1k/hqdefault.jpg"
 ---
 
-
 ## A Bold Vision on the Boulder Highway
 
-The Eastside Cannery Casino and Hotel, rising on the Boulder Highway corridor, represented a bold move in Las Vegas’s evolving landscape. It wasn't about competing with the Strip's dazzling spectacle; instead, it aimed to deliver a full-service casino-hotel experience directly to the local community – a demographic often underserved in the boom years. Opening its doors on August 28, 2008, after a $250 million investment and demolishing the former Nevada Palace, the Cannery signaled an expansion of gaming beyond the core tourist zones.
+The Eastside Cannery Casino and Hotel, rising on the Boulder Highway corridor, represented a bold move in Las Vegas’s evolving landscape. It wasn't about competing with the Strip's dazzling spectacle; instead, it aimed to deliver a full-service casino-hotel experience directly to the local community – a demographic often underserved in the boom years. Opening its doors on August 28, 2008, after a $250 million investment and demolishing the former [Nevada Palace](/posts/nevada-palace-hotel-and-casino-las-vegas/), the Cannery signaled an expansion of gaming beyond the core tourist zones.
 
 ## Industrial Chic and a Local Vibe
 

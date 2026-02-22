@@ -11,10 +11,9 @@ youtube_title: "Vintage Las Vegas Red Garter Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/gMApLFYfgpA/hqdefault.jpg"
 ---
 
-
 ## A Brief Sparkle on Fremont Street
 
-Before the mega-resorts reigned supreme on the Las Vegas Strip, downtown held its own unique charm. Tucked into the heart of Fremont Street, a vibrant hub then known as “Glitter Gulch,” sat the Red Garter Casino. Opened on May 23, 1972, this compact casino offered a glimpse into a different era – one dominated by smaller, independent operators carving out their space in a booming, but evolving, market.
+Before the mega-resorts reigned supreme on the Las Vegas Strip, downtown held its own unique charm. Tucked into the heart of Fremont Street, a vibrant hub then known as “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/),” sat the Red Garter Casino. Opened on May 23, 1972, this compact casino offered a glimpse into a different era – one dominated by smaller, independent operators carving out their space in a booming, but evolving, market.
 
 ## The Red Garter's Appeal
 

@@ -19,7 +19,7 @@ The Showboat wasn’t just about the casino floor. It distinguished itself with 
 
 ## A Shifting Tide & A Final Farewell
 
-During the 1990s, as Las Vegas rapidly evolved and the Strip expanded exponentially, the Showboat attempted to adapt. It was rebranded as the Castaways Hotel and Casino, a move meant to modernize the image. However, keeping up with the relentless pace of development proved to be a challenge. The once-beloved landmark struggled to compete with the newer, larger resorts boasting elaborate themes and amenities.
+During the 1990s, as Las Vegas rapidly evolved and the Strip expanded exponentially, the Showboat attempted to adapt. It was rebranded as the [Castaways Hotel and Casino](/posts/castaways-hotel-and-casino-las-vegas/), a move meant to modernize the image. However, keeping up with the relentless pace of development proved to be a challenge. The once-beloved landmark struggled to compete with the newer, larger resorts boasting elaborate themes and amenities.
 
 Ultimately, the Showboat’s modest charm couldn’t overcome the changing landscape of Las Vegas. The hotel closed its doors in 2000, marking the end of an era. In 2006, the building was sadly demolished, and the land now houses the Showboat Park Apartments. While the physical structure is gone, the memory of the Showboat Hotel and Casino remains a cherished part of vintage Las Vegas history, a reminder of a simpler time and a uniquely charming destination.
 

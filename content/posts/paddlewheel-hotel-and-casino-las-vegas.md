@@ -7,9 +7,9 @@ location: "Paddlewheel Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "paddlewheel hotel and casino las vegas"]
 ---
 
-## From Royal Inn to Riverboat Dream: The Paddlewheel's Genesis
+## From [Royal Inn](/posts/royal-inn-hotel-and-casino-las-vegas/) to Riverboat Dream: The Paddlewheel's Genesis
 
-Few Las Vegas properties evoke quite the nostalgic pangs as the Paddlewheel Hotel and Casino. Located at 305 Convention Center Drive (now destined for the Majestic Las Vegas high-rise), its story began in 1970 as the Royal Inn and Casino. For years, it existed as a relatively unassuming fixture on Convention Center Drive, quietly serving a clientele largely connected to the nearby convention center. However, the 1980s brought a dramatic makeover and a radical change of identity.
+Few Las Vegas properties evoke quite the nostalgic pangs as the Paddlewheel Hotel and Casino. Located at 305 Convention Center Drive (now destined for the Majestic Las Vegas high-rise), its story began in 1970 as the [Royal](/posts/royal-casino-las-vegas/) Inn and Casino. For years, it existed as a relatively unassuming fixture on Convention Center Drive, quietly serving a clientele largely connected to the nearby convention center. However, the 1980s brought a dramatic makeover and a radical change of identity.
 
 In 1983, a new investment group, including influential executives from the Horn & Hardart coffee and food service empire, stepped in. They envisioned something different – a family-friendly resort evoking the charm of a Mississippi paddlewheel riverboat. The Royal Inn was rebranded as the Paddlewheel Hotel and Casino, complete with a distinctive nautical theme and a playful atmosphere.
 

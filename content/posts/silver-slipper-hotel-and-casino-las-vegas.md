@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "silver slipper hotel and casino la
 
 ## A Glimmer of Silver on the Strip
 
-For those of us who remember the 'glory days' of the Las Vegas Strip, the Silver Slipper Hotel and Casino holds a special place in our memories. Opened on September 1, 1950, in Winchester, Nevada (which would soon become part of Las Vegas), the Silver Slipper was more than just another casino; it was a distinctive landmark positioned strategically near the bustling Frontier Hotel and Casino. Interestingly, both properties shared the same ownership initially, creating a symbiotic relationship that contributed to their success. 
+For those of us who remember the 'glory days' of the Las Vegas Strip, the Silver Slipper Hotel and Casino holds a special place in our memories. Opened on September 1, 1950, in Winchester, Nevada (which would soon become part of Las Vegas), the Silver Slipper was more than just another casino; it was a distinctive landmark positioned strategically near the bustling [Frontier Hotel and Casino](/posts/frontier-hotel-and-casino-las-vegas/). Interestingly, both properties shared the same ownership initially, creating a symbiotic relationship that contributed to their success. 
 
 ## The Rotating Slipper – A Neon Icon
 
@@ -21,7 +21,7 @@ The Silver Slipper’s story takes another intriguing turn in 1968 when it caugh
 
 ## A Final Curtain Call and a Lost Dream
 
-Sadly, the Silver Slipper's time on the Strip came to an end on November 28, 1988. The closure marked the loss of another piece of vintage Vegas. The property was demolished to make way for a much-needed parking lot for the Frontier, a pragmatic but ultimately heartbreaking decision for those who cherished the Silver Slipper's unique character. Numerous plans were floated over the years to rebuild the Silver Slipper Hotel and Casino, fueled by nostalgia and the desire to recapture a piece of old Vegas. However, these dreams never materialized.
+Sadly, the Silver Slipper's time on the Strip came to an end on November 28, 1988. The closure marked the loss of another piece of vintage Vegas. The property was demolished to make way for a much-needed parking lot for [the Frontier](/posts/the-frontier-hotel-and-casino-las-vegas/), a pragmatic but ultimately heartbreaking decision for those who cherished the Silver Slipper's unique character. Numerous plans were floated over the years to rebuild the Silver Slipper Hotel and Casino, fueled by nostalgia and the desire to recapture a piece of old Vegas. However, these dreams never materialized.
 
 ## A Vacant Lot & A Lasting Legacy
 

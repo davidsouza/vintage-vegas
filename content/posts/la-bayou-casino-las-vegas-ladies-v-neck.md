@@ -11,10 +11,9 @@ youtube_title: "Vintage Vegas Bio: La Bayou Casino #casinolasvegas #vintage #cas
 youtube_thumbnail: "https://i.ytimg.com/vi/SkT4tb-oyd0/hqdefault.jpg"
 ---
 
-
 # A Slice of New Orleans Charm on Fremont Street: La Bayou’s Story
 
-La Bayou Casino, a fondly remembered landmark on Fremont Street, isn’t just another faded Vegas memory. Its history is deeply intertwined with the evolution of Las Vegas gambling itself. Originally the site of the Las Vegas Coffee House in 1913, the location cycled through various iterations – the Northern Club (holding Vegas’s *first* gaming license thanks to Mayme Stocker!), Turf Club, Monte Carlo Club, and the playful Coin Castle – each adding another layer to its legacy. It wasn’t just a casino; it was a witness to Las Vegas’s burgeoning identity.
+[La Bayou Casino](/posts/la-bayou-casino-las-vegas/), a fondly remembered landmark on Fremont Street, isn’t just another faded Vegas memory. Its history is deeply intertwined with the evolution of Las Vegas gambling itself. Originally the site of the Las Vegas Coffee House in 1913, the location cycled through various iterations – the [Northern Club](/posts/northern-club-las-vegas/) (holding Vegas’s *first* gaming license thanks to Mayme Stocker!), Turf Club, [Monte Carlo Club](/posts/monte-carlo-club-las-vegas/), and the playful [Coin Castle](/posts/coin-castle-casino-las-vegas/) – each adding another layer to its legacy. It wasn’t just a casino; it was a witness to Las Vegas’s burgeoning identity.
 
 ## The Herb Pastor Era & A New Vibe
 
@@ -26,7 +25,7 @@ What truly distinguished La Bayou, beyond its playful décor and classic gaming,
 
 ## A Short But Sweet Run & Lasting Legacy
 
-Despite its popularity, La Bayou's run was relatively short. In 2016, real estate entrepreneurs acquired the property and, on June 27, 2016, the lights dimmed for the final time. Demolition followed, and the site was incorporated into an expanded Golden Gate casino. While physically gone, La Bayou’s legacy lives on. It remains a beloved memory for long-time Vegas visitors, a reminder of a more playful and personalized era of Fremont Street gambling. The story of La Bayou and those iconic ladies' V-neck uniforms is a testament to the power of a unique concept and a dedication to creating an authentic, memorable experience – a quality that often gets lost in the evolution of Las Vegas.
+Despite its popularity, La Bayou's run was relatively short. In 2016, real estate entrepreneurs acquired the property and, on June 27, 2016, the lights dimmed for the final time. Demolition followed, and the site was incorporated into an expanded [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/) casino. While physically gone, La Bayou’s legacy lives on. It remains a beloved memory for long-time Vegas visitors, a reminder of a more playful and personalized era of Fremont Street gambling. The story of La Bayou and those iconic ladies' V-neck uniforms is a testament to the power of a unique concept and a dedication to creating an authentic, memorable experience – a quality that often gets lost in the evolution of Las Vegas.
 
 
 <div class="shop-collection">

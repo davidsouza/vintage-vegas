@@ -11,14 +11,13 @@ youtube_title: "Vintage Las Vegas Sundance West Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/e8TGZ4HRlp8/hqdefault.jpg"
 ---
 
+## A Brief Sparkle on Fremont Street: [Sundance](/posts/sundance-hotel-and-casino-las-vegas/) West Casino
 
-## A Brief Sparkle on Fremont Street: Sundance West Casino
-
-The 1970s Fremont Street Experience was a vibrant, chaotic beast – a neon-drenched canyon brimming with casinos vying for attention. Among the giants like the Golden Nugget and Binion’s Horseshoe, Sundance West Casino represented a different kind of ambition, a smaller scale operation aiming for a specific, approachable vibe. Opened in 1976, it stood as a testament to the entrepreneurial spirit that once defined Downtown Las Vegas, a spirit now largely relegated to memory.
+The 1970s Fremont Street Experience was a vibrant, chaotic beast – a neon-drenched canyon brimming with casinos vying for attention. Among the giants like the Golden Nugget and Binion’s [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/), Sundance West Casino represented a different kind of ambition, a smaller scale operation aiming for a specific, approachable vibe. Opened in 1976, it stood as a testament to the entrepreneurial spirit that once defined Downtown Las Vegas, a spirit now largely relegated to memory.
 
 ## Al Sachs and the Western Dream
 
-Sundance West was the brainchild of Al Sachs, a familiar face in Las Vegas gambling circles. Sachs, known for his colorful personality and involvement in previous casino ventures, sought to create a mid-sized casino that catered to both locals and tourists. The name itself, “Sundance West,” was carefully chosen, invoking the romanticized image of the American frontier outlaw, a popular theme in Vegas casinos during the era. Imagine the dazzling neon signage battling for space amongst its larger neighbors - a true spectacle of old Downtown Vegas.
+Sundance West was the brainchild of Al Sachs, a familiar face in Las Vegas gambling circles. Sachs, known for his colorful personality and involvement in previous casino ventures, sought to create a mid-sized casino that catered to both locals and tourists. The name itself, “Sundance West,” was carefully chosen, invoking the romanticized image of the American [frontier](/posts/frontier-hotel-and-casino-las-vegas/) outlaw, a popular theme in Vegas casinos during the era. Imagine the dazzling neon signage battling for space amongst its larger neighbors - a true spectacle of old Downtown Vegas.
 
 ## A Casino of Friendly Faces and Familiar Games
 

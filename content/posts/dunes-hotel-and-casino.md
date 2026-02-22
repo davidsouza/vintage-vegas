@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "dunes hotel and casino"]
 
 ## A Desert Oasis Built on Ambition and Uncertainty
 
-Few Las Vegas resorts have a history as turbulent and fascinating as The Dunes. Opening its doors on May 23, 1955, as the tenth resort on the burgeoning Las Vegas Strip, The Dunes aimed to be a high-roller haven. Its early days, however, were far from glamorous. Initial ownership proved shaky, plagued by poor management and a downturn in tourism. The Sands Corporation stepped in to manage the property, but their efforts yielded little improvement, and they quickly retreated. It seemed The Dunes was destined to be a footnote in Las Vegas history.
+Few Las Vegas resorts have a history as turbulent and fascinating as The [Dunes](/posts/dunes-hotel-and-casino-las-vegas/). Opening its doors on May 23, 1955, as the tenth resort on the burgeoning Las Vegas Strip, The Dunes aimed to be a high-roller haven. Its early days, however, were far from glamorous. Initial ownership proved shaky, plagued by poor management and a downturn in tourism. [The Sands](/posts/the-sands-hotel-and-casino-las-vegas/) Corporation stepped in to manage the property, but their efforts yielded little improvement, and they quickly retreated. It seemed The Dunes was destined to be a footnote in Las Vegas history.
 
 ## Major Riddle: The Savior of The Dunes
 
@@ -21,7 +21,7 @@ The Dunes’ history wasn’t without its complexities. Rumors and investigation
 
 ## Decline and Demolition: A Farewell to an Era
 
-The 1980s brought renewed financial struggles. Potential buyers came and went, including a notable interest from Steve Wynn. In 1987, Japanese investor Masao Nangaku purchased The Dunes for a significant $157 million. Wynn’s Mirage Resorts ultimately acquired the property in 1992 for $75 million, with plans for a breathtaking new resort. The Dunes officially closed its doors on January 26, 1993. The iconic implosion of the North Tower on October 27, 1993, marked a poignant end to an era, followed by the demolition of the South Tower in 1994. 
+The 1980s brought renewed financial struggles. Potential buyers came and went, including a notable interest from Steve Wynn. In 1987, Japanese investor Masao Nangaku purchased The Dunes for a significant $157 million. Wynn’s [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) Resorts ultimately acquired the property in 1992 for $75 million, with plans for a breathtaking new resort. The Dunes officially closed its doors on January 26, 1993. The iconic implosion of the North Tower on October 27, 1993, marked a poignant end to an era, followed by the demolition of the South Tower in 1994. 
 
 ## A Legacy Replaced by Beauty
 

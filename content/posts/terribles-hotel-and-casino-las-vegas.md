@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "terribles hotel and casino las veg
 
 ## A Humble Beginning: From Continental to Terrible
 
-Before it became the affectionately ironic “Terrible’s Hotel and Casino,” the property at 6300 Paradise Road started life as the Continental. It was a solid, if unremarkable, off-Strip establishment catering to locals and budget travelers. For years, the Continental quietly served its purpose, a common sight in the burgeoning landscape just east of the famed Las Vegas Strip. However, its destiny changed in 2000 when Herbst Gaming, the family synonymous with Terrible Herbst gas stations, acquired the property.
+Before it became the affectionately ironic “Terrible’s Hotel and Casino,” the property at 6300 [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Road started life as the Continental. It was a solid, if unremarkable, off-Strip establishment catering to locals and budget travelers. For years, the Continental quietly served its purpose, a common sight in the burgeoning landscape just east of the famed Las Vegas Strip. However, its destiny changed in 2000 when Herbst Gaming, the family synonymous with Terrible Herbst gas stations, acquired the property.
 
 ## The Birth of a Brand: Terrible’s is Born!
 

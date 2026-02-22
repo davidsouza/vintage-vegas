@@ -11,10 +11,9 @@ youtube_title: "Vintage Vegas Bio - Barbary Coast Hotel and Casino #vintage #las
 youtube_thumbnail: "https://i.ytimg.com/vi/oDth466ADGQ/hqdefault.jpg"
 ---
 
-
 ## A Stylish Alternative on the Strip
 
-The Las Vegas Strip has always been about evolution, but sometimes, it’s about offering something *different*. That's precisely what Michael Gaughan envisioned when he opened the Barbary Coast Hotel & Casino on March 2, 1979. Built on the former site of the Desert Villa/Times Square Motel, the Barbary Coast arrived at a moment when the Strip was increasingly dominated by sprawling mega-resorts. Gaughan, son of downtown casino legend Jackie Gaughan, wanted to create a more intimate and elegant experience – a haven from the overwhelming scale of its neighbors.
+The Las Vegas Strip has always been about evolution, but sometimes, it’s about offering something *different*. That's precisely what Michael Gaughan envisioned when he opened the [Barbary Coast](/posts/barbary-coast-hotel-and-casino-las-vegas/) Hotel & Casino on March 2, 1979. Built on the former site of the Desert Villa/Times Square Motel, the Barbary Coast arrived at a moment when the Strip was increasingly dominated by sprawling mega-resorts. Gaughan, son of downtown casino legend Jackie Gaughan, wanted to create a more intimate and elegant experience – a haven from the overwhelming scale of its neighbors.
 
 ## Design & Early Success
 

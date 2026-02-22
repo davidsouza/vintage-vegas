@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "holiday motel las vegas"]
 
 ## A Slice of Mid-Century Motor Court Magic
 
-The Las Vegas Strip wasn't always a landscape of towering mega-resorts. In the post-war boom of the early 1950s, it was a burgeoning ribbon of roadside motels catering to the growing wave of auto travelers. Among them shone the Holiday Motel, a beloved fixture along U.S. 91 (now Las Vegas Boulevard) that perfectly embodies the era's optimistic spirit. Originally debuting as the Holiday Inn (completely unrelated to the later national hotel chain) in 1952, it rebranded as the Holiday Motel by the early 1960s, mirroring the changing landscape of travel and roadside hospitality.
+The Las Vegas Strip wasn't always a landscape of towering mega-resorts. In the post-war boom of the early 1950s, it was a burgeoning ribbon of roadside motels catering to the growing wave of auto travelers. Among them shone the [Holiday](/posts/holiday-casino-las-vegas/) Motel, a beloved fixture along U.S. 91 (now Las Vegas Boulevard) that perfectly embodies the era's optimistic spirit. Originally debuting as the Holiday Inn (completely unrelated to the later national hotel chain) in 1952, it rebranded as the Holiday Motel by the early 1960s, mirroring the changing landscape of travel and roadside hospitality.
 
 ## The Sign That Sparkled
 

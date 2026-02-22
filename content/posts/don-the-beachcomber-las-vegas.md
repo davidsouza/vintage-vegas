@@ -7,9 +7,9 @@ location: "Don the Beachcomber Las Vegas"
 tags: ["las vegas history", "vintage vegas", "don the beachcomber las vegas"]
 ---
 
-## A Desert Oasis: Don the Beachcomber at the Sahara
+## A Desert Oasis: Don the Beachcomber at the [Sahara](/posts/sahara-hotel-and-casino-las-vegas/)
 
-The mid-century Las Vegas Strip was a canvas for spectacle, and few experiences were as captivating as Don the Beachcomber at the Sahara Hotel. Opening its doors on December 1, 1962, this wasn’t just a restaurant; it was a full-blown immersive Polynesian escape. Imagine stepping off the casino floor and instantly being transported to a lush, tropical paradise – that was the magic of Don the Beachcomber.
+The mid-century Las Vegas Strip was a canvas for spectacle, and few experiences were as captivating as Don the Beachcomber at the Sahara Hotel. Opening its doors on December 1, 1962, this wasn’t just a restaurant; it was a full-blown immersive [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) escape. Imagine stepping off the casino floor and instantly being transported to a lush, tropical [paradise](/posts/paradise-hotel-and-casino-las-vegas/) – that was the magic of Don the Beachcomber.
 
 ## The Legacy of Donn Beach and the Rise of Sunny Sund
 

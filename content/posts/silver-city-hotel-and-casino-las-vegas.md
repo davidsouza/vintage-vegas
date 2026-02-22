@@ -11,10 +11,9 @@ youtube_title: "Vintage Silver City Casino, Las Vegas #vintage #lasvegas #casino
 youtube_thumbnail: "https://i.ytimg.com/vi/beUazS3Tues/hqdefault.jpg"
 ---
 
-
 ## A Short, Sparkling Run on the Strip
 
-For a brief but fascinating period, the Silver City Hotel & Casino occupied a prime location on the Las Vegas Strip. It's a story of ambition, failed dreams, and the relentless churn of Vegas development. The site, originally home to the Riata Casino, felt cursed. The Riata opened in 1973 but closed less than a year later, a victim of poor planning and competition. Enter Major Riddle, a multiple casino owner, who stepped in to resurrect the property in 1974, rebranding it as the Silver City Casino.
+For a brief but fascinating period, the Silver City Hotel & Casino occupied a prime location on the Las Vegas Strip. It's a story of ambition, failed dreams, and the relentless churn of Vegas development. The site, originally home to the [Riata Casino](/posts/riata-casino-las-vegas/), felt cursed. The Riata opened in 1973 but closed less than a year later, a victim of poor planning and competition. Enter Major Riddle, a multiple casino owner, who stepped in to resurrect the property in 1974, rebranding it as the Silver City Casino.
 
 ## The Circus Circus Connection
 

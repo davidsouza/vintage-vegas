@@ -7,9 +7,9 @@ location: "Bonanza Lodge Las Vegas"
 tags: ["las vegas history", "vintage vegas", "bonanza lodge las vegas"]
 ---
 
-## A Slice of Early Fremont Street: The Bonanza Lodge
+## A Slice of Early Fremont Street: The [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Lodge
 
-Downtown Las Vegas’s Fremont Street Experience is a whirlwind of light and sound today, but it wasn’t always that way. Before the soaring Viva Vision canopy, before the casinos expanded to encompass entire blocks, Fremont Street was a street slowly evolving into the “Glitter Gulch” we know—and the Bonanza Lodge stood as a quiet observer of that transformation. Located at 1808 Fremont Street, this modest motel offers a tangible glimpse into Las Vegas’s mid-century lodging scene.
+Downtown Las Vegas’s Fremont Street Experience is a whirlwind of light and sound today, but it wasn’t always that way. Before the soaring Viva Vision canopy, before the casinos expanded to encompass entire blocks, Fremont Street was a street slowly evolving into the “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/)” we know—and the Bonanza Lodge stood as a quiet observer of that transformation. Located at 1808 Fremont Street, this modest motel offers a tangible glimpse into Las Vegas’s mid-century lodging scene.
 
 ## Birth of a Motor Court (1947)
 
