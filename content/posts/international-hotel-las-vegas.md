@@ -1,31 +1,37 @@
 ---
-title: "The International Hotel: A Bold Gamble That Shaped Vintage Las Vegas"
+title: "The International Hotel Las Vegas: A Bold Gamble That Shaped the Strip's Future"
 date: 2026-02-21
-description: "Explore the fascinating history of the International Hotel, a visionary project that aimed to create a 'second Strip' in Las Vegas. From its troubled beginnings to its legacy as Westgate."
+description: "Explore the fascinating history of the International Hotel Las Vegas, a bold 1960s gamble that pushed the Strip's boundaries & ultimately became the Westgate. Vintage Vegas vibes!"
 image: "https://vintagevegasshirts.com/wp-content/uploads/2025/07/front-290.jpg"
 location: "International Hotel Las Vegas"
 tags: ["las vegas history", "vintage vegas", "international hotel las vegas"]
 ---
 
-## A Vision Beyond the Strip
+## A Vision Takes Root (and Almost Doesn't)
 
-Before the Westgate Las Vegas, before even the [Las Vegas Hilton](/posts/las-vegas-hilton-hotel-and-casino-las-vegas/), stood the International Hotel, a monument to Kirk Kerkorian's ambitious vision for the burgeoning Las Vegas landscape. The story begins not with grand designs, but with a racetrack – the Las Vegas Park. In 1965, real estate developer Marvin Kratter initially acquired the land, envisioning a sprawling development complete with a hotel, golf course, and luxury homes. However, his plans didn't fully materialize, leaving a prime piece of real estate ripe for a new opportunity.
+The story of the International Hotel is more than just about a building; it's a tale of ambition, rivalry, and the relentless expansion of Las Vegas. The land, originally part of the Las Vegas Park racetrack, sat far enough east of the Strip in the 1960s that it was considered a risky location. In 1965, Marvin Kratter, of National Equities, first envisioned a massive resort complex, complete with a 1,500-room hotel, a golf course, and private residences. However, Kratter's vision remained unrealized.
 
-That opportunity fell to Kirk Kerkorian, the aviation and entertainment titan. In 1967, Kerkorian purchased 65.5 acres for a cool $5 million, intending to build a colossal 1,510-room, 30-story hotel – a bold move for its time, as it was significantly removed from the established Las Vegas Strip. Kerkorian’s goal was audacious: to create a “second Strip” along [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Road. He cleverly mirrored Kratter’s pre-existing “International Country Club” with the hotel’s name, solidifying his claim on the developing area.
+Enter Kirk Kerkorian, the aviation mogul and a man known for his audacious bets. In 1967, he swooped in and purchased a substantial 65.5-acre portion of Kratter’s land for $5 million.  Kerkorian's plan was even grander: a 1,510-room, 30-story hotel costing $50 million. He named it the International Hotel, cleverly mirroring Kratter’s previously planned "International Country Club" and signaling his intention to create a "second Strip" along Paradise Road.
 
-## A Rivalry and a Race to Open
+## The Hughes Factor & a Race to the Finish
 
-Kerkorian’s aggressive expansion didn't sit well with everyone. Howard Hughes, already a powerful player in Las Vegas casinos, saw Kerkorian as a direct competitor. Hughes attempted to sabotage the International Hotel's construction through various means, including expanding [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/) Hotel and spreading disinformation about potential nuclear test damage. He even tried, unsuccessfully, to buy and shut down the project entirely. In a dramatic turn of events, Hughes instead completed and opened the [Landmark Hotel and Casino](/posts/landmark-hotel-and-casino-las-vegas/) *across* the street from the International just one day before Kerkorian’s grand opening.
+Kerkorian wasn't building in a vacuum. Howard Hughes, already a significant player in Las Vegas with his Sands Hotel, saw Kerkorian as a direct competitor. Hughes launched a series of attempts to derail the International's construction. These included expanding his own Sands to challenge its scale, spreading rumors about nuclear test site damage potentially impacting the area, and even offering to buy the property outright. All failed. 
 
-## A Reign of Entertainment and Financial Strain
+The rivalry reached a fever pitch.  Hughes, unable to stop the International, accelerated the construction of the unfinished Landmark Hotel and Casino directly across Paradise Road.  The Landmark opened a single day *before* the International, a petty victory in a fierce battle.
 
-The International Hotel officially opened on July 2, 1969, instantly becoming Nevada’s tallest building and largest hotel. Kerkorian pulled out all the stops, securing headlining acts like Barbra Streisand and Peggy Lee. However, the most significant entertainment milestone came with Elvis Presley’s residency, beginning July 31, 1969. Elvis's seven-year run, encompassing an astounding 636 sold-out performances, cemented the International’s status as a premier entertainment destination and overshadowed many of its predecessor performers.
+## An Era of Entertainment & Elvis
 
-Despite the success, financial troubles soon surfaced. Kerkorian's investment in Metro-Goldwyn-Mayer and Western Airlines left him needing $29 million. A stock offering was rejected, forcing him to sell International Leisure to Hilton Hotels in 1971. The property was then rebranded as the Las Vegas Hilton, and Hilton acquired full ownership in 1972. 
+Despite the drama, the International Hotel officially opened on July 2, 1969.  At 30 stories, it was instantly the tallest building in Nevada and the state's largest hotel. Entertainment director Bill Miller quickly secured star power, signing the likes of Barbra Streisand and Peggy Lee. But the biggest coup was yet to come: Elvis Presley. The King of Rock 'n' Roll began his groundbreaking seven-year run on July 31, 1969, performing an astonishing 636 consecutive sold-out shows.  This residency was a massive draw, although it undoubtedly eclipsed the opportunities of other performers who’d previously graced the International’s stages.
 
-## Legacy and Rebirth
+## From Financial Troubles to a New Name
 
-Today, the International Hotel’s legacy lives on as the Westgate Las Vegas. While the name and exterior have changed, the spirit of ambition and innovation that defined the International Hotel – a gamble that dared to challenge the conventions of Las Vegas – remains a fascinating chapter in vintage Las Vegas history.
+The International’s success was tempered by Kerkorian’s ever-present financial juggling. By late 1969, he found himself needing $29 million to cover debts related to his involvement in Metro-Goldwyn-Mayer and Western Airlines. A stock offering was rejected by the SEC, leaving Kerkorian in a precarious position.  
+
+In 1971, he sold International Leisure, the holding company for the International Hotel and the Flamingo, to Hilton Hotels. The International Hotel was swiftly renamed the Las Vegas Hilton, a name that would become synonymous with Vegas entertainment.  Hilton gained full ownership in 1972.
+
+## A Lasting Legacy
+
+Today, the building stands as Westgate Las Vegas, a testament to Kerkorian’s vision and the ever-evolving landscape of the Las Vegas Strip. While the name has changed, the spirit of innovation and grand ambition that defined the International Hotel remains, a vital chapter in vintage Las Vegas history.
 
 
 <div class="shop-collection">

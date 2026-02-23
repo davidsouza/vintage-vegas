@@ -1,29 +1,33 @@
 ---
-title: "Remembering Club Bingo: A Vintage Vegas History Lesson"
+title: "Lost & Found: Remembering Club Bingo, A Vintage Las Vegas Staple"
 date: 2026-02-21
-description: "Delve into the history of Club Bingo Las Vegas! From its Strip beginnings to Fremont Street luxury, discover its story & lasting legacy."
-image: "https://vintagevegasshirts.com/wp-content/uploads/2025/08/front-384.jpg"
+description: "From the Strip to Fremont Street, Club Bingo was a Vegas institution! Explore the history of this beloved parlor and its lasting legacy in vintage Las Vegas memorabilia."
+image: "https://vintagevegasshirts.com/wp-content/uploads/2025/08/front-342.jpg"
 location: "Club Bingo Las Vegas"
 tags: ["las vegas history", "vintage vegas", "club bingo las vegas"]
+youtube_url: "https://www.youtube.com/shorts/Xfi2foRylQ8"
+youtube_id: "Xfi2foRylQ8"
+youtube_title: "Vintage Las Vegas Club Bingo Casino Bio"
+youtube_thumbnail: "https://i.ytimg.com/vi/Xfi2foRylQ8/hqdefault.jpg"
 ---
 
-## From Strip Standalone to Fremont Street Flair: The Story of Club Bingo Las Vegas
+## A Postwar Start on the Strip
 
-Before mega-resorts and dazzling spectacles, Las Vegas thrived on simpler pleasures. Among them? Bingo! And for a time, Club Bingo was *the* place to be for locals and tourists alike. Its story offers a fascinating glimpse into the evolution of Las Vegas entertainment, showcasing two distinct eras.
+Las Vegas in 1947 was a city rapidly transforming from a desert outpost into an entertainment destination. Amidst the burgeoning casinos and burgeoning glamour, a more modest institution opened its doors: Club Bingo, located at 2535 South Las Vegas Boulevard. Founded on July 24th by the sharp minds of Milton Prell and Al Winter – titans of early Vegas gaming – and expertly managed by Frank Schivo, Club Bingo offered something unique: a dedicated 300-seat bingo parlor. It wasn’t about high rollers or extravagant shows; it was about community, a little luck, and a friendly game. 
 
-## The Original: A Post-War Strip Landmark
+What made it instantly recognizable wasn’t its opulent interior (it was, by design, quite modest) but the bold, electric bingo board sign that blazed across the Strip. It was a beacon for locals looking for an affordable and entertaining evening.  An adjoining "Bonanza Room" provided sustenance and extra entertainment, solidifying its place as a local hangout.  Prell even briefly considered grander visions for the property, envisioning a small hotel or an adobe-style village, but the changing landscape of Las Vegas pulled him in other directions.
 
-Club Bingo first burst onto the scene on July 24, 1947, at 2535 South Las Vegas Boulevard. Imagine the Strip back then - less glitzy, more modest. Milton Prell and Al Winter, seasoned gaming entrepreneurs, envisioned a dedicated 300-seat bingo parlor, complete with the appealing addition of a “[Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Room” for dining and entertainment. Managed by Frank Schivo, Club Bingo quickly became a beloved local hangout. It wasn’t a grand palace – the design was intentionally understated – but its electric bingo board sign, a beacon of neon fun, made it instantly recognizable.
+## Fremont Street’s “Most Luxurious”
 
-Prell initially dreamt of expanding the property into something more ambitious – a small hotel or even an adobe-style village! However, the winds of change were blowing. In 1952, the property was sold, a pivotal moment that saw Club Bingo incorporated into the then-newly constructed [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Hotel & Casino, its space repurposed as a coffee shop. The original structure soon vanished, marking the end of its reign on the Strip. 
+The original Club Bingo’s time on the Strip was relatively short. In 1952, it was absorbed into the newly built Sahara Hotel & Casino, becoming its unassuming coffee shop.  Its physical presence vanished, but the spirit of bingo remained.  Fast forward to August 31, 1962, and a second incarnation of Club Bingo appeared, this time nestled on Fremont Street at 21-23.
 
-## A Luxurious Rebirth on Fremont Street
+This iteration, owned by the legendary Sam Diamond and Jackie Gaughan – cornerstones of Las Vegas casino history – was a different beast entirely. Diamond and Gaughan touted it as "America's most luxurious bingo parlor," and they delivered. Free parking at the Las Vegas Club was a significant perk, and beyond the bingo tables, guests could enjoy games of Roulette, Blackjack (21), and slot machines, expanding the entertainment options. This Club Bingo represented a shift, moving beyond a purely bingo-focused offering and embracing a wider range of classic casino games. 
 
-But the story doesn't end there! A second act for Club Bingo began August 31, 1962, on Fremont Street at 21–23. This iteration, owned by Sam Diamond and Jackie Gaughan – titans of the Las Vegas casino world – was something special. They proclaimed it “America’s most luxurious bingo parlor,” and it lived up to the hype. Free parking (courtesy of the [Las Vegas Club](/posts/las-vegas-club-hotel-and-casino-las-vegas/)!) and a wider range of entertainment, including Roulette, Blackjack (21), and slot machines, elevated the experience. 
+## A Vanished Venue, A Lasting Legacy
 
-## A Legacy in Collectibles and Memories
+The rise of the Pioneer Club ultimately led to Club Bingo’s second disappearance. In 1983, the Pioneer’s expansion absorbed the Fremont Street location. Today, that space is occupied by an ABC Stores and a Pioneer Club souvenir shop - a far cry from the buzzing energy of a bingo parlor.
 
-Sadly, Club Bingo’s Fremont Street days were numbered too. In 1983, the expanding [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) took over its space. Today, the location houses an ABC Stores and the Pioneer Club souvenir shop. While the physical spaces are gone, the memory of Club Bingo lives on. Vintage matchbooks, unique tokens, and those iconic bingo drinking cards are prized collectibles, circulating among memorabilia enthusiasts. Vintage photographs offer a nostalgic window into a vibrant era of Las Vegas – a time when bingo held a prominent place in the city's playful, halfway-between-saloon and casino culture. Club Bingo’s story is a powerful reminder of how Las Vegas has constantly reinvented itself, while always cherishing its roots.
+But the legacy of Club Bingo lives on. For collectors of vintage Las Vegas memorabilia, old matchbooks, tokens, and drinking cards are treasured relics of a bygone era.  Historical photographs capturing its neon glow evoke a sense of nostalgia for a Las Vegas that existed between the saloon and the modern casino.  Club Bingo serves as a poignant reminder of the evolution of Las Vegas, showcasing the diverse range of entertainment options that have defined this unique city.
 
 
 <div class="shop-collection">

@@ -126,6 +126,10 @@ youtube_id: "{yt['video_id']}"
 youtube_title: "{yt['title']}"
 youtube_thumbnail: "{yt['thumbnail']}"
 """
+    # Sanitize quotes for YAML frontmatter (inner double quotes → single quotes)
+    title = re.sub(r'"([^"]+)"', r"'\1'", title)
+    meta = re.sub(r'"([^"]+)"', r"'\1'", meta)
+
     frontmatter = f"""---
 title: "{title}"
 date: 2026-02-21
