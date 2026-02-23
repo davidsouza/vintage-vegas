@@ -1,5 +1,5 @@
 ---
-title: "The Nevada Club: A Vintage Vegas Story of Slots, Showmanship & "The Great Slot Machine War"
+title: "The Nevada Club: A Vintage Vegas Story of Slots, Showmanship & 'The Great Slot Machine War"
 date: 2026-02-21
 description: "Relive the glory days of the Nevada Club Hotel and Casino! Learn about its early years, the 'Great Slot Machine War,' and its lasting impact on Vegas gaming history."
 image: "https://vintagevegasshirts.com/wp-content/uploads/2025/05/front-21.jpg"

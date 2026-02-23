@@ -1,5 +1,5 @@
 ---
-title: "I Lost My A in Las Vegas": A Vintage Matchbook & a Glimpse of 1970s Strip Glamour"
+title: "I Lost My A in Las Vegas': A Vintage Matchbook & a Glimpse of 1970s Strip Glamour"
 date: 2026-02-21
 description: "Uncover the mystery behind the 'I Lost My A in Las Vegas' matchbook! Explore its vintage charm, the iconic hotels it promoted, and a nostalgic look back at 1970s Las Vegas."
 image: "https://vintagevegasshirts.com/wp-content/uploads/2025/05/front-18.jpg"
