@@ -37,7 +37,10 @@ import requests
 POSTS_DIR = Path("content/posts")
 PROGRESS_FILE = Path("data/pinterest_progress.json")
 SITE_URL = "https://vintage-vegas.com"
-API_BASE = "https://api.pinterest.com/v5"
+# Use sandbox URL for trial apps, switch to production once approved
+# Production: https://api.pinterest.com/v5
+# Sandbox:    https://api-sandbox.pinterest.com/v5
+API_BASE = os.environ.get("PINTEREST_API_BASE", "https://api-sandbox.pinterest.com/v5")
 
 # Rate limit: Pinterest allows 50 POST requests per minute
 # We'll be conservative
