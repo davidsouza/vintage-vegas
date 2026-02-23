@@ -7,7 +7,7 @@ location: "Fortune Club Hoet and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "fortune club hoet and casino las vegas"]
 ---
 
-## A Brief Sparkle on Fremont Street: The Fortune Club's Story
+## A Brief Sparkle on Fremont Street: The [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/)'s Story
 
 The 1950s Downtown Las Vegas was a buzzing hive of activity – a boomtown fueled by gambling, entertainment, and a thirst for the new. Among the many casinos vying for attention on Fremont Street, the Fortune Club Hoet and Casino, operating at 109 Fremont Street from 1953 to 1958, holds a unique place in that history. Though its run was relatively short, the circumstances surrounding its existence and ultimate demise are a classic tale of Vegas ambition and legal disputes.
 
@@ -17,7 +17,7 @@ The club, initially offering the standard 50s fare of slots, blackjack, and bing
 
 The real intrigue surrounding the Fortune Club isn't so much about its games but the legal drama that unfolded as its owners planned expansion. In December 1957, Lynch and Gordon announced their intention to open a *new* club using the "Fortune" name, planning a grand opening for New Year's Eve.  This didn't sit well with Van Santen. He believed the established reputation and goodwill associated with "Fortune Club" belonged solely to his operation.
 
-The ensuing disagreement resulted in a fascinating split. Van Santen, asserting his rights to the original identity, promptly renamed *his* venue the Nevada Club. Simultaneously, Lynch and Gordon forged ahead with their plans, opening their new venture as “Cecil Lynch’s Fortune Club.” Crucially, it was a completely separate and unrelated business from the original. The confusion that must have ensued for visitors must have been considerable! This is a perfect example of how fiercely protected casino names were, even back then. 
+The ensuing disagreement resulted in a fascinating split. Van Santen, asserting his rights to the original identity, promptly renamed *his* venue the [Nevada Club](/posts/nevada-club-casino-las-vegas/). Simultaneously, Lynch and Gordon forged ahead with their plans, opening their new venture as “Cecil Lynch’s Fortune Club.” Crucially, it was a completely separate and unrelated business from the original. The confusion that must have ensued for visitors must have been considerable! This is a perfect example of how fiercely protected casino names were, even back then. 
 
 ## From Fortune to Nevada, and Finally, Golden Nugget
 

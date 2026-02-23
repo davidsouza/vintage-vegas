@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "jackpot casino and restaurant las 
 
 ## A Slice of the North Strip: Introducing Jackpot Casino & Restaurant
 
-The Las Vegas Strip has always been about spectacle, but for a moment in the early 1970s, affordability and fun took center stage at the Jackpot Casino & Restaurant. Located at 2410 South Las Vegas Boulevard, right at the northeast corner of Sahara Avenue – a prime spot opposite the Sahara Hotel & Casino – this little establishment (1971-1977/78) occupied a unique niche in the evolving landscape of the Las Vegas Strip. While today the space is part of the sprawling Bonanza Gift Shop, for a brief period, it represented a distinct era of Las Vegas hospitality.
+The Las Vegas Strip has always been about spectacle, but for a moment in the early 1970s, affordability and fun took center stage at the Jackpot Casino & Restaurant. Located at 2410 South Las Vegas Boulevard, right at the northeast corner of [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue – a prime spot opposite the Sahara Hotel & Casino – this little establishment (1971-1977/78) occupied a unique niche in the evolving landscape of the Las Vegas Strip. While today the space is part of the sprawling [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Gift Shop, for a brief period, it represented a distinct era of Las Vegas hospitality.
 
 ## Keeping it Casual, Keeping it Cheap
 

@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/wrPVKU7ywQc/hqdefault.jpg"
 
 ## From Turf Club to Vegas Icon
 
-The Nevada Club Hotel and Casino – a name that conjures images of classic Las Vegas glamour and a surprisingly fierce rivalry. Its history is a microcosm of the city's rapid evolution in the 1950s and 60s, shifting from a modest spot to a significant player, and ultimately, a casualty of progress. The story begins in 1952, when the Nevada Club acquired the Santa Anita Turf Club, a fitting start considering the original structure's focus. It quickly became part of the bustling, nascent Las Vegas Strip, situated in a prime location.
+The [Nevada Club](/posts/nevada-club-casino-las-vegas/) Hotel and Casino – a name that conjures images of classic Las Vegas glamour and a surprisingly fierce rivalry. Its history is a microcosm of the city's rapid evolution in the 1950s and 60s, shifting from a modest spot to a significant player, and ultimately, a casualty of progress. The story begins in 1952, when the Nevada Club acquired the Santa Anita Turf Club, a fitting start considering the original structure's focus. It quickly became part of the bustling, nascent Las Vegas Strip, situated in a prime location.
 
 ## The Van Santen Era & A Revolutionary Approach to Slots
 
@@ -23,7 +23,7 @@ Van Santen’s innovations were groundbreaking. He started by offering significa
 
 ## A Merger & a New Identity
 
-1957 brought another significant change.  The Nevada Club merged with the nearby Fortune Club, and, later that same year, incorporated the Western Union office into the complex. The combined entity retained the Nevada Club name, symbolizing a growing power on the Strip.  In 1962, the property received a visual upgrade with the installation of a massive, 75-foot marquee, further solidifying its presence. The name was temporarily altered to Diamond Jim’s Nevada Club, though that change proved short-lived.
+1957 brought another significant change.  The Nevada Club merged with the nearby [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/), and, later that same year, incorporated the Western Union office into the complex. The combined entity retained the Nevada Club name, symbolizing a growing power on the Strip.  In 1962, the property received a visual upgrade with the installation of a massive, 75-foot marquee, further solidifying its presence. The name was temporarily altered to Diamond Jim’s Nevada Club, though that change proved short-lived.
 
 ## The End of an Era & A Golden Legacy
 

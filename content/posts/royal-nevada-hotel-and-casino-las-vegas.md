@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/qG7q5FHeb_4/hqdefault.jpg"
 
 ## A Crowned Ambition on the Strip
 
-The 1950s were a period of explosive growth for Las Vegas. The Strip was transforming from a dusty stretch of road into a glittering playground for adults, and new resorts were popping up seemingly overnight. Among these ambitious projects was the Royal Nevada Hotel and Casino, a brief but memorable addition to the landscape. Originally planned as the Sunrise Hotel, the venture was spearheaded by hotelier Frank Fishman and promised a touch of sophisticated luxury.
+The 1950s were a period of explosive growth for Las Vegas. The Strip was transforming from a dusty stretch of road into a glittering playground for adults, and new resorts were popping up seemingly overnight. Among these ambitious projects was the [Royal](/posts/royal-casino-las-vegas/) Nevada Hotel and Casino, a brief but memorable addition to the landscape. Originally planned as the Sunrise Hotel, the venture was spearheaded by hotelier Frank Fishman and promised a touch of sophisticated luxury.
 
 ## Design and Grand Opening
 
@@ -25,13 +25,13 @@ The Royal Nevada aimed to be a stylish alternative to the burgeoning mega-resort
 
 ## A Quick Descent
 
-Despite the initial promise, the Royal Nevada’s story is one of rapid decline. The landscape of the Las Vegas Strip was shifting dramatically. The openings of larger, more opulent casinos like the Dunes and the Riviera quickly overshadowed the Royal Nevada, rendering its comparatively smaller scale a significant disadvantage.
+Despite the initial promise, the Royal Nevada’s story is one of rapid decline. The landscape of the Las Vegas Strip was shifting dramatically. The openings of larger, more opulent casinos like the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) and the [Riviera](/posts/riviera-hotel-and-casino-las-vegas/) quickly overshadowed the Royal Nevada, rendering its comparatively smaller scale a significant disadvantage.
 
 Beyond the competition, the Royal Nevada was plagued by a series of legal and financial troubles. Frank Fishman faced challenges securing a gambling license, contractor lawsuits piled up, and a gambling license denial further hampered operations.  Even a cheating accusation involving a blackjack dealer added to the mounting problems and damaged the resort's reputation. The casino shuttered briefly in January 1956 and again in late 1957 before permanently closing its doors on January 30, 1958.
 
 ## A Legacy in Absorption
 
-The Royal Nevada was ultimately absorbed into its northern neighbor, the Stardust Resort and Casino. Its former space became convention space and overflow hotel rooms for the Stardust.  Portions of its legacy lived on in the Stardust auditorium and some hotel rooms, a silent acknowledgement of the once-grand Royal Nevada.
+The Royal Nevada was ultimately absorbed into its northern neighbor, the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) Resort and Casino. Its former space became convention space and overflow hotel rooms for the Stardust.  Portions of its legacy lived on in the Stardust auditorium and some hotel rooms, a silent acknowledgement of the once-grand Royal Nevada.
 
 Today, the Royal Nevada remains a poignant reminder of the volatile pace of growth and consolidation on the Las Vegas Strip. Collectors prize its memorabilia - chips, matchbooks, and photographs - as tangible connections to a resort that burned bright, then quickly faded, but continues to fascinate those interested in the vibrant and ever-changing history of Las Vegas.
 

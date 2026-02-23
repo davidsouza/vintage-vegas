@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "pyramids motel las vegas"]
 
 ## A Humble Beginning on a Changing Strip
 
-The Las Vegas Strip wasn’t always the dazzling behemoth we know today. In the early 1950s, it was a burgeoning entertainment corridor, evolving rapidly from a scattering of small businesses to the heart of a booming tourism industry. Nestled between the iconic Flamingo and the brand-new Sands Hotel, the Pyramids Motel stood as a testament to this transitional period. Opened on December 15, 1952 – the same day as the Sands – it represented a smaller, yet crucial, piece of Las Vegas’s evolving landscape.
+The Las Vegas Strip wasn’t always the dazzling behemoth we know today. In the early 1950s, it was a burgeoning entertainment corridor, evolving rapidly from a scattering of small businesses to the heart of a booming tourism industry. Nestled between the iconic Flamingo and the brand-new [Sands](/posts/sands-hotel-and-casino-las-vegas/) Hotel, the Pyramids Motel stood as a testament to this transitional period. Opened on December 15, 1952 – the same day as [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/) – it represented a smaller, yet crucial, piece of Las Vegas’s evolving landscape.
 
 ## Irwin Molasky and a Concrete Dream
 

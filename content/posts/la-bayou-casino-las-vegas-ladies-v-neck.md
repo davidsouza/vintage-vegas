@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/SkT4tb-oyd0/hqdefault.jpg"
 
 ## A Century of Gaming on Fremont Street
 
-The story of La Bayou Casino isn't just about one casino; it's about a landmark site on Fremont Street, steeped in Las Vegas history. The location at 15 East Fremont Street boasts an incredible lineage, starting all the way back in 1913 as the Las Vegas Coffee House. It then evolved into the Northern Club in 1920, a significant moment because it secured the first-ever gaming license in Las Vegas, held by the pioneering Mayme Stocker. From there, it cycled through iterations like the Turf Club, Monte Carlo Club, and the beloved Coin Castle – a visual spectacle with playful coin-themed décor now largely preserved at the Neon Museum. Each name represented a shift in the evolving landscape of Las Vegas gambling.
+The story of [La Bayou Casino](/posts/la-bayou-casino-las-vegas/) isn't just about one casino; it's about a landmark site on Fremont Street, steeped in Las Vegas history. The location at 15 East Fremont Street boasts an incredible lineage, starting all the way back in 1913 as the Las Vegas Coffee House. It then evolved into the [Northern Club](/posts/northern-club-las-vegas/) in 1920, a significant moment because it secured the first-ever gaming license in Las Vegas, held by the pioneering Mayme Stocker. From there, it cycled through iterations like the Turf Club, [Monte Carlo Club](/posts/monte-carlo-club-las-vegas/), and the beloved [Coin Castle](/posts/coin-castle-casino-las-vegas/) – a visual spectacle with playful coin-themed décor now largely preserved at the Neon Museum. Each name represented a shift in the evolving landscape of Las Vegas gambling.
 
 ## La Bayou: A New Orleans Celebration
 
@@ -25,7 +25,7 @@ What truly set La Bayou apart, beyond its unique theme, was the dedication to a 
 
 ## A Farewell & Lasting Legacy
 
-The La Bayou era sadly came to a close in April 2016 when Derek and Greg Stevens, owners of Golden Gate, The D, and Las Vegas Club, acquired the property.  On June 27, 2016, its doors permanently closed, marking the end of an era. While the site was quickly absorbed into an expanded Golden Gate casino, La Bayou’s legacy continues. It remains a treasured memory for those who appreciate classic, coin-based gaming and a more relaxed, friendly atmosphere. La Bayou served as a vital piece of Fremont Street's history, a reminder of a time when Las Vegas embraced playful charm and a genuine sense of community. The memory of those ladies in their V-neck uniforms continues to evoke a simpler, more fun-loving era of Las Vegas.
+The La Bayou era sadly came to a close in April 2016 when Derek and Greg Stevens, owners of [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/), The D, and [Las Vegas Club](/posts/las-vegas-club-hotel-and-casino-las-vegas/), acquired the property.  On June 27, 2016, its doors permanently closed, marking the end of an era. While the site was quickly absorbed into an expanded Golden Gate casino, La Bayou’s legacy continues. It remains a treasured memory for those who appreciate classic, coin-based gaming and a more relaxed, friendly atmosphere. La Bayou served as a vital piece of Fremont Street's history, a reminder of a time when Las Vegas embraced playful charm and a genuine sense of community. The memory of those ladies in their V-neck uniforms continues to evoke a simpler, more fun-loving era of Las Vegas.
 
 
 <div class="shop-collection">

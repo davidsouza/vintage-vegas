@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "tam oshanter motel las vegas"]
 
 ## A Friendly Face on a Growing Strip
 
-The Las Vegas Strip wasn’t always the sprawling mega-resort landscape we know today. Back in the late 1950s, it was a burgeoning collection of hotels and motels, each vying for attention and catering to the ever-growing stream of visitors. Tucked between the legendary Sands and the Desert Inn, the Tam O’Shanter Motel arrived in 1959, a 100-room "Friendly Inn" built by Bernie Zeldin and his family. The name itself was a nod to Zeldin's love of golf and a favorite Chicago course, instantly imbuing the motel with a bit of character and charm.
+The Las Vegas Strip wasn’t always the sprawling mega-resort landscape we know today. Back in the late 1950s, it was a burgeoning collection of hotels and motels, each vying for attention and catering to the ever-growing stream of visitors. Tucked between the legendary [Sands](/posts/sands-hotel-and-casino-las-vegas/) and the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/), the Tam O’Shanter Motel arrived in 1959, a 100-room "Friendly Inn" built by Bernie Zeldin and his family. The name itself was a nod to Zeldin's love of golf and a favorite Chicago course, instantly imbuing the motel with a bit of character and charm.
 
 ## More Than Just a Place to Sleep
 

@@ -13,9 +13,9 @@ youtube_thumbnail: "https://i.ytimg.com/vi/beUazS3Tues/hqdefault.jpg"
 
 ## A Quick Rise and Fall on the Strip
 
-The Silver City Hotel & Casino, though brief in its existence, holds a peculiar place in the history of the Las Vegas Strip. Located at the northeast corner of Sahara Avenue and Las Vegas Boulevard (currently the site of Silver City Plaza), the property experienced a series of ownership changes, ambitious plans, and ultimately, a rather unceremonious end. It stands as a reminder of the constant evolution and sometimes fleeting nature of Las Vegas businesses.
+The Silver City Hotel & Casino, though brief in its existence, holds a peculiar place in the history of the Las Vegas Strip. Located at the northeast corner of [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue and Las Vegas Boulevard (currently the site of Silver City Plaza), the property experienced a series of ownership changes, ambitious plans, and ultimately, a rather unceremonious end. It stands as a reminder of the constant evolution and sometimes fleeting nature of Las Vegas businesses.
 
-Originally, the site housed the Riata Casino, which opened in 1973.  Riata, with its Western theme, proved to be a short-lived venture and closed after just a year. Enter Major Riddle, a casino owner with an eye for opportunity. In 1974, he transformed the site into the Silver City Casino, hoping to capture a different demographic. While never a Strip heavyweight, Silver City carved out a niche for itself during the mid-70s and 80s.
+Originally, the site housed the [Riata Casino](/posts/riata-casino-las-vegas/), which opened in 1973.  Riata, with its Western theme, proved to be a short-lived venture and closed after just a year. Enter Major Riddle, a casino owner with an eye for opportunity. In 1974, he transformed the site into the Silver City Casino, hoping to capture a different demographic. While never a Strip heavyweight, Silver City carved out a niche for itself during the mid-70s and 80s.
 
 ## Circus Circus & a Smoke-Free Vision
 

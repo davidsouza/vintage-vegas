@@ -11,7 +11,7 @@ youtube_title: "Vintage Las Vegas Golden Gate Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/mvedOLnmCrI/hqdefault.jpg"
 ---
 
-## From Hotel Nevada to Golden Gate: The Genesis of Vegas
+## From [Hotel Nevada](/posts/hotel-nevada-las-vegas/) to Golden Gate: The Genesis of Vegas
 
 Before the Strip, before the mega-resorts, there was the Golden Gate. Or, rather, before it *was* the Golden Gate, it was the Hotel Nevada. Opened way back in 1906 at the corner of Main Street (now Fremont) and Casino Center Drive, it represented something vital: a sign of permanence in a fleeting, dusty railroad town. Just ten rooms initially offered a glimpse of modern convenience—electric lights and indoor plumbing – luxuries truly rare in the Nevada desert. Imagine: a haven for weary travelers and a beacon of civilization amidst the vast expanse. This wasn't just a hotel; it was an investment in the potential of Las Vegas.
 
@@ -21,7 +21,7 @@ The 1930s brought a seismic shift: legalized gambling in Nevada. This transforma
 
 ## Shrimp Cocktails & Fremont Street Glamour
 
-The 1950s and 60s saw the Golden Gate truly come into its own as a cornerstone of Fremont Street’s “Glitter Gulch.” It wasn't just about the games; it was about the *experience*. And that experience included a culinary innovation that would become synonymous with the property: the 50-cent shrimp cocktail. Introduced in 1959, these affordable delicacies were an instant hit, selling millions over the decades and becoming a quintessential Vegas rite of passage. The casino floor, while smaller than the behemoths that would later dominate the Strip, possessed a distinct intimacy – a classic, approachable feel that’s harder and harder to find these days.
+The 1950s and 60s saw the Golden Gate truly come into its own as a cornerstone of Fremont Street’s “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/).” It wasn't just about the games; it was about the *experience*. And that experience included a culinary innovation that would become synonymous with the property: the 50-cent shrimp cocktail. Introduced in 1959, these affordable delicacies were an instant hit, selling millions over the decades and becoming a quintessential Vegas rite of passage. The casino floor, while smaller than the behemoths that would later dominate the Strip, possessed a distinct intimacy – a classic, approachable feel that’s harder and harder to find these days.
 
 ## A Living Time Capsule, Preserving the Past
 

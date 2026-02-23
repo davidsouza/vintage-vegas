@@ -7,9 +7,9 @@ location: "Algiers Hotel and Casino"
 tags: ["las vegas history", "vintage vegas", "algiers hotel and casino"]
 ---
 
-## A Desert Mirage: The Birth of the Algiers
+## A Desert [Mirage](/posts/mirage-hotel-and-casino-las-vegas/): The Birth of the Algiers
 
-The 1950s Las Vegas Strip was a playground of innovation and ambition. While the iconic hotels like the Flamingo and Sahara were establishing the foundation, entrepreneurs continued to seek unique ways to draw visitors. Enter the Algiers Hotel and Casino, a vibrant Arabian/Persian-themed oasis that sprung up at 2845 South Las Vegas Boulevard on November 25, 1953. Part of the Beaumont Hotels family – sister property to the popular Thunderbird Hotel – the Algiers aimed to transport guests to a fantastical, exotic realm right in the heart of the desert. 
+The 1950s Las Vegas Strip was a playground of innovation and ambition. While the iconic hotels like the Flamingo and [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) were establishing the foundation, entrepreneurs continued to seek unique ways to draw visitors. Enter the [Algiers Hotel and Casino](/posts/algiers-hotel-and-casino-las-vegas/), a vibrant Arabian/Persian-themed oasis that sprung up at 2845 South Las Vegas Boulevard on November 25, 1953. Part of the Beaumont Hotels family – sister property to the popular [Thunderbird](/posts/thunderbird-hotel-and-casino-las-vegas/) Hotel – the Algiers aimed to transport guests to a fantastical, exotic realm right in the heart of the desert. 
 
 With just 110 rooms initially, the Algiers wasn’t about massive scale, but about immersive experience. The design was meticulously crafted, featuring elaborate, hand-painted murals depicting scenes of Arabian marketplaces and desert landscapes. Think shimmering mosaics, rich fabrics, and ornate lighting – it was designed to be a feast for the eyes and a memorable departure from the prevailing Western-themed hotels. The "Sheik" and "Princess" suites were particularly popular, offering an even more lavish and themed escape.
 

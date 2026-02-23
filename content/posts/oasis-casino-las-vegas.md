@@ -7,15 +7,15 @@ location: "Oasis Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "oasis casino las vegas"]
 ---
 
-## A Modern Mirage Amidst Arabian Nights
+## A Modern [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) Amidst Arabian Nights
 
-The early 1980s were a period of intense competition on the Las Vegas Strip. Resorts were battling for dominance, and the Dunes Hotel & Casino, a landmark known for its Arabian Nights theme, felt the pressure. While the Dunes held a rich history, it was beginning to feel dated against the backdrop of increasingly modern resorts. Enter the Oasis Casino, a bold and almost jarring addition intended to revitalize the aging property.
+The early 1980s were a period of intense competition on the Las Vegas Strip. Resorts were battling for dominance, and the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) Hotel & Casino, a landmark known for its Arabian Nights theme, felt the pressure. While the Dunes held a rich history, it was beginning to feel dated against the backdrop of increasingly modern resorts. Enter the Oasis Casino, a bold and almost jarring addition intended to revitalize the aging property.
 
 Opened in August 1982, the Oasis wasn’t just a casino expansion; it was a statement. Located at the busy intersection of Las Vegas Boulevard and Flamingo Road – a prime piece of Strip real estate – the Oasis was a distinctly modern response to the Dunes’ established aesthetic. Constructed of sleek, black mirrored glass, it stood in stark contrast to the low-slung, Arabian-inspired buildings of the original hotel. The 18,000 square feet of new gaming space significantly boosted the Dunes’ capacity and, crucially, presented a fresh, modern face to the world.
 
 ## Neon Palms and Futuristic Flair
 
-While the building itself was a statement of contemporary design, it was the exterior signage that truly captured the essence of the Oasis. The iconic neon palm trees, designed by Jack DuBois of YESCO based on earlier concepts by Raul Rodriguez, were a spectacle. Towering 70 feet high, with fronds stretching approximately 20 feet, the palms weren’t just decorative; they were a deliberate attempt to evoke a futuristic tropical paradise. The layered greens and yellows of the neon illuminated the Strip at night, creating an unforgettable visual impact.  The sheer scale of the palms, coupled with the modern architectural style, represented a significant departure from the traditional Vegas aesthetic.
+While the building itself was a statement of contemporary design, it was the exterior signage that truly captured the essence of the Oasis. The iconic neon palm trees, designed by Jack DuBois of YESCO based on earlier concepts by Raul Rodriguez, were a spectacle. Towering 70 feet high, with fronds stretching approximately 20 feet, the palms weren’t just decorative; they were a deliberate attempt to evoke a futuristic tropical [paradise](/posts/paradise-hotel-and-casino-las-vegas/). The layered greens and yellows of the neon illuminated the Strip at night, creating an unforgettable visual impact.  The sheer scale of the palms, coupled with the modern architectural style, represented a significant departure from the traditional Vegas aesthetic.
 
 ## More Than Just a Casino
 

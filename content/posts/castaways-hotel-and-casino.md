@@ -11,9 +11,9 @@ youtube_title: "Vintage Las Vegas Castaways Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/tUUkJVnEZjY/hqdefault.jpg"
 ---
 
-## A Sans Souci Reborn: The Birth of Castaways
+## A [Sans Souci](/posts/sans-souci-hotel-and-casino-las-vegas/) Reborn: The Birth of Castaways
 
-The Las Vegas Strip has always been a landscape of reinvention, and the story of the Castaways Hotel and Casino is a perfect illustration. Before it became a footnote in Strip history, the location was home to the Sans Souci, a hotel that unfortunately found itself in financial trouble. Enter Ben Jaffe, a savvy investor and then-owner of the Tropicana. In a bold move, Jaffe acquired the Sans Souci in bankruptcy and, almost immediately, announced a dramatic transformation. He envisioned a Polynesian-themed paradise, re-branding the property as the Castaways.
+The Las Vegas Strip has always been a landscape of reinvention, and the story of the [Castaways Hotel and Casino](/posts/castaways-hotel-and-casino-las-vegas/) is a perfect illustration. Before it became a footnote in Strip history, the location was home to the Sans Souci, a hotel that unfortunately found itself in financial trouble. Enter Ben Jaffe, a savvy investor and then-owner of the [Tropicana](/posts/tropicana-country-club-las-vegas/). In a bold move, Jaffe acquired the Sans Souci in bankruptcy and, almost immediately, announced a dramatic transformation. He envisioned a [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/)-themed [paradise](/posts/paradise-hotel-and-casino-las-vegas/), re-branding the property as the Castaways.
 
 The early 1960s were a period of rapid expansion and stylistic experimentation on the Strip, and the Castaways aimed to capitalize on the then-popular Polynesian craze. Construction began in 1963, adding new rooms to the existing structure and giving the entire property a vibrant, tropical makeover. The grand reopening on September 1, 1963, promised guests an escape – a taste of the South Pacific right in the heart of the desert. Ike P. LaRue and Everett Eugene McCarlie managed the casino operations initially, hoping to revitalize the property’s fortunes.
 
@@ -27,7 +27,7 @@ Hughes, the legendary aviation magnate and Las Vegas dealmaker, saw potential in
 
 The Castaways operated under Hughes’ ownership for over a decade, enduring as a quirky, slightly offbeat presence on the Strip. However, the era of mega-resorts was dawning. In 1986, Steve Wynn, the visionary behind Golden Nugget and soon-to-be-Strip titan, purchased the Castaways for a staggering $50 million. Wynn’s plan was ambitious: to demolish the existing structure and build a completely new resort.
 
-The Castaways officially closed its doors on July 20, 1987, a bittersweet moment for its 228 rooms and 650 employees. Just over a year later, on November 22, 1989, The Mirage, Wynn’s ambitious “mega-resort,” opened on the site, fundamentally changing the Las Vegas Strip.  The Mirage’s themed environment, elaborate volcano show, and sheer scale set a new standard for Strip resorts, proving that bigger and bolder was the future. The Castaways, a brief but vibrant chapter in Las Vegas history, vanished, leaving behind a legacy of stylistic experimentation and paving the way for the mega-resorts that would define the late 20th and early 21st-century Strip.
+The Castaways officially closed its doors on July 20, 1987, a bittersweet moment for its 228 rooms and 650 employees. Just over a year later, on November 22, 1989, The [Mirage](/posts/mirage-hotel-and-casino-las-vegas/), Wynn’s ambitious “mega-resort,” opened on the site, fundamentally changing the Las Vegas Strip.  The Mirage’s themed environment, elaborate volcano show, and sheer scale set a new standard for Strip resorts, proving that bigger and bolder was the future. The Castaways, a brief but vibrant chapter in Las Vegas history, vanished, leaving behind a legacy of stylistic experimentation and paving the way for the mega-resorts that would define the late 20th and early 21st-century Strip.
 
 
 <div class="shop-collection">

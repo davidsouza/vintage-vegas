@@ -25,9 +25,9 @@ Beyond the escalators, the Silver Palace boasted a modern aesthetic. Its interio
 
 The Silver Palace Casino enjoyed nearly eight years of operation under its original name. It thrived in a competitive environment on Fremont Street, proving that modern design and amenities could attract significant business.  However, in July 1964, the casino shut down for a major renovation. This marked the end of the Silver Palace era.
 
-## From Silver to Carousel and Beyond: The Legacy Lives On
+## From Silver to [Carousel](/posts/carousel-hotel-and-casino-las-vegas/) and Beyond: The Legacy Lives On
 
-The renovated casino reopened as the Carousel Casino. While the name changed, the site continued to evolve through subsequent decades, embodying different identities like Sassy Sally's and Mermaids Casino. Each iteration contributed to the ongoing evolution of Fremont Street. Though the name "Silver Palace" faded into memory, its impact on Las Vegas’s early architectural and gaming landscape remained.  It demonstrated the appetite for innovation and sophistication that would eventually shape the future of Las Vegas, a future which would ultimately see the rise of the mega-resorts on the Strip.
+The renovated casino reopened as the Carousel Casino. While the name changed, the site continued to evolve through subsequent decades, embodying different identities like Sassy Sally's and [Mermaids Casino](/posts/mermaids-casino-las-vegas/). Each iteration contributed to the ongoing evolution of Fremont Street. Though the name "Silver Palace" faded into memory, its impact on Las Vegas’s early architectural and gaming landscape remained.  It demonstrated the appetite for innovation and sophistication that would eventually shape the future of Las Vegas, a future which would ultimately see the rise of the mega-resorts on the Strip.
 
 Today, the historic location is home to Circa Resort and Casino, a modern marvel itself. While the Silver Palace is gone, its legacy as a pioneering landmark of vintage Las Vegas continues to fascinate and inspire those interested in the city's vibrant and complex history.
 

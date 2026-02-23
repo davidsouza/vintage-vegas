@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/cIbz5On8Gsk/hqdefault.jpg"
 
 ## A Ghost Resurrected: El Rancho’s Second Act
 
-The Las Vegas Strip has seen its share of comebacks, but the story of El Rancho Hotel and Casino is particularly poignant. While the original El Rancho Vegas holds a monumental place in Strip history (1941-1960), the resort resurrected in 1982 offered a fleeting, but memorable, glimpse of a classic Vegas experience. Just two weeks after the Silverbird’s sudden closure in December 1981, visionary developer Ed Torres saw potential. He acquired the Silverbird property from Tiger Investment, ambitiously planning a significant renovation and reopening.
+The Las Vegas Strip has seen its share of comebacks, but the story of El Rancho Hotel and Casino is particularly poignant. While the original El Rancho Vegas holds a monumental place in Strip history (1941-1960), the resort resurrected in 1982 offered a fleeting, but memorable, glimpse of a classic Vegas experience. Just two weeks after the [Silverbird](/posts/silverbird-hotel-and-casino-las-vegas/)’s sudden closure in December 1981, visionary developer Ed Torres saw potential. He acquired the Silverbird property from Tiger Investment, ambitiously planning a significant renovation and reopening.
 
 ## Bringing Back the West
 
@@ -21,7 +21,7 @@ On August 31, 1982, El Rancho rose again, a tribute to the original’s pioneeri
 
 ## A Tower on Hold, A Dream Fades
 
-The initial plans included a substantial hotel tower. Construction finally began in 1987, and the 13-story, 580-room tower was completed in 1988, adding much-needed lodging capacity. However, the late 80s and early 90s brought escalating competition. The arrival of mega-resorts like The Mirage and Excalibur, with their lavish theming and expansive offerings, began to overshadow El Rancho’s more modest appeal.
+The initial plans included a substantial hotel tower. Construction finally began in 1987, and the 13-story, 580-room tower was completed in 1988, adding much-needed lodging capacity. However, the late 80s and early 90s brought escalating competition. The arrival of mega-resorts like The [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) and Excalibur, with their lavish theming and expansive offerings, began to overshadow El Rancho’s more modest appeal.
 
 ## The Inevitable Closure
 

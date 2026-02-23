@@ -21,7 +21,7 @@ The 1970s brought a significant shift. In 1971, Ralph Engelstad, a shrewd busine
 
 This was also the decade where Vegas really started to embrace the “mega-resort” concept. While the Flamingo Capri was initially a motel, Engelstad's addition of a casino brought it more squarely into the competitive casino landscape.
 
-## Imperial Palace and Beyond
+## [Imperial Palace](/posts/imperial-palace-hotel-and-casino-las-vegas/) and Beyond
 
 1979 saw another significant rebranding. The Flamingo Capri was renamed the Imperial Palace. This change reflected the property's evolution and the more grandiose ambitions of its owner.  Engelstad continued to expand, and in 1977, a 19-story tower was added, dramatically increasing the room count from 300 to 650. For a time, the Imperial Palace even operated as part of the Best Western chain, an interesting chapter in its history.
 

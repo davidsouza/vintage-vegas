@@ -7,13 +7,13 @@ location: "Downtown Castaways Las Vegas"
 tags: ["las vegas history", "vintage vegas", "downtown castaways las vegas"]
 ---
 
-## A Brief & Tumultuous Life: The Rise & Fall of Castaways
+## A Brief & Tumultuous Life: The Rise & Fall of [Castaways](/posts/castaways-hotel-and-casino-las-vegas/)
 
-Downtown Las Vegas has seen its share of transformations, but few stories are as fleeting and ultimately, as significant as that of the Castaways. The property’s history, a whirlwind of ownership changes, financial woes, and ultimately demolition, illustrates a particular era of casino development and the crucial value of a Nevada gaming license. It all began with the Showboat Hotel and Casino, a fixture downtown for decades. In 1998, Harrah’s Entertainment acquired Showboat, Inc., but quickly realized the name presented a branding conflict with its successful Atlantic City property. This seemingly minor detail set the stage for the Castaways era.
+Downtown Las Vegas has seen its share of transformations, but few stories are as fleeting and ultimately, as significant as that of the Castaways. The property’s history, a whirlwind of ownership changes, financial woes, and ultimately demolition, illustrates a particular era of casino development and the crucial value of a Nevada gaming license. It all began with the [Showboat Hotel and Casino](/posts/showboat-hotel-and-casino-las-vegas/), a fixture downtown for decades. In 1998, Harrah’s Entertainment acquired Showboat, Inc., but quickly realized the name presented a branding conflict with its successful Atlantic City property. This seemingly minor detail set the stage for the Castaways era.
 
 ## From Showboat to Castaways: A Name Change & A Failed Vision
 
-Just two years later, Harrah’s sold the Showboat property to VSS Enterprises, a group hoping to revitalize the location. Forced to relinquish the Showboat name, the new owners rebranded the casino as Castaways. The early 2000s held promise – plans were even floated for a $57 million expansion that would have converted the property into a Holiday Inn, but events conspired against the venture. The post-9/11 tourism slump severely impacted business, and mounting financial difficulties led to a $20 million mortgage default and subsequent foreclosure. The casino filed for Chapter 11 bankruptcy, a desperate measure to stay afloat.
+Just two years later, Harrah’s sold the Showboat property to VSS Enterprises, a group hoping to revitalize the location. Forced to relinquish the Showboat name, the new owners rebranded the casino as Castaways. The early 2000s held promise – plans were even floated for a $57 million expansion that would have converted the property into a [Holiday](/posts/holiday-casino-las-vegas/) Inn, but events conspired against the venture. The post-9/11 tourism slump severely impacted business, and mounting financial difficulties led to a $20 million mortgage default and subsequent foreclosure. The casino filed for Chapter 11 bankruptcy, a desperate measure to stay afloat.
 
 ## Implosion & The Quest for a New Identity
 

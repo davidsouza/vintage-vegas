@@ -7,9 +7,9 @@ location: "Girls of Glitter Gultch Gentlemens Club Las Vegas"
 tags: ["las vegas history", "vintage vegas", "girls of glitter gultch gentlemens club las vegas"]
 ---
 
-## From Golden Goose to Glittering Legacy
+## From [Golden Goose](/posts/golden-goose-hotel-and-casino-las-vegas/) to Glittering Legacy
 
-The story of Girls of Glitter Gulch is a quintessential tale of old Las Vegas, a blend of ambition, excess, and ultimately, transformation. To truly understand the club, you need to appreciate its origins.  First came the Golden Goose, a relatively modest, but popular gentlemen's club that opened on Fremont Street in 1975. It was a pioneer in the burgeoning adult entertainment scene on the street, offering a glimpse of what was to come. Just five years later, Bob Stupak, a name synonymous with early Fremont Street revitalization, built Glitter Gulch directly beside the Golden Goose in 1980. 
+The story of Girls of [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/) is a quintessential tale of old Las Vegas, a blend of ambition, excess, and ultimately, transformation. To truly understand the club, you need to appreciate its origins.  First came the Golden Goose, a relatively modest, but popular gentlemen's club that opened on Fremont Street in 1975. It was a pioneer in the burgeoning adult entertainment scene on the street, offering a glimpse of what was to come. Just five years later, Bob Stupak, a name synonymous with early Fremont Street revitalization, built Glitter Gulch directly beside the Golden Goose in 1980. 
 
 Glitter Gulch, with its Wild West theme and ambitious plans, promised a significant upgrade for Fremont. Stupak envisioned a full-scale resort and casino complex. While the original grand vision didn't fully materialize, Glitter Gulch *did* quickly establish itself as a key player on the street, attracting crowds and contributing to Fremont’s revitalized energy. 
 

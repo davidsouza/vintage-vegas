@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "hotel san remo las vegas"]
 
 ## A Different Kind of Vegas Vibe
 
-The late 1980s and early 1990s were a period of dramatic transformation for the Las Vegas Strip. Mega-resorts were springing up, vying for attention with dazzling lights and extravagant themes. But nestled just east of the main drag, at 115 East Tropicana Avenue, was something a little different: the Hotel San Remo. Opened on July 1, 1989, developed by Japanese businessman Sukeaki Izumi, it offered a distinctive escape—a taste of the Italian Riviera in the Nevada desert. It replaced a Polynesian-themed resort, showing how rapidly the landscape of the Strip was evolving.
+The late 1980s and early 1990s were a period of dramatic transformation for the Las Vegas Strip. Mega-resorts were springing up, vying for attention with dazzling lights and extravagant themes. But nestled just east of the main drag, at 115 East [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue, was something a little different: the Hotel San Remo. Opened on July 1, 1989, developed by Japanese businessman Sukeaki Izumi, it offered a distinctive escape—a taste of the Italian [Riviera](/posts/riviera-hotel-and-casino-las-vegas/) in the Nevada desert. It replaced a [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/)-themed resort, showing how rapidly the landscape of the Strip was evolving.
 
 ## Embracing the Mediterranean Spirit
 

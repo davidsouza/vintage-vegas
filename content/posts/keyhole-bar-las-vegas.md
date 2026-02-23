@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "keyhole bar las vegas"]
 
 ## A Peek into a Forgotten Fremont Street
 
-Downtown Las Vegas, particularly Fremont Street, has always been about reinvention. But even amidst the constant evolution, remembering the smaller, quirkier establishments that paved the way is essential to understanding the Strip’s rich history. One such gem, though fleeting, was the Keyhole Bar. Nestled within the Sal Sagev Hotel (later becoming part of the Golden Gate) at 13 Fremont Street, the Keyhole Bar operated for a brief but memorable period roughly between 1953 and 1955.
+Downtown Las Vegas, particularly Fremont Street, has always been about reinvention. But even amidst the constant evolution, remembering the smaller, quirkier establishments that paved the way is essential to understanding the Strip’s rich history. One such gem, though fleeting, was the Keyhole Bar. Nestled within the [Sal Sagev Hotel](/posts/sal-sagev-hotel-las-vegas/) (later becoming part of the [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/)) at 13 Fremont Street, the Keyhole Bar operated for a brief but memorable period roughly between 1953 and 1955.
 
 ## The Branding That Defined It
 
@@ -21,7 +21,7 @@ Inside, the Keyhole Bar epitomized the classic mid-century Vegas watering hole. 
 
 ## A Short Run, A Lasting Impression
 
-Sadly, the Keyhole Bar's run was short-lived. By 1955, the name disappeared, replaced by the Lucky 13 Club, still at its original location. The Lucky 13 continued operation for a couple of years, limited to slot machines and 21, before eventually succumbing to the ever-changing landscape of downtown Las Vegas. 
+Sadly, the Keyhole Bar's run was short-lived. By 1955, the name disappeared, replaced by the [Lucky](/posts/lucky-casino-las-vegas/) 13 Club, still at its original location. The Lucky 13 continued operation for a couple of years, limited to slot machines and 21, before eventually succumbing to the ever-changing landscape of downtown Las Vegas. 
 
 The site itself, for decades, maintained a visible alleyway adjacent to the frontage – a ghostly reminder of the Keyhole Bar's original placement. However, with the Golden Gate’s significant 2017 expansion, even this vestige vanished, effectively erasing the last tangible link to the little bar.
 

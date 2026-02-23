@@ -13,13 +13,13 @@ youtube_thumbnail: "https://i.ytimg.com/vi/K67fvXHf2Ak/hqdefault.jpg"
 
 ## A Desert Dream Takes Shape
 
-The Las Vegas Strip wasn’t always the glittering behemoth we know today. In 1952, it was still finding its footing, a fledgling entertainment district looking for its identity. On October 7th of that year, the Sahara Hotel and Casino officially opened its doors, becoming the sixth resort on the Strip and immediately staking its claim with a bold, ambitious concept: an African Sahara theme. Imagine, folks, a strip then dominated by Western and Frontier themes suddenly getting a dose of exoticism!
+The Las Vegas Strip wasn’t always the glittering behemoth we know today. In 1952, it was still finding its footing, a fledgling entertainment district looking for its identity. On October 7th of that year, the Sahara Hotel and Casino officially opened its doors, becoming the sixth resort on the Strip and immediately staking its claim with a bold, ambitious concept: an African Sahara theme. Imagine, folks, a strip then dominated by Western and [Frontier](/posts/frontier-hotel-and-casino-las-vegas/) themes suddenly getting a dose of exoticism!
 
 Built by Milton Prell and Herbert “Herb” McDonald, the Sahara aimed for something different. The 20-acre property, encompassing 240 rooms (each with a patio or balcony – a real luxury at the time!), 500 employees, and a sprawling casino, created an immediate visual statement. Lush landscaping, designed to evoke the landscapes of North Africa, was a deliberate attempt to transport guests. The famous, towering camel sign, a symbol of this theme, became instantly recognizable and a beloved icon of vintage Las Vegas. 
 
 ## The Sahara's Golden Era
 
-The Sahara thrived throughout the 1950s and 60s. It wasn't just about the theme; it was about entertainment. The casino was popular, and the 85-foot bar was *the* place to see and be seen. Several high-profile performers graced the stage over the years. Names like Debbie Reynolds, Lou Rawls, and even Liberace (who headlined for years!) added to the Sahara’s appeal. The hotel cultivated a reputation for its high-energy atmosphere and a slightly less formal, more accessible vibe than some of its more opulent competitors.
+The Sahara thrived throughout the 1950s and 60s. It wasn't just about the theme; it was about entertainment. The casino was popular, and the 85-foot bar was *the* place to see and be seen. Several high-profile performers graced the stage over the years. Names like [Debbie Reynolds](/posts/debbie-reynolds-hotel-and-casino-las-vegas/), Lou Rawls, and even Liberace (who headlined for years!) added to the Sahara’s appeal. The hotel cultivated a reputation for its high-energy atmosphere and a slightly less formal, more accessible vibe than some of its more opulent competitors.
 
 Ownership changed hands several times, each new proprietor adding their own flavor, though the core Sahara experience largely remained consistent. Throughout the 70s and 80s, the Sahara adapted to the evolving Vegas landscape, always attempting to stay relevant while maintaining its unique character.
 

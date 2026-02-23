@@ -7,9 +7,9 @@ location: "Don the Beachcomber Las Vegas"
 tags: ["las vegas history", "vintage vegas", "don the beachcomber las vegas"]
 ---
 
-## A Desert Oasis: Introducing Don the Beachcomber at the Sahara
+## A Desert Oasis: Introducing Don the Beachcomber at the [Sahara](/posts/sahara-hotel-and-casino-las-vegas/)
 
-The 1960s in Las Vegas were a time of bold experimentation and extravagant themed experiences. Casinos weren’t just places to gamble; they were destinations offering complete escapes. Among the many contenders for immersive entertainment, Don the Beachcomber at the Sahara Hotel stood out, becoming a beloved icon of vintage Las Vegas. Opened on December 1, 1962, this wasn't just a restaurant; it was a portal to a lush Polynesian paradise, a stark and welcome contrast to the arid Nevada landscape just beyond its walls.
+The 1960s in Las Vegas were a time of bold experimentation and extravagant themed experiences. Casinos weren’t just places to gamble; they were destinations offering complete escapes. Among the many contenders for immersive entertainment, Don the Beachcomber at the Sahara Hotel stood out, becoming a beloved icon of vintage Las Vegas. Opened on December 1, 1962, this wasn't just a restaurant; it was a portal to a lush [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) [paradise](/posts/paradise-hotel-and-casino-las-vegas/), a stark and welcome contrast to the arid Nevada landscape just beyond its walls.
 
 ## The Legacy of Donn Beach & The Sahara's Interpretation
 

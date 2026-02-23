@@ -11,7 +11,7 @@ youtube_title: "Vintage Las Vegas Cinnabar Cocktail Lounge and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/p_DXYmNLV8Q/hqdefault.jpg"
 ---
 
-## A Frontier Vibe in the Neon Heart of Vegas
+## A [Frontier](/posts/frontier-hotel-and-casino-las-vegas/) Vibe in the Neon Heart of Vegas
 
 Las Vegas. The name conjures images of glittering casinos, extravagant shows, and non-stop action. But before the mega-resorts and sprawling complexes, there was a different kind of Vegas – a scrappy, character-driven town fueled by saloons, cocktail lounges, and a distinct Western spirit. Among these pioneers was the Cinnabar Cocktail Lounge, a place that offered a uniquely authentic experience in a city rapidly transforming into the entertainment capital of the world.
 

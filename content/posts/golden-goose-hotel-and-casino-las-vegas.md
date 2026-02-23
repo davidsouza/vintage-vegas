@@ -13,7 +13,7 @@ Downtown Las Vegas in the mid-1970s was a different beast than the glitzy Strip 
 
 Pastor’s vision for the Golden Goose wasn't about opulent grandeur. It was about a fun, friendly, and accessible atmosphere. While details about its early design and entertainment are scarce (vintage Vegas information can be surprisingly elusive!), it likely reflected the populist, working-class vibe that defined Fremont Street at the time. Think simpler games, lively crowds, and a general feeling of unpretentious revelry.  It was a place where locals felt comfortable and tourists felt welcomed – a crucial formula for success in that era.
 
-## Expansion & The Glitter Gulch Connection
+## Expansion & The [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/) Connection
 
 Pastor’s ambition didn't stop with the Golden Goose. He understood the power of location and proximity. In 1982, a pivotal moment arrived when he acquired the Glitter Gulch Casino, situated right next door. Combining the two properties allowed Pastor to create a significantly larger footprint on Fremont Street.  For nearly a decade, he expertly managed both the Golden Goose and Glitter Gulch, capitalizing on the synergy and attracting even more visitors. These two casinos became synonymous with Downtown's bustling energy.
 

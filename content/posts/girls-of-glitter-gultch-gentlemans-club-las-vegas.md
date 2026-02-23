@@ -7,7 +7,7 @@ location: "Girls of Glitter Gultch Gentlemans Club Las Vegas"
 tags: ["las vegas history", "vintage vegas", "girls of glitter gultch gentlemans club las vegas"]
 ---
 
-## From Golden Goose to Girls of Glitter Gulch: A Fremont Street Evolution
+## From [Golden Goose](/posts/golden-goose-hotel-and-casino-las-vegas/) to Girls of [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/): A Fremont Street Evolution
 
 Fremont Street, long before the glittering Viva Vision canopy, held a different kind of spectacle. It was a raw, vibrant, and sometimes rough-around-the-edges playground for Las Vegas. And nestled within that scene was a key player in the city's adult entertainment landscape: Girls of Glitter Gulch. But understanding its story means digging back into the history of its predecessors.
 

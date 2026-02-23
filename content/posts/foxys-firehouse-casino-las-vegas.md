@@ -13,7 +13,7 @@ The Las Vegas Strip wasn't always dominated by sprawling megaresorts. Back in th
 
 ## A Firehouse Fantasy on the Strip
 
-The result? Foxy’s Firehouse Casino, opening its doors in 1976. It was a small casino, situated at the northeast corner of Las Vegas Boulevard and Sahara Avenue, but its visual impact was undeniable. A striking neon sign, featuring a cartoon fox sporting a fireman’s helmet, quickly became a recognizable landmark for tourists passing by. The firehouse theme was playful and distinctive, a stark contrast to the more formal aesthetics of other casinos. Inside, the design was simple and welcoming, focusing on creating a comfortable environment for guests rather than overwhelming them with grandeur.
+The result? Foxy’s Firehouse Casino, opening its doors in 1976. It was a small casino, situated at the northeast corner of Las Vegas Boulevard and [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue, but its visual impact was undeniable. A striking neon sign, featuring a cartoon fox sporting a fireman’s helmet, quickly became a recognizable landmark for tourists passing by. The firehouse theme was playful and distinctive, a stark contrast to the more formal aesthetics of other casinos. Inside, the design was simple and welcoming, focusing on creating a comfortable environment for guests rather than overwhelming them with grandeur.
 
 ## Keeping it Local: A Different Kind of Vegas
 

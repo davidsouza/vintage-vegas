@@ -17,7 +17,7 @@ The ambition was clear. The Regent wasn’t just another casino; it was designed
 
 Despite the initial promise and lavish design, The Regent’s life was tragically brief.  While it successfully attracted a clientele seeking a more sophisticated gambling and resort experience, the competitive landscape proved incredibly challenging. The megaresorts on the Strip continued to expand and innovate, drawing significant tourist dollars. The Regent’s suburban location, while appealing to locals, made it difficult to build a strong enough tourist draw to meet its ambitious revenue projections. 
 
-The company faced hurdles in attracting international tourists accustomed to the Strip’s established reputation.  Marketing a luxury suburban resort required significant investment and a shift in consumer perception, and the early years proved unsustainable.  In 2001, just two years after its grand opening, The Regent filed for bankruptcy, a sobering reminder of the risks inherent in ambitious Las Vegas ventures.
+The company faced hurdles in attracting [international](/posts/international-hotel-las-vegas/) tourists accustomed to the Strip’s established reputation.  Marketing a luxury suburban resort required significant investment and a shift in consumer perception, and the early years proved unsustainable.  In 2001, just two years after its grand opening, The Regent filed for bankruptcy, a sobering reminder of the risks inherent in ambitious Las Vegas ventures.
 
 ## A New Chapter: The Rampart and the JW Marriott
 

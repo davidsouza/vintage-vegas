@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/gMApLFYfgpA/hqdefault.jpg"
 
 ## A Brief Sparkle on Fremont Street
 
-The early 1970s in Las Vegas were a fascinating time – a bridge between the classic, gritty days of the Fremont Street experience and the burgeoning era of mega-resorts on the Strip. Tucked away just steps from the iconic neon glow of “Glitter Gulch,” the Red Garter Casino represented this transitional period. Opening its doors on May 23, 1972, the Red Garter, located at 234 Fremont Street, offered a different vibe than the sprawling casinos that would soon dominate the landscape. It existed for a surprisingly short run, closing its doors on February 17, 1975.
+The early 1970s in Las Vegas were a fascinating time – a bridge between the classic, gritty days of the Fremont Street experience and the burgeoning era of mega-resorts on the Strip. Tucked away just steps from the iconic neon glow of “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/),” the Red Garter Casino represented this transitional period. Opening its doors on May 23, 1972, the Red Garter, located at 234 Fremont Street, offered a different vibe than the sprawling casinos that would soon dominate the landscape. It existed for a surprisingly short run, closing its doors on February 17, 1975.
 
 ## The Appeal of Approachability
 

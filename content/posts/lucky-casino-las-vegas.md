@@ -13,9 +13,9 @@ youtube_thumbnail: "https://i.ytimg.com/vi/YKmQhHn4ncM/hqdefault.jpg"
 
 ## A Rising Star on Fremont Street
 
-The 1960s were a pivotal era for Las Vegas. While the Strip was beginning its evolution into the mega-resort landscape we know today, downtown Fremont Street remained the beating heart of the city's gaming scene. Into this vibrant, competitive environment stepped the Lucky Casino, opening its doors on May 6, 1963. The location, 117 E Fremont Street, had previously been the Lucky Strike Club, but a four-month renovation transformed it into something altogether more ambitious. 
+The 1960s were a pivotal era for Las Vegas. While the Strip was beginning its evolution into the mega-resort landscape we know today, downtown Fremont Street remained the beating heart of the city's gaming scene. Into this vibrant, competitive environment stepped the Lucky Casino, opening its doors on May 6, 1963. The location, 117 E Fremont Street, had previously been the [Lucky Strike Club](/posts/lucky-strike-club-casino-las-vegas/), but a four-month renovation transformed it into something altogether more ambitious. 
 
-The vision for the Lucky Casino was spearheaded by general manager Al Garbia, a heavyweight in the Nevada gaming industry. His resume read like a who's who of early Las Vegas – Sahara, Fremont, Aladdin, Hacienda, and California hotels all bore his mark. Garbia clearly intended to inject a significant dose of modern flair into the downtown scene.
+The vision for the Lucky Casino was spearheaded by general manager Al Garbia, a heavyweight in the Nevada gaming industry. His resume read like a who's who of early Las Vegas – [Sahara](/posts/sahara-hotel-and-casino-las-vegas/), Fremont, [Aladdin](/posts/aladdin-hotel-and-casino-las-vegas/), [Hacienda](/posts/hacienda-hotel-and-casino-las-vegas/), and California hotels all bore his mark. Garbia clearly intended to inject a significant dose of modern flair into the downtown scene.
 
 ## The Sign That Stole the Show
 

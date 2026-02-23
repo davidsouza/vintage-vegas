@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "paradise hotel and casino las vega
 
 ## A Tropical Fantasy, Briefly Blooming
 
-The 1970s were a period of rapid expansion and wild experimentation in Las Vegas. The Strip was a relentless proving ground, and every entrepreneur seemed to be vying for a piece of the glittering action.  Amidst the giants like the MGM Grand and the Tropicana, a smaller, more ambitious venture attempted to carve out its own niche: the Paradise Hotel and Casino. It existed for a mere seven months in 1976, yet its story exemplifies the high-stakes, high-risk nature of early Las Vegas tourism.
+The 1970s were a period of rapid expansion and wild experimentation in Las Vegas. The Strip was a relentless proving ground, and every entrepreneur seemed to be vying for a piece of the glittering action.  Amidst the giants like the MGM Grand and the [Tropicana](/posts/tropicana-country-club-las-vegas/), a smaller, more ambitious venture attempted to carve out its own niche: the Paradise Hotel and Casino. It existed for a mere seven months in 1976, yet its story exemplifies the high-stakes, high-risk nature of early Las Vegas tourism.
 
 Originally, the land the Paradise would occupy was part of a Howard Johnson’s motel, opened in 1973.  The vision for the Paradise, conceived in 1976, was to capitalize on the location – prime real estate just east of the Strip and adjacent to two major resorts.  The intention was to lure budget-minded travelers seeking a slice of that luxurious Las Vegas experience without the exorbitant price tag.
 

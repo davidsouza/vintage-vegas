@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "nob hill casino las vegas"]
 
 ## A Budget-Friendly Oasis on the Strip
 
-The Las Vegas Strip wasn't always dominated by sprawling themed resorts and $100 blackjack. In the late 1970s, a different kind of casino thrived – smaller, more accessible, and catering to a budget-conscious crowd. One such establishment was the Nob Hill Casino, a surprisingly short-lived, but fondly remembered, fixture at 3411 Las Vegas Boulevard South. Opened in the summer of 1978, Nob Hill carved out a unique niche, nestled between the legendary Sands and the Holiday Casino.
+The Las Vegas Strip wasn't always dominated by sprawling themed resorts and $100 blackjack. In the late 1970s, a different kind of casino thrived – smaller, more accessible, and catering to a budget-conscious crowd. One such establishment was the Nob Hill Casino, a surprisingly short-lived, but fondly remembered, fixture at 3411 Las Vegas Boulevard South. Opened in the summer of 1978, Nob Hill carved out a unique niche, nestled between the legendary [Sands](/posts/sands-hotel-and-casino-las-vegas/) and the [Holiday Casino](/posts/holiday-casino-las-vegas/).
 
 ## Low Limits, Big Appeal
 

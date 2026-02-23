@@ -7,11 +7,11 @@ location: "Bonanza Lodge Las Vegas"
 tags: ["las vegas history", "vintage vegas", "bonanza lodge las vegas"]
 ---
 
-## A Quiet Contributor to Glitter Gulch's Rise
+## A Quiet Contributor to [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/)'s Rise
 
-The Las Vegas Strip as we know it didn't just *happen*. It evolved, layer by layer, from a handful of dusty casinos to the dazzling, neon-soaked paradise it is today. And nestled within that evolution, at 1808 Fremont Street, sat the Bonanza Lodge Motel. Opened in 1947, during a pivotal period when Fremont Street was transitioning from a quiet road to the vibrant "Glitter Gulch," the Bonanza Lodge represented a vital, if understated, element of early Las Vegas lodging.
+The Las Vegas Strip as we know it didn't just *happen*. It evolved, layer by layer, from a handful of dusty casinos to the dazzling, neon-soaked [paradise](/posts/paradise-hotel-and-casino-las-vegas/) it is today. And nestled within that evolution, at 1808 Fremont Street, sat the [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Lodge Motel. Opened in 1947, during a pivotal period when Fremont Street was transitioning from a quiet road to the vibrant "Glitter Gulch," the Bonanza Lodge represented a vital, if understated, element of early Las Vegas lodging.
 
-It wasn’t a sprawling resort; it was a modest, independent motor court. Think simple guest rooms, crucially, on-site parking – a massive draw for travelers hitting the road – and most importantly, walking distance to the burgeoning entertainment and gambling scene. While giants like the Golden Gate and El Cortez were drawing crowds, the Bonanza Lodge offered a more affordable, convenient option for those wanting to be in the heart of the action.
+It wasn’t a sprawling resort; it was a modest, independent motor court. Think simple guest rooms, crucially, on-site parking – a massive draw for travelers hitting the road – and most importantly, walking distance to the burgeoning entertainment and gambling scene. While giants like the [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/) and [El Cortez](/posts/el-cortez-hotel-and-casino-las-vegas/) were drawing crowds, the Bonanza Lodge offered a more affordable, convenient option for those wanting to be in the heart of the action.
 
 ## The Neon Sign: A Visual Landmark
 
@@ -19,7 +19,7 @@ The Bonanza Lodge’s visual identity truly solidified with the installation of 
 
 ## From Motor Court to Redevelopment
 
-Like many small businesses in a rapidly growing city, the Bonanza Lodge wasn’t destined to remain unchanged. The relentless march of progress and the pressure of redevelopment meant that its independent existence was ultimately unsustainable.  The late 20th century saw a wave of consolidation and reinvention, and the Bonanza Lodge was swept up in that tide. In 2014, it merged with the neighboring Purple Sage Motel, shedding its original identity and being reborn as the Sterling Gardens property.
+Like many small businesses in a rapidly growing city, the Bonanza Lodge wasn’t destined to remain unchanged. The relentless march of progress and the pressure of redevelopment meant that its independent existence was ultimately unsustainable.  The late [20th century](/posts/20th-century-hotel-and-casino-las-vegas/) saw a wave of consolidation and reinvention, and the Bonanza Lodge was swept up in that tide. In 2014, it merged with the neighboring Purple Sage Motel, shedding its original identity and being reborn as the Sterling Gardens property.
 
 ## A Lasting Legacy
 

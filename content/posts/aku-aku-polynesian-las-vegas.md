@@ -7,9 +7,9 @@ location: "Aku Aku Polynesian Las Vegas"
 tags: ["las vegas history", "vintage vegas", "aku aku polynesian las vegas"]
 ---
 
-## A Taste of the South Pacific on the Stardust Strip
+## A Taste of the South Pacific on the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) Strip
 
-The 1960s Las Vegas Strip was known for its extravagant spectacle – glittering showrooms, glamorous showgirls, and increasingly elaborate resort themes. But beyond the gaming tables and headliner acts, themed dining experiences became a crucial element of the overall entertainment package. And few were as immersive and memorable as Aku Aku, a Polynesian restaurant that opened within the Stardust Resort & Casino on January 29, 1960. It was a bold departure from the typical Vegas fare and offered a portal to a tropical fantasy unlike anything seen before.
+The 1960s Las Vegas Strip was known for its extravagant spectacle – glittering showrooms, glamorous showgirls, and increasingly elaborate resort themes. But beyond the gaming tables and headliner acts, themed dining experiences became a crucial element of the overall entertainment package. And few were as immersive and memorable as Aku Aku, a [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) restaurant that opened within the Stardust Resort & Casino on January 29, 1960. It was a bold departure from the typical Vegas fare and offered a portal to a tropical fantasy unlike anything seen before.
 
 ## Entering a Polynesian Dreamscape
 

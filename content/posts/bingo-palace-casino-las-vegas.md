@@ -11,9 +11,9 @@ youtube_title: "Vintage Las Vegas Bingo Palace Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/uS7K7wbgd8M/hqdefault.jpg"
 ---
 
-## From The Casino to Bingo Bonanza: A Humble Beginning
+## From The Casino to Bingo [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/): A Humble Beginning
 
-Before mega-resorts and high-roller spectacles dominated the Las Vegas landscape, there were smaller, more intimate gambling halls catering to a different clientele. One such gem was "The Casino," which opened its doors on July 1, 1976, on Sahara Avenue, a stone’s throw from the Las Vegas Strip. This modest 5,000-square-foot operation, nestled beside the Mini-Price Motor Inn, offered just 100 slot machines, a few table games, and a casual snack bar. Primarily targeting casino employees – those working the long hours on the Strip – it provided a relaxed haven for unwinding after a shift. It wasn’t flashy, it wasn't trying to be, and that was its initial appeal.
+Before mega-resorts and high-roller spectacles dominated the Las Vegas landscape, there were smaller, more intimate gambling halls catering to a different clientele. One such gem was "The Casino," which opened its doors on July 1, 1976, on [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue, a stone’s throw from the Las Vegas Strip. This modest 5,000-square-foot operation, nestled beside the Mini-Price Motor Inn, offered just 100 slot machines, a few table games, and a casual snack bar. Primarily targeting casino employees – those working the long hours on the Strip – it provided a relaxed haven for unwinding after a shift. It wasn’t flashy, it wasn't trying to be, and that was its initial appeal.
 
 ## The Bingo Palace Era: Tapping into the Local Market
 

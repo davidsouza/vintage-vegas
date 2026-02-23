@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "elwell hotel and casino"]
 
 ## A Family Legacy on First and Carson
 
-Before the mega-resorts and dazzling light shows, Downtown Las Vegas was a collection of modest hotels, diners, and family-run businesses. Among them stood the Elwell Hotel, a testament to the early settlers who helped build this desert oasis. The Elwell’s story is deeply intertwined with the area’s pioneering roots. In 1946, William Elwell and his sisters, Naomi Uptigrove and Doris Brown, embarked on a project built upon land owned by their family, descendants of one of Las Vegas's earliest residents. They chose a spot at First and Carson Streets, a prime location in the heart of downtown, intending to provide comfortable lodging for visitors.
+Before the mega-resorts and dazzling light shows, Downtown Las Vegas was a collection of modest hotels, diners, and family-run businesses. Among them stood the [Elwell](/posts/elwell-hotel-and-casino-las-vegas/) Hotel, a testament to the early settlers who helped build this desert oasis. The Elwell’s story is deeply intertwined with the area’s pioneering roots. In 1946, William Elwell and his sisters, Naomi Uptigrove and Doris Brown, embarked on a project built upon land owned by their family, descendants of one of Las Vegas's earliest residents. They chose a spot at First and Carson Streets, a prime location in the heart of downtown, intending to provide comfortable lodging for visitors.
 
 ## From Hotel to Casino: A Downtown Staple
 
@@ -21,7 +21,7 @@ William Elwell himself was a prominent figure in the Las Vegas community. He ser
 
 ## A Final Chapter & A Lost Landmark
 
-The Elwell’s legacy wouldn’t last forever. In 1965, a significant chapter closed when the hotel was sold to the Pioneer Club for $1.5 million. It was rebranded as the Pioneer Hotel, continuing its role as a Downtown fixture. The Pioneer, while maintaining a unique character of its own, absorbed the Elwell’s history and location. Sadly, the original building’s story ultimately ended in 1984. Acquired by the Golden Nugget, it was deemed expendable in the pursuit of modern expansion. The building was demolished, making way for a parking garage, a rather prosaic end for a hotel with such a rich past.
+The Elwell’s legacy wouldn’t last forever. In 1965, a significant chapter closed when the hotel was sold to the [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) for $1.5 million. It was rebranded as the Pioneer Hotel, continuing its role as a Downtown fixture. The Pioneer, while maintaining a unique character of its own, absorbed the Elwell’s history and location. Sadly, the original building’s story ultimately ended in 1984. Acquired by the Golden Nugget, it was deemed expendable in the pursuit of modern expansion. The building was demolished, making way for a parking garage, a rather prosaic end for a hotel with such a rich past.
 
 ## Echoes of a Bygone Era
 

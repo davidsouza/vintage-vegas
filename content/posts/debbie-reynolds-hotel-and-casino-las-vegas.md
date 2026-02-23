@@ -11,7 +11,7 @@ youtube_title: "Vintage Debbie Reynolds Hotel & Casino – Las Vegas #vintage #l
 youtube_thumbnail: "https://i.ytimg.com/vi/KRzb8EqWOsU/hqdefault.jpg"
 ---
 
-The 1990s were a period of immense change and, sometimes, ambitious overreach on the Las Vegas Strip. Among the glittering lights and burgeoning mega-resorts, a unique venture emerged: the Debbie Reynolds Hotel & Casino. In 1992, Hollywood legend Debbie Reynolds, alongside her then-husband Richard Hamlett, purchased the struggling Paddlewheel Hotel and Casino for a cool $2.2 million, envisioning a glittering destination blending entertainment, a touch of old Hollywood glamour, and a showcase for her extensive and priceless collection of movie memorabilia.
+The 1990s were a period of immense change and, sometimes, ambitious overreach on the Las Vegas Strip. Among the glittering lights and burgeoning mega-resorts, a unique venture emerged: the Debbie Reynolds Hotel & Casino. In 1992, Hollywood legend Debbie Reynolds, alongside her then-husband Richard Hamlett, purchased the struggling [Paddlewheel Hotel and Casino](/posts/paddlewheel-hotel-and-casino-las-vegas/) for a cool $2.2 million, envisioning a glittering destination blending entertainment, a touch of old Hollywood glamour, and a showcase for her extensive and priceless collection of movie memorabilia.
 
 ## A Hollywood Dream on the Strip
 

@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/3usEvU3xqSo/hqdefault.jpg"
 
 ## A Lush Oasis Arrives on the Strip
 
-The Tropicana Hotel and Casino, affectionately known as the "Tropicana" or "Trop," was more than just a casino; it was an experience. Opening its doors on April 4, 1957, this 35-acre tropical paradise represented a significant leap in Las Vegas’s burgeoning resort industry. At a staggering cost – the most expensive property on the Strip at the time – the Trop aimed to transport guests to a lush, exotic escape. Imagine vibrant pink stucco buildings, cascading waterfalls, dense foliage, and wandering flamingos—it was a stark contrast to the then-more conventional Vegas offerings. With 1,467 rooms and a sprawling 44,570 sq ft casino, the Tropicana instantly became a major player.
+The [Tropicana](/posts/tropicana-country-club-las-vegas/) Hotel and Casino, affectionately known as the "Tropicana" or "Trop," was more than just a casino; it was an experience. Opening its doors on April 4, 1957, this 35-acre tropical [paradise](/posts/paradise-hotel-and-casino-las-vegas/) represented a significant leap in Las Vegas’s burgeoning resort industry. At a staggering cost – the most expensive property on the Strip at the time – the Trop aimed to transport guests to a lush, exotic escape. Imagine vibrant pink stucco buildings, cascading waterfalls, dense foliage, and wandering flamingos—it was a stark contrast to the then-more conventional Vegas offerings. With 1,467 rooms and a sprawling 44,570 sq ft casino, the Tropicana instantly became a major player.
 
 ## Glamour, Mob Ties, and the Folies Bergère
 

@@ -23,7 +23,7 @@ The Mint’s influence reached far beyond the racetrack.  Perhaps most famously,
 
 ## A Farewell & Lasting Memory
 
-Sadly, the bright lights dimmed in 1988. Acquired by the Binion family and merged into Binion’s Horseshoe, The Mint closed its doors on July 1, 1988. While most of the structures were ultimately demolished to expand Binion’s Horseshoe, the memory of The Mint Hotel and Casino lives on, a vibrant reminder of a pivotal era in Las Vegas history - a time when neon was king and the desert held endless possibilities.
+Sadly, the bright lights dimmed in 1988. Acquired by the Binion family and merged into Binion’s [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/), The Mint closed its doors on July 1, 1988. While most of the structures were ultimately demolished to expand Binion’s Horseshoe, the memory of The Mint Hotel and Casino lives on, a vibrant reminder of a pivotal era in Las Vegas history - a time when neon was king and the desert held endless possibilities.
 
 
 <div class="shop-collection">

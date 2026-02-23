@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "holy cow casino cafe brewery las v
 
 ## From Foxy’s Deli to Holy Cow!: A Multi-Stage Evolution
 
-The northeast corner of Sahara Avenue and Las Vegas Boulevard has seen a lot of changes over the years, but few establishments were as uniquely memorable as the Holy Cow! Casino Cafe Brewery. Its history isn’t a simple one; it’s a layered story of adaptation and innovation stretching back to 1955. Originally, the spot was “Foxy’s Deli,” a groundbreaking establishment lauded as the Strip’s first integrated restaurant. That meant it welcomed both locals and tourists, a somewhat revolutionary concept back then.  The celebrity clientele – including legends like Liberace, Wayne Newton, and Shecky Greene – only added to its allure and solidified its place in early Las Vegas lore.
+The northeast corner of [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue and Las Vegas Boulevard has seen a lot of changes over the years, but few establishments were as uniquely memorable as the Holy Cow! Casino Cafe Brewery. Its history isn’t a simple one; it’s a layered story of adaptation and innovation stretching back to 1955. Originally, the spot was “Foxy’s Deli,” a groundbreaking establishment lauded as the Strip’s first integrated restaurant. That meant it welcomed both locals and tourists, a somewhat revolutionary concept back then.  The celebrity clientele – including legends like Liberace, Wayne Newton, and Shecky Greene – only added to its allure and solidified its place in early Las Vegas lore.
 
 ## A Casino and a Brewpub Pioneer
 

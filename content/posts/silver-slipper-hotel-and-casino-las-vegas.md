@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/lEVQ3lIXOF4/hqdefault.jpg"
 
 ## A Step Back in Time: The Silver Slipper's Debut
 
-The Las Vegas Strip wasn’t always the glittering spectacle we know today. In the early 1950s, it was a landscape of ambitious dreams and fledgling casinos, all vying for a piece of the burgeoning gambling pie. One such dream materialized on September 1, 1950, with the opening of the Silver Slipper Hotel and Casino. Situated conveniently near the Frontier Hotel and Casino, the Silver Slipper quickly carved out its own niche. Interestingly, while both properties initially shared the same ownership, the Silver Slipper’s gaming operations were eventually leased out, a common practice in the developing Las Vegas business world.
+The Las Vegas Strip wasn’t always the glittering spectacle we know today. In the early 1950s, it was a landscape of ambitious dreams and fledgling casinos, all vying for a piece of the burgeoning gambling pie. One such dream materialized on September 1, 1950, with the opening of the Silver Slipper Hotel and Casino. Situated conveniently near [the Frontier Hotel and Casino](/posts/the-frontier-hotel-and-casino-las-vegas/), the Silver Slipper quickly carved out its own niche. Interestingly, while both properties initially shared the same ownership, the Silver Slipper’s gaming operations were eventually leased out, a common practice in the developing Las Vegas business world.
 
 ## The Iconic Neon Slipper
 
@@ -25,7 +25,7 @@ The Silver Slipper's history took an unexpected turn in 1968 when it was leased 
 
 ## Closure and Legacy
 
-Sadly, the Silver Slipper’s run came to an end on November 28, 1988.  The once-bustling casino was demolished to make way for a much-needed parking lot for the Frontier. Plans were floated to rebuild the Silver Slipper, capitalizing on its nostalgic appeal, but these ultimately never materialized. Now, the site sits vacant, a stark reminder of what once was – directly across from the dazzling Encore Hotel Casino. While the physical building is gone, the memory of the Silver Slipper and its shimmering neon slipper lives on, a cherished piece of vintage Las Vegas history and a testament to the city’s ever-evolving story.
+Sadly, the Silver Slipper’s run came to an end on November 28, 1988.  The once-bustling casino was demolished to make way for a much-needed parking lot for the [Frontier](/posts/frontier-hotel-and-casino-las-vegas/). Plans were floated to rebuild the Silver Slipper, capitalizing on its nostalgic appeal, but these ultimately never materialized. Now, the site sits vacant, a stark reminder of what once was – directly across from the dazzling Encore Hotel Casino. While the physical building is gone, the memory of the Silver Slipper and its shimmering neon slipper lives on, a cherished piece of vintage Las Vegas history and a testament to the city’s ever-evolving story.
 
 
 <div class="shop-collection">

@@ -21,7 +21,7 @@ The Road Runner operated under a restricted gaming license, a fairly common setu
 
 ## A Disappearing Vegas – The Legacy of the Road Runner
 
-Sadly, many of these original neighborhood gems haven't survived the relentless evolution of Las Vegas. As the city grew, many were swallowed up by more modern gaming bars and corporate-owned establishments. The Road Runner Saloon’s disappearance is a testament to the shifting sands of Vegas culture. 
+Sadly, many of these original neighborhood gems haven't survived the relentless evolution of Las Vegas. As the city grew, many were swallowed up by more modern gaming bars and corporate-owned establishments. The Road Runner Saloon’s disappearance is a testament to the shifting [sands](/posts/sands-hotel-and-casino-las-vegas/) of Vegas culture. 
 
 While the original building now houses Fred's Tavern, the memories of the Road Runner endure. Matchbooks – treasured remnants of a bygone era – circulate among collectors, and recollections shared by former patrons paint a vivid picture of a time when Vegas felt a little more personal, a little more real. It stands as a reminder that the true heart of Las Vegas wasn't always found under the bright lights of the Strip, but in places like the Road Runner Saloon—fast, fun, and full of character, just like its namesake bird.
 

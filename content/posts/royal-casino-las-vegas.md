@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "royal casino las vegas"]
 
 ## A Convention Center Companion
 
-The Royal Casino, formerly known by various names including Royal Las Vegas and Royal Hotel and Casino, occupies a unique and often overlooked spot in Las Vegas history. Located at 99 Convention Center Drive, just east of the iconic Las Vegas Strip, it existed as a steadfast, practical option for those attending the sprawling conventions hosted at the Las Vegas Convention Center. Opened in 1970 as part of the Royal Executive Inns chain, its initial focus was decidedly *not* the glitz and glamour of the Strip. Instead, it aimed to cater to the burgeoning business and convention crowd – a vital, and often understated, cornerstone of Las Vegas's economy.
+The Royal Casino, formerly known by various names including Royal Las Vegas and [Royal Hotel and Casino](/posts/royal-hotel-and-casino-las-vegas/), occupies a unique and often overlooked spot in Las Vegas history. Located at 99 Convention Center Drive, just east of the iconic Las Vegas Strip, it existed as a steadfast, practical option for those attending the sprawling conventions hosted at the Las Vegas Convention Center. Opened in 1970 as part of the Royal Executive Inns chain, its initial focus was decidedly *not* the glitz and glamour of the Strip. Instead, it aimed to cater to the burgeoning business and convention crowd – a vital, and often understated, cornerstone of Las Vegas's economy.
 
 ## From Hotel to Humble Casino
 
@@ -17,11 +17,11 @@ The shift toward casino gaming arrived around 1973. While many Vegas properties 
 
 ## A Quiet Endurance
 
-For decades, the Royal Casino (and its subsequent iterations: Royal Hotel and Casino, and finally Royal Resort) functioned as a reliable presence. It weathered the boom and bust cycles of Las Vegas, always retaining its primary focus on providing comfortable, affordable lodging for convention attendees. It occupied a necessary niche – a quieter, more budget-friendly alternative to the Strip's escalating prices and elaborate theming. The property’s resilience speaks volumes about its business model, a refreshing contrast to the ever-increasing pressure to be bigger and flashier.
+For decades, the Royal Casino (and its subsequent iterations: Royal Hotel and Casino, and finally [Royal Resort](/posts/royal-resort-las-vegas/)) functioned as a reliable presence. It weathered the boom and bust cycles of Las Vegas, always retaining its primary focus on providing comfortable, affordable lodging for convention attendees. It occupied a necessary niche – a quieter, more budget-friendly alternative to the Strip's escalating prices and elaborate theming. The property’s resilience speaks volumes about its business model, a refreshing contrast to the ever-increasing pressure to be bigger and flashier.
 
 ## Demise & Legacy
 
-Sadly, the Royal’s story concluded with a dramatic chapter. A fire in 2022 caused significant water damage, effectively halting operations.  The recent liquidation sales and imminent demolition signify the end of an era. Though it never achieved the fame of the Sahara or the Riviera, the Royal's legacy is one of quiet endurance and practical service. It served as a reminder that a hotel’s value wasn't always about extravagance; sometimes, it was about providing a clean, comfortable room near the convention center at a reasonable price. Its disappearance marks another piece of vintage Las Vegas fading into memory, a testament to the relentless pace of change and redevelopment in this ever-evolving city.
+Sadly, the Royal’s story concluded with a dramatic chapter. A fire in 2022 caused significant water damage, effectively halting operations.  The recent liquidation sales and imminent demolition signify the end of an era. Though it never achieved the fame of the [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) or the [Riviera](/posts/riviera-hotel-and-casino-las-vegas/), the Royal's legacy is one of quiet endurance and practical service. It served as a reminder that a hotel’s value wasn't always about extravagance; sometimes, it was about providing a clean, comfortable room near the convention center at a reasonable price. Its disappearance marks another piece of vintage Las Vegas fading into memory, a testament to the relentless pace of change and redevelopment in this ever-evolving city.
 
 
 <div class="shop-collection">

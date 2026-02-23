@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "binions horseshoe las vegas"]
 
 ## From Fremont Street Roots to Poker Royalty
 
-The Las Vegas Strip might grab the headlines today, but for decades, Downtown Las Vegas, and particularly Fremont Street, was *the* place to be. And when it came to defining that era’s gambling scene, few names shone brighter than Benny Binion and his Horseshoe Casino. Opened in 1951 at 128 Fremont Street, the Horseshoe wasn’t just another casino; it was a deliberate rebellion against the emerging Strip’s more polished, formal atmosphere. Benny Binion, a Tennessee native and shrewd businessman, envisioned a different kind of gambling paradise – one where fair odds, generous limits, and a down-to-earth welcome were the norm.
+The Las Vegas Strip might grab the headlines today, but for decades, Downtown Las Vegas, and particularly Fremont Street, was *the* place to be. And when it came to defining that era’s gambling scene, few names shone brighter than Benny Binion and his [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Casino. Opened in 1951 at 128 Fremont Street, the Horseshoe wasn’t just another casino; it was a deliberate rebellion against the emerging Strip’s more polished, formal atmosphere. Benny Binion, a Tennessee native and shrewd businessman, envisioned a different kind of gambling [paradise](/posts/paradise-hotel-and-casino-las-vegas/) – one where fair odds, generous limits, and a down-to-earth welcome were the norm.
 
 ## Benny's Philosophy: Treating Everyone Like a High Roller
 

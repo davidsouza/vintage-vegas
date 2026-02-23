@@ -17,7 +17,7 @@ The Stardust Hotel and Casino. Just the name conjures images of smoky casinos, d
 
 ## The Golden Age & Beyond
 
-The 1960s were a peak era for the Stardust. It wasn’t just about the size; it was about the vibe.  The Stardust attracted a different kind of clientele – a more casual, working-class crowd seeking entertainment and a gamble. It actively marketed itself as a place where anyone could feel welcome, a refreshing change from the more exclusive casinos that dotted the Strip. Think big-band music, affordable rooms, and a playful, space-age aesthetic.  Beyond the hotel, the Stardust expanded its empire with a country club and even a raceway, showcasing the ambition of its owners.  The 1959 addition of the Royal Nevada hotel-casino further amplified its size. 
+The 1960s were a peak era for the Stardust. It wasn’t just about the size; it was about the vibe.  The Stardust attracted a different kind of clientele – a more casual, working-class crowd seeking entertainment and a gamble. It actively marketed itself as a place where anyone could feel welcome, a refreshing change from the more exclusive casinos that dotted the Strip. Think big-band music, affordable rooms, and a playful, space-age aesthetic.  Beyond the hotel, the Stardust expanded its empire with a country club and even a raceway, showcasing the ambition of its owners.  The 1959 addition of the [Royal Nevada](/posts/royal-nevada-hotel-and-casino-las-vegas/) hotel-casino further amplified its size. 
 
 ## Shadows and Scandals 
 

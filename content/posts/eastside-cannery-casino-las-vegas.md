@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/x7u7m8HcN1k/hqdefault.jpg"
 
 ## A Bold Expansion: Bringing Vegas East
 
-The Las Vegas Strip has always been the undeniable focal point of Nevada's gaming industry. But for years, Boyd Gaming (and before them, Cannery Casino Resorts) sought to expand that reach, tapping into the underserved local market further east. The Eastside Cannery Casino and Hotel, rising along the Boulder Highway in August 2008, was the embodiment of that ambition. Built on the site of the former Nevada Palace, the $250 million development aimed to provide a full-service hotel-casino experience to East Valley residents, a demographic often overlooked in the Strip-centric glitz. This marked a significant effort to solidify the "Boulder Strip" as a competitive gaming destination.
+The Las Vegas Strip has always been the undeniable focal point of Nevada's gaming industry. But for years, Boyd Gaming (and before them, Cannery Casino Resorts) sought to expand that reach, tapping into the underserved local market further east. The Eastside Cannery Casino and Hotel, rising along the Boulder Highway in August 2008, was the embodiment of that ambition. Built on the site of the former [Nevada Palace](/posts/nevada-palace-hotel-and-casino-las-vegas/), the $250 million development aimed to provide a full-service hotel-casino experience to East Valley residents, a demographic often overlooked in the Strip-centric glitz. This marked a significant effort to solidify the "Boulder Strip" as a competitive gaming destination.
 
 ## Industrial Chic and Modern Design
 
@@ -25,7 +25,7 @@ For a little over a decade, the Eastside Cannery operated, serving its local cli
 
 ## Demolition & Future Plans – A Final Chapter
 
-Now, in late October 2025, the final chapter in the Eastside Cannery’s story has been written. Boyd Gaming announced plans to demolish the structure, paving the way for the sale of the 29.5-acre property for future residential development. The company cited continued unfavorable market conditions as the reason for this decision, a stark reminder of the ever-shifting sands of the Las Vegas economy. While the Eastside Cannery’s physical presence will soon be gone, it remains a footnote in the history of Las Vegas, a symbol of ambition, a unique design, and the challenges of thriving in a fiercely competitive market. It represents a brief, bright spark on the Eastside, one that ultimately couldn’t endure.
+Now, in late October 2025, the final chapter in the Eastside Cannery’s story has been written. Boyd Gaming announced plans to demolish the structure, paving the way for the sale of the 29.5-acre property for future residential development. The company cited continued unfavorable market conditions as the reason for this decision, a stark reminder of the ever-shifting [sands](/posts/sands-hotel-and-casino-las-vegas/) of the Las Vegas economy. While the Eastside Cannery’s physical presence will soon be gone, it remains a footnote in the history of Las Vegas, a symbol of ambition, a unique design, and the challenges of thriving in a fiercely competitive market. It represents a brief, bright spark on the Eastside, one that ultimately couldn’t endure.
 
 
 <div class="shop-collection">

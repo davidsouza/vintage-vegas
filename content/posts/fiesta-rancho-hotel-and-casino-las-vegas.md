@@ -15,7 +15,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/vhkOq6Mph2g/hqdefault.jpg"
 
 Before mega-resorts dominated the landscape, North Las Vegas was largely a quiet residential area. That all changed on December 14, 1994, with the opening of *Fiesta*. Developed by the Maloof family – yes, *those* Maloofs – it was a bold move, becoming the first hotel-casino to truly plant its flag in the northeast corner of North Rancho Drive and Lake Mead Boulevard. Starting with a modest 100 rooms and a 25,000-square-foot casino, it felt a world away from the glitz and glamour of the Las Vegas Strip.  But it was exactly this difference that resonated with the local community. 
 
-## Rapid Expansion and the Royal Flush Mania
+## Rapid Expansion and the [Royal](/posts/royal-casino-las-vegas/) Flush Mania
 
 The initial success was undeniable.  By 1995, the property had already embarked on a significant 50,000-square-foot expansion.  This wasn’t just about more gaming space; it was about catering directly to the needs of the neighborhood.  The addition of a drive-through sportsbook – a remarkably unique feature at the time - proved incredibly popular.  Then came the 1999 renovation, a $26 million investment that saw the casino floor swell to nearly 70,000 square feet. This period also solidified Fiesta's reputation, earning it the playful and very real title: "Royal Flush Capital of the World."  Through generous payouts on its video poker machines, the casino regularly paid out tens of thousands in royal flushes, cementing its legend among poker enthusiasts.
 

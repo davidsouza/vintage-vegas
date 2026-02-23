@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "holy cow casino cafe brewery las v
 
 ## From Foxy’s Deli to a Brewing Revolution
 
-The northeast corner of Sahara and the Strip has seen countless changes over the decades, but few establishments left a mark as unique as the Holy Cow! Casino Cafe Brewery. Its story isn't just about a casino; it's about a slice of Vegas history, encompassing inclusive origins, groundbreaking brewing, and a whole lot of local charm. The site’s earliest incarnation was Foxy’s Deli, which opened in 1955. Remarkably, Foxy’s held the distinction of being the Strip’s first integrated restaurant, a progressive move at a time when racial segregation was still a stark reality in many parts of the country. Legendary performers like Liberace, Wayne Newton, and Shecky Greene were frequent patrons, solidifying its place in the early Vegas scene.
+The northeast corner of [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) and the Strip has seen countless changes over the decades, but few establishments left a mark as unique as the Holy Cow! Casino Cafe Brewery. Its story isn't just about a casino; it's about a slice of Vegas history, encompassing inclusive origins, groundbreaking brewing, and a whole lot of local charm. The site’s earliest incarnation was Foxy’s Deli, which opened in 1955. Remarkably, Foxy’s held the distinction of being the Strip’s first integrated restaurant, a progressive move at a time when racial segregation was still a stark reality in many parts of the country. Legendary performers like Liberace, Wayne Newton, and Shecky Greene were frequent patrons, solidifying its place in the early Vegas scene.
 
 ## The Firehouse Years and Big Dog's Vision
 

@@ -11,13 +11,13 @@ tags: ["las vegas history", "vintage vegas", "horseshoe hotel and casino las veg
 
 The name “Horseshoe” is synonymous with Las Vegas history, though its journey through the city has been a winding one. Originally Binion’s Horseshoe, it burst onto the Fremont Street scene in 1951, a direct challenge to the established order. Benny Binion, a Texas cattleman turned gambling pioneer, had a vision: a casino that prioritized fair odds, high-stakes action, and genuine hospitality. This was a stark departure from the often-stuffy and exclusive atmosphere of the burgeoning Las Vegas Strip. Binion understood the heart of Las Vegas – a place where anyone could feel like a winner.
 
-## A Gambler’s Paradise: The Binion Era
+## A Gambler’s [Paradise](/posts/paradise-hotel-and-casino-las-vegas/): The Binion Era
 
 Binion’s philosophy was refreshingly simple. He believed in treating every bettor with respect, whether they were placing a nickel or a thousand dollars. This egalitarian approach fostered a loyal clientele and quickly built the Horseshoe a reputation as a “gambler’s paradise.” The casino itself was a showcase of old-school Vegas charm – less glitz, more grit. Forget extravagant themed hotels; the focus was on the game. But there was one undeniable spectacle: a million dollars in cash displayed in a glass case, a gleaming symbol of the possibility that pulsed through the city’s veins. It became *the* photo opportunity for visiting tourists.
 
 ## The Birth of the WSOP
 
-Perhaps the Horseshoe's greatest legacy isn’t just its impact on downtown Vegas, but its contribution to the world of poker. In 1970, Benny Binion hosted the very first World Series of Poker. Starting as a small, invitational tournament, the WSOP, housed within the Horseshoe's walls, would blossom into the biggest poker event on the planet, attracting players and viewers from across the globe.  It catapulted the Horseshoe's name to international prominence and forever altered the landscape of professional poker. Imagine, the birthplace of modern poker was right there on Fremont Street!
+Perhaps the Horseshoe's greatest legacy isn’t just its impact on downtown Vegas, but its contribution to the world of poker. In 1970, Benny Binion hosted the very first World Series of Poker. Starting as a small, invitational tournament, the WSOP, housed within the Horseshoe's walls, would blossom into the biggest poker event on the planet, attracting players and viewers from across the globe.  It catapulted the Horseshoe's name to [international](/posts/international-hotel-las-vegas/) prominence and forever altered the landscape of professional poker. Imagine, the birthplace of modern poker was right there on Fremont Street!
 
 ## A Changing of the Guard & A Legacy Revived
 

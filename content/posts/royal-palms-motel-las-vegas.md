@@ -7,13 +7,13 @@ location: "Royal Palms Motel Las Vegas"
 tags: ["las vegas history", "vintage vegas", "royal palms motel las vegas"]
 ---
 
-## A Bridge Between Eras: Royal Palms Motel
+## A Bridge Between Eras: [Royal](/posts/royal-casino-las-vegas/) Palms Motel
 
 The Las Vegas Strip we know today – a dazzling landscape of mega-resorts and elaborate themed experiences – wasn’t always that way. To understand the early days, we need to remember places like the Royal Palms Motel.  This wasn’t a glittering casino-hotel; it was a quintessential roadside motel, a vital part of the Strip’s formative years between 1953 and 1980. Built by Nate and Jerome Mack, it exemplified the motor court era—a time when the arrival experience was all about convenience and affordability for the burgeoning wave of tourists driving into the desert.
 
 ## Life on South Fifth Street (Las Vegas Boulevard)
 
-Royal Palms opened on South Fifth Street, now known as Las Vegas Boulevard, strategically located just south of what would become the Dunes Hotel and Casino. Imagine: 1954, and the Strip is still finding its footing.  Royal Palms offered a clean, inviting place for travelers to rest their heads. Unlike the emerging casino-hotels, it focused on lodging. No gambling, no fancy restaurants – just comfortable rooms and easy access to the excitement further north.  The motel’s original signage, a bright neon palm tree, became a recognizable landmark.  
+Royal Palms opened on South Fifth Street, now known as Las Vegas Boulevard, strategically located just south of what would become the [Dunes Hotel and Casino](/posts/dunes-hotel-and-casino-las-vegas/). Imagine: 1954, and the Strip is still finding its footing.  Royal Palms offered a clean, inviting place for travelers to rest their heads. Unlike the emerging casino-hotels, it focused on lodging. No gambling, no fancy restaurants – just comfortable rooms and easy access to the excitement further north.  The motel’s original signage, a bright neon palm tree, became a recognizable landmark.  
 
 ## The Amenities That Mattered
 

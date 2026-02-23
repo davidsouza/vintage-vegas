@@ -19,7 +19,7 @@ Connected to the hotel was, of course, a casino. Crucially, it played a vital ro
 
 ## A Short but Significant Run
 
-Despite its initial success, the Hotel Apache's time as an independent entity was relatively brief. In May 1951, after nearly 19 years of operation, it was purchased by the legendary Benny Binion. Binion, a key figure in Las Vegas's early gaming history, had larger plans. The focus shifted almost entirely to the burgeoning Horseshoe Casino, and the Apache’s hotel rooms were largely shuttered and forgotten, fading from the public consciousness for decades. It eventually became absorbed into the expanding Binion's Horseshoe complex.
+Despite its initial success, the Hotel Apache's time as an independent entity was relatively brief. In May 1951, after nearly 19 years of operation, it was purchased by the legendary Benny Binion. Binion, a key figure in Las Vegas's early gaming history, had larger plans. The focus shifted almost entirely to the burgeoning [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Casino, and the Apache’s hotel rooms were largely shuttered and forgotten, fading from the public consciousness for decades. It eventually became absorbed into the expanding Binion's Horseshoe complex.
 
 ## Rebirth and Ghosts
 

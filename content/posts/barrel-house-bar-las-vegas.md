@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "barrel house bar las vegas"]
 
 ## A Quiet Corner of Early Fremont Street
 
-Before the dazzling casinos and choreographed light shows of the Fremont Street Experience, there was a quieter, rougher Las Vegas. A Las Vegas still finding its identity. And tucked away in an alleyway, between the future giants of the Golden Goose and the Las Vegas Club, sat the Barrel House Bar. Opened on October 6, 1934, this unassuming establishment holds a fascinating place in the timeline of downtown Las Vegas. It’s a reminder of the era when Fremont Street was a burgeoning entertainment corridor, slowly evolving into what would become known as "Glitter Gulch."
+Before the dazzling casinos and choreographed light shows of the Fremont Street Experience, there was a quieter, rougher Las Vegas. A Las Vegas still finding its identity. And tucked away in an alleyway, between the future giants of the [Golden Goose](/posts/golden-goose-hotel-and-casino-las-vegas/) and the [Las Vegas Club](/posts/las-vegas-club-hotel-and-casino-las-vegas/), sat the Barrel House Bar. Opened on October 6, 1934, this unassuming establishment holds a fascinating place in the timeline of downtown Las Vegas. It’s a reminder of the era when Fremont Street was a burgeoning entertainment corridor, slowly evolving into what would become known as "[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/)."
 
 ## More Than Just a Bar
 
@@ -21,7 +21,7 @@ The Barrel House’s location, nestled in that little alley, was strategic. It o
 
 ## A Short But Significant Run
 
-Sadly, the Barrel House's reign was brief. It closed its doors on December 31, 1938, after just four years of operation. However, its legacy is far from insignificant. The space it occupied continued to be a revolving door of businesses, a testament to Fremont Street’s dynamism. Following the Barrel House, it morphed into Las Vegas Barbecue, then the Copper Grill, the Golden Slot club, and Cecil Lynch’s Fortune Club, each leaving their own mark on the evolving entertainment scene. Each tenant demonstrated the adaptability and constant evolution characteristic of this unique location.
+Sadly, the Barrel House's reign was brief. It closed its doors on December 31, 1938, after just four years of operation. However, its legacy is far from insignificant. The space it occupied continued to be a revolving door of businesses, a testament to Fremont Street’s dynamism. Following the Barrel House, it morphed into Las Vegas Barbecue, then the Copper Grill, the [Golden Slot club](/posts/golden-slot-club-las-vegas/), and Cecil Lynch’s [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/), each leaving their own mark on the evolving entertainment scene. Each tenant demonstrated the adaptability and constant evolution characteristic of this unique location.
 
 ## Lost, But Not Forgotten
 

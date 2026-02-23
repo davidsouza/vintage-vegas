@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "maxim hotel and casino las vegas"]
 
 ## A Boutique Oasis on the Strip
 
-The 1970s and 80s saw Las Vegas evolve from its mob-controlled roots into a glitzier, more corporate destination. Amidst the sprawling mega-resorts that started to define the Strip, the Maxim Hotel and Casino, opening on July 1, 1977, carved out a niche for itself. Located at 160 E Flamingo Rd – now the Westin Las Vegas – the Maxim wasn't about size; it was about intimacy. While smaller than giants like the MGM Grand or the Dunes, the Maxim’s strength lay in its commitment to personalized service and meticulous attention to detail.
+The 1970s and 80s saw Las Vegas evolve from its mob-controlled roots into a glitzier, more corporate destination. Amidst the sprawling mega-resorts that started to define the Strip, the Maxim Hotel and Casino, opening on July 1, 1977, carved out a niche for itself. Located at 160 E Flamingo Rd – now the Westin Las Vegas – the Maxim wasn't about size; it was about intimacy. While smaller than giants like the MGM Grand or the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/), the Maxim’s strength lay in its commitment to personalized service and meticulous attention to detail.
 
 ## The Maxim's Golden Age
 

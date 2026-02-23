@@ -7,9 +7,9 @@ location: "Algiers Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "algiers hotel and casino las vegas"]
 ---
 
-## A Desert Mirage: Introducing the Algiers Hotel and Casino
+## A Desert [Mirage](/posts/mirage-hotel-and-casino-las-vegas/): Introducing the Algiers Hotel and Casino
 
-The Las Vegas Strip has seen its fair share of themed hotels, but few were as distinctive as the Algiers Hotel and Casino. Opened on November 25, 1953, this 110-room property, located at 2845 South Las Vegas Boulevard (now part of the Fontainebleau site), offered a truly unique experience – an Arabian and Persian-inspired oasis in the burgeoning desert landscape.  It was a sister property to the already established Thunderbird Hotel and Casino, sharing a similar ownership group and aiming to cater to a slightly different, perhaps more budget-conscious, crowd while still maintaining that vital Vegas sparkle.
+The Las Vegas Strip has seen its fair share of themed hotels, but few were as distinctive as the Algiers Hotel and Casino. Opened on November 25, 1953, this 110-room property, located at 2845 South Las Vegas Boulevard (now part of the Fontainebleau site), offered a truly unique experience – an Arabian and Persian-inspired oasis in the burgeoning desert landscape.  It was a sister property to the already established [Thunderbird Hotel and Casino](/posts/thunderbird-hotel-and-casino-las-vegas/), sharing a similar ownership group and aiming to cater to a slightly different, perhaps more budget-conscious, crowd while still maintaining that vital Vegas sparkle.
 
 ## The Theme: Sultry Nights and Exotic Charm
 

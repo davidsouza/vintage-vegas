@@ -7,13 +7,13 @@ location: "Fitgeralds Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "fitgeralds hotel and casino las vegas"]
 ---
 
-## From Sundance to Shenanigans: The Early Years
+## From [Sundance](/posts/sundance-hotel-and-casino-las-vegas/) to Shenanigans: The Early Years
 
-Fitzgeralds Hotel & Casino, a familiar sight for generations of Las Vegas visitors, occupies a prime spot on the eastern end of Fremont Street. But the building’s history begins even before the iconic green shamrocks and cartoon leprechauns appeared. Originally the Sundance Hotel, constructed in 1980, it was a project spearheaded by the influential Moe Dalitz, alongside Al Sachs and Herb Tobman – the same folks behind the Stardust and Fremont casinos. This connection underscored its initial role within the evolving downtown landscape. While a respectable hotel, the Sundance lacked a distinct identity to truly stand out.
+[Fitzgeralds](/posts/fitzgeralds-hotel-and-casino/) Hotel & Casino, a familiar sight for generations of Las Vegas visitors, occupies a prime spot on the eastern end of Fremont Street. But the building’s history begins even before the iconic green shamrocks and cartoon leprechauns appeared. Originally the Sundance Hotel, constructed in 1980, it was a project spearheaded by the influential Moe Dalitz, alongside Al Sachs and Herb Tobman – the same folks behind the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and Fremont casinos. This connection underscored its initial role within the evolving downtown landscape. While a respectable hotel, the Sundance lacked a distinct identity to truly stand out.
 
 ## The Irish Invasion: Fitzgeralds Takes Over
 
-That all changed in 1987 when Reno-based Lincoln Management Group, operating as Fitzgeralds Gaming, purchased the property. The transformation was immediate and striking. The Sundance was reborn as Fitzgeralds Las Vegas, embracing a lively Irish theme that became instantly recognizable. The exterior burst with green trim, lucky shamrocks, and a perpetually grinning leprechaun mascot that graced promotional materials. This deliberate branding aimed for a fun, value-oriented casino experience, a welcome alternative as the Fremont Street experience grew more competitive.  Inside, a 42,000-square-foot casino buzzed with activity, featuring a sportsbook, table games, and a popular buffet and steakhouse.  Its prominent 34-story tower provided sweeping views of the Fremont Street Experience – a coveted perk for guests.
+That all changed in 1987 when Reno-based Lincoln Management Group, operating as Fitzgeralds Gaming, purchased the property. The transformation was immediate and striking. The Sundance was reborn as [Fitzgeralds Las Vegas](/posts/fitzgeralds-las-vegas/), embracing a lively Irish theme that became instantly recognizable. The exterior burst with green trim, [lucky](/posts/lucky-casino-las-vegas/) shamrocks, and a perpetually grinning leprechaun mascot that graced promotional materials. This deliberate branding aimed for a fun, value-oriented casino experience, a welcome alternative as the Fremont Street experience grew more competitive.  Inside, a 42,000-square-foot casino buzzed with activity, featuring a sportsbook, table games, and a popular buffet and steakhouse.  Its prominent 34-story tower provided sweeping views of the Fremont Street Experience – a coveted perk for guests.
 
 ## Ownership Changes and a Momentous Milestone
 
@@ -21,7 +21,7 @@ The late 90s and early 2000s brought turbulent times. Fitzgeralds Gaming faced b
 
 ## A Final Farewell and a New Beginning
 
-After Barden’s passing, the Fitzgeralds property transitioned once again in 2011, this time to brothers Derek and Greg Stevens, already prominent figures with the Golden Gate casino. The brothers invested significantly in a modernization effort. While retaining the building's footprint and iconic tower, they rebranded the property as The D Las Vegas in 2012. The Fitzgeralds name officially retired, though the memories remained.
+After Barden’s passing, the Fitzgeralds property transitioned once again in 2011, this time to brothers Derek and Greg Stevens, already prominent figures with the [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/) casino. The brothers invested significantly in a modernization effort. While retaining the building's footprint and iconic tower, they rebranded the property as The D Las Vegas in 2012. The Fitzgeralds name officially retired, though the memories remained.
 
 ## Fitzgeralds' Enduring Legacy
 

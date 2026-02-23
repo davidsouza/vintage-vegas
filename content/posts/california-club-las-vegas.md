@@ -7,7 +7,7 @@ location: "California Club Las Vegas"
 tags: ["las vegas history", "vintage vegas", "california club las vegas"]
 ---
 
-## A Downtown Institution: The California Club's Early Days
+## A Downtown Institution: The [California Club](/posts/california-club-casino-las-vegas/)'s Early Days
 
 The landscape of Las Vegas has changed dramatically over the decades, but remembering the casinos that paved the way is vital to understanding its evolution.  The California Club, situated at 101 East Fremont Street, holds a special place in that history. Opening in the early 1950s, it wasn't a glittering Strip behemoth. Instead, the California Club embodied the burgeoning downtown Las Vegas vibe: friendly, accessible, and geared towards locals and the working class.  Originally owned by Phil Copley, and later Phil Long, the club quickly became a fixture on Fremont Street, a welcome respite from the increasingly extravagant Strip resorts that were starting to emerge. Its unassuming scale contrasted sharply with the glitz being built just a few blocks away.
 

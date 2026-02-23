@@ -17,7 +17,7 @@ Around 1963, a pivotal decision was made: transforming part of the property into
 
 For decades, Pair-A-Dice wasn’t just a collection of mobile homes; it was a vibrant community.  It housed hundreds of residents, many of whom were senior citizens or families with lower incomes.  It was a place where people built lives, raised families, and found stability – a stark contrast to the transient nature of the Strip.  While the casino's flashing lights faded into memory, the trailer park flourished. It evolved beyond a simple "trailer park" to a more formalized “mobile home community” over time, with individual lots, shared infrastructure, and a sense of permanence that felt increasingly rare in a city defined by constant change.
 
-The park’s affordability made it particularly vital for those needing a secure place to call home close to the city, contributing to the essential, yet often overlooked, fabric of Las Vegas life. Later, its designation as a senior mobile home park further solidified its role in providing crucial retirement housing options. It represented a Las Vegas that was about more than just tourists and high rollers.
+[The park](/posts/the-park-hotel-and-casino-las-vegas/)’s affordability made it particularly vital for those needing a secure place to call home close to the city, contributing to the essential, yet often overlooked, fabric of Las Vegas life. Later, its designation as a senior mobile home park further solidified its role in providing crucial retirement housing options. It represented a Las Vegas that was about more than just tourists and high rollers.
 
 ## A Bitter End and a Lasting Legacy
 

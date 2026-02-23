@@ -13,13 +13,13 @@ The Las Vegas Strip wasn't always about mega-resorts and dazzling choreographed 
 
 ## Googie Glamour and Paul Revere Williams
 
-The motel’s design was the brainchild of Paul Revere Williams, a name synonymous with elegance and innovation in mid-century architecture. Williams, one of the first prominent African American AIA Fellows, infused La Concha with the defining characteristics of Googie architecture: bold, geometric shapes, futuristic elements, and an almost otherworldly feel. The most striking feature? The lobby. Its concrete-shell design, a hyperbolic paraboloid that resembled a giant seashell or a spacecraft, was truly breathtaking. Imagine driving down the Strip and being drawn in by that singular, swooping form. It was a symbol of the atomic age's optimistic vision of the future.  Nearby neighbors included the Riviera (also a stylish haven of its time) and the El Morocco, another Williams masterpiece.
+The motel’s design was the brainchild of Paul Revere Williams, a name synonymous with elegance and innovation in mid-century architecture. Williams, one of the first prominent African American AIA Fellows, infused La Concha with the defining characteristics of Googie architecture: bold, geometric shapes, futuristic elements, and an almost otherworldly feel. The most striking feature? The lobby. Its concrete-shell design, a hyperbolic paraboloid that resembled a giant seashell or a spacecraft, was truly breathtaking. Imagine driving down the Strip and being drawn in by that singular, swooping form. It was a symbol of the atomic age's optimistic vision of the future.  Nearby neighbors included the [Riviera](/posts/riviera-hotel-and-casino-las-vegas/) (also a stylish haven of its time) and the El Morocco, another Williams masterpiece.
 
 ## Stars & Stripes & Strip
 
 La Concha quickly became a celebrity hotspot. The guest list read like a who’s who of the 1960s and 70s entertainment world: Ronald Reagan, Ann-Margret, Flip Wilson, Muhammad Ali, and The Carpenters all graced its rooms. These weren’t just fleeting visits; La Concha offered a certain level of exclusivity and style that appealed to the biggest names in show business. It represented the aspirational lifestyle that Las Vegas was selling – glamour, entertainment, and a touch of the extraordinary.
 
-## Demolition and a Lucky Escape
+## Demolition and a [Lucky](/posts/lucky-casino-las-vegas/) Escape
 
 Sadly, the story isn’t all sunshine and neon. Like many businesses on the ever-changing Las Vegas Strip, La Concha faced mounting financial pressures. Soaring property taxes and exorbitant beautification costs – the infamous $295,000 for just five palm trees – made the land far more valuable than the building itself. In 2003, demolition began, a devastating blow to architectural preservationists. However, a stroke of good fortune intervened. The iconic lobby, that incredible concrete shell, was deemed worthy of saving.
 

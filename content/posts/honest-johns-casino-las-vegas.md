@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "honest johns casino las vegas"]
 
 ## A Different Kind of Vegas
 
-The Las Vegas Strip wasn't always a sprawling landscape of mega-resorts and themed hotels. In the 1960s, particularly on the north end, a different kind of casino thrived – small, independently owned establishments with character to spare. Among these unique properties stood Honest John's Casino, a place that perfectly encapsulated the era’s playful, almost cheeky, approach to entertainment. Located at 2440 Las Vegas Boulevard South (now home to the Bonanza Gift Shop!), Honest John's operated from 1963 to the mid-1970s and represents a vanishing brand of Vegas entrepreneurship.
+The Las Vegas Strip wasn't always a sprawling landscape of mega-resorts and themed hotels. In the 1960s, particularly on the north end, a different kind of casino thrived – small, independently owned establishments with character to spare. Among these unique properties stood Honest John's Casino, a place that perfectly encapsulated the era’s playful, almost cheeky, approach to entertainment. Located at 2440 Las Vegas Boulevard South (now home to the [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Gift Shop!), Honest John's operated from 1963 to the mid-1970s and represents a vanishing brand of Vegas entrepreneurship.
 
 ## The Man Behind the Name
 
@@ -21,7 +21,7 @@ Inside, Honest John’s wasn't about opulent decor or celebrity headliners. It w
 
 ## Short-Lived but Memorable
 
-The north Strip corridor where Honest John’s resided was undergoing significant transformation. As integrated resorts began to dominate, smaller, independent casinos struggled to compete. In 1975, Honest John’s succumbed to the pressure, rebranding first as the Big Wheel Casino, then briefly as Centerfold and ultimately as the Jolly Trolley. Each attempt reflected a frantic effort to remain relevant in an ever-changing market.
+The north Strip corridor where Honest John’s resided was undergoing significant transformation. As integrated resorts began to dominate, smaller, independent casinos struggled to compete. In 1975, Honest John’s succumbed to the pressure, rebranding first as the Big Wheel Casino, then briefly as [Centerfold](/posts/centerfold-casino-las-vegas/) and ultimately as the [Jolly Trolley](/posts/jolly-trolley-casino-las-vegas/). Each attempt reflected a frantic effort to remain relevant in an ever-changing market.
 
 ## A Legacy of Grit and Personality
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "somerset house las vegas"]
 
 ## A Quiet Corner of the Convention Center Drive Boom
 
-The Las Vegas Strip has always conjured images of glittering casinos and dazzling shows, but the story of Las Vegas is so much more than just the marquee lights. It's a story built on the back of countless motels and smaller businesses that quietly supported the city's rapid growth, and the Somerset House Motel is a perfect example. Located at 294 Convention Center Drive, nestled just east of the Strip between the iconic Stardust and the bustling Las Vegas Convention Center, the Somerset House operated from 1963 until its closure and demolition in 2011.
+The Las Vegas Strip has always conjured images of glittering casinos and dazzling shows, but the story of Las Vegas is so much more than just the marquee lights. It's a story built on the back of countless motels and smaller businesses that quietly supported the city's rapid growth, and the Somerset House Motel is a perfect example. Located at 294 Convention Center Drive, nestled just east of the Strip between the iconic [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and the bustling Las Vegas Convention Center, the Somerset House operated from 1963 until its closure and demolition in 2011.
 
 ## Bridging the Gap: Luxury on a Budget
 

@@ -29,7 +29,7 @@ The Showboat’s off-Strip location (though “off-Strip” felt different in th
 
 ## Rebranding and Demise
 
-Like many properties, the Showboat faced challenges in the 1990s. Attempts at modernization resulted in a rebranding – the Showboat became the Castaways Hotel and Casino. While acknowledging the need to evolve, the changes never quite recaptured the original charm and the efforts couldn’t overcome the rapid pace of development on the Las Vegas Strip. The Castaways closed its doors in 2000, and the iconic Showboat building was sadly demolished in 2006. 
+Like many properties, the Showboat faced challenges in the 1990s. Attempts at modernization resulted in a rebranding – the Showboat became the [Castaways Hotel and Casino](/posts/castaways-hotel-and-casino-las-vegas/). While acknowledging the need to evolve, the changes never quite recaptured the original charm and the efforts couldn’t overcome the rapid pace of development on the Las Vegas Strip. The Castaways closed its doors in 2000, and the iconic Showboat building was sadly demolished in 2006. 
 
 ## A Memory on Fremont Street
 

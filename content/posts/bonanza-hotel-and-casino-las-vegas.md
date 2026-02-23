@@ -27,7 +27,7 @@ However, the ownership saga wasn’t over. A dispute between the top two investo
 
 Despite its brief run, the Bonanza’s story took another twist in 1970 when Kirk Kerkorian once again asserted his influence, filing a foreclosure action and regaining control. Sadly, the Bonanza's time was limited. It ultimately closed its doors in early 1973, marking the end of an era. 
 
-Today, the legacy of the Bonanza Hotel & Casino lives on in memory and in the form of the Horseshoe Las Vegas, which now occupies its former location. While the Bonanza may be gone, its story serves as a reminder of the constantly evolving landscape of the Las Vegas Strip and the dreams, ambition, and occasional turbulence that fueled its growth.
+Today, the legacy of the Bonanza Hotel & Casino lives on in memory and in the form of the [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Las Vegas, which now occupies its former location. While the Bonanza may be gone, its story serves as a reminder of the constantly evolving landscape of the Las Vegas Strip and the dreams, ambition, and occasional turbulence that fueled its growth.
 
 
 <div class="shop-collection">

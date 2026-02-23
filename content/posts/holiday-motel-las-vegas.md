@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "holiday motel las vegas"]
 
 ## A Star is Born (and Sparkles!)
 
-The Holiday Motel, originally the Holiday Inn (completely separate from the later national chain), emerged in the early 1950s along the then-U.S. 91, now Las Vegas Boulevard. This was a pivotal era for Las Vegas; the post-war boom fueled a surge in automobile travel, and the boulevard was transforming into the glittering artery of roadside lodging we associate with vintage Las Vegas.  Motor courts, providing affordable and convenient accommodations for travelers, entertainers, and conventioneers, were popping up everywhere, competing for attention amidst the rising casino glamour.
+The [Holiday](/posts/holiday-casino-las-vegas/) Motel, originally the Holiday Inn (completely separate from the later national chain), emerged in the early 1950s along the then-U.S. 91, now Las Vegas Boulevard. This was a pivotal era for Las Vegas; the post-war boom fueled a surge in automobile travel, and the boulevard was transforming into the glittering artery of roadside lodging we associate with vintage Las Vegas.  Motor courts, providing affordable and convenient accommodations for travelers, entertainers, and conventioneers, were popping up everywhere, competing for attention amidst the rising casino glamour.
 
 ## The Googie Glow-Up
 

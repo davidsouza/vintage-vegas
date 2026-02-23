@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "red barn bar and nightclub las veg
 
 ## From Antiques to Acceptance: The Early Years
 
-The story of the Red Barn Bar and Nightclub isn't your typical Las Vegas Strip narrative. Located at 1317 Bond Road, far from the glittering casinos, its beginnings were remarkably humble. Opened in 1958 as an antique store, it catered to the curious travelers venturing along a quieter stretch of road, close to Tropicana and Maryland Parkway. Imagine browsing vintage furniture and curiosities – a stark contrast to the glamorous image often associated with Las Vegas. However, a significant shift occurred in the early 1960s when new ownership transformed the shop into a cocktail lounge and bar. It started as a general entertainment venue, but a unique identity soon began to emerge.
+The story of the Red Barn Bar and Nightclub isn't your typical Las Vegas Strip narrative. Located at 1317 Bond Road, far from the glittering casinos, its beginnings were remarkably humble. Opened in 1958 as an antique store, it catered to the curious travelers venturing along a quieter stretch of road, close to [Tropicana](/posts/tropicana-country-club-las-vegas/) and Maryland Parkway. Imagine browsing vintage furniture and curiosities – a stark contrast to the glamorous image often associated with Las Vegas. However, a significant shift occurred in the early 1960s when new ownership transformed the shop into a cocktail lounge and bar. It started as a general entertainment venue, but a unique identity soon began to emerge.
 
 ## Bert Hood & the Rise of the RB Follies
 

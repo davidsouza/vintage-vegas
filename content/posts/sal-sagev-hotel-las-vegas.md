@@ -13,11 +13,11 @@ youtube_thumbnail: "https://i.ytimg.com/vi/wmGXQqwN6GE/hqdefault.jpg"
 
 ## A Name That's a Mirror Image of History
 
-The Golden Gate Hotel & Casino on Fremont Street is a Vegas landmark, and while it's recognizable today, many don't know it stands on the site of something even older and arguably more charming: the Sal Sagev Hotel. The unusual name itself – a palindrome that reads "Las Vegas" backward – is a delightful quirk reflecting the playful creativity of early Fremont Street. This wasn’t just a clever marketing gimmick; it was a symbol of a nascent city finding its voice.
+The [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/) Hotel & Casino on Fremont Street is a Vegas landmark, and while it's recognizable today, many don't know it stands on the site of something even older and arguably more charming: the Sal Sagev Hotel. The unusual name itself – a palindrome that reads "Las Vegas" backward – is a delightful quirk reflecting the playful creativity of early Fremont Street. This wasn’t just a clever marketing gimmick; it was a symbol of a nascent city finding its voice.
 
-## From Hotel Nevada to a Downtown Hub
+## From [Hotel Nevada](/posts/hotel-nevada-las-vegas/) to a Downtown Hub
 
-The building's story begins in 1906 as the Hotel Nevada. Situated at 1 Fremont Street, it quickly became vital to the burgeoning community.  Think about it – this wasn't the Las Vegas we know today. No glittering Strip, no megaresorts, just a dusty outpost at the end of a railroad line. The Hotel Nevada provided crucial lodging and respite for railroad workers, weary travelers, and the pioneers carving a life out of the Nevada desert. It was quite literally the gateway to Las Vegas. Imagine stagecoaches and trains pulling up to the depot just west of the hotel – the very heartbeat of the city's existence.
+The building's story begins in 1906 as the Hotel Nevada. Situated at 1 Fremont Street, it quickly became vital to the burgeoning community.  Think about it – this wasn't the Las Vegas we know today. No glittering Strip, no megaresorts, just a dusty outpost at the end of a railroad line. The Hotel Nevada provided crucial lodging and respite for railroad workers, weary travelers, and the pioneers carving a life out of the Nevada desert. It was quite literally the [gateway](/posts/gateway-motel-las-vegas/) to Las Vegas. Imagine stagecoaches and trains pulling up to the depot just west of the hotel – the very heartbeat of the city's existence.
 
 ## The Sal Sagev Era: Modesty and Charm
 

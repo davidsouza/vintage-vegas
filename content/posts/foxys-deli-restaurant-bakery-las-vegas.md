@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "foxys deli restaurant bakery las v
 
 ## A Vegas Institution: Foxy's Takes Root
 
-The 1950s and 60s – a golden era for Las Vegas. The Strip was burgeoning, neon lights blazed, and the entertainment was legendary. But amidst the glitz and glamour, there existed a place where a hearty Reuben sandwich and a warm welcome were just as valuable as a jackpot. That place was Foxy’s Delicatessen, Restaurant, and Bakery, a true cornerstone of early Las Vegas culture. Located at the corner of Las Vegas Boulevard and Sahara Avenue (then San Francisco Avenue), Abe "Foxy" Fox’s creation opened its doors in 1955 and quickly cemented its place in Vegas history.
+The 1950s and 60s – a golden era for Las Vegas. The Strip was burgeoning, neon lights blazed, and the entertainment was legendary. But amidst the glitz and glamour, there existed a place where a hearty Reuben sandwich and a warm welcome were just as valuable as a jackpot. That place was Foxy’s Delicatessen, Restaurant, and Bakery, a true cornerstone of early Las Vegas culture. Located at the corner of Las Vegas Boulevard and [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue (then San Francisco Avenue), Abe "Foxy" Fox’s creation opened its doors in 1955 and quickly cemented its place in Vegas history.
 
 ## More Than Just a Deli: A Hub of Community
 

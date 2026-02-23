@@ -7,7 +7,7 @@ location: "Imperial Palace Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "imperial palace hotel and casino las vegas"]
 ---
 
-## From Flamingo Capri to Imperial Grandeur
+## From [Flamingo Capri](/posts/flamingo-capri-hotel-and-casino-las-vegas/) to Imperial Grandeur
 
 The Las Vegas Strip has seen countless transformations over the decades, and few properties have undergone a more dramatic evolution than the former Imperial Palace Hotel and Casino. Its story begins, not as the opulent Chinese-themed resort we remember, but as the Flamingo Capri motel. This modest establishment, built in 1960, eventually caught the eye of Ralph Engelstad, a North Dakota entrepreneur known for his ambitious projects and, unfortunately, controversial personal collections. Engelstad’s purchase in the early 1970s marked the beginning of a massive shift for the property. He initially added a casino in 1972, laying the groundwork for what was to come.
 
@@ -17,7 +17,7 @@ November 1, 1979, brought the unveiling of the brand new Imperial Palace. Engels
 
 ## The Auto Collections and "Legends in Concert"
 
-The 1980s witnessed the Imperial Palace’s tremendous growth. A highlight of this era was the creation of the Auto Collections showroom in 1981. Housing a staggering collection of 250 classic, antique, and muscle cars—valued at over $100 million—it became a major draw for both car enthusiasts and casual visitors. Equally iconic was the launch of "Legends in Concert" in May 1983. This tribute show, featuring incredibly talented impersonators of music legends like Elvis Presley, Michael Jackson, and Cher, captivated audiences and ultimately became the longest-running show in Las Vegas history, solidifying the Imperial Palace’s reputation as a premier entertainment destination. The property also cultivated a lively atmosphere with seasonal luaus and Polynesian-themed pool parties.
+The 1980s witnessed the Imperial Palace’s tremendous growth. A highlight of this era was the creation of the Auto Collections showroom in 1981. Housing a staggering collection of 250 classic, antique, and muscle cars—valued at over $100 million—it became a major draw for both car enthusiasts and casual visitors. Equally iconic was the launch of "Legends in Concert" in May 1983. This tribute show, featuring incredibly talented impersonators of music legends like Elvis Presley, Michael Jackson, and Cher, captivated audiences and ultimately became the longest-running show in Las Vegas history, solidifying the Imperial Palace’s reputation as a premier entertainment destination. The property also cultivated a lively atmosphere with seasonal luaus and [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/)-themed pool parties.
 
 ## A Shadow and a Legacy
 

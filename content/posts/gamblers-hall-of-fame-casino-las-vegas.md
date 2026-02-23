@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/y1GGJf3yX2U/hqdefault.jpg"
 
 ## A Unique Concept on Fremont Street
 
-The 1970s were a period of significant change for Las Vegas. Downtown, in particular, was striving for identity amidst the burgeoning Strip. In 1974, a fascinating concept materialized at 32 Fremont Street: the Gambler's Hall of Fame Casino. It wasn't just a casino; it was intended as a tribute, a shrine to the legends of poker and gaming. Taking over the space formerly occupied by the Carousel Casino, the new establishment boldly proclaimed itself a “Hall of Fame,” a concept more associated with sports or music – a deliberate attempt to elevate gambling to a respected pastime.
+The 1970s were a period of significant change for Las Vegas. Downtown, in particular, was striving for identity amidst the burgeoning Strip. In 1974, a fascinating concept materialized at 32 Fremont Street: the Gambler's Hall of Fame Casino. It wasn't just a casino; it was intended as a tribute, a shrine to the legends of poker and gaming. Taking over the space formerly occupied by the [Carousel](/posts/carousel-hotel-and-casino-las-vegas/) Casino, the new establishment boldly proclaimed itself a “Hall of Fame,” a concept more associated with sports or music – a deliberate attempt to elevate gambling to a respected pastime.
 
 ## More Than Just a Casino
 
@@ -21,13 +21,13 @@ The Gambler’s Hall of Fame offered a distinct experience. While you could, of 
 
 ## A Short But Colorful Run
 
-Sadly, the dream was brief.  By January 1976, just under two years after its grand opening, the Gambler’s Hall of Fame Casino closed its doors. Financial difficulties plagued the venture, forcing it into U.S. Bankruptcy Court.  The subsequent sale, a significant $135,000 bid won by Al Sachs (former General Manager of the Stardust), further highlighted the precariousness of its situation. Rumors swirled regarding the casino’s default loan being linked to a Teamsters Pension Fund, a not uncommon association for Vegas businesses during that era, adding another layer of intrigue to its story.
+Sadly, the dream was brief.  By January 1976, just under two years after its grand opening, the Gambler’s Hall of Fame Casino closed its doors. Financial difficulties plagued the venture, forcing it into U.S. Bankruptcy Court.  The subsequent sale, a significant $135,000 bid won by Al Sachs (former General Manager of the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/)), further highlighted the precariousness of its situation. Rumors swirled regarding the casino’s default loan being linked to a Teamsters Pension Fund, a not uncommon association for Vegas businesses during that era, adding another layer of intrigue to its story.
 
 ## Legacy in Memorabilia and Memory
 
 Despite its short existence, the Gambler’s Hall of Fame left behind a surprisingly strong legacy. Its name and concept resonated with those who appreciated vintage Vegas. Collectors now covet items like the striking red-and-black $5 chip from 1974, a testament to the casino’s unique branding.  That single chip can command upwards of $100 today, proving the enduring fascination with this forgotten gem of Fremont Street. 
 
-The site itself has undergone numerous transformations following the original casino’s demise. Herb Pastor, known for the Golden Goose, later brought the location to life as Sundance West, then Sassy Sally’s, and finally the long-running Mermaids Casino.  Now, the entire block is part of the expansive Circa Resort and Casino complex, a sign of the incredible evolution of downtown Las Vegas. While the original structure was demolished in 2017-2018, the Gambler's Hall of Fame Casino remains a poignant reminder of an era of bold themes, rapid turnover, and the ever-present whispers of the city’s complex history.
+The site itself has undergone numerous transformations following the original casino’s demise. Herb Pastor, known for the [Golden Goose](/posts/golden-goose-hotel-and-casino-las-vegas/), later brought the location to life as [Sundance West](/posts/sundance-west-casino-las-vegas/), then Sassy Sally’s, and finally the long-running [Mermaids Casino](/posts/mermaids-casino-las-vegas/).  Now, the entire block is part of the expansive Circa Resort and Casino complex, a sign of the incredible evolution of downtown Las Vegas. While the original structure was demolished in 2017-2018, the Gambler's Hall of Fame Casino remains a poignant reminder of an era of bold themes, rapid turnover, and the ever-present whispers of the city’s complex history.
 
 
 <div class="shop-collection">

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "carousel hotel and casino las vega
 
 ## A Whirl of Fun on Fremont Street
 
-The 1960s were a whirlwind of change for Las Vegas, and the Carousel Hotel and Casino, rising on the corner of Fremont and First, added its own vibrant spin to the scene. Opening in 1964 as part of the Spinning Wheel Corporation, the Carousel quickly established itself as a cornerstone of downtown Las Vegas. Standing proudly amongst iconic neighbors like The Mint and the Pioneer Club, its bright neon marquee and whimsical carousel imagery made it instantly recognizable.
+The 1960s were a whirlwind of change for Las Vegas, and the Carousel Hotel and Casino, rising on the corner of Fremont and First, added its own vibrant spin to the scene. Opening in 1964 as part of the Spinning Wheel Corporation, the Carousel quickly established itself as a cornerstone of downtown Las Vegas. Standing proudly amongst iconic neighbors like [The Mint](/posts/the-mint-hotel-and-casino-las-vegas/) and the [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/), its bright neon marquee and whimsical carousel imagery made it instantly recognizable.
 
 ## More Than Just Games: Promotions and Affordability
 
@@ -23,7 +23,7 @@ Throughout its relatively short lifespan, the Carousel changed hands several tim
 
 ## A Fading Legacy, A New Beginning
 
-Sadly, the Carousel’s whirling days came to an end in 1974. The rapid evolution of downtown Las Vegas meant that its architectural style and appeal were gradually becoming less relevant. It was absorbed into the larger trends transforming the Fremont Street Experience. While the building itself is long gone, replaced by the modern Circa Resort & Casino, the memory of the Carousel lives on in the hearts of those who remember its playful spirit. The site's subsequent incarnations – Gambler’s Hall of Fame, Sundance West, Sassy Sally’s, and Mermaids Casino – all attempted to capture some of the Carousel's original charm, but nothing quite replicated the unique identity that made it a beloved fixture of vintage Las Vegas.
+Sadly, the Carousel’s whirling days came to an end in 1974. The rapid evolution of downtown Las Vegas meant that its architectural style and appeal were gradually becoming less relevant. It was absorbed into the larger trends transforming the Fremont Street Experience. While the building itself is long gone, replaced by the modern Circa Resort & Casino, the memory of the Carousel lives on in the hearts of those who remember its playful spirit. The site's subsequent incarnations – Gambler’s Hall of Fame, [Sundance West](/posts/sundance-west-casino-las-vegas/), Sassy Sally’s, and [Mermaids Casino](/posts/mermaids-casino-las-vegas/) – all attempted to capture some of the Carousel's original charm, but nothing quite replicated the unique identity that made it a beloved fixture of vintage Las Vegas.
 
 
 <div class="shop-collection">

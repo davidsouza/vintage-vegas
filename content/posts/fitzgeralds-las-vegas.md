@@ -11,9 +11,9 @@ youtube_title: "Vintage Las Vegas Fitzgeralds Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/77zOn76R9zA/hqdefault.jpg"
 ---
 
-## From Sundance to Fitzgeralds: A Downtown Evolution
+## From Sundance to [Fitzgeralds](/posts/fitzgeralds-hotel-and-casino/): A Downtown Evolution
 
-Downtown Las Vegas’ Fremont Street Experience has seen countless transformations over the years, and the location that now houses The D Las Vegas is no exception. Before the glitz and glamour of Fitzgeralds graced the area, this spot was home to the Sundance Hotel and Casino. Opened in 1956, the Sundance was a classic, mid-century Vegas establishment, reflecting the burgeoning casino scene taking root on Fremont Street. However, the casino eventually faded, and in 1987, it was reborn as Fitzgeralds Las Vegas, named for the legendary F. Scott Fitzgerald and his wife Zelda, iconic figures of the Jazz Age – a nod to the allure of sophisticated entertainment.
+Downtown Las Vegas’ Fremont Street Experience has seen countless transformations over the years, and the location that now houses The D Las Vegas is no exception. Before the glitz and glamour of Fitzgeralds graced the area, this spot was home to the [Sundance Hotel and Casino](/posts/sundance-hotel-and-casino-las-vegas/). Opened in 1956, the Sundance was a classic, mid-century Vegas establishment, reflecting the burgeoning casino scene taking root on Fremont Street. However, the casino eventually faded, and in 1987, it was reborn as Fitzgeralds Las Vegas, named for the legendary F. Scott Fitzgerald and his wife Zelda, iconic figures of the Jazz Age – a nod to the allure of sophisticated entertainment.
 
 Fitzgeralds arrived during a crucial period for Downtown. While the Strip was rapidly expanding, Fremont Street still held a significant portion of Vegas’ casino revenue. Fitzgeralds offered a dependable, moderately priced experience, fitting in well with the established Downtown vibe. It wasn't about flashy, high-roller extravagance; it was about accessible fun, decent odds, and a lively atmosphere – a key ingredient in Fremont Street’s appeal. The casino became known for its friendly staff and consistent offerings. 
 
@@ -25,7 +25,7 @@ Recognizing the potential of the Las Vegas property, Barden strategically separa
 
 ## A Legacy of Transition and Rebirth
 
-Don Barden's untimely death in October 2011 marked the end of an era for Fitzgeralds Las Vegas. His estate subsequently sold the casino to the Stevens brothers, Derek and Greg, owners of the iconic Golden Gate Casino. In Fall 2012, they rebranded Fitzgeralds as The D Las Vegas, honoring their father, Del Webb, known affectionately as "D." 
+Don Barden's untimely death in October 2011 marked the end of an era for Fitzgeralds Las Vegas. His estate subsequently sold the casino to the Stevens brothers, Derek and Greg, owners of the iconic [Golden Gate](/posts/golden-gate-hotel-and-casino-las-vegas/) Casino. In Fall 2012, they rebranded Fitzgeralds as The D Las Vegas, honoring their father, Del Webb, known affectionately as "D." 
 
 While Fitzgeralds is now a memory, its legacy lives on. It represents a critical chapter in Downtown Las Vegas' evolution and a powerful symbol of breaking down barriers in the gaming industry through the ownership of Don Barden. The building itself continues to entertain, evolving yet still holding echoes of the charm and character that defined Fitzgeralds Las Vegas.
 

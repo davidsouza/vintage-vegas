@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/Y52dYvtupTk/hqdefault.jpg"
 
 ## A Bold Experiment on the Strip
 
-The Las Vegas Strip has always been synonymous with gambling, bright lights, and non-stop entertainment. But in December 1962, Edwin S. Lowe, a name familiar to many through his contributions to popular games like Bingo and Yahtzee, dared to dream of something different. He envisioned a luxury retreat, a haven of tranquility *without* the clatter of slot machines – the Tallyho Hotel and Country Club. Positioned directly across from the iconic Dunes Hotel, the Tallyho was an audacious experiment, a "country club" atmosphere plopped down in the heart of the burgeoning Las Vegas Strip.
+The Las Vegas Strip has always been synonymous with gambling, bright lights, and non-stop entertainment. But in December 1962, Edwin S. Lowe, a name familiar to many through his contributions to popular games like Bingo and Yahtzee, dared to dream of something different. He envisioned a luxury retreat, a haven of tranquility *without* the clatter of slot machines – the Tallyho Hotel and Country Club. Positioned directly across from the iconic [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) Hotel, the Tallyho was an audacious experiment, a "country club" atmosphere plopped down in the heart of the burgeoning Las Vegas Strip.
 
 ## Tudor Charm & Unique Amenities
 
@@ -29,7 +29,7 @@ The property didn’t stay dark for long. Kings Crown Inns of America quickly ac
 
 ## From Tudor to Arabian Nights & Beyond
 
-The Tallyho’s true transformation came in early 1966 when hotel magnate Milton Prell purchased the land. Prell commissioned architect Martin Stern Jr. to completely reimagine the Tudor estate into something new: the Arabian-themed Aladdin, which debuted on April 1, 1966. While the Aladdin proved successful, the original Tallyho structures were eventually demolished in 1998 to make way for a more modern resort. Today, the site is occupied by Planet Hollywood, a testament to the ever-evolving nature of the Las Vegas Strip.  The Tallyho, though short-lived, remains a fascinating footnote in Las Vegas history - a reminder that even in the entertainment capital of the world, unconventional ideas can sometimes fall victim to the relentless pull of the house edge.
+The Tallyho’s true transformation came in early 1966 when hotel magnate Milton Prell purchased the land. Prell commissioned architect Martin Stern Jr. to completely reimagine the Tudor estate into something new: the Arabian-themed [Aladdin](/posts/aladdin-hotel-and-casino-las-vegas/), which debuted on April 1, 1966. While the Aladdin proved successful, the original Tallyho structures were eventually demolished in 1998 to make way for a more modern resort. Today, the site is occupied by Planet Hollywood, a testament to the ever-evolving nature of the Las Vegas Strip.  The Tallyho, though short-lived, remains a fascinating footnote in Las Vegas history - a reminder that even in the entertainment capital of the world, unconventional ideas can sometimes fall victim to the relentless pull of the house edge.
 
 
 <div class="shop-collection">

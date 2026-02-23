@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "top o the dunes restaurant las veg
 
 ## A Bird’s-Eye View of the Las Vegas Strip
 
-Before High Roller observation wheels and multiple sky-high lounges dotted the Las Vegas Strip, there was Top O’ The Dunes. Originally christened "Top O’ The Strip" in 1965, this signature restaurant and lounge atop the Dunes Hotel & Casino offered a truly unique experience: fine dining with an unparalleled panoramic view. The Dunes, often referred to as the "Diamond of the Dunes," was a landmark in itself, and its 21-story tower was one of the tallest buildings in Nevada at the time. Imagine that – a breathtaking, floor-to-ceiling vista of the glittering Strip, the bright lights of downtown, and the vast expanse of the desert.  It was a view unlike anything else available at the time and quickly became a destination in its own right.
+Before High Roller observation wheels and multiple sky-high lounges dotted the Las Vegas Strip, there was Top O’ The [Dunes](/posts/dunes-hotel-and-casino-las-vegas/). Originally christened "Top O’ The Strip" in 1965, this signature restaurant and lounge atop the Dunes Hotel & Casino offered a truly unique experience: fine dining with an unparalleled panoramic view. The Dunes, often referred to as the "Diamond of the Dunes," was a landmark in itself, and its 21-story tower was one of the tallest buildings in Nevada at the time. Imagine that – a breathtaking, floor-to-ceiling vista of the glittering Strip, the bright lights of downtown, and the vast expanse of the desert.  It was a view unlike anything else available at the time and quickly became a destination in its own right.
 
 ## Dining with a View & a Soundtrack
 

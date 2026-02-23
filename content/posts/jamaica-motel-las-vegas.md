@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "jamaica motel las vegas"]
 
 ## A Slice of Strip Simplicity: The Jamaica Motel
 
-The Las Vegas Strip wasn't always dominated by sprawling mega-resorts and themed hotels. In the early 1960s, a different kind of lodging thrived – the roadside motor court. These were simple, affordable havens for travelers, offering a convenient and welcoming place to rest after a long drive. Among these, the Jamaica Motel stood out, a familiar landmark at 3745 South Las Vegas Boulevard, just south of Tropicana Avenue.
+The Las Vegas Strip wasn't always dominated by sprawling mega-resorts and themed hotels. In the early 1960s, a different kind of lodging thrived – the roadside motor court. These were simple, affordable havens for travelers, offering a convenient and welcoming place to rest after a long drive. Among these, the Jamaica Motel stood out, a familiar landmark at 3745 South Las Vegas Boulevard, just south of [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue.
 
 ## A Mid-Century Oasis
 

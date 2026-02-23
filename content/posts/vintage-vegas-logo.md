@@ -11,11 +11,11 @@ tags: ["las vegas history", "vintage vegas", "vintage vegas logo"]
 
 Before the mega-resorts and high-roller suites, Las Vegas was built on a foundation of bold promises and even bolder branding. The early years, from the 1930s through the 1960s, saw the emergence of those now-iconic vintage Vegas logos – designs that weren’t just identifiers, but potent symbols of a burgeoning entertainment empire. They were carefully crafted to lure tourists with the promise of luxury, excitement, and a taste of the exotic. Unlike today’s sleek, often minimalist designs, these vintage logos were deliberately flamboyant, often bursting with color, playful typography, and representations of the Nevada desert landscape or the dazzling entertainment within.
 
-## Early Days: Flamingo & Sahara
+## Early Days: Flamingo & [Sahara](/posts/sahara-hotel-and-casino-las-vegas/)
 
 Think about the original Flamingo logo. It wasn’t just a pink bird; it was *the* pink bird, instantly recognizable and synonymous with the glitz of the early Strip. Bugsy Siegel understood the power of a visual identity. Similarly, the Sahara Hotel’s logo, with its stylized desert oasis and Arabic-inspired lettering, transported visitors to a romanticized Middle East, playing on the mystique of far-off lands. These weren’t just marketing tools; they were carefully constructed narratives aimed at creating an immersive and unforgettable experience. The early logos leaned heavily into escapism, offering an alternative to the realities of post-war America.
 
-## The Mid-Century Boom: Stardust & Caesars
+## The Mid-Century Boom: [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) & Caesars
 
 As Las Vegas continued to boom in the mid-1950s and 60s, so did the sophistication of its branding. The Stardust logo, with its twinkling stars and elegant typeface, perfectly encapsulated the aspirational dream of a glamorous night out. It moved away from the overtly exotic themes of the earlier years toward a more refined, timeless appeal. Then came Caesars Palace, a project designed to literally transport guests to ancient Rome. Its logo, incorporating Roman numerals and imperial iconography, wasn’t just a design element; it was a declaration of ambition and grandeur. These logos were aggressively designed, competing for attention amidst the burgeoning neon landscape of the Strip. They had to *pop*.
 

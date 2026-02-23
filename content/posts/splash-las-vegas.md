@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "splash las vegas"]
 
 ## A Rising Tide of Entertainment: Introducing Splash
 
-The 1980s Las Vegas Strip was a dazzling place, fueled by ambition, neon, and a relentless pursuit of bigger and better entertainment. While glitz and gambling were ever-present, the era also delivered some truly iconic revue shows, and few shone brighter than "Splash." Debuting in June 1985 at the Riviera Hotel and Casino, *Splash* wasn’t just another Vegas show; it was an “aquacade” – a revolutionary blend of music, dance, and aquatic performance. Created by the visionary Jeff Kutash, it captured the essence of the decade’s vibrant pop culture and rapidly became a cornerstone of the Riviera’s entertainment offerings.
+The 1980s Las Vegas Strip was a dazzling place, fueled by ambition, neon, and a relentless pursuit of bigger and better entertainment. While glitz and gambling were ever-present, the era also delivered some truly iconic revue shows, and few shone brighter than "Splash." Debuting in June 1985 at the [Riviera Hotel and Casino](/posts/riviera-hotel-and-casino-las-vegas/), *Splash* wasn’t just another Vegas show; it was an “aquacade” – a revolutionary blend of music, dance, and aquatic performance. Created by the visionary Jeff Kutash, it captured the essence of the decade’s vibrant pop culture and rapidly became a cornerstone of the Riviera’s entertainment offerings.
 
 ## The Versailles Theatre & the Central Spectacle
 

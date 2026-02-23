@@ -7,15 +7,15 @@ location: "I Lost My A in Las Legas"
 tags: ["las vegas history", "vintage vegas", "i lost my a in las legas"]
 ---
 
-## A Matchbook Mystery: “I Lost My A in Las Vegas”
+## A Matchbook Mystery: “[I Lost My A in Las Vegas](/posts/i-lost-my-a-in-las-vegas/)”
 
 Vintage Las Vegas ephemera is a treasure trove for history buffs like myself. Recently, a particularly intriguing piece surfaced: a matchbook declaring, "I Lost My A in Las Vegas." While the phrase itself is playfully cryptic (referring, undoubtedly, to a significant loss – financial or otherwise!), the real fascination lies in the list of participating hotels emblazoned inside. This wasn't just a clever marketing slogan; it was a promotional tie-in showcasing the major players of the Las Vegas Strip in the 1970s.
 
 ## A Star-Studded List of Hotels
 
-Let’s break down that impressive roster. We’re talking a veritable who’s who of classic Las Vegas resorts. The Union Plaza, a historic landmark, stood alongside the glitzy Sahara, still in its relatively early years of operation. The Desert Inn, a Howard Hughes creation, was at its peak, known for its understated elegance. The Riviera, with its sophisticated vibe, felt like a slice of the French Riviera transplanted to the desert. Of course, the Flamingo, a legendary name thanks to its association with Bugsy Siegel, was always a Strip staple.
+Let’s break down that impressive roster. We’re talking a veritable who’s who of classic Las Vegas resorts. The Union Plaza, a historic landmark, stood alongside the glitzy [Sahara](/posts/sahara-hotel-and-casino-las-vegas/), still in its relatively early years of operation. The [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/), a Howard Hughes creation, was at its peak, known for its understated elegance. The [Riviera](/posts/riviera-hotel-and-casino-las-vegas/), with its sophisticated vibe, felt like a slice of the French Riviera transplanted to the desert. Of course, the Flamingo, a legendary name thanks to its association with Bugsy Siegel, was always a Strip staple.
 
-Then there’s the MGM Grand (the *first* MGM Grand, not the behemoth we know today), the Dunes (sadly, demolished to make way for Bellagio), the Hacienda (another casualty of progress, though its neon sign lives on), Circus Circus (a family-friendly phenomenon!), the Sands (home to the infamous “Rat Pack” era), the Las Vegas Hilton (a powerhouse known for its celebrity headliners), the Frontier Hotel (a pioneer of the Strip), the Aladdin (with its Arabian Nights theme), Caesars Palace (a Roman empire rising from the desert), the Stardust, and finally, the Tropicana, showcasing a tropical paradise feel. 
+Then there’s the MGM Grand (the *first* MGM Grand, not the behemoth we know today), the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) (sadly, demolished to make way for Bellagio), the [Hacienda](/posts/hacienda-hotel-and-casino-las-vegas/) (another casualty of progress, though its neon sign lives on), Circus Circus (a family-friendly phenomenon!), [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/) (home to the infamous “Rat Pack” era), the [Las Vegas Hilton](/posts/las-vegas-hilton-hotel-and-casino-las-vegas/) (a powerhouse known for its celebrity headliners), [the Frontier](/posts/the-frontier-hotel-and-casino-las-vegas/) Hotel (a pioneer of the Strip), the [Aladdin](/posts/aladdin-hotel-and-casino-las-vegas/) (with its Arabian Nights theme), Caesars Palace (a Roman empire rising from the desert), the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/), and finally, the [Tropicana](/posts/tropicana-country-club-las-vegas/), showcasing a tropical [paradise](/posts/paradise-hotel-and-casino-las-vegas/) feel. 
 
 ## The 1970s: An Era of Excess and Innovation
 

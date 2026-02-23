@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "friendly club casino las vegas"]
 
 ## A Little Slice of Vegas Charm: The Friendly Club Casino
 
-Downtown Las Vegas in the late 1970s and early 1980s was a fascinating mix. "Glitter Gulch," as Fremont Street was then known, pulsed with neon and the promise of excitement. Towering resorts like the Golden Nugget and Binion's Horseshoe vied for attention. But tucked amongst these behemoths existed smaller, more intimate casinos – places that felt like neighborhood hangouts. One of the most fondly remembered of these was the Friendly Club Casino.
+Downtown Las Vegas in the late 1970s and early 1980s was a fascinating mix. "[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/)," as Fremont Street was then known, pulsed with neon and the promise of excitement. Towering resorts like the Golden Nugget and Binion's [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) vied for attention. But tucked amongst these behemoths existed smaller, more intimate casinos – places that felt like neighborhood hangouts. One of the most fondly remembered of these was the Friendly Club Casino.
 
 Operating from roughly 1978 to 1983 at 101 Fremont Street, the Friendly Club wasn’t about lavish displays or celebrity endorsements. It was about something rarer: genuine hospitality. The name itself hinted at the casino’s core philosophy – a place where everyone felt welcome. While larger casinos catered to high rollers, the Friendly Club provided a relaxed, easygoing environment for everyday players. Its games primarily revolved around slot machines, supplemented by a small selection of table games.
 
@@ -17,7 +17,7 @@ Operating from roughly 1978 to 1983 at 101 Fremont Street, the Friendly Club was
 
 The location on Fremont Street was key. It allowed the Friendly Club to benefit from the heavy foot traffic, but unlike its larger neighbors, it retained a decidedly local feel. This was a critical differentiator. Larger casinos were starting to focus on attracting tourists from all over the world, while the Friendly Club aimed for a genuine connection with the Las Vegas community. They succeeded. Stories abound of friendly service, generous promotions, and a general feeling of ease that was hard to find elsewhere on Fremont. This fostered a loyal following of locals who appreciated the unpretentious atmosphere. Matchbooks and gaming tokens from this era – now highly sought-after collectibles – perfectly encapsulate the casino’s simple, yet inviting, brand.
 
-## The Shifting Sands of Downtown Las Vegas
+## The Shifting [Sands](/posts/sands-hotel-and-casino-las-vegas/) of Downtown Las Vegas
 
 Sadly, the Friendly Club’s run was relatively short. By 1983, it had closed its doors, likely succumbing to the changing dynamics of the Las Vegas landscape. The rise of large, corporate-backed properties with deeper pockets meant that smaller, locally-owned casinos struggled to compete. The impending Fremont Street Experience construction further altered the character of downtown, paving over much of its original charm.  The property itself is now integrated into the Fremont Street Experience, with no physical trace of the Friendly Club remaining.
 

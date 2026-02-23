@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "flamingo capri hotel and casino la
 
 ## A Bridge Between Eras
 
-The Las Vegas Strip’s evolution is a fascinating story of constant reinvention. Often overshadowed by its glitzy neighbors, the Flamingo Capri Hotel and Casino played a quietly important role in this transformation. Opened on October 30, 1959, nestled directly north of the original Flamingo, the Capri wasn't aiming for the spectacle of a full-blown resort. Instead, it offered something different – a taste of Flamingo luxury at a more approachable price point. Located on what's now largely The LINQ complex, it represented a crucial step between the early motor court days and the era of towering casino-hotels that would soon define the Strip.
+The Las Vegas Strip’s evolution is a fascinating story of constant reinvention. Often overshadowed by its glitzy neighbors, the [Flamingo Capri Hotel and Casino](/posts/flamingo-capri-hotel-and-casino-las-vegas/) played a quietly important role in this transformation. Opened on October 30, 1959, nestled directly north of the original Flamingo, the Capri wasn't aiming for the spectacle of a full-blown resort. Instead, it offered something different – a taste of Flamingo luxury at a more approachable price point. Located on what's now largely The LINQ complex, it represented a crucial step between the early motor court days and the era of towering casino-hotels that would soon define the Strip.
 
 ## The Capri Connection and Clever Marketing
 
@@ -21,7 +21,7 @@ Early advertising campaigns highlighted the modern conveniences: air conditionin
 
 A pivotal shift occurred in 1971 when Ralph Engelstad, a contractor and astute entrepreneur, purchased the property. Engelstad recognized the potential to expand. He added a casino in 1972, further enhancing the Capri's appeal. New wings and the Shangri-La pool were added in 1974, demonstrating Engelstad’s commitment to growth. By 1976, the property flew the Best Western flag, retaining the familiar Flamingo Capri name.
 
-However, Engelstad’s ambitions extended far beyond a modest motel. In 1977, construction began on a massive 19-story tower, signaling a complete overhaul. The inevitable arrived on November 1, 1979, when the entire complex was rebranded as the Imperial Palace, and the original Flamingo Capri casino building was demolished to create a grand new entrance.
+However, Engelstad’s ambitions extended far beyond a modest motel. In 1977, construction began on a massive 19-story tower, signaling a complete overhaul. The inevitable arrived on November 1, 1979, when the entire complex was rebranded as the [Imperial Palace](/posts/imperial-palace-hotel-and-casino-las-vegas/), and the original Flamingo Capri casino building was demolished to create a grand new entrance.
 
 ## A Legacy Lives On
 

@@ -11,17 +11,17 @@ youtube_title: "Vintage Las Vegas Boardwalk Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/2i969HDgLW0/hqdefault.jpg"
 ---
 
-## From Holiday Inn to Boardwalk Dreams: Early Days on the Strip
+## From [Holiday](/posts/holiday-casino-las-vegas/) Inn to Boardwalk Dreams: Early Days on the Strip
 
 The Las Vegas Strip has always been about transformation and reinvention. Few properties illustrate this better than the Boardwalk Hotel & Casino. Its story began in 1966, not as a glittering casino-resort, but as a straightforward Holiday Inn. Designed by the talented Homer Rissman, it offered a practical, mid-Strip lodging option – a far cry from the themed extravaganzas that would later define the area. For years, it operated as a quiet contributor to the burgeoning Las Vegas landscape, offering a restaurant, cocktail lounge, and meeting space for business travelers. 
 
-## Slot Joynt & The Viscount: Shifting Sands
+## Slot Joynt & The Viscount: Shifting [Sands](/posts/sands-hotel-and-casino-las-vegas/)
 
 The 1970s brought change, as it did for the entire Strip. In 1977, the hotel’s gaming area underwent a rebranding, becoming the “Slot Joynt Casino.” This marked the first significant step toward establishing a true casino-hotel identity. This was followed by another name change in 1985, when the entire property became the Viscount Hotel. While not a total failure, the Viscount never quite captured the imagination of visitors. It needed something… *more*.
 
 ## Coney Island Comes to Las Vegas: The Boardwalk Era
 
-And then, in 1989, the transformation was complete. The Viscount vanished, replaced by the wonderfully whimsical Boardwalk Hotel & Casino. Suddenly, the Strip was graced with a faux wooden roller coaster, a parachute jump ride, and a facade evoking the nostalgic charm of Coney Island. This was a deliberate attempt to stand out from the increasingly opulent and themed resorts sprouting up around it. The Boardwalk offered a lighter, more playful atmosphere – a welcome contrast to the grandeur of places like the Mirage or the soon-to-be-built Bellagio.
+And then, in 1989, the transformation was complete. The Viscount vanished, replaced by the wonderfully whimsical Boardwalk Hotel & Casino. Suddenly, the Strip was graced with a faux wooden roller coaster, a parachute jump ride, and a facade evoking the nostalgic charm of Coney Island. This was a deliberate attempt to stand out from the increasingly opulent and themed resorts sprouting up around it. The Boardwalk offered a lighter, more playful atmosphere – a welcome contrast to the grandeur of places like the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) or the soon-to-be-built Bellagio.
 
 ## A Slice of Retro Fun & the 24-Hour Surf Buffet
 

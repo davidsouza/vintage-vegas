@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/HoYhhvAUyxU/hqdefault.jpg"
 
 ## A Bowling Mecca on Boulder Highway
 
-Before the mega-resorts and the themed attractions, Las Vegas had a different kind of charm.  And a significant part of that charm, especially for locals and early tourists, revolved around the Showboat Hotel and Casino. Opened in 1954 on Boulder Highway, the Showboat was deliberately designed to be a friendly, approachable casino, a counterpoint to the burgeoning glitz of the nascent Las Vegas Strip. What truly set the Showboat apart, however, was its commitment to bowling. 
+Before the mega-resorts and the themed attractions, Las Vegas had a different kind of charm.  And a significant part of that charm, especially for locals and early tourists, revolved around the [Showboat Hotel and Casino](/posts/showboat-hotel-and-casino-las-vegas/). Opened in 1954 on Boulder Highway, the Showboat was deliberately designed to be a friendly, approachable casino, a counterpoint to the burgeoning glitz of the nascent Las Vegas Strip. What truly set the Showboat apart, however, was its commitment to bowling. 
 
 The 1950s and 60s were a golden age for bowling in America. It was a wholesome, family-friendly pastime, and Las Vegas, ever the innovator, recognized an opportunity. Showboat Lanes wasn’t just a bowling alley; it was a *statement*.
 

@@ -13,7 +13,7 @@ The Las Vegas Strip wasn't always a dazzling spectacle of mega-resorts. Before t
 
 ## Location, Location, Location
 
-The Gold Key’s location was its strength. Situated on the Strip, nestled between the Desert Inn and the Stardust, it provided a practical haven for those arriving by car. This was a crucial factor in the 1950s and 60s, before the massive, self-contained resorts took over. It was a convenient basecamp for exploring the city, a comfortable two-mile drive from the vibrant downtown casinos of Fremont Street and the El Cortez. Imagine arriving in Vegas after a long drive, the neon signs blurring in the desert heat – the Gold Key promised a secure and welcoming place to rest.
+The Gold Key’s location was its strength. Situated on the Strip, nestled between the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) and the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/), it provided a practical haven for those arriving by car. This was a crucial factor in the 1950s and 60s, before the massive, self-contained resorts took over. It was a convenient basecamp for exploring the city, a comfortable two-mile drive from the vibrant downtown casinos of Fremont Street and the [El Cortez](/posts/el-cortez-hotel-and-casino-las-vegas/). Imagine arriving in Vegas after a long drive, the neon signs blurring in the desert heat – the Gold Key promised a secure and welcoming place to rest.
 
 ## More Than Just a Room: The Gold Key Experience
 

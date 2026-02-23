@@ -21,7 +21,7 @@ The Northern Club wasn’t a sprawling palace like those that would later define
 
 ## Transformations and Legacy
 
-The Northern Club’s story doesn't end with the Stocker family. Over the years, it underwent several transformations, changing names and ownership. It became the Turf Club in 1943, then the Monte Carlo Club, and later the Coin Castle.  Each iteration added another layer to its unique history.  Ultimately, the property was absorbed into larger downtown casino developments, eventually contributing to the construction of the Fremont Street Experience. 
+The Northern Club’s story doesn't end with the Stocker family. Over the years, it underwent several transformations, changing names and ownership. It became the Turf Club in 1943, then the [Monte Carlo Club](/posts/monte-carlo-club-las-vegas/), and later the [Coin Castle](/posts/coin-castle-casino-las-vegas/).  Each iteration added another layer to its unique history.  Ultimately, the property was absorbed into larger downtown casino developments, eventually contributing to the construction of the Fremont Street Experience. 
 
 Though the Northern Club’s name has vanished, its legacy remains etched into the fabric of Las Vegas history. It represents more than just a building; it's a tangible link to the city’s humble beginnings, a testament to the courage of early pioneers like Mayme Stocker, and a reminder of the foundational role that Fremont Street played in building the gaming and entertainment mecca we know today. It's a valuable piece of Nevada's – and Las Vegas’s – story, one that continues to fascinate historians and vintage Las Vegas enthusiasts alike.
 

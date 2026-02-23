@@ -7,13 +7,13 @@ location: "Holiday International Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "holiday international casino las vegas"]
 ---
 
-## A Bold Expansion: Holiday Inn Enters Downtown
+## A Bold Expansion: [Holiday](/posts/holiday-casino-las-vegas/) Inn Enters Downtown
 
-The late 1970s were a time of explosive growth in Las Vegas. While the Strip dominated headlines, downtown Las Vegas still held significant appeal, and the giants of the hospitality world were looking for ways to capitalize. Enter Holiday Inn, a well-respected brand synonymous with reliable mid-scale lodging, with a rather ambitious plan: to inject the familiar Holiday Inn experience into the heart of casino culture. The Holiday International Casino opened its doors on June 30, 1978, a venture designed to offer a unique blend of comfortable hotel rooms and a full-fledged casino experience.
+The late 1970s were a time of explosive growth in Las Vegas. While the Strip dominated headlines, downtown Las Vegas still held significant appeal, and the giants of the hospitality world were looking for ways to capitalize. Enter Holiday Inn, a well-respected brand synonymous with reliable mid-scale lodging, with a rather ambitious plan: to inject the familiar Holiday Inn experience into the heart of casino culture. The Holiday [International](/posts/international-hotel-las-vegas/) Casino opened its doors on June 30, 1978, a venture designed to offer a unique blend of comfortable hotel rooms and a full-fledged casino experience.
 
 ## Major Riddle and the Early Years
 
-The casino’s operation was leased to Major Riddle, a name familiar to those following Las Vegas gaming history. Riddle, a seasoned player with experience on the Strip, brought a certain cachet to the project. The casino itself was a standard downtown offering for the time – slots, table games, and wagering options consistent with the established downtown model. But it was the pricing that really made the Holiday International stand out. Remember a buffet lunch for just $1.65? Dinner at $2.65? And beer for a mere five cents? These prices were incredibly consumer-friendly, aiming to draw in both tourists and local gamblers. The building’s distinctive orange, pink, and white exterior certainly made it noticeable amidst the downtown landscape, adding a splash of color to Fremont Street.
+The casino’s operation was leased to Major Riddle, a name familiar to those following Las Vegas gaming history. Riddle, a seasoned player with experience on the Strip, brought a certain cachet to the project. The casino itself was a standard downtown offering for the time – slots, table games, and wagering options consistent with the established downtown model. But it was the pricing that really made the Holiday International stand out. Remember a buffet lunch for just $1.65? Dinner at $2.65? And beer for a mere five cents? These prices were incredibly consumer-friendly, aiming to draw in both tourists and local gamblers. The building’s distinctive orange, pink, and white exterior certainly made it noticeable amidst the downtown landscape, adding a [splash](/posts/splash-las-vegas/) of color to Fremont Street.
 
 ## A Brief and Turbulent Run
 
@@ -21,7 +21,7 @@ Unfortunately, the Holiday International’s time in the spotlight was brief. Fi
 
 ## From Holiday to Main Street: The Legacy Continues
 
-Despite its short lifespan, the Holiday International left a mark on Las Vegas history. It represents a fascinating, if ultimately unsuccessful, attempt to merge a national brand with the unique and often precarious world of Las Vegas casinos. The building itself wasn’t destined to remain dormant, however. In 1987, it was reborn as the Park Hotel and Casino, with a new theme and renewed ambitions. Finally, in 1991, it found its current identity as Main Street Station Hotel and Casino, a popular downtown destination that continues to operate. While the Holiday International Casino is a memory, its story remains a vibrant piece of the puzzle that is vintage Las Vegas. It's a reminder of the constant evolution, the inherent risks, and the enduring resilience of the city’s gaming scene.
+Despite its short lifespan, the Holiday International left a mark on Las Vegas history. It represents a fascinating, if ultimately unsuccessful, attempt to merge a national brand with the unique and often precarious world of Las Vegas casinos. The building itself wasn’t destined to remain dormant, however. In 1987, it was reborn as [the Park Hotel and Casino](/posts/the-park-hotel-and-casino-las-vegas/), with a new theme and renewed ambitions. Finally, in 1991, it found its current identity as Main Street Station Hotel and Casino, a popular downtown destination that continues to operate. While the Holiday International Casino is a memory, its story remains a vibrant piece of the puzzle that is vintage Las Vegas. It's a reminder of the constant evolution, the inherent risks, and the enduring resilience of the city’s gaming scene.
 
 
 <div class="shop-collection">

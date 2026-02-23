@@ -11,13 +11,13 @@ tags: ["las vegas history", "vintage vegas", "royal resort las vegas"]
 
 The Las Vegas Strip is synonymous with glitz and glamour, but just east of the bustling Strip, a different kind of hoteliering was taking place. In 1970, the Royal Las Vegas opened its doors at 99 Convention Center Drive, a strategic location chosen to cater specifically to the burgeoning convention industry. Part of the Royal Executive Inns chain, the initial focus wasn’t on attracting high rollers or flashy entertainment. Instead, it aimed to provide clean, comfortable, and affordable lodging for attendees of the Las Vegas Convention Center, then – and now – a vital engine for the city's economy. This was a deliberate move; the Royal understood its niche wasn’t to compete with the iconic casinos, but to *support* them.
 
-## Adding a Little Luck: The Royal Casino Years
+## Adding a Little Luck: The [Royal Casino](/posts/royal-casino-las-vegas/) Years
 
 The early 1970s saw a shift. Recognizing the potential for added revenue, a small casino was added to the property, rebranding it as the Royal Casino. This wasn’t a sprawling, opulent gambling palace, but a modest operation, often cited as featuring around 100 slot machines and a couple of blackjack tables. The casino added a touch of excitement without detracting from the hotel’s core mission of serving convention attendees. For decades, the Royal balanced its identity – providing reliable lodging alongside a low-key gaming experience. It was a place where business travelers could unwind after a long day of meetings without breaking the bank.
 
 ## Name Changes and a Steady Decline
 
-Throughout the 1990s, the Royal continued to evolve, eventually changing its name to the Royal Hotel and Casino.  As the decades passed, the rise of mega-resorts on the Strip and changing market demands led to operational shifts. Around 2003, the casino portion quietly closed, solidifying the Royal's focus on hotel operations.  The name then transitioned to Royal Resort, signaling a move away from gaming altogether. The property's consistent strength remained its proximity to the convention center, making it a dependable and affordable choice for many.
+Throughout the 1990s, the Royal continued to evolve, eventually changing its name to the [Royal Hotel and Casino](/posts/royal-hotel-and-casino-las-vegas/).  As the decades passed, the rise of mega-resorts on the Strip and changing market demands led to operational shifts. Around 2003, the casino portion quietly closed, solidifying the Royal's focus on hotel operations.  The name then transitioned to Royal Resort, signaling a move away from gaming altogether. The property's consistent strength remained its proximity to the convention center, making it a dependable and affordable choice for many.
 
 ## A Legacy of Quiet Endurance
 

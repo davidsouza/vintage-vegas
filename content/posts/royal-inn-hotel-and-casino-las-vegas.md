@@ -7,7 +7,7 @@ location: "Royal Inn Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "royal inn hotel and casino las vegas"]
 ---
 
-## A Humble Beginning: The Royal Inn Joins the Strip
+## A Humble Beginning: The [Royal](/posts/royal-casino-las-vegas/) Inn Joins the Strip
 
 The Las Vegas Strip wasn’t always the glitzy behemoth it is today. Back in the late 1960s, it was still evolving, finding its identity. Enter the Royal Inn Hotel and Casino, a property that, while modest compared to the giants already present, represents a fascinating snapshot of that era. Construction began in August 1969, a flurry of activity marking its debut. On April 19, 1970, the Royal Inn opened its doors, a 12-story, 200-room hotel nestled on six acres just east of the main Strip. It was part of the Royal Inns of America chain, a national brand aiming to capture a piece of the burgeoning hospitality market. At $3 million, it was a relatively modest investment, reflecting its intention to cater to a different kind of traveler – one seeking affordability and convenience rather than lavish extravagance.
 
@@ -19,7 +19,7 @@ The Royal Inn wasn’t meant to remain solely under the umbrella of Royal Inns o
 
 The late 1970s saw a change of ownership. Horn & Hardart, a company known for its automat restaurants, acquired the Royal Inn for $17 million in 1979. They quickly rebranded it as the Royal Americana Hotel in late 1980, aiming for a more themed and potentially upscale appeal. Sadly, the Royal Americana proved unsuccessful, succumbing to significant financial losses. In 1982, Horn & Hardart made the difficult decision to close the hotel, a stark reminder of the cutthroat nature of the Las Vegas casino business. Cleverly, however, the casino remained open with limited offerings, preserving the valuable gaming license.
 
-## The Paddlewheel and Beyond
+## The [Paddlewheel](/posts/paddlewheel-hotel-and-casino-las-vegas/) and Beyond
 
 Just a little over a year later, the property experienced another resurrection. An investment group took over, renovated the space, and rebranded it once more as the Paddlewheel on November 21, 1983. The name evoked a nostalgic, riverboat gambling theme. However, the Paddlewheel's success was fleeting. Ultimately, the property fell into disuse, and today sits vacant.
 

@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/UcmgoEoG6BM/hqdefault.jpg"
 
 ## A Different Kind of Vegas: The Silver Nugget's Origins
 
-The Las Vegas Strip certainly gets all the glitz and glamour attention, but a vibrant, distinctly different Vegas existed – and thrived – just a few miles north. Enter the Silver Nugget Casino, a North Las Vegas institution that quietly, consistently served its community for nearly six decades. Opened in 1964, it wasn’t vying for the high-roller crowd. Instead, Major Riddle, a Vegas entertainment innovator previously involved with the Dunes Hotel, envisioned a neighborhood casino. This wasn’t about sprawling resorts and showstopping spectacles; it was about accessible gaming and a welcoming atmosphere.
+The Las Vegas Strip certainly gets all the glitz and glamour attention, but a vibrant, distinctly different Vegas existed – and thrived – just a few miles north. Enter the Silver Nugget Casino, a North Las Vegas institution that quietly, consistently served its community for nearly six decades. Opened in 1964, it wasn’t vying for the high-roller crowd. Instead, Major Riddle, a Vegas entertainment innovator previously involved with the [Dunes](/posts/dunes-hotel-and-casino-las-vegas/) Hotel, envisioned a neighborhood casino. This wasn’t about sprawling resorts and showstopping spectacles; it was about accessible gaming and a welcoming atmosphere.
 
 ## Classic Comfort and Community Hub
 
@@ -25,7 +25,7 @@ The Silver Nugget wasn’t just about offering a comfortable gambling experience
 
 ## A Final Chapter and Enduring Legacy
 
-The 21st century brought challenges. Like many smaller casinos, the Silver Nugget faced increasing competition and ultimately succumbed to the economic pressures exacerbated by the COVID-19 pandemic. The temporary reopening following the initial shutdown wasn’t enough to overcome ongoing infrastructure issues, and the news of its permanent closure in August 2023 was met with a wave of nostalgia from longtime residents. The iconic neon sign is now dark, but the memories of friendly faces, lucky streaks, and community gatherings remain. Today, the property has been redeveloped into The Las Vegas Boulevard Pads and is earmarked for new casino development, signaling a new chapter for the land – though it can never truly replace the Silver Nugget’s unique place in Las Vegas history. It stands as a poignant reminder of a different era in Vegas, a time when community and classic comfort were valued above all else.
+The 21st century brought challenges. Like many smaller casinos, the Silver Nugget faced increasing competition and ultimately succumbed to the economic pressures exacerbated by the COVID-19 pandemic. The temporary reopening following the initial shutdown wasn’t enough to overcome ongoing infrastructure issues, and the news of its permanent closure in August 2023 was met with a wave of nostalgia from longtime residents. The iconic neon sign is now dark, but the memories of friendly faces, [lucky](/posts/lucky-casino-las-vegas/) streaks, and community gatherings remain. Today, the property has been redeveloped into The Las Vegas Boulevard Pads and is earmarked for new casino development, signaling a new chapter for the land – though it can never truly replace the Silver Nugget’s unique place in Las Vegas history. It stands as a poignant reminder of a different era in Vegas, a time when community and classic comfort were valued above all else.
 
 
 <div class="shop-collection">

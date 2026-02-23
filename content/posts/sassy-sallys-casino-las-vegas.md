@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "sassy sallys casino las vegas"]
 
 ## A Dash of Sass on Fremont Street
 
-The 1980s in Las Vegas were a fascinating time of transition. While the Strip was steadily becoming the glittering playground we know today, Downtown, and particularly Fremont Street, still held onto its rough-and-tumble, character-driven appeal. And amidst that vibrant scene emerged Sassy Sallys Casino, a playful and memorable addition to the block. Located at 32 Fremont Street, taking over the former Sundance West space, Sassy Sallys opened its doors in 1981 and quickly became a beloved landmark.
+The 1980s in Las Vegas were a fascinating time of transition. While the Strip was steadily becoming the glittering playground we know today, Downtown, and particularly Fremont Street, still held onto its rough-and-tumble, character-driven appeal. And amidst that vibrant scene emerged Sassy Sallys Casino, a playful and memorable addition to the block. Located at 32 Fremont Street, taking over the former [Sundance West](/posts/sundance-west-casino-las-vegas/) space, Sassy Sallys opened its doors in 1981 and quickly became a beloved landmark.
 
 ## Defining a Brand: Personality and Neon
 
@@ -21,7 +21,7 @@ Inside, Sassy Sallys offered a familiar and accessible casino experience – cla
 
 ## A Brief, but Bright, Legacy
 
-While Sassy Sallys’ run was relatively short, ending in 2000 when Herb Pastor transformed it into Mermaids Casino (another Fremont Street favorite!), its impact remains significant. Mermaids carried forward the tradition of quirky charm and friendly service, proving the viability of a localized, fun-focused casino. Sassy Sallys represents a vital chapter in Downtown Las Vegas history, a time when smaller, themed casinos shaped the district’s unique character.  Today, the site is home to the modern Circa Resort & Casino, a far cry from the sassy neon glow of Sassy Sallys, but its legacy lives on in the memories of those who experienced that vibrant era of Fremont Street. It’s a reminder of a Las Vegas that, while evolving, will always hold a special place in our hearts.
+While Sassy Sallys’ run was relatively short, ending in 2000 when Herb Pastor transformed it into [Mermaids Casino](/posts/mermaids-casino-las-vegas/) (another Fremont Street favorite!), its impact remains significant. Mermaids carried forward the tradition of quirky charm and friendly service, proving the viability of a localized, fun-focused casino. Sassy Sallys represents a vital chapter in Downtown Las Vegas history, a time when smaller, themed casinos shaped the district’s unique character.  Today, the site is home to the modern Circa Resort & Casino, a far cry from the sassy neon glow of Sassy Sallys, but its legacy lives on in the memories of those who experienced that vibrant era of Fremont Street. It’s a reminder of a Las Vegas that, while evolving, will always hold a special place in our hearts.
 
 
 <div class="shop-collection">

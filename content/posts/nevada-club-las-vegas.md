@@ -13,11 +13,11 @@ youtube_thumbnail: "https://i.ytimg.com/vi/wrPVKU7ywQc/hqdefault.jpg"
 
 ## From Turf Club to Nevada Icon
 
-The mid-1950s Las Vegas Strip was a landscape of constant change, acquisition, and reinvention. In 1952, the story of what would become the legendary Nevada Club began with the purchase of the Santa Anita Turf Club. While the Turf Club had existed previously, the new ownership breathed fresh life into the property, officially opening as the Nevada Club. It was a period of rapid expansion; new casinos popped up regularly, each vying to capture the attention (and wallets) of burgeoning tourist traffic. The Nevada Club, located on Fremont Street, quickly became one of those contenders.
+The mid-1950s Las Vegas Strip was a landscape of constant change, acquisition, and reinvention. In 1952, the story of what would become the legendary [Nevada Club](/posts/nevada-club-casino-las-vegas/) began with the purchase of the Santa Anita Turf Club. While the Turf Club had existed previously, the new ownership breathed fresh life into the property, officially opening as the Nevada Club. It was a period of rapid expansion; new casinos popped up regularly, each vying to capture the attention (and wallets) of burgeoning tourist traffic. The Nevada Club, located on Fremont Street, quickly became one of those contenders.
 
 ## A Changing of the Guard and a Unified Front
 
-The casino landscape was already fiercely competitive. Just two years later, in 1954, the Nevada Club changed hands. This period was typical of early Las Vegas—properties often traded and morphed as entrepreneurs sought opportunities. Then, in 1955, Robert Van Santen entered the scene, acquiring the club and immediately orchestrating a significant shift. Van Santen recognized the power of synergy and merged the Nevada Club with the neighboring Fortune Club, creating a larger, more formidable establishment under the familiar Nevada Club banner.  A year later, they absorbed a Western Union office, further consolidating the block.
+The casino landscape was already fiercely competitive. Just two years later, in 1954, the Nevada Club changed hands. This period was typical of early Las Vegas—properties often traded and morphed as entrepreneurs sought opportunities. Then, in 1955, Robert Van Santen entered the scene, acquiring the club and immediately orchestrating a significant shift. Van Santen recognized the power of synergy and merged the Nevada Club with the neighboring [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/), creating a larger, more formidable establishment under the familiar Nevada Club banner.  A year later, they absorbed a Western Union office, further consolidating the block.
 
 ## The Great Las Vegas Slot Machine War
 
@@ -25,7 +25,7 @@ Robert Van Santen wasn't just interested in size; he was a visionary when it cam
 
 ## Diamond Jim’s and a Final Chapter
 
-In 1962, the Nevada Club underwent another name change, becoming Diamond Jim’s Nevada Club, accompanied by a prominent 75-foot marquee. The name was a nod to Diamond Jim Brady, a famed San Francisco bon vivant and gourmand. While the club continued to operate, the sands of time were shifting.  In 1969, the Nevada Club was purchased by the Golden Nugget, marking the end of an era. Though the name disappeared, the property remains an integral part of the Golden Nugget complex, a silent testament to its vibrant past.
+In 1962, the Nevada Club underwent another name change, becoming Diamond Jim’s Nevada Club, accompanied by a prominent 75-foot marquee. The name was a nod to Diamond Jim Brady, a famed San Francisco bon vivant and gourmand. While the club continued to operate, [the sands](/posts/the-sands-hotel-and-casino-las-vegas/) of time were shifting.  In 1969, the Nevada Club was purchased by the Golden Nugget, marking the end of an era. Though the name disappeared, the property remains an integral part of the Golden Nugget complex, a silent testament to its vibrant past.
 
 
 <div class="shop-collection">

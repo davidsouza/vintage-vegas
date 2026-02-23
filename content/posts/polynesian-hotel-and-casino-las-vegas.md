@@ -9,11 +9,11 @@ tags: ["las vegas history", "vintage vegas", "polynesian hotel and casino las ve
 
 ## A Short, Sweet Escape: Introducing the Polynesian
 
-The Las Vegas Strip has always been about reinvention. What feels permanent today can be a memory tomorrow. A prime example of this restless spirit is the property currently known as the OYO Hotel & Casino, but for a brief, vibrant period in the mid-1980s, it was the Polynesian Hotel & Casino. Located at 115 East Tropicana Avenue, a spot now often overlooked amidst the sprawling mega-resorts, the Polynesian represented a playful attempt to offer a tropical escape without the mega-bucks price tag.
+The Las Vegas Strip has always been about reinvention. What feels permanent today can be a memory tomorrow. A prime example of this restless spirit is the property currently known as the OYO Hotel & Casino, but for a brief, vibrant period in the mid-1980s, it was the Polynesian Hotel & Casino. Located at 115 East [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue, a spot now often overlooked amidst the sprawling mega-resorts, the Polynesian represented a playful attempt to offer a tropical escape without the mega-bucks price tag.
 
 ## From Howard Johnson's to Polynesian Dreams
 
-The story of the Polynesian is intrinsically linked to the history of the land itself. Initially a Howard Johnson’s Motor Lodge, the location had a history of changing identities. Before the Polynesian, it cycled through names like Paradise, 20th Century, Treasury, and Pacifica – none quite finding the winning formula. It wasn't until 1985 that the Polynesian theme emerged, hoping to capture the popularity of Polynesian-themed attractions gaining traction across the US.
+The story of the Polynesian is intrinsically linked to the history of the land itself. Initially a Howard Johnson’s Motor Lodge, the location had a history of changing identities. Before the Polynesian, it cycled through names like [Paradise](/posts/paradise-hotel-and-casino-las-vegas/), [20th Century](/posts/20th-century-hotel-and-casino-las-vegas/), Treasury, and Pacifica – none quite finding the winning formula. It wasn't until 1985 that the Polynesian theme emerged, hoping to capture the popularity of Polynesian-themed attractions gaining traction across the US.
 
 ## What Made the Polynesian Unique?
 
@@ -21,7 +21,7 @@ The Polynesian aimed to transport guests, if only momentarily, to a South Pacifi
 
 ## The Brief Reign and the Inevitable Transformation
 
-Despite its initial promise and unique branding, the Polynesian struggled to gain financial stability. The property, regardless of its identity, seemed to be cursed with a lack of long-term success. In 1989, the Polynesian name faded, replaced by the Hotel San Remo, signaling a complete shift in strategy. This change continued throughout the years, with the property eventually becoming the Hooters Casino Hotel and finally evolving into the OYO Hotel & Casino.
+Despite its initial promise and unique branding, the Polynesian struggled to gain financial stability. The property, regardless of its identity, seemed to be cursed with a lack of long-term success. In 1989, the Polynesian name faded, replaced by the [Hotel San Remo](/posts/hotel-san-remo-las-vegas/), signaling a complete shift in strategy. This change continued throughout the years, with the property eventually becoming the Hooters Casino Hotel and finally evolving into the OYO Hotel & Casino.
 
 ## A Legacy of Reinvention
 

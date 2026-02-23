@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "bourbon street hotel and casino la
 
 ## From Shenandoah to the Big Easy: A Phoenix Rises
 
-The Las Vegas Strip has seen its share of transformations, but few are as compelling as the story of what’s now a Harrah’s parking lot. Before the lively facade of Bourbon Street Hotel & Casino graced 120 E. Flamingo Road, stood the Shenandoah Hotel. Opening in 1980, the Shenandoah struggled to find its footing. Then, in 1985, a pivotal moment arrived. Nevada's loosening of regulations allowed foreign ownership in gaming, presenting an opportunity for Canadian real estate firm Carma Developers (formerly Allarco Holdings). They swooped in, completely overhauling the existing property and rebranding it as the Bourbon Street Hotel & Casino.
+The Las Vegas Strip has seen its share of transformations, but few are as compelling as the story of what’s now a Harrah’s parking lot. Before the lively facade of Bourbon Street Hotel & Casino graced 120 E. Flamingo Road, stood the [Shenandoah Hotel](/posts/shenandoah-hotel-las-vegas/). Opening in 1980, the Shenandoah struggled to find its footing. Then, in 1985, a pivotal moment arrived. Nevada's loosening of regulations allowed foreign ownership in gaming, presenting an opportunity for Canadian real estate firm Carma Developers (formerly Allarco Holdings). They swooped in, completely overhauling the existing property and rebranding it as the Bourbon Street Hotel & Casino.
 
 ## A Taste of New Orleans on the Strip
 
@@ -17,7 +17,7 @@ Bourbon Street, as the name suggests, embraced a New Orleans theme. It wasn’t 
 
 ## A Rollercoaster of Ownership & Decline
 
-The history of Bourbon Street isn’t a simple upward trajectory. Ownership changed hands multiple times, reflecting the shifting sands of the gaming industry.  From Hotel Investors Trust in 1988 to a near-acquisition by Crown Casino in 1995, the property was caught in the currents of corporate maneuvering. Tarsadia Hotels briefly shuttered the casino in 1996, and there were fleeting glances from potential buyers like Florida Gaming. Eventually, Michael Block and Edge Resorts took over, and in a surprising turn of events, Harrah’s Entertainment acquired the property for over $60 million in March 2005.
+The history of Bourbon Street isn’t a simple upward trajectory. Ownership changed hands multiple times, reflecting the shifting [sands](/posts/sands-hotel-and-casino-las-vegas/) of the gaming industry.  From Hotel Investors Trust in 1988 to a near-acquisition by Crown Casino in 1995, the property was caught in the currents of corporate maneuvering. Tarsadia Hotels briefly shuttered the casino in 1996, and there were fleeting glances from potential buyers like Florida Gaming. Eventually, Michael Block and Edge Resorts took over, and in a surprising turn of events, Harrah’s Entertainment acquired the property for over $60 million in March 2005.
 
 ## A Sudden Farewell and a Demolition
 

@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "terribles hotel and casino las veg
 
 ## From Continental to Character: The Birth of Terrible's
 
-For those of us who remember, Terrible's Hotel and Casino on Paradise Road was more than just a casino; it was a vibe. Originally opening in 1981 as the Continental, the property catered to a local and budget-conscious crowd. It was a perfectly serviceable, if unremarkable, hotel-casino. But everything changed in 2000. The Herbst family, famous for their ubiquitous Terrible Herbst gas stations, acquired the property and injected it with a hefty dose of personality. They rebranded it, and the name itself – Terrible’s Hotel and Casino – was a stroke of genius.
+For those of us who remember, Terrible's Hotel and Casino on [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Road was more than just a casino; it was a vibe. Originally opening in 1981 as the Continental, the property catered to a local and budget-conscious crowd. It was a perfectly serviceable, if unremarkable, hotel-casino. But everything changed in 2000. The Herbst family, famous for their ubiquitous Terrible Herbst gas stations, acquired the property and injected it with a hefty dose of personality. They rebranded it, and the name itself – Terrible’s Hotel and Casino – was a stroke of genius.
 
 The "terrible" wasn't meant to be negative. It was a playful poke at convention, a deliberate rejection of the glitz and glamour of the Strip, and a wink to the locals. It signaled a casino that didn’t take itself too seriously. It resonated immediately.
 

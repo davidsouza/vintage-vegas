@@ -9,13 +9,13 @@ tags: ["las vegas history", "vintage vegas", "casuarina hotel and casino las veg
 
 ## A Brief Life of Luxury: The Casuarina’s Story
 
-The Las Vegas Strip has seen countless transformations, and the story of the Casuarina Hotel and Casino is a particularly poignant example of how fortunes can rise and fall in this ever-evolving city. Originally the Maxim Hotel and Casino, its brief but eventful run offers a fascinating glimpse into the early 2000s Las Vegas landscape, a time of booming growth followed by a devastating recession. 
+The Las Vegas Strip has seen countless transformations, and the story of the Casuarina Hotel and Casino is a particularly poignant example of how fortunes can rise and fall in this ever-evolving city. Originally the [Maxim Hotel and Casino](/posts/maxim-hotel-and-casino-las-vegas/), its brief but eventful run offers a fascinating glimpse into the early 2000s Las Vegas landscape, a time of booming growth followed by a devastating recession. 
 
-The Maxim, built in 1997, was a solid mid-tier casino hotel trying to find its niche. It was never a destination property in the same vein as the Bellagio or the Mirage. But in 2002, Columbia Sussex Hospitality stepped in, acquiring the property for $38 million and envisioning something more upscale. They set out to create a Las Vegas resort unlike any other Westin in the U.S.
+The Maxim, built in 1997, was a solid mid-tier casino hotel trying to find its niche. It was never a destination property in the same vein as the Bellagio or the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/). But in 2002, Columbia Sussex Hospitality stepped in, acquiring the property for $38 million and envisioning something more upscale. They set out to create a Las Vegas resort unlike any other Westin in the U.S.
 
 ## The Westin Casuarina: A Caribbean Vibe on the Strip
 
-The ambitious renovation, costing a reported $90 million, was inspired by the Westin’s successful Casuarina resort in Grand Cayman. The new Westin Casuarina Hotel and Casino, which debuted on November 6, 2003, aimed to transport guests to a luxurious, tropical paradise. It was the first Westin resort in the U.S. to include a casino and marked the brand’s debut in Nevada.  The design incorporated lush landscaping, a relaxed atmosphere, and an emphasis on guest comfort. It was a deliberate departure from the often-over-the-top themed experiences dominating the Strip at the time. While the casino certainly brought in revenue, the Westin focused on the overall resort experience. 
+The ambitious renovation, costing a reported $90 million, was inspired by the Westin’s successful Casuarina resort in Grand Cayman. The new Westin Casuarina Hotel and Casino, which debuted on November 6, 2003, aimed to transport guests to a luxurious, tropical [paradise](/posts/paradise-hotel-and-casino-las-vegas/). It was the first Westin resort in the U.S. to include a casino and marked the brand’s debut in Nevada.  The design incorporated lush landscaping, a relaxed atmosphere, and an emphasis on guest comfort. It was a deliberate departure from the often-over-the-top themed experiences dominating the Strip at the time. While the casino certainly brought in revenue, the Westin focused on the overall resort experience. 
 
 ## A Sudden Downfall and Transformation
 

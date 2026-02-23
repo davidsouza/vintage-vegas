@@ -17,7 +17,7 @@ The 1980s Las Vegas Strip was a landscape of bold ambition and frantic developme
 
 However, Stupak’s attention was rapidly shifting. He was heavily invested in his massive Stratosphere Tower project, which would soon become a landmark. The demands of building such an ambitious structure consumed his time and resources, leaving little room to nurture Glitter Gulch. By 1981, he’d essentially moved on, signaling the casino’s first chapter was nearing its end.
 
-## The Golden Goose Joins the Fray
+## The [Golden Goose](/posts/golden-goose-hotel-and-casino-las-vegas/) Joins the Fray
 
 Enter Herb Pastor, a casino owner who already operated the Golden Goose Casino next door. In 1982, Pastor acquired Glitter Gulch, merging it with his existing property. This combined operation offered a slightly larger footprint and a more stable footing, allowing it to continue operating. For nearly a decade, the Golden Goose/Glitter Gulch combination served as a mid-Strip option, a little less flashy than the giants but still retaining a distinct Vegas vibe.
 

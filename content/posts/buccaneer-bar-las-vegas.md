@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "buccaneer bar las vegas"]
 
 ## A Swashbuckling Stop on Fremont Street: The Buccaneer Bar’s Brief Reign
 
-Downtown Las Vegas, particularly the El Cortez Hotel & Casino, has a rich and layered history. While today’s neon glow and bustling atmosphere dominate, understanding the property’s evolution requires a glimpse into some truly unique – and sometimes forgotten – eras. One such gem is the Buccaneer Bar, a short-lived but memorable themed bar that operated within the El Cortez in the early 1950s.
+Downtown Las Vegas, particularly the [El Cortez](/posts/el-cortez-hotel-and-casino-las-vegas/) Hotel & Casino, has a rich and layered history. While today’s neon glow and bustling atmosphere dominate, understanding the property’s evolution requires a glimpse into some truly unique – and sometimes forgotten – eras. One such gem is the Buccaneer Bar, a short-lived but memorable themed bar that operated within the El Cortez in the early 1950s.
 
 The El Cortez, originally opening in 1941, underwent significant renovations in the mid-1940s spearheaded by founder J. Kell Houssels. These changes weren’t just about updates; they were about creating *experiences*. New amenities like a nightclub and swimming pool were added, paving the way for a bolder, more themed approach. This led to the dramatic reimagining of the existing Rose Room cocktail bar as the Buccaneer Bar in 1952, coinciding with a grand reopening of the “new” El Cortez.
 

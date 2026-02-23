@@ -19,13 +19,13 @@ The Sundance didn’t just stand out in terms of decor; it physically dominated 
 
 ## Shadows of Ownership and Regulation
 
-The Sundance's story, however, wasn’t purely one of glittering success. Moe Dalitz, despite owning the land, was barred from direct involvement in casino operations by the Nevada Gaming Commission. This led to a complex management structure, with Al Sachs and Herb Tobman – who also managed the Stardust and Fremont casinos – stepping in. This arrangement, while initially functional, would eventually become a significant point of contention.
+The Sundance's story, however, wasn’t purely one of glittering success. Moe Dalitz, despite owning the land, was barred from direct involvement in casino operations by the Nevada Gaming Commission. This led to a complex management structure, with Al Sachs and Herb Tobman – who also managed the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and Fremont casinos – stepping in. This arrangement, while initially functional, would eventually become a significant point of contention.
 
 The troubles surfaced in 1983 when Sachs and Tobman faced suspension for allegations of skimming at the Stardust. The ensuing fallout threatened to destabilize the entire operation, and Dalitz’s attempts to regain control proved unsuccessful. Ultimately, in July 1984, veteran operator Jackie Gaughan took over gaming operations to stabilize the property while a sale was being arranged.
 
 ## A Final Transformation & Enduring Legacy
 
-By 1987, Lincoln Management Inc. (later Fitzgeralds Gaming) purchased the Sundance. A significant renovation ensued, and in March 1988, the Sundance vanished, reborn as Fitzgeralds Hotel & Casino. Though the name changed, the location continued to be a vital part of the Fremont Street scene. 
+By 1987, Lincoln Management Inc. (later [Fitzgeralds](/posts/fitzgeralds-hotel-and-casino/) Gaming) purchased the Sundance. A significant renovation ensued, and in March 1988, the Sundance vanished, reborn as Fitzgeralds Hotel & Casino. Though the name changed, the location continued to be a vital part of the Fremont Street scene. 
 
 Today, the site of the former Sundance is occupied by The D Las Vegas, a vibrant and popular destination that honors the spirit of old Vegas while embracing a modern, energetic vibe. The Sundance Hotel & Casino, though short-lived, remains a fascinating snapshot of a crucial moment in Las Vegas history – a moment when the city strived to modernize its downtown core and compete with the burgeoning Las Vegas Strip.
 

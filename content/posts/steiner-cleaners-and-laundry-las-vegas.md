@@ -21,7 +21,7 @@ Think Liberace’s opulent, rhinestone-studded capes. Each cape boasted around 4
 
 ## The "Happy Shirt" - A Neon Landmark
 
-Steiner's iconic status was solidified by its "Happy Shirt" neon sign. Designed by Herman Steiner’s daughter and expertly built by YESCO in 1962, the sign featured animated waving arms, bringing a touch of cheerful whimsy to Tropicana Avenue. It became a familiar landmark for both locals and visitors, symbolizing the playful and extravagant spirit of Las Vegas. The sign's eventual relocation to the Neon Museum ensured its preservation, now a treasured exhibit within the "Neon Boneyard."
+Steiner's iconic status was solidified by its "Happy Shirt" neon sign. Designed by Herman Steiner’s daughter and expertly built by YESCO in 1962, the sign featured animated waving arms, bringing a touch of cheerful whimsy to [Tropicana](/posts/tropicana-country-club-las-vegas/) Avenue. It became a familiar landmark for both locals and visitors, symbolizing the playful and extravagant spirit of Las Vegas. The sign's eventual relocation to the Neon Museum ensured its preservation, now a treasured exhibit within the "Neon Boneyard."
 
 ## A Legacy that Endures
 

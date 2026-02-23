@@ -11,7 +11,7 @@ youtube_title: "Vintage Las Vegas Silver Palace Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/qSbRlLRX4XA/hqdefault.jpg"
 ---
 
-## The Rise of the Silver Palace: A Downtown Game Changer
+## The Rise of the [Silver Palace](/posts/silver-palace-casino-las-vegas/): A Downtown Game Changer
 
 Downtown Las Vegas in the 1950s was a vibrant, bustling landscape, but much of its architecture and gaming experience felt rooted in the pre-war era. Then came the Silver Palace, opening its doors on June 8, 1956, at 32 East Fremont Street. It wasn’t just another casino; it was a statement. Constructed by the Spinning Wheel Corporation, the Silver Palace represented a shift towards modern design and a more sophisticated gaming environment. Its two-story structure, a novel concept at the time, immediately set it apart from the single-level establishments that dominated Fremont Street.
 
@@ -21,7 +21,7 @@ What *really* made the Silver Palace special? It was the escalators. Yes, escala
 
 ## A Brief But Brilliant Run
 
-The Silver Palace wasn’t destined to remain "Silver Palace" forever. In 1964, it underwent a significant renovation and was reborn as the Carousel Casino. While the name change signaled the end of an era, the Silver Palace's influence endured. It paved the way for other downtown casinos to embrace modern designs and amenities. Subsequent iterations of the property included Sassy Sally's and Mermaids Casino, each leaving its own mark on Fremont Street's evolving identity.
+The Silver Palace wasn’t destined to remain "Silver Palace" forever. In 1964, it underwent a significant renovation and was reborn as the [Carousel](/posts/carousel-hotel-and-casino-las-vegas/) Casino. While the name change signaled the end of an era, the Silver Palace's influence endured. It paved the way for other downtown casinos to embrace modern designs and amenities. Subsequent iterations of the property included Sassy Sally's and [Mermaids Casino](/posts/mermaids-casino-las-vegas/), each leaving its own mark on Fremont Street's evolving identity.
 
 ## Legacy & Location Today
 

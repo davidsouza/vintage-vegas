@@ -9,9 +9,9 @@ tags: ["las vegas history", "vintage vegas", "pigalle discotheque and casino las
 
 ## A Parisian Flair on the Strip
 
-The 1970s were a decade of incredible change for Las Vegas. While the city’s reputation was built on traditional casinos and entertainment, the era’s cultural shifts – particularly the rise of disco – created fertile ground for something different. Enter Pigalle Discotheque and Casino, a short-lived but memorable addition to the Las Vegas Strip, appearing around 1974. Situated at the now-lost corner of Sands Avenue and the Strip (a spot recognizable from many vintage photos!), Pigalle aimed to bring a touch of Parisian bohemianism and high-energy nightlife to a landscape dominated by more classic Vegas establishments.
+The 1970s were a decade of incredible change for Las Vegas. While the city’s reputation was built on traditional casinos and entertainment, the era’s cultural shifts – particularly the rise of disco – created fertile ground for something different. Enter Pigalle Discotheque and Casino, a short-lived but memorable addition to the Las Vegas Strip, appearing around 1974. Situated at the now-lost corner of [Sands](/posts/sands-hotel-and-casino-las-vegas/) Avenue and the Strip (a spot recognizable from many vintage photos!), Pigalle aimed to bring a touch of Parisian bohemianism and high-energy nightlife to a landscape dominated by more classic Vegas establishments.
 
-The name itself was a bold statement. "Pigalle" is synonymous with a district in Paris known for its cabarets and a playful, sometimes risqué, charm. This deliberate association instantly signaled that Pigalle wasn't your average casino; it was a place for dancing, music, and a vibrant atmosphere. Surrounded by more grounded businesses like the Rose Bowl Race Book, Pigalle stood out like a splash of color – a neon beacon of the disco era.
+The name itself was a bold statement. "Pigalle" is synonymous with a district in Paris known for its cabarets and a playful, sometimes risqué, charm. This deliberate association instantly signaled that Pigalle wasn't your average casino; it was a place for dancing, music, and a vibrant atmosphere. Surrounded by more grounded businesses like the Rose Bowl Race Book, Pigalle stood out like a [splash](/posts/splash-las-vegas/) of color – a neon beacon of the disco era.
 
 ## Disco Dreams and Casino Games
 

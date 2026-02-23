@@ -15,7 +15,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/PNHKMIJwe90/hqdefault.jpg"
 
 The 1950s in Las Vegas were marked by a stark reality: segregation. While the burgeoning Las Vegas Strip dazzled with its promise of entertainment, access wasn’t universally available. Most casinos were explicitly off-limits to Black people, relegating them to roles as employees or performers. This glaring injustice didn't go unnoticed. Enter Vester Heath, a businessman who recognized a significant unmet need – a hotel and casino where people of all races could mingle and enjoy the Vegas experience. His vision, backed by a group of white investors led by the influential Will Max Schwartz, resulted in the Moulin Rouge, opening its doors on May 24, 1955.
 
-Located at 900 West Bonanza Road, the Moulin Rouge was strategically positioned between the exclusive Strip and the predominantly Black West Las Vegas neighborhood. This unique location served as a vital bridge, offering a space where racial barriers began to crumble. 
+Located at 900 West [Bonanza](/posts/bonanza-hotel-and-casino-las-vegas/) Road, the Moulin Rouge was strategically positioned between the exclusive Strip and the predominantly Black West Las Vegas neighborhood. This unique location served as a vital bridge, offering a space where racial barriers began to crumble. 
 
 ## A Hub of Glamour and Progress
 

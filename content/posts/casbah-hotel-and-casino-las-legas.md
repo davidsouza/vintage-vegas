@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "casbah hotel and casino las legas"
 
 ## A Desert Oasis: The Casbah's Early Days
 
-The mid-1960s were a vibrant time for Las Vegas. The Rat Pack reigned supreme, neon signs pulsed with energy, and the Las Vegas Strip was constantly evolving. Amidst this backdrop, the Casbah Hotel and Casino sprang to life in 1963. Built by the ambitious Danny Jackson, the casino leaned into an exotic Moroccan theme. Think intricately patterned carpets, lush greenery, and a decidedly different atmosphere than the more overtly Western-themed casinos of the era. It offered a taste of the mysterious and romantic, catering to a clientele seeking something a little different. Jackson’s family continued to operate the casino after his death, but it struggled to establish a truly clean reputation.
+The mid-1960s were a vibrant time for Las Vegas. The Rat Pack reigned supreme, neon signs pulsed with energy, and the Las Vegas Strip was constantly evolving. Amidst this backdrop, the [Casbah Hotel and Casino](/posts/casbah-hotel-and-casino-las-vegas/) sprang to life in 1963. Built by the ambitious Danny Jackson, the casino leaned into an exotic Moroccan theme. Think intricately patterned carpets, lush greenery, and a decidedly different atmosphere than the more overtly Western-themed casinos of the era. It offered a taste of the mysterious and romantic, catering to a clientele seeking something a little different. Jackson’s family continued to operate the casino after his death, but it struggled to establish a truly clean reputation.
 
 ## A Reputation and a Reckoning
 

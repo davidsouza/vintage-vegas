@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "flame steakhouse las vegas"]
 
 ## A Beacon of Sophistication on the Strip
 
-The Las Vegas Strip wasn't always about themed casinos and sprawling buffet halls. In the early 1960s, it was a place where understated elegance and classic luxury held their own, and The Flame Steakhouse, opening in 1961 across from the Silver Slipper, epitomized that era.  It wasn't just a restaurant; it was a destination, a refuge from the flashing lights and frenetic energy just outside its doors.  The Flame distinguished itself from the burgeoning fast-casual options and extravagant, overly-themed dining rooms that would later come to define the Strip. It offered something different: a genuinely refined and memorable dining experience.
+The Las Vegas Strip wasn't always about themed casinos and sprawling buffet halls. In the early 1960s, it was a place where understated elegance and classic luxury held their own, and The Flame Steakhouse, opening in 1961 across from the [Silver Slipper](/posts/silver-slipper-hotel-and-casino-las-vegas/), epitomized that era.  It wasn't just a restaurant; it was a destination, a refuge from the flashing lights and frenetic energy just outside its doors.  The Flame distinguished itself from the burgeoning fast-casual options and extravagant, overly-themed dining rooms that would later come to define the Strip. It offered something different: a genuinely refined and memorable dining experience.
 
 ## The Ambiance: Mid-Century Vegas Glamour
 
@@ -23,7 +23,7 @@ The Flame’s menu was a celebration of classic steakhouse fare. Think generous 
 
 What truly set The Flame apart was its service. The waitstaff, dressed in crisp, professional attire, provided attentive and personalized care. The bartenders were seasoned professionals, crafting classic cocktails with precision and flair. Guests consistently lauded the impeccable hospitality, reinforcing the restaurant’s reputation for delivering a complete, luxury experience.  
 
-Sadly, after 32 years of serving Vegas’ discerning palates, The Flame closed its doors in 1993, a casualty of the Desert Inn arterial project. While the physical location is gone, its memory lives on, a treasured recollection for many who experienced its unique charm. The Flame Steakhouse serves as a poignant reminder of a bygone era, when Las Vegas dining meant something more than simply filling your stomach—it meant indulging in an evening of elegance, comfort, and genuine Vegas glamour.
+Sadly, after 32 years of serving Vegas’ discerning palates, The Flame closed its doors in 1993, a casualty of the [Desert Inn](/posts/desert-inn-hotel-and-casino-las-vegas/) arterial project. While the physical location is gone, its memory lives on, a treasured recollection for many who experienced its unique charm. The Flame Steakhouse serves as a poignant reminder of a bygone era, when Las Vegas dining meant something more than simply filling your stomach—it meant indulging in an evening of elegance, comfort, and genuine Vegas glamour.
 
 
 <div class="shop-collection">

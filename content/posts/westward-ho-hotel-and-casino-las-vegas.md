@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/po58Kb_vSqE/hqdefault.jpg"
 
 ## A Pioneer on the Strip
 
-The Las Vegas Strip wasn't always the glittering behemoth it is today. In 1963, the landscape was evolving, with mid-sized hotels vying for attention. Enter the Westward Ho Hotel and Casino, affectionately nicknamed “The Ho” by its loyal clientele. Located strategically between the Stardust and where Slots-A-Fun would eventually stand, this 15-acre property felt like a slice of the Old West – a respectful nod to the spirit of the wagon trains that shaped the region’s history, as reflected in its name. Owned by Dean Petersen and his family, "The Ho" offered a more relaxed and approachable vibe than some of the more established, high-roller destinations.
+The Las Vegas Strip wasn't always the glittering behemoth it is today. In 1963, the landscape was evolving, with mid-sized hotels vying for attention. Enter the Westward Ho Hotel and Casino, affectionately nicknamed “The Ho” by its loyal clientele. Located strategically between the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) and where Slots-A-Fun would eventually stand, this 15-acre property felt like a slice of the Old West – a respectful nod to the spirit of the wagon trains that shaped the region’s history, as reflected in its name. Owned by Dean Petersen and his family, "The Ho" offered a more relaxed and approachable vibe than some of the more established, high-roller destinations.
 
 ## Mid-Century Charm and Family Ownership
 
@@ -21,7 +21,7 @@ What set the Westward Ho apart was its unique layout. Unlike the towering struct
 
 ## A Quiet Demise and a Pricey Land Deal
 
-The passing of Dean Petersen in 1997 marked the beginning of the end for the Westward Ho. Though Faye Johnson, his sister, kept the operation going for several years, the inevitable sale came in 2005. The property, still employing 650 people and housing a 35,000-square-foot casino, was valued at a significant $101.6 million.  For a brief period, it seemed like things might stay relatively unchanged under new owner Francis Zarro. However, within a year, Harrah’s Entertainment initiated talks to trade it to Boyd Gaming in exchange for the Barbary Coast.
+The passing of Dean Petersen in 1997 marked the beginning of the end for the Westward Ho. Though Faye Johnson, his sister, kept the operation going for several years, the inevitable sale came in 2005. The property, still employing 650 people and housing a 35,000-square-foot casino, was valued at a significant $101.6 million.  For a brief period, it seemed like things might stay relatively unchanged under new owner Francis Zarro. However, within a year, Harrah’s Entertainment initiated talks to trade it to Boyd Gaming in exchange for the [Barbary Coast](/posts/barbary-coast-hotel-and-casino-las-vegas/).
 
 ## From Wagons to Resorts World
 

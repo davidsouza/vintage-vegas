@@ -13,7 +13,7 @@ The Las Vegas Strip has seen its share of themed restaurants come and go, but fe
 
 ## Multiple Moves and a Fiery Chapter
 
-The Inn’s story is one of constant evolution, marked by several relocations. Within three years, it moved to Maryland Parkway near Tropicana, then to a prime location across from the Stardust at the Desert Spa Shopping Center in 1959. However, 1961 brought a setback: a devastating fire forced another relocation to 4375 South Las Vegas Boulevard.  It was the 1970 move that solidified the Alpine Village Inn's iconic status. Situated directly opposite the Las Vegas Hilton (now the Westgate) at 3003 Paradise Road, this final location became synonymous with the restaurant itself. 
+The Inn’s story is one of constant evolution, marked by several relocations. Within three years, it moved to Maryland Parkway near [Tropicana](/posts/tropicana-country-club-las-vegas/), then to a prime location across from the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) at the Desert Spa Shopping Center in 1959. However, 1961 brought a setback: a devastating fire forced another relocation to 4375 South Las Vegas Boulevard.  It was the 1970 move that solidified the Alpine Village Inn's iconic status. Situated directly opposite the [Las Vegas Hilton](/posts/las-vegas-hilton-hotel-and-casino-las-vegas/) (now the Westgate) at 3003 [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Road, this final location became synonymous with the restaurant itself. 
 
 ## A Rathskeller and Chalet Charm
 

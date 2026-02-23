@@ -11,11 +11,11 @@ youtube_title: "Vintage Las Vegas Castaways Hotel and Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/tUUkJVnEZjY/hqdefault.jpg"
 ---
 
-## A Brief But Bright Polynesian Escape
+## A Brief But Bright [Polynesian](/posts/polynesian-hotel-and-casino-las-vegas/) Escape
 
-The Las Vegas Strip has seen countless resorts rise and fall, each leaving a unique mark on its ever-evolving landscape. Few, however, have a story as peculiar and bittersweet as the Castaways Hotel and Casino. Existing from 1963 to 1987, it occupied the northwest corner of the Strip at Harmon Avenue and Las Vegas Boulevard – a spot now dominated by The Mirage. But before the volcano erupted and the dolphin show debuted, a Polynesian-themed oasis briefly charmed visitors and locals alike.
+The Las Vegas Strip has seen countless resorts rise and fall, each leaving a unique mark on its ever-evolving landscape. Few, however, have a story as peculiar and bittersweet as the Castaways Hotel and Casino. Existing from 1963 to 1987, it occupied the northwest corner of the Strip at Harmon Avenue and Las Vegas Boulevard – a spot now dominated by The [Mirage](/posts/mirage-hotel-and-casino-las-vegas/). But before the volcano erupted and the dolphin show debuted, a Polynesian-themed oasis briefly charmed visitors and locals alike.
 
-The Castaways didn't start as Castaways. It began life as the Sans Souci Hotel, a financially troubled property bought in 1963 by Ben Jaffe, who also owned the Tropicana. Recognizing its potential, Jaffe envisioned a complete transformation, rebranding it as the Castaways and adding rooms and a much-needed facelift. The concept was clear: a tropical escape in the middle of the Nevada desert.
+The Castaways didn't start as Castaways. It began life as the [Sans Souci](/posts/sans-souci-hotel-and-casino-las-vegas/) Hotel, a financially troubled property bought in 1963 by Ben Jaffe, who also owned the [Tropicana](/posts/tropicana-country-club-las-vegas/). Recognizing its potential, Jaffe envisioned a complete transformation, rebranding it as the Castaways and adding rooms and a much-needed facelift. The concept was clear: a tropical escape in the middle of the Nevada desert.
 
 ## Turbulent Waters & A Big Name Arrival
 

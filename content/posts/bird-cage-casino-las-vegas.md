@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/sftNYDagX4g/hqdefault.jpg"
 
 ## A Brief Flight – The Bird Cage Arrives
 
-The 1950s were a whirlwind of growth and transformation for Las Vegas. Downtown, Fremont Street was *the* place to be, a vibrant hub of gambling, entertainment, and burgeoning neon. Amongst the established giants like the Mint and the Nevada Club, a new player entered the scene in late 1957: The Bird Cage Casino. Located on the coveted “Lucky Corner” at 100 East Fremont Street (now part of Circa Resort and Casino), this short-lived casino attempted to carve out its place in Vegas history. Backed by former Los Angeles bakers Stewart R. Kennard Jr. and Maurice W. Fortney, the project was approved amidst hopeful projections of seven table games, 102 slot machines, and a $218,000 bankroll.
+The 1950s were a whirlwind of growth and transformation for Las Vegas. Downtown, Fremont Street was *the* place to be, a vibrant hub of gambling, entertainment, and burgeoning neon. Amongst the established giants like [the Mint](/posts/the-mint-hotel-and-casino-las-vegas/) and the [Nevada Club](/posts/nevada-club-casino-las-vegas/), a new player entered the scene in late 1957: The Bird Cage Casino. Located on the coveted “[Lucky](/posts/lucky-casino-las-vegas/) Corner” at 100 East Fremont Street (now part of Circa Resort and Casino), this short-lived casino attempted to carve out its place in Vegas history. Backed by former Los Angeles bakers Stewart R. Kennard Jr. and Maurice W. Fortney, the project was approved amidst hopeful projections of seven table games, 102 slot machines, and a $218,000 bankroll.
 
 ## The Cage That Captured Attention
 
@@ -27,7 +27,7 @@ Despite its prime location and eye-catching signage, the Bird Cage Casino faced 
 
 Sadly, the Bird Cage's flight was short.  After just about 16 months in operation, the casino closed its doors in late 1959. The neighboring Mint Hotel swiftly acquired the property, expanding its footprint and eventually obscuring the Bird Cage's distinctive neon sign with its own signature pink façade.
 
-Though its tenure was brief, the Bird Cage Casino has earned a devoted following amongst vintage Vegas enthusiasts.  Scarcity – genuine Bird Cage casino chips, ashtrays, and photographs – further elevates its cult status. It serves as a powerful reminder of a specific moment in time – the mid-1950s Fremont Street, when even a small, corner casino could leave a lasting impression with a splash of neon and a bold, memorable design. While the Mint is long gone, and the Lucky Corner is now part of the modern Circa Resort and Casino, the memory of the Bird Cage Casino continues to flutter on, a charming relic of a bygone Vegas era.
+Though its tenure was brief, the Bird Cage Casino has earned a devoted following amongst vintage Vegas enthusiasts.  Scarcity – genuine Bird Cage casino chips, ashtrays, and photographs – further elevates its cult status. It serves as a powerful reminder of a specific moment in time – the mid-1950s Fremont Street, when even a small, corner casino could leave a lasting impression with a [splash](/posts/splash-las-vegas/) of neon and a bold, memorable design. While the Mint is long gone, and the Lucky Corner is now part of the modern Circa Resort and Casino, the memory of the Bird Cage Casino continues to flutter on, a charming relic of a bygone Vegas era.
 
 
 <div class="shop-collection">

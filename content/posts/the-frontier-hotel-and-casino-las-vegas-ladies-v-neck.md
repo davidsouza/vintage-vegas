@@ -7,17 +7,17 @@ location: "The Frontier Hotel and Casino Las Vegas Ladies V Neck"
 tags: ["las vegas history", "vintage vegas", "the frontier hotel and casino las vegas ladies v neck"]
 ---
 
-## From Frontier to New Frontier: A Wild West Beginning
+## From [Frontier](/posts/frontier-hotel-and-casino-las-vegas/) to New Frontier: A Wild West Beginning
 
-The Frontier Hotel and Casino, originally just “The Frontier Hotel,” burst onto the Las Vegas Strip in 1942. Built on the site of the former Spanish saddle shop, it was envisioned as a western-themed resort mirroring the romanticized image of the American frontier. Unlike the glitz and glamour that would define later Strip properties, the Frontier catered to a middle-class clientele and families. It aimed to evoke a feeling of authenticity - a little dusty, a little rough around the edges, but undeniably Nevada. The hotel initially consisted of just a few buildings and rapidly expanded over the years to accommodate the growing popularity of Las Vegas.
+[The Frontier Hotel and Casino](/posts/the-frontier-hotel-and-casino-las-vegas/), originally just “The Frontier Hotel,” burst onto the Las Vegas Strip in 1942. Built on the site of the former Spanish saddle shop, it was envisioned as a western-themed resort mirroring the romanticized image of the American frontier. Unlike the glitz and glamour that would define later Strip properties, the Frontier catered to a middle-class clientele and families. It aimed to evoke a feeling of authenticity - a little dusty, a little rough around the edges, but undeniably Nevada. The hotel initially consisted of just a few buildings and rapidly expanded over the years to accommodate the growing popularity of Las Vegas.
 
-## The “Lady Luck” & Frontier Memorabilia
+## The “[Lady Luck](/posts/lady-luck-hotel-and-casino-las-vegas/)” & Frontier Memorabilia
 
 Speaking of authenticity, the Frontier became synonymous with its iconic neon sign featuring "Lady Luck." This figure, often described as a playful and slightly mischievous muse, symbolized the gambling experience – a blend of hope and chance. Many items related to The Frontier are highly sought after by collectors of vintage Las Vegas memorabilia. One particularly desirable item is a ladies’ V-neck shirt featuring the "Lady Luck" logo. These shirts, often distributed as promotional giveaways, represent a tangible piece of Frontier history – a glimpse into the era of cowboys, showgirls, and the promise of fortune. Finding one in good condition is a true treasure for any Vegas history buff.
 
 ## The Ruffin Era and a Brief Revival
 
-The late 1990s saw a brief resurgence for the Frontier when Phil Ruffin acquired the property and rebranded it as the “New Frontier.”  A significant $20 million renovation was undertaken, aimed at modernizing the facilities and attracting a broader customer base. New dining options were introduced, and the hotel received a much-needed facelift. This revitalization temporarily halted the inevitable decline.  Ruffin’s initial plans for a dramatic replacement, "City by the Bay," a San Francisco-themed resort, were ambitious but ultimately hindered by financial challenges. A partnership with Donald Trump led to the construction of Trump International, partially utilizing Frontier land, demonstrating the hotel's continued strategic value.
+The late 1990s saw a brief resurgence for the Frontier when Phil Ruffin acquired the property and rebranded it as the “New Frontier.”  A significant $20 million renovation was undertaken, aimed at modernizing the facilities and attracting a broader customer base. New dining options were introduced, and the hotel received a much-needed facelift. This revitalization temporarily halted the inevitable decline.  Ruffin’s initial plans for a dramatic replacement, "City by the Bay," a San Francisco-themed resort, were ambitious but ultimately hindered by financial challenges. A partnership with Donald Trump led to the construction of Trump [International](/posts/international-hotel-las-vegas/), partially utilizing Frontier land, demonstrating the hotel's continued strategic value.
 
 ## An End of an Era & A Spectacular Demolition
 

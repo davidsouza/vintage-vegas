@@ -11,7 +11,7 @@ youtube_title: "Vintage Las Vegas Golden Slot Club Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/yCX4uz-sPEQ/hqdefault.jpg"
 ---
 
-## A Sparkle in Glitter Gulch: The Golden Slot Club Emerges
+## A Sparkle in [Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/): The Golden Slot Club Emerges
 
 The 1950s were a pivotal era for Las Vegas. Fremont Street, then known as "Glitter Gulch," was the undisputed heart of the action. Casinos weren't sprawling mega-resorts yet; they were smaller, themed establishments vying for attention with increasingly elaborate facades and dazzling signs. In 1955, the Golden Slot Club joined this energetic scene, setting up shop at 22 E. Fremont Street. 
 
@@ -25,7 +25,7 @@ However, the Golden Slot Club's existence wasn't without its turbulence. Legal i
 
 ## From Golden Slots to Fortune & Legacy
 
-In 1958, Lynch rebranded the Golden Slot Club as Cecil Lynch’s Fortune Club. While the name changed, a piece of the club’s former glory lingered – the iconic slot machine sign was adapted to reflect the new branding.  It's a tangible link to the Golden Slot Club’s original charm.  Sadly, the decorative facade, including the beloved animated slot machine, was removed in 1966 as the city continued to evolve and modernize.
+In 1958, Lynch rebranded the Golden Slot Club as Cecil Lynch’s [Fortune Club](/posts/fortune-club-hotel-and-casino-las-legas/). While the name changed, a piece of the club’s former glory lingered – the iconic slot machine sign was adapted to reflect the new branding.  It's a tangible link to the Golden Slot Club’s original charm.  Sadly, the decorative facade, including the beloved animated slot machine, was removed in 1966 as the city continued to evolve and modernize.
 
 The location didn't disappear completely. It later housed the Glitter Gulch casino, famous for its iconic "Vegas Vickie" sign, further cementing its place in Las Vegas lore. Today, that very spot is home to the modern marvel that is Circa Resort & Casino, a testament to how much Las Vegas has transformed while still honoring the spirit of its vibrant past.  The Golden Slot Club, though gone, remains a memorable chapter in the story of Fremont Street and the evolution of Las Vegas’s dazzling, themed casino culture.
 

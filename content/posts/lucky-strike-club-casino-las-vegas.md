@@ -11,9 +11,9 @@ youtube_title: "Vintage Las Vegas Lucky Casino Bio"
 youtube_thumbnail: "https://i.ytimg.com/vi/YKmQhHn4ncM/hqdefault.jpg"
 ---
 
-## A Lucky Beginning on Fremont Street
+## A [Lucky](/posts/lucky-casino-las-vegas/) Beginning on Fremont Street
 
-The Golden Age of Las Vegas, particularly the era of Fremont Street, holds a special place in the hearts of those who remember it. Amidst the neon glow of the original casinos, the Lucky Strike Club Casino shone brightly. Opening its doors in 1954 at 117 Fremont Street, right in the thick of “Glitter Gulch,” it was more than just a casino; it was a character in the city’s burgeoning story.  The name itself was a clever nod to the national obsession with luck and the wildly popular Lucky Strike cigarettes – a reflection of postwar American pop culture. Imagine strolling down Fremont Street, the Golden Nugget, Las Vegas Club, and Pioneer Club vying for your attention, and then catching sight of the vibrant "Lucky Strike" neon emblem, a beacon of promise and fun.
+The Golden Age of Las Vegas, particularly the era of Fremont Street, holds a special place in the hearts of those who remember it. Amidst the neon glow of the original casinos, the Lucky Strike Club Casino shone brightly. Opening its doors in 1954 at 117 Fremont Street, right in the thick of “[Glitter Gulch](/posts/glitter-gulch-hotel-and-casino-las-vegas/),” it was more than just a casino; it was a character in the city’s burgeoning story.  The name itself was a clever nod to the national obsession with luck and the wildly popular Lucky Strike cigarettes – a reflection of postwar American pop culture. Imagine strolling down Fremont Street, the Golden Nugget, [Las Vegas Club](/posts/las-vegas-club-hotel-and-casino-las-vegas/), and [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) vying for your attention, and then catching sight of the vibrant "Lucky Strike" neon emblem, a beacon of promise and fun.
 
 ## What Made the Lucky Strike Special?
 

@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/GRv24QYK4u8/hqdefault.jpg"
 
 ## A Midnight Beginning & an Arabian Dream
 
-The Las Vegas Strip wasn’t always the neon playground we know today. Back in the 1960s, it was evolving, hungry for bigger, bolder attractions. Enter the Aladdin Hotel and Casino, a sprawling spectacle that burst onto the scene at midnight on April 1, 1966. Located at 3667 South Las Vegas Blvd, the Aladdin aimed for something different: an opulent, Arabian-themed experience. Forget the Western or futuristic themes – this was a journey to a fictional desert palace, complete with mosaic tilework, lush landscaping (at least initially), and costumed performers.
+The Las Vegas Strip wasn’t always the neon playground we know today. Back in the 1960s, it was evolving, hungry for bigger, bolder attractions. Enter the [Aladdin Hotel and Casino](/posts/aladdin-hotel-and-casino-las-vegas/), a sprawling spectacle that burst onto the scene at midnight on April 1, 1966. Located at 3667 South Las Vegas Blvd, the Aladdin aimed for something different: an opulent, Arabian-themed experience. Forget the Western or futuristic themes – this was a journey to a fictional desert palace, complete with mosaic tilework, lush landscaping (at least initially), and costumed performers.
 
 The Aladdin was the brainchild of Bruce Eichner and Milton Prell, and the design was intended to evoke a sense of exoticism and grandeur. The architecture, while somewhat kitschy by modern standards, was undeniably striking for the era.  Inside, elaborate fountains, theatrical lighting, and oriental rugs transported guests to what was envisioned as a romantic fantasy world. The hotel's distinctive, gold-domed silhouette made it instantly recognizable on the Strip.
 

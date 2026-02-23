@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/VCwZ05jEutQ/hqdefault.jpg"
 
 ## The Dawn of the Strip: Introducing the Desert Inn
 
-The Las Vegas Strip wasn’t always the dazzling behemoth it is today. In 1950, it was still developing, a stretch of desert slowly transforming into a playground for adults. And at its heart stood the Desert Inn Hotel and Casino, a pivotal player in that evolution. Opened on April 24, 1950, it was the fifth resort to claim a spot on the Strip, nestled between what would become Desert Inn Road and Sands Avenue.  Imagine the scene: a 300-room hotel, a sprawling 2,400 square foot casino (a considerable size for Nevada at the time), and a vision for luxury in the Nevada desert. 
+The Las Vegas Strip wasn’t always the dazzling behemoth it is today. In 1950, it was still developing, a stretch of desert slowly transforming into a playground for adults. And at its heart stood the Desert Inn Hotel and Casino, a pivotal player in that evolution. Opened on April 24, 1950, it was the fifth resort to claim a spot on the Strip, nestled between what would become Desert Inn Road and [Sands](/posts/sands-hotel-and-casino-las-vegas/) Avenue.  Imagine the scene: a 300-room hotel, a sprawling 2,400 square foot casino (a considerable size for Nevada at the time), and a vision for luxury in the Nevada desert. 
 
 ## A Playground for the Elite and the Legends
 

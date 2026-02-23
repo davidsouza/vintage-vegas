@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "las vegas hilton hotel and casino 
 
 ## A Hilton Colossus Rises
 
-The Las Vegas Hilton. Just the name evokes a certain era – a time of glitz, grandeur, and serious ambition on the Las Vegas Strip. But the story behind it isn’t as simple as a triumphant opening. It began life as the International Hotel and Casino, a bold project conceived by Kirk Kerkorian to challenge the dominance of the iconic Sahara Hotel.  In 1970 and 1971, Kerkorian sold his shares to Hilton Hotels, and the name changed to Las Vegas Hilton in July 1971. It was a game-changer; it briefly held the title of the world’s tallest building. This signaled a new level of scale for Vegas, showcasing the industry’s willingness to build bigger, bolder, and with more luxury.
+The Las Vegas Hilton. Just the name evokes a certain era – a time of glitz, grandeur, and serious ambition on the Las Vegas Strip. But the story behind it isn’t as simple as a triumphant opening. It began life as the [International Hotel](/posts/international-hotel-las-vegas/) and Casino, a bold project conceived by Kirk Kerkorian to challenge the dominance of the iconic [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Hotel.  In 1970 and 1971, Kerkorian sold his shares to Hilton Hotels, and the name changed to Las Vegas Hilton in July 1971. It was a game-changer; it briefly held the title of the world’s tallest building. This signaled a new level of scale for Vegas, showcasing the industry’s willingness to build bigger, bolder, and with more luxury.
 
 ## Growth & Entertainment
 

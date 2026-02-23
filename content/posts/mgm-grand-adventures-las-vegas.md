@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "mgm grand adventures las vegas"]
 
 ## The Dream of Family-Friendly Vegas
 
-The 1990s in Las Vegas were a time of massive expansion and diversification. While casinos reigned supreme, there was a growing desire to attract a wider demographic, particularly families. Enter MGM Grand Adventures, a sprawling 33-acre theme park that debuted on December 18, 1993, on land previously occupied by the Tropicana’s golf course. This ambitious project aimed to inject a dose of Disney magic into the heart of Sin City, hoping to soften the city’s reputation as a purely adult playground. It was a bold bet, and one that ultimately wouldn't pay off in the long run, but it remains a fascinating footnote in Las Vegas history.
+The 1990s in Las Vegas were a time of massive expansion and diversification. While casinos reigned supreme, there was a growing desire to attract a wider demographic, particularly families. Enter MGM Grand Adventures, a sprawling 33-acre theme park that debuted on December 18, 1993, on land previously occupied by the [Tropicana](/posts/tropicana-country-club-las-vegas/)’s golf course. This ambitious project aimed to inject a dose of Disney magic into the heart of Sin City, hoping to soften the city’s reputation as a purely adult playground. It was a bold bet, and one that ultimately wouldn't pay off in the long run, but it remains a fascinating footnote in Las Vegas history.
 
 ## A Backlot of Fun
 
@@ -17,7 +17,7 @@ MGM Grand Adventures was designed to feel like a bustling movie studio backlot. 
 
 ## Short-Lived Success and Mounting Challenges
 
-Despite its initial enthusiasm and diverse offerings, MGM Grand Adventures faced considerable headwinds. Intense competition from other indoor attractions like the Adventuredome at the Excalibur made it difficult to draw crowds. The relentless desert heat proved to be a significant obstacle, discouraging outdoor activity during peak season. Rising operational costs and the sheer scale of the park created a financial strain. A reconfiguration in 1996 reduced costs, but it also marked the beginning of the end. In 1997, a further reduction in size – from 33 acres to 18.8 – prioritized space for a new pool, spa, and much-needed conference center.  
+Despite its initial enthusiasm and diverse offerings, MGM Grand Adventures faced considerable headwinds. Intense competition from other indoor attractions like the Adventuredome at the Excalibur made it difficult to draw crowds. The relentless desert heat proved to be a significant obstacle, discouraging outdoor activity during peak season. Rising operational costs and the sheer scale of [the park](/posts/the-park-hotel-and-casino-las-vegas/) created a financial strain. A reconfiguration in 1996 reduced costs, but it also marked the beginning of the end. In 1997, a further reduction in size – from 33 acres to 18.8 – prioritized space for a new pool, spa, and much-needed conference center.  
 
 ## A Nostalgic Echo
 

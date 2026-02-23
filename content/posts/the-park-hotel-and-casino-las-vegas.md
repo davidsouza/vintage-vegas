@@ -7,9 +7,9 @@ location: "The Park Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "the park hotel and casino las vegas"]
 ---
 
-## From Holiday Cheer to The Park: A Downtown Beginning
+## From [Holiday](/posts/holiday-casino-las-vegas/) Cheer to The Park: A Downtown Beginning
 
-Downtown Las Vegas has seen its share of comings and goings. Many hotels and casinos have graced the Fremont Street experience, only to vanish into the sands of time. Today, we’re revisiting one of those – The Park Hotel and Casino, a property whose life was surprisingly brief, yet packed with significant events in Las Vegas history. Originally opening in 1978 as the Holiday International, the hotel was built near Fremont Street, a key location as downtown remained the heart of Vegas entertainment. The Holiday International was a significant addition to the area, boasting 406 rooms and aiming to capture the tourist trade that still flocked to the city's original gaming district. It presented a modern, somewhat international aesthetic, fitting with the name and reflecting a broader appeal than some of the more traditionally themed casinos nearby.
+Downtown Las Vegas has seen its share of comings and goings. Many hotels and casinos have graced the Fremont Street experience, only to vanish into [the sands](/posts/the-sands-hotel-and-casino-las-vegas/) of time. Today, we’re revisiting one of those – The Park Hotel and Casino, a property whose life was surprisingly brief, yet packed with significant events in Las Vegas history. Originally opening in 1978 as the [Holiday International](/posts/holiday-international-casino-las-vegas/), the hotel was built near Fremont Street, a key location as downtown remained the heart of Vegas entertainment. The Holiday [International](/posts/international-hotel-las-vegas/) was a significant addition to the area, boasting 406 rooms and aiming to capture the tourist trade that still flocked to the city's original gaming district. It presented a modern, somewhat international aesthetic, fitting with the name and reflecting a broader appeal than some of the more traditionally themed casinos nearby.
 
 ## The Strike That Stilled the Doors
 

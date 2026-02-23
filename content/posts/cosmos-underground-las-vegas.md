@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "cosmos underground las vegas"]
 
 ## A Hidden Oasis in Downtown's Bustle
 
-Las Vegas, especially its Fremont Street Experience, is synonymous with bright lights, towering casinos, and a constant buzz. But venture a little deeper, and you’ll find whispers of a Las Vegas that felt different, a Las Vegas of hidden gems and intimate gatherings. One such treasure was Cosmo’s Underground Restaurant, a beloved downtown establishment that thrived in the mid-20th century. Situated below the iconic Sassy Sally's casino, Cosmo’s was more than just a restaurant; it was an experience, a retreat from the glitz and clamor above.
+Las Vegas, especially its Fremont Street Experience, is synonymous with bright lights, towering casinos, and a constant buzz. But venture a little deeper, and you’ll find whispers of a Las Vegas that felt different, a Las Vegas of hidden gems and intimate gatherings. One such treasure was Cosmo’s Underground Restaurant, a beloved downtown establishment that thrived in the mid-[20th century](/posts/20th-century-hotel-and-casino-las-vegas/). Situated below the iconic Sassy Sally's casino, Cosmo’s was more than just a restaurant; it was an experience, a retreat from the glitz and clamor above.
 
 ## From Nightclub to Supper Club Secret
 

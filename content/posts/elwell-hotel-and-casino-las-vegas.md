@@ -23,7 +23,7 @@ The mid-1950s brought expansion. In 1954, the Elwell Hotel was enlarged to accom
 
 ## A Passing of the Torch and a Demolition
 
-Sadly, William Elwell passed away in August 1963, marking the end of an era for the family’s involvement.  Just two years later, in 1965, the Elwell Hotel was sold to the Pioneer Club for a substantial $1.5 million. The hotel was then renamed the Pioneer Hotel and continued its legacy as a popular downtown destination. However, the relentless march of progress in Las Vegas ultimately led to its demise. In 1984, the Golden Nugget purchased the property and, in a move that signaled the changing face of the city, the building was demolished to make way for a new parking garage.
+Sadly, William Elwell passed away in August 1963, marking the end of an era for the family’s involvement.  Just two years later, in 1965, the Elwell Hotel was sold to the [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) for a substantial $1.5 million. The hotel was then renamed the Pioneer Hotel and continued its legacy as a popular downtown destination. However, the relentless march of progress in Las Vegas ultimately led to its demise. In 1984, the Golden Nugget purchased the property and, in a move that signaled the changing face of the city, the building was demolished to make way for a new parking garage.
 
 ## The Legacy of a Quiet Pioneer
 

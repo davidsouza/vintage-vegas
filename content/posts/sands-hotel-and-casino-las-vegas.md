@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "sands hotel and casino las vegas"]
 
 ## From Humble Beginnings to Rat Pack Royalty
 
-The Sands Hotel and Casino, a name synonymous with vintage Las Vegas glamour, occupied a prime spot on the Strip for 44 years. Opening its doors on December 5, 1952, it was the seventh resort to grace the Las Vegas Strip, a significant addition to a rapidly evolving entertainment landscape. Initially conceived by Jake Freedman, the early Sands offered a relatively modest 200 rooms and a casino aimed at both tourists and high rollers. It wasn't initially destined for the superstardom it would later achieve.
+[The Sands Hotel and Casino](/posts/the-sands-hotel-and-casino-las-vegas/), a name synonymous with vintage Las Vegas glamour, occupied a prime spot on the Strip for 44 years. Opening its doors on December 5, 1952, it was the seventh resort to grace the Las Vegas Strip, a significant addition to a rapidly evolving entertainment landscape. Initially conceived by Jake Freedman, the early Sands offered a relatively modest 200 rooms and a casino aimed at both tourists and high rollers. It wasn't initially destined for the superstardom it would later achieve.
 
 ## The Mob Connection and the Rise of the Rat Pack
 

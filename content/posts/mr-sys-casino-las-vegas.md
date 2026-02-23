@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "mr sys casino las vegas"]
 
 ## Remembering Mr. Sys: A Vegas Original
 
-Las Vegas has always been about spectacle, but for a certain era, it was also about character. Amongst the evolving giants of the Strip, a smaller, friendlier presence thrived: Mr. Sys Casino. Located just across from the Stardust, a prime location even then, Mr. Sys wasn’t aiming to be Bellagio. Instead, it carved out a unique niche as a beloved local and tourist haunt, embodying a distinctly "old Vegas" feel that's sorely missed today. Operating from 1962 to 1981, it's a forgotten jewel in the glittering crown of Las Vegas history.
+Las Vegas has always been about spectacle, but for a certain era, it was also about character. Amongst the evolving giants of the Strip, a smaller, friendlier presence thrived: Mr. Sys Casino. Located just across from the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/), a prime location even then, Mr. Sys wasn’t aiming to be Bellagio. Instead, it carved out a unique niche as a beloved local and tourist haunt, embodying a distinctly "old Vegas" feel that's sorely missed today. Operating from 1962 to 1981, it's a forgotten jewel in the glittering crown of Las Vegas history.
 
 ## The Mascot and the Magic
 

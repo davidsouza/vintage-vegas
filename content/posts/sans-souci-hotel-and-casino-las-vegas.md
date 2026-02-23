@@ -13,7 +13,7 @@ The Las Vegas Strip wasn't always the glittering spectacle we know today. Back i
 
 ## The Golden Age of the Sans Souci
 
-The 1950s marked the Sans Souci’s peak. The original auto court buildings were torn down in 1955 and replaced with a two-story, 82-room hotel. Then, in 1957, the casino and showroom were added, solidifying its place as a major player on the burgeoning Las Vegas Strip. Positioned directly across from the Sands Hotel and Casino, the Sans Souci enjoyed prime real estate.  It truly became "The Jewel of the Strip" - a claim backed by the impressive dining hall, capable of serving up to 2,000 meals daily for both guests and hungry locals. 
+The 1950s marked the Sans Souci’s peak. The original auto court buildings were torn down in 1955 and replaced with a two-story, 82-room hotel. Then, in 1957, the casino and showroom were added, solidifying its place as a major player on the burgeoning Las Vegas Strip. Positioned directly across from [the Sands Hotel and Casino](/posts/the-sands-hotel-and-casino-las-vegas/), the Sans Souci enjoyed prime real estate.  It truly became "The Jewel of the Strip" - a claim backed by the impressive dining hall, capable of serving up to 2,000 meals daily for both guests and hungry locals. 
 
 ## Entertainment and Atmosphere
 
@@ -21,11 +21,11 @@ The Sans Souci wasn't just about rooms and gambling; it was about entertainment.
 
 ## A Brief and Difficult End
 
-Despite its initial success, financial troubles eventually plagued the Sans Souci. In 1962, it closed its doors and filed for bankruptcy. The property was sold to Ben Jaffe, who rebranded it as the Castaways Hotel and Casino in 1963.  While the Castaways continued operations, it never quite recaptured the magic of the Sans Souci. Ownership changed hands several times, including a brief stint under Howard Hughes’ control, before finally being sold to Golden Nugget Inc. in 1987. 
+Despite its initial success, financial troubles eventually plagued the Sans Souci. In 1962, it closed its doors and filed for bankruptcy. The property was sold to Ben Jaffe, who rebranded it as the [Castaways Hotel and Casino](/posts/castaways-hotel-and-casino-las-vegas/) in 1963.  While the Castaways continued operations, it never quite recaptured the magic of the Sans Souci. Ownership changed hands several times, including a brief stint under Howard Hughes’ control, before finally being sold to Golden Nugget Inc. in 1987. 
 
 ## Legacy on the Strip
 
-The Sans Souci Hotel and Casino is now gone, demolished in 1989 to make way for the iconic Mirage.  However, its legacy lives on as a vital piece of Las Vegas history.  It represents a crucial period of growth and transformation for the Strip, showcasing the evolution of entertainment and hospitality in the desert oasis. Today, the site is poised to become part of the new Hard Rock Hotel and Casino, a new chapter for a land once synonymous with the charm and carefree spirit of the Sans Souci.
+The Sans Souci Hotel and Casino is now gone, demolished in 1989 to make way for the iconic [Mirage](/posts/mirage-hotel-and-casino-las-vegas/).  However, its legacy lives on as a vital piece of Las Vegas history.  It represents a crucial period of growth and transformation for the Strip, showcasing the evolution of entertainment and hospitality in the desert oasis. Today, the site is poised to become part of the new Hard Rock Hotel and Casino, a new chapter for a land once synonymous with the charm and carefree spirit of the Sans Souci.
 
 
 <div class="shop-collection">

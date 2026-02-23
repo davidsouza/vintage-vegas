@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "elwell hotel and casino las legas"
 
 ## A Family Legacy on First and Carson
 
-Before the mega-resorts and dazzling marquees, Las Vegas was a town built on family, grit, and a little bit of luck. One such testament to that early era was the Elwell Hotel, a modest but significant contributor to the city’s burgeoning hospitality scene. Located at the intersection of First Street and Carson Avenue, a spot that now holds a Golden Nugget parking garage, the Elwell’s story is one of local roots, civic involvement, and a bittersweet evolution of the Las Vegas Strip.
+Before the mega-resorts and dazzling marquees, Las Vegas was a town built on family, grit, and a little bit of luck. One such testament to that early era was the [Elwell](/posts/elwell-hotel-and-casino-las-vegas/) Hotel, a modest but significant contributor to the city’s burgeoning hospitality scene. Located at the intersection of First Street and Carson Avenue, a spot that now holds a Golden Nugget parking garage, the Elwell’s story is one of local roots, civic involvement, and a bittersweet evolution of the Las Vegas Strip.
 
 The Elwell’s story began long before 1951, the year the hotel officially opened. The land itself was part of a larger tract owned by the Elwell family, descendants of early Las Vegas settlers. William Elwell, along with his two sisters, Naomi Uptigrove and Doris Brown, decided to put the family’s land to use, constructing a hotel to cater to the increasing number of visitors drawn to the city’s gambling and entertainment opportunities.  It was a family venture, deeply embedded in the fabric of the community.
 
@@ -21,7 +21,7 @@ William Elwell himself was a prominent figure, actively involved in the communit
 
 ## From Hotel to Casino, and a Quick Demise
 
-While initially just a hotel, the Elwell eventually transitioned to include casino gaming, reflecting the changing landscape of Las Vegas. However, its time as the Elwell Hotel & Casino was relatively short-lived. In 1965, the property was sold to the Pioneer Club for a respectable $1.5 million. The hotel was promptly rebranded as the Pioneer Hotel, taking on a more Western theme that became synonymous with the early Las Vegas Strip.
+While initially just a hotel, the Elwell eventually transitioned to include casino gaming, reflecting the changing landscape of Las Vegas. However, its time as the Elwell Hotel & Casino was relatively short-lived. In 1965, the property was sold to the [Pioneer Club](/posts/pioneer-club-hotel-and-casino-las-vegas/) for a respectable $1.5 million. The hotel was promptly rebranded as the Pioneer Hotel, taking on a more Western theme that became synonymous with the early Las Vegas Strip.
 
 ## A Parking Garage, a Lost Memory
 

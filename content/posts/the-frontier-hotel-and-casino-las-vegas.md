@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "the frontier hotel and casino las 
 
 ## From Frontier to New Frontier: A Wild West Start
 
-The Frontier Hotel and Casino, originally simply "Frontier Hotel," holds a significant place in the history of the Las Vegas Strip. Opened in 1942 by William "Guy" McAfee and Irv Burton, it was intentionally designed to evoke the feeling of the American West. Unlike the glitz and glamour of downtown, the Frontier aimed for a rustic, adventurous atmosphere, with wooden facades, swinging saloon doors, and a Wild West theme. This was a deliberate choice; it appealed to a broader demographic, particularly families and middle-class tourists, and helped solidify the Strip’s identity as an entertainment destination beyond the more established downtown casinos. The Frontier quickly became a popular destination, boasting 60 rooms and a bustling casino.
+The [Frontier Hotel and Casino](/posts/frontier-hotel-and-casino-las-vegas/), originally simply "Frontier Hotel," holds a significant place in the history of the Las Vegas Strip. Opened in 1942 by William "Guy" McAfee and Irv Burton, it was intentionally designed to evoke the feeling of the American West. Unlike the glitz and glamour of downtown, the Frontier aimed for a rustic, adventurous atmosphere, with wooden facades, swinging saloon doors, and a Wild West theme. This was a deliberate choice; it appealed to a broader demographic, particularly families and middle-class tourists, and helped solidify the Strip’s identity as an entertainment destination beyond the more established downtown casinos. The Frontier quickly became a popular destination, boasting 60 rooms and a bustling casino.
 
 ## A Middle-Class Appeal & Evolving Times
 
@@ -25,7 +25,7 @@ Despite the stalled "City by the Bay" project, the New Frontier’s land value s
 
 ## Legacy & The Future of the Land
 
-While the New Frontier is gone, its legacy remains. It was a foundational piece of the Las Vegas Strip, defining a distinct era and catering to a broad audience. The land itself has seen several iterations since, including the Trump International Hotel and now, a potential new Wynn resort. Currently vacant, the space stands as a reminder of the ever-evolving nature of Las Vegas, and a testament to the enduring allure of vintage Las Vegas history.
+While the New Frontier is gone, its legacy remains. It was a foundational piece of the Las Vegas Strip, defining a distinct era and catering to a broad audience. The land itself has seen several iterations since, including the Trump [International Hotel](/posts/international-hotel-las-vegas/) and now, a potential new Wynn resort. Currently vacant, the space stands as a reminder of the ever-evolving nature of Las Vegas, and a testament to the enduring allure of vintage Las Vegas history.
 
 
 <div class="shop-collection">

@@ -7,7 +7,7 @@ location: "Par A Dice Motel Las Vegas"
 tags: ["las vegas history", "vintage vegas", "par a dice motel las vegas"]
 ---
 
-## A Lucky Roll on Fremont Street
+## A [Lucky](/posts/lucky-casino-las-vegas/) Roll on Fremont Street
 
 The 1950s in Las Vegas were a time of explosive growth. The city was rapidly transforming from a sleepy desert town into a vibrant entertainment hub, and Fremont Street was *the* place to be. Amidst the burgeoning motor court corridor, a clever bit of wordplay and a whole lot of neon landed in 1953: the Par‑A‑Dice Motel. Located at 2217 Fremont Street, the name itself was a stroke of genius, perfectly aligning with the city’s rapidly developing gambling culture. The dice imagery incorporated into the signage was instantly eye-catching to travelers along the still-developing Las Vegas Strip, beckoning them to stop and stay.
 

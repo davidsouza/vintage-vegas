@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "pair a dice hotel and casino las v
 
 ## A Fleeting Glimpse of North Strip Charm
 
-The Las Vegas Strip wasn't always the glittering behemoth it is today. In the 1950s, it was a burgeoning landscape of smaller casinos, each vying for a piece of the burgeoning gambling pie. Among these was the Pair-A-Dice Hotel and Casino, opening its doors in 1956 at 2067 North Las Vegas Boulevard.  Located further north than the central Strip’s high-rollers destinations, Pair-A-Dice aimed for a slightly more relaxed, and frankly, less expensive clientele.  While not a powerhouse like the Sands or the Flamingo, it held a unique place in the tapestry of vintage Las Vegas.
+The Las Vegas Strip wasn't always the glittering behemoth it is today. In the 1950s, it was a burgeoning landscape of smaller casinos, each vying for a piece of the burgeoning gambling pie. Among these was the Pair-A-Dice Hotel and Casino, opening its doors in 1956 at 2067 North Las Vegas Boulevard.  Located further north than the central Strip’s high-rollers destinations, Pair-A-Dice aimed for a slightly more relaxed, and frankly, less expensive clientele.  While not a powerhouse like [the Sands](/posts/the-sands-hotel-and-casino-las-vegas/) or the Flamingo, it held a unique place in the tapestry of vintage Las Vegas.
 
 ## The "Bella Ladies" Connection - A Touch of Mystery
 

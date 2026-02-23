@@ -13,7 +13,7 @@ The Las Vegas Strip has always been about spectacle and excess, but just a block
 
 ## The Niche Strategy: Approachable Gaming
 
-The late 1970s saw the rise of the mega-resorts we associate with modern Vegas. Properties like the Mirage and Caesars Palace were setting new standards for size, entertainment, and lavishness. The Ambassador Casino, however, consciously avoided that competition. It was smaller, aiming for a more approachable atmosphere, and targeting a clientele who might be intimidated or priced out of the Strip’s glitz. Its 140 slot machines, six blackjack tables, and single craps table represented a modest scale, reflecting this strategic positioning. Imagine a place where you didn't need a reservation at a Michelin-starred restaurant to enjoy a few hands of blackjack – that was the promise of the Ambassador.
+The late 1970s saw the rise of the mega-resorts we associate with modern Vegas. Properties like the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/) and Caesars Palace were setting new standards for size, entertainment, and lavishness. The Ambassador Casino, however, consciously avoided that competition. It was smaller, aiming for a more approachable atmosphere, and targeting a clientele who might be intimidated or priced out of the Strip’s glitz. Its 140 slot machines, six blackjack tables, and single craps table represented a modest scale, reflecting this strategic positioning. Imagine a place where you didn't need a reservation at a Michelin-starred restaurant to enjoy a few hands of blackjack – that was the promise of the Ambassador.
 
 ## Financial Struggles and a Quick Closure
 
@@ -21,7 +21,7 @@ Despite a promising concept, the Ambassador Casino struggled. The early 1980s we
 
 ## Rebirth and Reinvention 
 
-The Ambassador Casino’s story doesn’t end with its closure. The building itself proved resilient, undergoing several transformations and rebrandings. It reopened in 1986 as the La Mirage Casino, a new name and ownership signaling an attempt to revitalize the location.  Later iterations included a stint as a Quality Inn, with the casino transitioning to Anthony's Casino, before finally settling in as the Key Largo Hotel & Casino in 1997.
+The Ambassador Casino’s story doesn’t end with its closure. The building itself proved resilient, undergoing several transformations and rebrandings. It reopened in 1986 as the La Mirage Casino, a new name and ownership signaling an attempt to revitalize the location.  Later iterations included a stint as a Quality Inn, with the casino transitioning to Anthony's Casino, before finally settling in as the [Key Largo](/posts/key-largo-hotel-and-casino-las-vegas/) Hotel & Casino in 1997.
 
 ## A Snapshot of a Changing Las Vegas
 

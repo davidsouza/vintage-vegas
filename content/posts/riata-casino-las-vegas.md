@@ -11,9 +11,9 @@ The Las Vegas Strip has always been a landscape of constant change, a relentless
 
 ## A Short Run on the Strip (1973-1974)
 
-Opened in July 1973, the Riata Casino occupied a prime location at 3001 Las Vegas Boulevard South, nestled within the Las Vegas Plaza shopping center. Its origins were rooted in a deal brokered by Minneapolis investors who acquired the property from the Kishner family. Strategically positioned across from the massive Stardust Hotel & Casino, the Riata seemed poised for success. However, despite its desirable location, the casino struggled to find its footing, facing financial headwinds from the get-go. It was a sign of the times; the mid-70s saw fluctuating economic conditions, and new casinos constantly vying for customer attention. Less than a year later, in August 1974, the Riata abruptly closed its doors.
+Opened in July 1973, the Riata Casino occupied a prime location at 3001 Las Vegas Boulevard South, nestled within the Las Vegas Plaza shopping center. Its origins were rooted in a deal brokered by Minneapolis investors who acquired the property from the Kishner family. Strategically positioned across from the massive [Stardust](/posts/stardust-hotel-and-casino-las-vegas/) Hotel & Casino, the Riata seemed poised for success. However, despite its desirable location, the casino struggled to find its footing, facing financial headwinds from the get-go. It was a sign of the times; the mid-70s saw fluctuating economic conditions, and new casinos constantly vying for customer attention. Less than a year later, in August 1974, the Riata abruptly closed its doors.
 
-## From Cowtown to Silver City
+## From Cowtown to [Silver City](/posts/silver-city-hotel-and-casino-las-vegas/)
 
 The Riata’s story doesn’t end with its closure. Enter Major Riddle, a shrewd businessman who recognized the potential of the location. Riddle purchased the property and, with a bold vision, transformed the space into the Silver City Casino. The name and theme were a complete departure from the Riata's original aesthetic. Embracing the Wild West, Silver City brought a rustic, Old West charm to the Strip – a stark contrast to the increasingly glitzy and modern casinos that were beginning to dominate the landscape.
 

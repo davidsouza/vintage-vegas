@@ -13,11 +13,11 @@ The corner of Fremont and First Street in Las Vegas holds a special place in the
 
 ## The Golden Age of Fremont Street
 
-The mid-20th century was the heart of Fremont Street’s dominance as *the* Las Vegas Strip. The Pioneer Club thrived during this era, embodying the playful and somewhat rough-and-tumble spirit of early Vegas. It wasn’t about glitz and glamour (though it had its charm); it was about a lively atmosphere, strong cocktails, and a welcoming, slightly edgy vibe. The iconic Vegas Vic sign, a singing cowboy, became an instant symbol of the Pioneer, greeting visitors with his folksy tunes and contributing to the overall atmosphere. 
+The mid-[20th century](/posts/20th-century-hotel-and-casino-las-vegas/) was the heart of Fremont Street’s dominance as *the* Las Vegas Strip. The Pioneer Club thrived during this era, embodying the playful and somewhat rough-and-tumble spirit of early Vegas. It wasn’t about glitz and glamour (though it had its charm); it was about a lively atmosphere, strong cocktails, and a welcoming, slightly edgy vibe. The iconic Vegas Vic sign, a singing cowboy, became an instant symbol of the Pioneer, greeting visitors with his folksy tunes and contributing to the overall atmosphere. 
 
 ## Expansion and Transformation
 
-The 1960s brought a significant shift. In 1965, the Pioneer Club took a bold step, purchasing the adjacent Elwell Hotel. This acquisition allowed them to expand, rebranding the hotel as the Pioneer Club Hotel. Sadly, this chapter proved short-lived.  Just four years later, in 1969, the hotel portion was sold, and the property began a series of name and ownership changes. It briefly existed as the “New Pioneer Club” between 1956 and 1967, bouncing through the hands of owners like Margaret Elardi and Gold Strike Resorts.  The continual shifts were a sign of the changing tides of Las Vegas – the rise of the mega-resorts on the Strip.
+The 1960s brought a significant shift. In 1965, the Pioneer Club took a bold step, purchasing the adjacent [Elwell](/posts/elwell-hotel-and-casino-las-vegas/) Hotel. This acquisition allowed them to expand, rebranding the hotel as the Pioneer Club Hotel. Sadly, this chapter proved short-lived.  Just four years later, in 1969, the hotel portion was sold, and the property began a series of name and ownership changes. It briefly existed as the “New Pioneer Club” between 1956 and 1967, bouncing through the hands of owners like Margaret Elardi and Gold Strike Resorts.  The continual shifts were a sign of the changing tides of Las Vegas – the rise of the mega-resorts on the Strip.
 
 ## The Demise and a Surprising Revival
 

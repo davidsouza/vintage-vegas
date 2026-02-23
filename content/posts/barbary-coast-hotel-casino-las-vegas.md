@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/oDth466ADGQ/hqdefault.jpg"
 
 ## A Stylish Oasis Amidst the Strip’s Evolution
 
-The late 1970s and early 1980s in Las Vegas were a time of rapid expansion. The Strip was becoming increasingly dominated by colossal resorts – think the Mirage, Luxor, and Excalibur, all poised to reshape the landscape. But in 1979, Michael Gaughan, son of downtown Vegas legend Jackie Gaughan, carved out a different space with the Barbary Coast Hotel & Casino. Built on the site of the former Desert Villa/Times Square Motel, at the now-iconic “Four Corners” of Las Vegas Boulevard and Flamingo Road, it represented a deliberate contrast to the increasingly extravagant, themed resorts.
+The late 1970s and early 1980s in Las Vegas were a time of rapid expansion. The Strip was becoming increasingly dominated by colossal resorts – think the [Mirage](/posts/mirage-hotel-and-casino-las-vegas/), Luxor, and Excalibur, all poised to reshape the landscape. But in 1979, Michael Gaughan, son of downtown Vegas legend Jackie Gaughan, carved out a different space with the [Barbary Coast](/posts/barbary-coast-hotel-and-casino-las-vegas/) Hotel & Casino. Built on the site of the former Desert Villa/Times Square Motel, at the now-iconic “Four Corners” of Las Vegas Boulevard and Flamingo Road, it represented a deliberate contrast to the increasingly extravagant, themed resorts.
 
 ## Design and Distinction
 

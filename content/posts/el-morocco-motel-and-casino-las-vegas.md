@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "el morocco motel and casino las ve
 
 ## A Strip-Side Surprise: The El Morocco Arrives
 
-The 1960s Las Vegas Strip was a whirlwind of development, each new property vying for attention and pushing the boundaries of entertainment and design. Among these rising stars was the El Morocco Motel and Casino, opening its doors in 1964 between the iconic La Concha Motel and the still-standing Peppermill Restaurant. It’s a location that feels almost perfectly positioned today, but back then it was a key piece of a rapidly evolving landscape. Owned by Lorenzo Doumani, who also had a hand in the La Concha, the El Morocco offered a blend of modern convenience and sleek, futuristic style.
+The 1960s Las Vegas Strip was a whirlwind of development, each new property vying for attention and pushing the boundaries of entertainment and design. Among these rising stars was the El Morocco Motel and Casino, opening its doors in 1964 between the iconic [La Concha Motel](/posts/la-concha-motel-las-vegas/) and the still-standing Peppermill Restaurant. It’s a location that feels almost perfectly positioned today, but back then it was a key piece of a rapidly evolving landscape. Owned by Lorenzo Doumani, who also had a hand in the La Concha, the El Morocco offered a blend of modern convenience and sleek, futuristic style.
 
 ## Paul Williams' Googie Masterpiece
 

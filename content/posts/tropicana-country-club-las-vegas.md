@@ -19,7 +19,7 @@ Located just east of the burgeoning Las Vegas Strip, near what is now Tropicana 
 
 ## The Heart of the Community: Clubhouse & Golf
 
-The centerpiece of this idyllic vision was, of course, the golf course. A beautifully designed 18-hole course was meticulously landscaped, ready for members to tee off amidst a backdrop of the developing city. But the club was more than just golf. The impressive clubhouse served as the heart and soul of the community, hosting everything from elegant dinners and lively dances to charity events and holiday gatherings. It was a traditional suburban social space, a far cry from the smoky casino lounges found just minutes away.  Membership wasn’t open to all; it prioritized exclusivity, attracting professionals, business owners (including casino executives!), and civic leaders seeking a quieter, more stable lifestyle. This fostered a real sense of community, facilitating connections and reinforcing the idea that Las Vegas could be *more* than just a gambling town.
+The centerpiece of this idyllic vision was, of course, the golf course. A beautifully designed 18-hole course was meticulously landscaped, ready for members to tee off amidst a backdrop of the developing city. But the club was more than just golf. The impressive clubhouse served as the heart and soul of the community, hosting everything from elegant dinners and lively dances to charity events and [holiday](/posts/holiday-casino-las-vegas/) gatherings. It was a traditional suburban social space, a far cry from the smoky casino lounges found just minutes away.  Membership wasn’t open to all; it prioritized exclusivity, attracting professionals, business owners (including casino executives!), and civic leaders seeking a quieter, more stable lifestyle. This fostered a real sense of community, facilitating connections and reinforcing the idea that Las Vegas could be *more* than just a gambling town.
 
 ## A Vanished Oasis: Why It Didn't Last
 
@@ -27,7 +27,7 @@ Sadly, the Tropicana Country Club’s dream was short-lived. The explosive growt
 
 ## Legacy in the Landscape
 
-Today, no physical remnants of the Tropicana Country Club remain.  You won't find a plaque or a commemorative marker. However, its story lingers in the neighborhoods that now occupy the land – a testament to the early demand for planned residential living in Las Vegas. While later country clubs like Las Vegas Country Club and Paradise Palms persevered, the Tropicana Country Club’s brief existence serves as a poignant reminder of a vanished vision, an attempt to redefine Las Vegas beyond neon lights and gambling, ultimately overtaken by the relentless march of progress. It remains a fascinating footnote in the city's vibrant, complex history.
+Today, no physical remnants of the Tropicana Country Club remain.  You won't find a plaque or a commemorative marker. However, its story lingers in the neighborhoods that now occupy the land – a testament to the early demand for planned residential living in Las Vegas. While later country clubs like Las Vegas Country Club and [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Palms persevered, the Tropicana Country Club’s brief existence serves as a poignant reminder of a vanished vision, an attempt to redefine Las Vegas beyond neon lights and gambling, ultimately overtaken by the relentless march of progress. It remains a fascinating footnote in the city's vibrant, complex history.
 
 
 <div class="shop-collection">

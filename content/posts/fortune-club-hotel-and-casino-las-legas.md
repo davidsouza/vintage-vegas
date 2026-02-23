@@ -19,7 +19,7 @@ The original Fortune Club was the brainchild of a trio: Cecil Lynch, Harry Gordo
 
 The seeds of the Fortune Club's demise were sown in 1957. Lynch and Gordon, ambitious and clearly wanting to expand, began planning a new casino, also bearing the "Fortune" name, intended to open just in time for New Year's Eve. This sparked a significant disagreement with Van Santen.  He vehemently opposed the use of the "Fortune" brand, likely fearing that the new establishment would cannibalize his business and dilute the original club's identity. 
 
-This disagreement resulted in a dramatic split.  Van Santen, taking a principled stance against the shared name, promptly rebranded his existing establishment as the Nevada Club.  Simultaneously, Lynch and Gordon pushed forward with their plans, creating *Cecil Lynch’s Fortune Club* - a completely new and separate entity. It's a quirky example of how personal disputes could reshape the Las Vegas landscape, leading to multiple casinos bearing similar names, each with its own separate history. 
+This disagreement resulted in a dramatic split.  Van Santen, taking a principled stance against the shared name, promptly rebranded his existing establishment as the [Nevada Club](/posts/nevada-club-casino-las-vegas/).  Simultaneously, Lynch and Gordon pushed forward with their plans, creating *Cecil Lynch’s Fortune Club* - a completely new and separate entity. It's a quirky example of how personal disputes could reshape the Las Vegas landscape, leading to multiple casinos bearing similar names, each with its own separate history. 
 
 ## From Fortune to Golden Nugget
 

@@ -27,7 +27,7 @@ Speaking of entertainment, Bally's is inseparable from *Jubilee!*, a lavish, top
 
 The arrival of Paris Las Vegas in 1999, connected to Bally's via interior corridors, marked a shift, but Bally's retained its unique appeal. It stood as a comfortable, centrally located option – offering value and a sense of history. While newer resorts pursued extravagant themes, Bally’s held onto its classic charm. Renovations throughout the 2000s and 2010s kept it relevant without sacrificing its vintage vibe.
 
-In December 2022, Caesars Entertainment made the surprising decision to rebrand Bally's as Horseshoe Las Vegas, a nod to the legendary downtown Binion's Horseshoe. While the name is gone, the legacy of Bally’s Las Vegas – its resilience, its entertainment, and its place in Vegas history – remains, a potent reminder of a bygone era on the Strip.
+In December 2022, Caesars Entertainment made the surprising decision to rebrand Bally's as [Horseshoe](/posts/horseshoe-hotel-and-casino-las-vegas/) Las Vegas, a nod to the legendary downtown Binion's Horseshoe. While the name is gone, the legacy of Bally’s Las Vegas – its resilience, its entertainment, and its place in Vegas history – remains, a potent reminder of a bygone era on the Strip.
 
 
 <div class="shop-collection">

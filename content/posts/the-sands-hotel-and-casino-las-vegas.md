@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "the sands hotel and casino las veg
 
 ## A Desert Oasis Rises: The Sands' Early Years
 
-The Sands Hotel and Casino, a name synonymous with vintage Las Vegas glamour, wasn't just a casino – it was a pivotal moment in the city's evolution. Opening its doors on December 5, 1952, it stood as the seventh resort to grace the Las Vegas Strip. Architect Wayne McAllister’s design, punctuated by its instantly recognizable 56-foot sign, signaled a new level of sophistication. Initially conceived by Jake Freedman, the Sands started with a modest 200 rooms and a casino, aiming to attract both leisure travelers and high-stakes gamblers.  It wasn't the biggest resort on the Strip initially, but it quickly gained a reputation that far surpassed its physical size.
+The [Sands Hotel and Casino](/posts/sands-hotel-and-casino-las-vegas/), a name synonymous with vintage Las Vegas glamour, wasn't just a casino – it was a pivotal moment in the city's evolution. Opening its doors on December 5, 1952, it stood as the seventh resort to grace the Las Vegas Strip. Architect Wayne McAllister’s design, punctuated by its instantly recognizable 56-foot sign, signaled a new level of sophistication. Initially conceived by Jake Freedman, the Sands started with a modest 200 rooms and a casino, aiming to attract both leisure travelers and high-stakes gamblers.  It wasn't the biggest resort on the Strip initially, but it quickly gained a reputation that far surpassed its physical size.
 
 ## The Mob Connection & The Rat Pack Era
 

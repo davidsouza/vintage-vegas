@@ -7,7 +7,7 @@ location: "Frontier Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "frontier hotel and casino las vegas"]
 ---
 
-The Frontier Hotel and Casino. Just the name evokes images of cowboys, country music, and a distinctly different era of the Las Vegas Strip. While it's long gone, swallowed by the relentless march of progress, its legacy remains etched into the fabric of Las Vegas history. This wasn’t a one-off story; the location itself has cycled through multiple identities – Pair O’ Dice, Hotel Last Frontier, New Frontier, back to Frontier, then New Frontier again – showcasing the Strip’s constant reinvention. Let's journey back to its most iconic iteration, The Frontier (1967-1998).
+[The Frontier Hotel and Casino](/posts/the-frontier-hotel-and-casino-las-vegas/). Just the name evokes images of cowboys, country music, and a distinctly different era of the Las Vegas Strip. While it's long gone, swallowed by the relentless march of progress, its legacy remains etched into the fabric of Las Vegas history. This wasn’t a one-off story; the location itself has cycled through multiple identities – Pair O’ Dice, Hotel Last Frontier, New Frontier, back to Frontier, then New Frontier again – showcasing the Strip’s constant reinvention. Let's journey back to its most iconic iteration, The Frontier (1967-1998).
 
 ## A Bold New Frontier
 

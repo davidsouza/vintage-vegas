@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "mr sys casino las vegas bella ladi
 
 ## A Different Kind of Vegas: Introducing Mr. Sy's
 
-The Las Vegas Strip has always been about spectacle and excess, but tucked just off the main drag, across from the Stardust, existed a casino that offered something entirely different: a wink, a smile, and a whole lot of character. That was Mr. Sy’s Casino. Open from 1962 to 1981, it wasn't about glittering fountains or sprawling luxury suites. It was about a friendly face, a casual atmosphere, and a uniquely Vegas experience that has sadly faded from memory for many. 
+The Las Vegas Strip has always been about spectacle and excess, but tucked just off the main drag, across from the [Stardust](/posts/stardust-hotel-and-casino-las-vegas/), existed a casino that offered something entirely different: a wink, a smile, and a whole lot of character. That was Mr. Sy’s Casino. Open from 1962 to 1981, it wasn't about glittering fountains or sprawling luxury suites. It was about a friendly face, a casual atmosphere, and a uniquely Vegas experience that has sadly faded from memory for many. 
 
 ## The Mascot and the Vibe
 

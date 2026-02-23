@@ -7,7 +7,7 @@ location: "Big Nickel Rendezvous Hotel and Casino Las Vegas"
 tags: ["las vegas history", "vintage vegas", "big nickel rendezvous hotel and casino las vegas"]
 ---
 
-## A Nickel's Worth of Dreams: The Rendezvous and Big Nickel Story
+## A Nickel's Worth of Dreams: The [Rendezvous](/posts/rendezvous-hotel-and-casino-las-vegas/) and Big Nickel Story
 
 Downtown Las Vegas has always been a landscape of constant change. While the iconic casinos of Fremont Street East dominated the scene, smaller ventures often tried to carve out their own niche. The property currently at 400 East Ogden Avenue is a prime example of this – a site that’s lived multiple lives, most notably as the Rendezvous Hotel & Casino and, later, the Big Nickel. It’s a story of ambition, adaptation, and the ever-present struggle for survival in the neon-lit heart of the city.
 

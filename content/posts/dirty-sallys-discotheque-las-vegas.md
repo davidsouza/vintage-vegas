@@ -13,7 +13,7 @@ The Las Vegas Strip has always been a place of reinvention, a constant churn of 
 
 ## The Unique Hybrid: Disco & Backgammon
 
-What truly set Dirty Sally’s apart wasn't just the booming disco music and the energetic dancers (though those were certainly significant). The club uniquely combined a pulsating dance floor with a thriving backgammon scene. Imagine stepping into a haze of strobe lights and mirror balls, then being invited to a friendly game of backgammon between sets! This unlikely pairing perfectly reflected the evolving entertainment landscape of Las Vegas, where even the wildest nights could have a touch of sophistication. The location, at the intersection of the Strip and Twain Avenue (now Sands Avenue), placed it in a prime spot, easily accessible from downtown's casinos and race books – a true representation of the diverse Vegas experience.
+What truly set Dirty Sally’s apart wasn't just the booming disco music and the energetic dancers (though those were certainly significant). The club uniquely combined a pulsating dance floor with a thriving backgammon scene. Imagine stepping into a haze of strobe lights and mirror balls, then being invited to a friendly game of backgammon between sets! This unlikely pairing perfectly reflected the evolving entertainment landscape of Las Vegas, where even the wildest nights could have a touch of sophistication. The location, at the intersection of the Strip and Twain Avenue (now [Sands](/posts/sands-hotel-and-casino-las-vegas/) Avenue), placed it in a prime spot, easily accessible from downtown's casinos and race books – a true representation of the diverse Vegas experience.
 
 ## A Gritty, All-Night Destination
 

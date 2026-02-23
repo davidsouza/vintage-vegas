@@ -13,13 +13,13 @@ The Las Vegas Strip, for all its glitz and grandeur, isn't solely built on high-
 
 ## From Hotel to Casino and Back
 
-The early 1970s saw a significant shift for the Royal. Recognizing the potential for additional revenue, a small casino was added around 1973. This rebranding as the Royal Casino was a subtle one, maintaining the hotel's core identity while offering a modest gaming experience. Don't expect sprawling, opulent gaming floors here. Reports suggest the casino footprint was relatively small, sometimes featuring just around 100 slot machines and a couple of blackjack tables. This wasn't about attracting serious gamblers; it was about offering a convenient, low-key option for those spending their days at conventions. 
+The early 1970s saw a significant shift for the Royal. Recognizing the potential for additional revenue, a small casino was added around 1973. This rebranding as the [Royal Casino](/posts/royal-casino-las-vegas/) was a subtle one, maintaining the hotel's core identity while offering a modest gaming experience. Don't expect sprawling, opulent gaming floors here. Reports suggest the casino footprint was relatively small, sometimes featuring just around 100 slot machines and a couple of blackjack tables. This wasn't about attracting serious gamblers; it was about offering a convenient, low-key option for those spending their days at conventions. 
 
 The 1990s brought another name change, solidifying its identity as the Royal Hotel and Casino.  Through the decades, it carved out a niche – affordable, convention-focused lodging with a small casino. It served a purpose, a reliable, economical option for those who didn’t want the extravagance (and price tag) of the Strip’s more famous properties.
 
 ## A Quiet Endurance and Eventual Decline
 
-Around 2003, the casino quietly closed its doors, and the hotel function became the primary focus. The property eventually re-emerged as the Royal Resort, signifying a complete shift away from gaming. For years, it continued to serve its core clientele, a dependable presence near the convention center. 
+Around 2003, the casino quietly closed its doors, and the hotel function became the primary focus. The property eventually re-emerged as the [Royal Resort](/posts/royal-resort-las-vegas/), signifying a complete shift away from gaming. For years, it continued to serve its core clientele, a dependable presence near the convention center. 
 
 Sadly, the Royal’s story took a tragic turn in 2022 when a fire on the seventh floor triggered the building’s sprinkler system, causing extensive water damage. While attempts were made to salvage the property, the damage proved too extensive. Now, in mid-2025, a liquidation sale signaled the end of an era, paving the way for demolition. 
 

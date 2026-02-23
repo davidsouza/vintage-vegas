@@ -21,7 +21,7 @@ Initially, Argent Corporation, led by Allen Glick, handled the casino operations
 
 ## Financial Troubles & a Final Sale
 
-Like many Las Vegas ventures, the Marina's journey wasn't without its turbulence. By 1987, the hotel faced serious financial challenges, with substantial debts to the IRS and Southwest Securities. A brief casino closure in April 1987 underscored the precariousness of the situation. Ultimately, in 1989, Wiesner, along with his partners, sold the Marina to Kirk Kerkorian’s MGM Grand, Inc., alongside the Tropicana Country Club. This marked the end of an era for Wiesner’s vision.
+Like many Las Vegas ventures, the Marina's journey wasn't without its turbulence. By 1987, the hotel faced serious financial challenges, with substantial debts to the IRS and Southwest Securities. A brief casino closure in April 1987 underscored the precariousness of the situation. Ultimately, in 1989, Wiesner, along with his partners, sold the Marina to Kirk Kerkorian’s MGM Grand, Inc., alongside the [Tropicana Country Club](/posts/tropicana-country-club-las-vegas/). This marked the end of an era for Wiesner’s vision.
 
 ## From Marina to MGM Grand West Wing
 

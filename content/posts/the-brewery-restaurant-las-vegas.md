@@ -9,7 +9,7 @@ tags: ["las vegas history", "vintage vegas", "the brewery restaurant las vegas"]
 
 ## A Refuge from the Neon Glow: Remembering The Brewery Restaurant
 
-Las Vegas history isn’t just about the glitz and glamour of the Strip. It's about the places where the people who *made* the glitz and glamour went to unwind. And for many casino workers and locals in the late 1970s and 1980s, that place was The Brewery Restaurant. Located at 3824 S. Paradise Road, near the Paradise and Twain intersection, it represented a slice of authentic, off-Strip Las Vegas that’s sadly vanished.
+Las Vegas history isn’t just about the glitz and glamour of the Strip. It's about the places where the people who *made* the glitz and glamour went to unwind. And for many casino workers and locals in the late 1970s and 1980s, that place was The Brewery Restaurant. Located at 3824 S. [Paradise](/posts/paradise-hotel-and-casino-las-vegas/) Road, near the Paradise and Twain intersection, it represented a slice of authentic, off-Strip Las Vegas that’s sadly vanished.
 
 ## More Than Just a Name: A Late-Night Sanctuary
 

@@ -13,13 +13,13 @@ youtube_thumbnail: "https://i.ytimg.com/vi/cIbz5On8Gsk/hqdefault.jpg"
 
 ## The Birth of a Strip Legend
 
-Before the dazzling mega-resorts and choreographed fountain shows, there was El Rancho Vegas. Opened on April 3, 1941, it held the distinct honor of being the very first resort hotel and casino on what would become the Las Vegas Strip. Located at the north end of the Strip (now Sahara Avenue) in Winchester, Nevada, El Rancho’s existence fundamentally reshaped the future of Las Vegas.  It wasn’t simply a hotel; it was a declaration that Las Vegas was ready to entertain. 
+Before the dazzling mega-resorts and choreographed fountain shows, there was [El Rancho](/posts/el-rancho-hotel-and-casino-las-vegas/) Vegas. Opened on April 3, 1941, it held the distinct honor of being the very first resort hotel and casino on what would become the Las Vegas Strip. Located at the north end of the Strip (now [Sahara](/posts/sahara-hotel-and-casino-las-vegas/) Avenue) in Winchester, Nevada, El Rancho’s existence fundamentally reshaped the future of Las Vegas.  It wasn’t simply a hotel; it was a declaration that Las Vegas was ready to entertain. 
 
 The vision of El Rancho was driven by Herbert J. Milholland, who saw the potential in drawing Los Angeles tourists to the Nevada desert. Wayne McAllister, a renowned architect known for his innovative designs, brought Milholland's vision to life. The result was a charming Old West-themed resort, a deliberate choice to capture the imagination of visitors accustomed to California's romanticized view of the Wild West. It wasn't a towering monolith; instead, 65 cozy rooms were housed in individual cottage bungalows, fostering a sense of intimacy and exclusivity.
 
 ## A Westward Expansion Spark
 
-El Rancho's success was undeniable. The arrival of tourists from Los Angeles, eager for gambling, entertainment, and a taste of the frontier, filled the rooms and fueled the casino.  This, in turn, spurred the development of other resorts along Highway 91 (later to become the Las Vegas Strip).  Without El Rancho paving the way, the evolution of the Strip as we know it might never have happened. The resort’s initial formula – affordable rooms, a vibrant casino, and plentiful entertainment – became a blueprint for subsequent properties.
+El Rancho's success was undeniable. The arrival of tourists from Los Angeles, eager for gambling, entertainment, and a taste of [the frontier](/posts/the-frontier-hotel-and-casino-las-vegas/), filled the rooms and fueled the casino.  This, in turn, spurred the development of other resorts along Highway 91 (later to become the Las Vegas Strip).  Without El Rancho paving the way, the evolution of the Strip as we know it might never have happened. The resort’s initial formula – affordable rooms, a vibrant casino, and plentiful entertainment – became a blueprint for subsequent properties.
 
 ## Innovation & Popularity
 

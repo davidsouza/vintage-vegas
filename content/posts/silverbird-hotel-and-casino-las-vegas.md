@@ -13,7 +13,7 @@ youtube_thumbnail: "https://i.ytimg.com/vi/hFjhreejhNs/hqdefault.jpg"
 
 ## A Phoenix from the Thunderbird’s Ashes
 
-The Las Vegas Strip has seen countless hotels rise and fall, each leaving its mark on the city’s ever-evolving landscape. Among those less remembered, yet possessing a compelling story, is the Silverbird Hotel and Casino. Its existence, though brief, exemplified the volatility and ambition of 1970s Las Vegas. The story begins not with a new build, but with a transformation. In December 1976, Major Riddle, a relatively unknown figure in the Vegas casino world, acquired the Thunderbird Hotel and Casino, intending a major rebranding. 
+The Las Vegas Strip has seen countless hotels rise and fall, each leaving its mark on the city’s ever-evolving landscape. Among those less remembered, yet possessing a compelling story, is the Silverbird Hotel and Casino. Its existence, though brief, exemplified the volatility and ambition of 1970s Las Vegas. The story begins not with a new build, but with a transformation. In December 1976, Major Riddle, a relatively unknown figure in the Vegas casino world, acquired the [Thunderbird Hotel and Casino](/posts/thunderbird-hotel-and-casino-las-vegas/), intending a major rebranding. 
 
 Riddle recognized the Thunderbird’s reputation – unfairly, perhaps – for less-than-stellar food and restrictive slot machines. He felt a significant portion of the local market had been underserved, and envisioned a casino catering to both budget-conscious tourists and Las Vegas residents. This was the genesis of the Silverbird. 
 
