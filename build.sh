@@ -10,7 +10,11 @@ echo "=== Step 2: Generating blog posts ==="
 python generate_posts.py
 
 echo ""
-echo "=== Step 3: Building Hugo site ==="
+echo "=== Step 3: Cross-linking posts ==="
+python crosslink_posts.py
+
+echo ""
+echo "=== Step 4: Building Hugo site ==="
 hugo --minify
 
 echo ""
